@@ -1,6 +1,1209 @@
 import type { Question } from "@/types/Question";
 
 const englishData: Record<string, Question[]> = {
+  "2025-I": [
+    {
+          "question": "<b>Directions :</b> Each of the sentences in the following items has an underlined word, followed by four choices. Select the most appropriate option that is an improvement of the underlined word in the context of the sentence, and mark your response on the Answer Sheet accordingly.<br/><br/>The officer under suspension felt <u>intimated</u> by the committee members during his interrogation regarding the allegations against him.",
+          "options": [
+                "inculcated",
+                "intimidated",
+                "asphyxiated",
+                "annulled"
+          ],
+          "answer": "intimidated"
+    },
+    {
+          "question": "Amongst them all, she was the only one with the <u>perquisite</u> to understand the complexity of the situation.",
+          "options": [
+                "perspicacity",
+                "perniciousness",
+                "peremptoriness",
+                "presumptuousness"
+          ],
+          "answer": "perspicacity"
+    },
+    {
+          "question": "At the official function organised for the attending dignitaries, guests arrived in <u>scrumptious</u> attire for the banquet.",
+          "options": [
+                "synergistic",
+                "stentorian",
+                "sumptuous",
+                "scrimpy"
+          ],
+          "answer": "sumptuous"
+    },
+    {
+          "question": "The lake atop the mountain has always been the <u>lyre</u> for intrepid hikers.",
+          "options": [
+                "link",
+                "line",
+                "life",
+                "lure"
+          ],
+          "answer": "lure"
+    },
+    {
+          "question": "The candidates went through an intensive <u>instruction</u> process before their absorption into the service.",
+          "options": [
+                "immersion",
+                "intimation",
+                "induction",
+                "unction"
+          ],
+          "answer": "induction"
+    },
+    {
+          "question": "The office memorandum directed personnel to <u>minimise</u> their consumption of office stationery by up to twenty percent.",
+          "options": [
+                "supervise",
+                "surmise",
+                "lower",
+                "reduce"
+          ],
+          "answer": "reduce"
+    },
+    {
+          "question": "The announcement of an unexpected bonus led to great <u>tumult</u> among the staff.",
+          "options": [
+                "merriment",
+                "trepidation",
+                "upheaval",
+                "uproar"
+          ],
+          "answer": "merriment"
+    },
+    {
+          "question": "The <u>scurrilous</u> remarks in the article were met with great joy by the leadership of the company.",
+          "options": [
+                "laudatory",
+                "reviling",
+                "scathing",
+                "upbraiding"
+          ],
+          "answer": "laudatory"
+    },
+    {
+          "question": "His inappropriate behaviour earned <u>plaudits</u> from his colleagues.",
+          "options": [
+                "sanctimoniousness",
+                "triumph",
+                "opprobrium",
+                "banter"
+          ],
+          "answer": "opprobrium"
+    },
+    {
+          "question": "The <u>enormity</u> of the mountain range stunned the visitors to the hill station.",
+          "options": [
+                "eternity",
+                "enormousness",
+                "extremity",
+                "simulacrum"
+          ],
+          "answer": "enormousness"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled (a), (b) and (c). Read each sentence to determine whether there is an error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a), (b) or (c). If you determine there is no error, indicate your response as (d).<br/><br/><u>The accusation of abatement to the crime</u> <u>that had been levelled at him</u> <u>was eventually not proven in court.</u> <u>No error.</u><br/>(a) (b) (c) (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(a)"
+    },
+    {
+          "question": "<u>The unintentional mistakes</u> <u>made by the clerical staff</u> <u>was overlooked by the officer.</u> <u>No error.</u><br/>(a) (b) (c) (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<u>The opening batsman was famous</u> <u>for the imperial stokes</u> <u>he played on the cricket field.</u> <u>No error.</u><br/>(a) (b) (c) (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(b)"
+    },
+    {
+          "question": "<u>Each student was meant to receive</u> <u>an equal share of the scholarship but the eventual distribution</u> <u>was found to be iniquitous.</u> <u>No error.</u><br/>(a) (b) (c) (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(d)"
+    },
+    {
+          "question": "<u>No one turned up</u> <u>to claim the stowed away piece of baggage</u> <u>which was discovered on the luggage compartment of the bus.</u> <u>No error.</u><br/>(a) (b) (c) (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<u>Certain animals have a tendency</u> <u>to communicate only with</u> <u>its own species and none other.</u> <u>No error.</u><br/>(a) (b) (c) (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<u>As soon as the clock</u> <u>chimed to announce the hour at midnight</u> <u>she sprung up from her bed.</u> <u>No error.</u><br/>(a) (b) (c) (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<u>There are people who are likely</u> <u>to fraternise with their</u> <u>own community yet none other.</u> <u>No error.</u><br/>(a) (b) (c) (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<u>The mime show attracted</u> <u>a huge audience despite the high price of tickets</u> <u>which defied the purpose of the public event.</u> <u>No error.</u><br/>(a) (b) (c) (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<u>He was unable to recall</u> <u>where he had hanged his shirt</u> <u>after returning home from office.</u> <u>No error.</u><br/>(a) (b) (c) (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(b)"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space with four options. Select whichever preposition, determiner or phrasal verbs you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/>There is no truth in ________ claims even though they have been cleverly stated.",
+          "options": [
+                "thus",
+                "there",
+                "supposed",
+                "these"
+          ],
+          "answer": "these"
+    },
+    {
+          "question": "The bridge was intended to allow people to cross ________ to the other side of the river and get to work.",
+          "options": [
+                "on",
+                "over",
+                "across",
+                "down"
+          ],
+          "answer": "over"
+    },
+    {
+          "question": "I shall not rest ________ I have gone to the bottom of this matter and found the truth.",
+          "options": [
+                "after",
+                "while",
+                "for",
+                "until"
+          ],
+          "answer": "until"
+    },
+    {
+          "question": "There are several reasons behind my choice of location ________ the family visit.",
+          "options": [
+                "to",
+                "in",
+                "for",
+                "from"
+          ],
+          "answer": "for"
+    },
+    {
+          "question": "All human beings ought to have a moral centre to fall back ________ in times of crisis.",
+          "options": [
+                "on",
+                "into",
+                "over",
+                "along"
+          ],
+          "answer": "on"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items similar sounding words are given, followed by sentences wherein in each sentence one of these words has been used, and underlined. You are required to identify those sentences in which these words have been used correctly and mark your response in the Answer Sheet accordingly.<br/><br/><b>Pare, Pair, Pear</b><br/><br/>1. It is important to <u>pare</u> the branches of a tree to prevent excessive growth.<br/>2. The <u>pair</u> of trees looked identical from a distance.<br/>3. The <u>pear</u> tree was revered by the children of the locality for the bounty it offered each year.<br/><br/>In which of the sentences given above has/have the words been used correctly?",
+          "options": [
+                "1 and 2 only",
+                "2 and 3 only",
+                "3 only",
+                "1, 2 and 3"
+          ],
+          "answer": "1, 2 and 3"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items an idiom or a proverb is given. Select the response that correctly describes the meaning of the idiom or proverb and mark your response on the Answer Sheet accordingly.<br/><br/>Listen with half an ear",
+          "options": [
+                "Not pay full attention",
+                "Being impartial",
+                "Being imperious",
+                "Listening with ironic distaste"
+          ],
+          "answer": "Not pay full attention"
+    },
+    {
+          "question": "Dyed in the wool",
+          "options": [
+                "Changing notions because of a fluffy mind",
+                "Assuming a different colour",
+                "Adapting to conditions",
+                "Unchanging and firm in belief and conviction"
+          ],
+          "answer": "Unchanging and firm in belief and conviction"
+    },
+    {
+          "question": "Let sleeping dogs lie",
+          "options": [
+                "Let things remain as they are because of laziness",
+                "Not interfere in situations where interference may exacerbate matters",
+                "Not stoke a dangerous situation",
+                "Lie about the past"
+          ],
+          "answer": "Not interfere in situations where interference may exacerbate matters"
+    },
+    {
+          "question": "A stitch in time saves nine",
+          "options": [
+                "Tying up complex matters with clever manoeuvres",
+                "Poking at something repeatedly to rescue a situation",
+                "Making unlikely connections among disparate subjects",
+                "Timely addressal of a problem prevents future exacerbation of the same"
+          ],
+          "answer": "Timely addressal of a problem prevents future exacerbation of the same"
+    },
+    {
+          "question": "Fight fire with fire",
+          "options": [
+                "Use the same force or strategy of one's opponent to counter them",
+                "Use incendiary tactics to destroy by fire",
+                "Add fuel to further escalate a fiery situation",
+                "Scorch one's opponent with a barrage of firing"
+          ],
+          "answer": "Use the same force or strategy of one's opponent to counter them"
+    },
+    {
+          "question": "Straight and narrow",
+          "options": [
+                "Be excessively careful",
+                "Honest and morally acceptable way of being",
+                "Follow the straight path defined by society",
+                "To not deviate from one's goal"
+          ],
+          "answer": "Honest and morally acceptable way of being"
+    },
+    {
+          "question": "Someone's ears are burning",
+          "options": [
+                "The feeling when someone thinks others are talking about them",
+                "Being excessively jealous of others",
+                "Being angry due to unfair criticism",
+                "Itching to enter into an argument"
+          ],
+          "answer": "The feeling when someone thinks others are talking about them"
+    },
+    {
+          "question": "Turn one's stomach",
+          "options": [
+                "Being nauseated by something or someone",
+                "Being plagued by a stomach upset",
+                "Unable to cope with the changes",
+                "Switch sides while asleep"
+          ],
+          "answer": "Being nauseated by something or someone"
+    },
+    {
+          "question": "The world is your oyster",
+          "options": [
+                "You have all the opportunity to obtain what you wish from life",
+                "Life is a precious gift",
+                "Life is a puzzle you cannot ever unravel",
+                "The world will dazzle you if you are not careful"
+          ],
+          "answer": "You have all the opportunity to obtain what you wish from life"
+    },
+    {
+          "question": "Cast one's bread upon the waters",
+          "options": [
+                "To dilute one's intentions",
+                "To do good without seeking reward",
+                "To while away one's time in unfruitful activity",
+                "To misdirect one's efforts in life"
+          ],
+          "answer": "To do good without seeking reward"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items a pair of statements (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second statement to the first from among the options (a), (b), (c) and (d), and mark your response on the Answer Sheet accordingly.<br/><br/><b>S1.</b> The snowy albatross is among the largest birds that fly in the world.<br/><b>S2.</b> It has the widest wingspan among all birds, with lengths reaching up to 12 feet.<br/><br/>The second statement :",
+          "options": [
+                "contradicts the first",
+                "contrasts with the first",
+                "confirms the first",
+                "reinforces the first"
+          ],
+          "answer": "reinforces the first"
+    },
+    {
+          "question": "<b>S1.</b> A scientific theory is first proposed as a hypothesis.<br/><b>S2.</b> After it is subjected to inquiry and is proven, it becomes a thesis.<br/><br/>The second statement :",
+          "options": [
+                "proves the first",
+                "hypothesises the first",
+                "challenges the burden of proof",
+                "extends the first"
+          ],
+          "answer": "extends the first"
+    },
+    {
+          "question": "<b>S1.</b> The manhunt for the perpetrator of the crime spread across the entire state.<br/><b>S2.</b> There was deep public anger triggered by the enormity of the crime.<br/><br/>The second statement :",
+          "options": [
+                "is a precursor to the first",
+                "follows the first",
+                "contradicts the first",
+                "alters the premise of the first"
+          ],
+          "answer": "is a precursor to the first"
+    },
+    {
+          "question": "<b>S1.</b> Awareness about one's own personality type is very important.<br/><b>S2.</b> Self-awareness is a difficult goal for most people.<br/><br/>The second statement :",
+          "options": [
+                "contradicts the first",
+                "is contrapuntal vis-a-vis the first",
+                "confirms the first",
+                "contrasts the first"
+          ],
+          "answer": "contrasts the first"
+    },
+    {
+          "question": "<b>S1.</b> Liberalisation changed the contours of India's economy.<br/><b>S2.</b> India is today poised to become one of the top economies of the world.<br/><br/>The second statement :",
+          "options": [
+                "contradicts the first",
+                "contrasts with the first",
+                "correlates to the first",
+                "coincides with the first"
+          ],
+          "answer": "correlates to the first"
+    },
+    {
+          "question": "<b>S1.</b> The final outcome can never be predicted incontrovertibly.<br/><b>S2.</b> All outcomes are based on variables that cannot always be fully understood.<br/><br/>The second statement :",
+          "options": [
+                "fully reinforces the first",
+                "reinforces the first to an extent",
+                "definitely follows the first",
+                "definitely does not follow the first"
+          ],
+          "answer": "fully reinforces the first"
+    },
+    {
+          "question": "<b>S1.</b> Mastery over any art form requires years of dedication and perseverance.<br/><b>S2.</b> It takes 10,000 hours of practice to become an expert in a field.<br/><br/>The second statement :",
+          "options": [
+                "is not consistent with the first",
+                "is fully consistent with the first",
+                "is marginally consistent with the first",
+                "is the only possible explanation for the first"
+          ],
+          "answer": "is fully consistent with the first"
+    },
+    {
+          "question": "<b>S1.</b> The beauty of India's democracy rests in the greatness of its Constitution.<br/><b>S2.</b> The Constitution of India upholds the collective values of the country's civilizational ethos.<br/><br/>The second statement :",
+          "options": [
+                "connects with the mention of Indian democracy in the first",
+                "provides a reason for the assertion regarding the Constitution in the first",
+                "contradicts the assertion about democracy in the first",
+                "has no connection with the first"
+          ],
+          "answer": "provides a reason for the assertion regarding the Constitution in the first"
+    },
+    {
+          "question": "<b>S1.</b> Roseate is an adjective for the rose flower.<br/><b>S2.</b> The rose is a powerful poetic symbol in many languages.<br/><br/>The second statement :",
+          "options": [
+                "expands the first",
+                "explicates the first",
+                "contrasts the first",
+                "coincides with the first"
+          ],
+          "answer": "expands the first"
+    },
+    {
+          "question": "<b>S1.</b> The early bird gets the worm.<br/><b>S2.</b> To go about one's tasks expeditiously is to achieve one's goals.<br/><br/>The second statement :",
+          "options": [
+                "makes assertions about the first",
+                "provides a metaphorical reassertion of the first",
+                "reinforces the assumption of the first",
+                "contrasts with the first"
+          ],
+          "answer": "provides a metaphorical reassertion of the first"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to rearrange the jumbled parts of the sentence and mark your response in the Answer Sheet accordingly.<br/><br/><u>considered to be paradigmatic</u> (P) <u>sociological study of peasant movements in India</u> (Q) <u>the Telangana peasant revolt against the Nizam of Hyderabad in the 1940s is often</u> (R) <u>and the only instance worthy of attention in a comparative</u> (S)",
+          "options": [
+                "R Q S P",
+                "R Q P S",
+                "R P S Q",
+                "R S P Q"
+          ],
+          "answer": "R P S Q"
+    },
+    {
+          "question": "<u>social movements, nonetheless</u> (P) <u>their political institutions, process and parties</u> (Q) <u>one of the major attributes of</u> (R) <u>is their coexistence with national states and</u> (S)",
+          "options": [
+                "R Q S P",
+                "R P S Q",
+                "R S P Q",
+                "Q S R P"
+          ],
+          "answer": "R P S Q"
+    },
+    {
+          "question": "<u>most of the minerals are nationalised</u> (P) <u>is possible only after the</u> (Q) <u>government grants permission as</u> (R) <u>extraction of minerals in India</u> (S)",
+          "options": [
+                "S Q R P",
+                "S Q P R",
+                "P Q R S",
+                "R Q P S"
+          ],
+          "answer": "S Q R P"
+    },
+    {
+          "question": "<u>radical or limited change and whether they focus on</u> (P) <u>along two axes, whether they seek</u> (Q) <u>the entire society or on specific individuals</u> (R) <u>sociological theories distinguish social movements</u> (S)",
+          "options": [
+                "P R S Q",
+                "Q S R P",
+                "R P S Q",
+                "S Q P R"
+          ],
+          "answer": "S Q P R"
+    },
+    {
+          "question": "<u>are more defensive than offensive and</u> (P) <u>although most social movements</u> (Q) <u>tend to be temporary, they</u> (R) <u>are important agents of social transformation</u> (S)",
+          "options": [
+                "P Q S R",
+                "Q P R S",
+                "S P Q R",
+                "R S P Q"
+          ],
+          "answer": "Q P R S"
+    },
+    {
+          "question": "<u>in India, the automobile industry</u> (P) <u>one of the largest industries</u> (Q) <u>growth during the last two decades</u> (R) <u>has witnessed impressive</u> (S)",
+          "options": [
+                "Q P S R",
+                "S P R Q",
+                "R Q S P",
+                "P Q S R"
+          ],
+          "answer": "Q P S R"
+    },
+    {
+          "question": "<u>was formed in 1870 to give voice to the demands</u> (P) <u>in western India, the Sarvajanik Sabha</u> (Q) <u>and all classes of people were its members</u> (R) <u>and needs of the people</u> (S)",
+          "options": [
+                "Q P R S",
+                "P Q S R",
+                "Q P S R",
+                "R P S Q"
+          ],
+          "answer": "Q P S R"
+    },
+    {
+          "question": "<u>the opportunities to the greater triumphs</u> (P) <u>today are but a step towards</u> (Q) <u>the achievements we celebrate</u> (R) <u>and achievements that await us</u> (S)",
+          "options": [
+                "Q R P S",
+                "S P R Q",
+                "P S Q R",
+                "R Q P S"
+          ],
+          "answer": "R Q P S"
+    },
+    {
+          "question": "<u>and the vision to carry out a full-scale revolution</u> (P) <u>part in revolts against taxes and food</u> (Q) <u>scarcity but they lacked the means, programmes</u> (R) <u>during British rule peasants often took</u> (S)",
+          "options": [
+                "S Q R P",
+                "Q P S R",
+                "R P Q S",
+                "P Q S R"
+          ],
+          "answer": "S Q R P"
+    },
+    {
+          "question": "<u>its policy and announced reforms</u> (P) <u>that the mounting tension was heading</u> (Q) <u>the colonial Government, now seeing</u> (R) <u>towards a crisis, wisely decided to change</u> (S)",
+          "options": [
+                "P Q R S",
+                "R Q S P",
+                "S P R Q",
+                "S Q R P"
+          ],
+          "answer": "R Q S P"
+    },
+    {
+          "question": "<b>Directions :</b> In this section each item consists of six sentences extracted from a passage. The first and sixth sentence are given in the beginning as S1 and S6. The sequence of the middle four sentences in each has been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.<br/><br/><b>S1:</b> The minimum thermometer has a large bore and its fluid is colourless alcohol.<br/><b>S6:</b> The daily temperature is recorded since a permanent, continuous record of temperature is desired.<br/><br/><b>P :</b> When the meniscus moves up the bore it leaves the index behind to register the lowest temperature.<br/><b>Q :</b> Resetting the dumbbell of the minimum thermometer is accompanied by the action of inverting the stem until the index slides down to the meniscus.<br/><b>R :</b> A tiny, dark index in the shape of a long dumbbell is placed in the bore below the top of the alcohol column.<br/><b>S :</b> It is mounted horizontally and as the alcohol contracts with the decreasing temperature the meniscus of the alcohol pulls the index down.",
+          "options": [
+                "R S P Q",
+                "R P S Q",
+                "S R P Q",
+                "S P R Q"
+          ],
+          "answer": "R S P Q"
+    },
+    {
+          "question": "<b>S1:</b> The Cretaceous Period extends from about 146 million years ago to 65 million years ago.<br/><b>S6:</b> During this period, enormous quantity of basaltic lava was poured out to the surface assuming a great thickness of over three thousand meters.<br/><br/><b>P :</b> Apart from deposits this period is marked by the transgression of the sea and outpouring of huge quantity of lava so as to form the Deccan trap and intrusion of plutonic rocks such as gabbro and granite.<br/><b>Q :</b> Towards the end of the Cretaceous Period the peninsula was affected by intense volcanic activity.<br/><b>R :</b> This outpouring has been very widely distributed in the country with divergent facies of deposits being found in different parts of India.<br/><b>S :</b> In contrast to the relatively newer Himalayas, these facies that are found in different parts of India are much older in origin.",
+          "options": [
+                "Q S R P",
+                "Q P R S",
+                "P R S Q",
+                "P Q S R"
+          ],
+          "answer": "Q P R S"
+    },
+    {
+          "question": "<b>S1:</b> The Central Indian Highlands known as the Vindhyan Mountains occupy a large basin extending from Chittorgarh in the west to Sasaram and Dehri-on-Sone in the east.<br/><b>S6:</b> The Panna District of Madhya Pradesh and the Kurnool District of Andhra Pradesh are well-known for diamond production.<br/><br/><b>P :</b> One branch of the basin extends from Sasaram to Hoshangabad<br/><b>Q :</b> In some of the exposures of the Vindhyan Systems are found diamond-bearing conglomerates.<br/><b>R :</b> This branch of this basin occupies a large continuous area stretching over one lakh square kilometre from the Chambal to the Sone.<br/><b>S :</b> Several isolated exposures of sedimentary rocks occur in the Bastar area of Chhatisgarh.",
+          "options": [
+                "P R S Q",
+                "Q P R S",
+                "S P Q R",
+                "P Q S R"
+          ],
+          "answer": "P R S Q"
+    },
+    {
+          "question": "<b>Directions :</b> Match List I (word/expression/specialised term) with List II (meaning) and select the answer using the code given below the Lists.<br/><br/><b>List I</b><br/>A. Vernacular<br/>B. Rhetoric<br/>C. Parlance<br/>D. Jargon<br/><br/><b>List II</b><br/>1. Language intended to influence people<br/>2. Language of ordinary people<br/>3. Language used for a specialized communication<br/>4. Language used by a particular group of people",
+          "options": [
+                "A-3, B-4, C-1, D-2",
+                "A-2, B-1, C-4, D-3",
+                "A-2, B-4, C-1, D-3",
+                "A-3, B-1, C-4, D-2"
+          ],
+          "answer": "A-2, B-1, C-4, D-3"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Internecine<br/>B. Revoke<br/>C. Exonerate<br/>D. Venerable<br/><br/><b>List II</b><br/>1. Officially cancelling the power of an agreement<br/>2. To clear someone officially from an earlier accusation<br/>3. Things occurring between people of same community<br/>4. Valued and respected",
+          "options": [
+                "A-3, B-1, C-2, D-4",
+                "A-3, B-2, C-1, D-4",
+                "A-4, B-2, C-1, D-3",
+                "A-4, B-1, C-2, D-3"
+          ],
+          "answer": "A-3, B-1, C-2, D-4"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Atonement<br/>B. Sacrilege<br/>C. Clawback<br/>D. Bandwagon<br/><br/><b>List II</b><br/>1. Retrieving money already paid<br/>2. Contaminating a holy place<br/>3. Involvement of a large number of people in something<br/>4. Making amends for mistakes",
+          "options": [
+                "A-3, B-1, C-2, D-4",
+                "A-3, B-2, C-1, D-4",
+                "A-4, B-2, C-1, D-3",
+                "A-4, B-1, C-2, D-3"
+          ],
+          "answer": "A-4, B-2, C-1, D-3"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Felony<br/>B. Restitution<br/>C. Chagrin<br/>D. Diatribe<br/><br/><b>List II</b><br/>1. A long written piece of criticism<br/>2. To return a lost or stolen article<br/>3. Serious crime<br/>4. Distressed on account of humiliation",
+          "options": [
+                "A-1, B-2, C-4, D-3",
+                "A-1, B-4, C-2, D-3",
+                "A-3, B-2, C-4, D-1",
+                "A-3, B-4, C-2, D-1"
+          ],
+          "answer": "A-3, B-2, C-4, D-1"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Wrangle<br/>B. Wacky<br/>C. Codex<br/>D. Postscript<br/><br/><b>List II</b><br/>1. Additional piece of information added to the main text<br/>2. Amusing and strange<br/>3. Complicated and prolonged argument<br/>4. An ancient text",
+          "options": [
+                "A-1, B-2, C-3, D-4",
+                "A-1, B-3, C-2, D-4",
+                "A-4, B-2, C-3, D-1",
+                "A-3, B-2, C-4, D-1"
+          ],
+          "answer": "A-3, B-2, C-4, D-1"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Inveterate<br/>B. Sangfroid<br/>C. Oracy<br/>D. Interment<br/><br/><b>List II</b><br/>1. Something that always happens<br/>2. Ability to express well in speech<br/>3. Ability to stay calm in difficult situation<br/>4. Burying the dead",
+          "options": [
+                "A-1, B-2, C-3, D-4",
+                "A-1, B-3, C-2, D-4",
+                "A-4, B-2, C-3, D-1",
+                "A-4, B-3, C-2, D-1"
+          ],
+          "answer": "A-1, B-3, C-2, D-4"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Ex gratia<br/>B. Suo moto<br/>C. Arraignment<br/>D. Locus standi<br/><br/><b>List II</b><br/>1. The right or capacity to bring an action<br/>2. Something that is done for free<br/>3. On his own motion<br/>4. To state the charges in a court of law",
+          "options": [
+                "A-2, B-4, C-3, D-1",
+                "A-2, B-3, C-4, D-1",
+                "A-1, B-2, C-4, D-3",
+                "A-1, B-4, C-2, D-3"
+          ],
+          "answer": "A-2, B-3, C-4, D-1"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Fait accompli<br/>B. Hedonism<br/>C. Hoplarchy<br/>D. Ochlocracy<br/><br/><b>List II</b><br/>1. Something already decided with no option to deny<br/>2. Government by the military<br/>3. Government by the mobs<br/>4. Pertaining to pleasure",
+          "options": [
+                "A-3, B-4, C-1, D-2",
+                "A-2, B-1, C-4, D-3",
+                "A-2, B-4, C-1, D-3",
+                "A-1, B-4, C-2, D-3"
+          ],
+          "answer": "A-1, B-4, C-2, D-3"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Nadir<br/>B. Rhapsody<br/>C. Amble<br/>D. Pittance<br/><br/><b>List II</b><br/>1. Walking slowly<br/>2. Very small amount of money<br/>3. Lowest point of something<br/>4. Written or spoken expressions of praise",
+          "options": [
+                "A-3, B-4, C-1, D-2",
+                "A-3, B-2, C-1, D-4",
+                "A-4, B-2, C-1, D-3",
+                "A-4, B-1, C-2, D-3"
+          ],
+          "answer": "A-3, B-4, C-1, D-2"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Damp squib<br/>B. Excerpt<br/>C. Rostrum<br/>D. Scourge<br/><br/><b>List II</b><br/>1. Small raised platform on a stage<br/>2. Something that causes a great deal of trouble<br/>3. Situations or events that are less impressive than expected<br/>4. Small part of a longer text, film or musical piece",
+          "options": [
+                "A-3, B-4, C-1, D-2",
+                "A-2, B-1, C-4, D-3",
+                "A-2, B-4, C-1, D-3",
+                "A-3, B-1, C-4, D-2"
+          ],
+          "answer": "A-3, B-4, C-1, D-2"
+    },
+    {
+          "question": "<b>Directions :</b> In this section an underlined word has been used variously in three sentences S1, S2 and S3. You are required to determine in how many sentences has the word been used correctly, and mark your answer from the options (a), (b) or (c) given below. If the word has not been correctly used in any one or more of the given sentences mark your response as (d).<br/><br/><b>S1:</b> The <u>cuneiform</u> pattern in the arch of the temples give them a grand appearance.<br/><b>S2:</b> <u>Cuneiform</u> literally means wedge-shaped, and is an ancient form of writing on clay.<br/><b>S3:</b> <u>Cuneiform</u>-shaped geographical features across the desert bear the mark of vigorous wind erosion.",
+          "options": [
+                "1",
+                "2",
+                "3",
+                "None"
+          ],
+          "answer": "2"
+    },
+    {
+          "question": "<b>S1:</b> He displayed real <u>chutzpah</u> while facing the belligerent opposition all by himself.<br/><b>S2:</b> The lawyer displayed rare <u>chutzpah</u> in presenting tectonic evidence in court that changed the track of the case entirely.<br/><b>S3:</b> He ran with <u>chutzpah</u> to secure first prize at the award ceremony.",
+          "options": [
+                "1",
+                "2",
+                "3",
+                "None"
+          ],
+          "answer": "2"
+    },
+    {
+          "question": "<b>S1:</b> It was <u>quotidian</u> on account of the courtiers to take great pains to maintain the dignity of the ailing monarch.<br/><b>S2:</b> The rules of conduct of the highest judiciary are <u>quotidian</u> principles on which rest the very foundations of justice and democracy.<br/><b>S3:</b> His <u>quotidian</u> life is, contrary to what people think, rather unexciting.",
+          "options": [
+                "1",
+                "2",
+                "3",
+                "None"
+          ],
+          "answer": "1"
+    },
+    {
+          "question": "<b>S1:</b> The <u>moribund</u> state of the decaying colony depressed everyone.<br/><b>S2:</b> The strength of the collective remained <u>moribund</u> despite attempts at scuttling unity.<br/><b>S3:</b> Driven by a common purpose, the <u>moribund</u> group decided it would prevail notwithstanding the adverseness of the situation.",
+          "options": [
+                "1",
+                "2",
+                "3",
+                "None"
+          ],
+          "answer": "1"
+    },
+    {
+          "question": "<b>S1:</b> The Gangetic plains are blessed with historically-significant <u>fecundity</u> on account of its rich soil.<br/><b>S2:</b> The couple sought blessings at the temple that was believed to possess the power to transform childlessness into <u>fecundity</u>.<br/><b>S3:</b> The grass across the prairies made the landscape appear particularly <u>fecund</u>, with cattle grazing by the thousands.",
+          "options": [
+                "1",
+                "2",
+                "3",
+                "None"
+          ],
+          "answer": "3"
+    },
+    {
+          "question": "<b>Directions :</b> Given below are sentences that use discourse markers/expressions to make them complete. Identify the most appropriate discourse marker/expression and mark your answer accordingly on the Answer Sheet.<br/><br/>________ , the process by which the State took over from the Church the registration of births, death, and marriages was complete by 1792 in Europe.",
+          "options": [
+                "Besides",
+                "However",
+                "Later",
+                "Instead"
+          ],
+          "answer": "Later"
+    },
+    {
+          "question": "________ , the matter cannot be settled that easily.",
+          "options": [
+                "Unevenly",
+                "Unfortunately",
+                "Unfortunate",
+                "Whatever"
+          ],
+          "answer": "Unfortunately"
+    },
+    {
+          "question": "________ , the leader's comments came a day after the party's performance in the region was not encouraging.",
+          "options": [
+                "Despite",
+                "Engagingly",
+                "Moreover",
+                "Endearingly"
+          ],
+          "answer": "Moreover"
+    },
+    {
+          "question": "________ , the squad also has a couple of new faces who are equally well-qualified to play the forthcoming match.",
+          "options": [
+                "While",
+                "Because of",
+                "Meanwhile",
+                "Kind of"
+          ],
+          "answer": "Meanwhile"
+    },
+    {
+          "question": "The Principal was addressing the students on ways and means of conducting the sports meet of the college. ________ , responding to the opinion of one of the athletes, she wanted to learn about how more sports could be included in the meet.",
+          "options": [
+                "In spite of",
+                "While",
+                "Still",
+                "Further"
+          ],
+          "answer": "Further"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response on the Answer Sheet accordingly.<br/><br/><b>Elicit and Illicit</b>",
+          "options": [
+                "Elicit is a verb meaning forbidden by law. Illicit is an adjective meaning draw a reaction from someone.",
+                "Elicit is an adverb meaning to draw a reaction from someone. Illicit is a determiner meaning forbidden by law.",
+                "Elicit is a verb meaning to draw a reaction from someone. Illicit is an adjective meaning forbidden by law.",
+                "Elicit is an adverb meaning forbidden by law. Illicit is an adjective meaning to draw a reaction from someone."
+          ],
+          "answer": "Elicit is a verb meaning to draw a reaction from someone. Illicit is an adjective meaning forbidden by law."
+    },
+    {
+          "question": "<b>Ensure and Insure</b>",
+          "options": [
+                "Ensure is a transitive verb meaning to make something certain. Insure is a transitive verb meaning to make certain by taking necessary precaution.",
+                "Ensure is a determiner meaning to make something certain. Insure is a determiner meaning to make certain by taking necessary precaution.",
+                "Ensure is a determiner meaning to make certain by taking necessary precaution. Insure is a determiner to make something certain.",
+                "Ensure is an adjective meaning to make certain by taking necessary precaution. Insure is a conjunction to make something certain."
+          ],
+          "answer": "Ensure is a transitive verb meaning to make something certain. Insure is a transitive verb meaning to make certain by taking necessary precaution."
+    },
+    {
+          "question": "<b>Imitated and Intimated</b>",
+          "options": [
+                "Imitate is a pronoun meaning take or follow as a model. Intimate is a noun meaning closely acquainted.",
+                "Imitate is an adjective meaning closely acquainted. Intimate is a verb meaning take or follow as a model.",
+                "Imitate is an interjection meaning take or follow as a model. Intimate is an adverb meaning closely acquainted.",
+                "Imitate is a verb meaning take or follow as a model. Intimate is an adjective meaning closely acquainted."
+          ],
+          "answer": "Imitate is a verb meaning take or follow as a model. Intimate is an adjective meaning closely acquainted."
+    },
+    {
+          "question": "<b>Compare and Compere</b>",
+          "options": [
+                "Compare is an adjective and it means to estimate or measure something. Compere is a determiner and it refers to the person who introduces the performers.",
+                "Compare is a verb and it means to estimate or measure something. Compere is a noun and it refers to the person who introduces the performers.",
+                "Compare is a verb and it refers to the person who introduces the performers. Compere is a noun and it means to estimate or measure something.",
+                "Compare is a conjunction and it means to estimate or measure something. Compere is an auxiliary verb and it refers to the person who introduces the performers."
+          ],
+          "answer": "Compare is a verb and it means to estimate or measure something. Compere is a noun and it refers to the person who introduces the performers."
+    },
+    {
+          "question": "<b>Precept and Percept</b>",
+          "options": [
+                "Precept is a verb and it means a general rule intended to regulate behaviour. Percept is an adjective and it means an object of perception.",
+                "Precept is a pronoun and it means a general rule intended to regulate behaviour. Percept is an adjective and it means an object of perception.",
+                "Precept is a noun and it means a general rule intended to regulate behaviour. Percept is a noun and it means an object of perception.",
+                "Precept is a noun and it means an object of perception. Percept is a noun and it means a general rule intended to regulate behaviour."
+          ],
+          "answer": "Precept is a noun and it means a general rule intended to regulate behaviour. Percept is a noun and it means an object of perception."
+    },
+    {
+          "question": "<b>Directions :</b> In the following questions a particular word is provided. Four sentences have been framed using the word. In only one of these is the word used correctly. Select the correct option and mark your response on the Answer Sheet accordingly.<br/><br/><b>Practice</b>",
+          "options": [
+                "He would practice for his basketball match for hours every day.",
+                "Our neighbour has been practicing acupuncture for a long time.",
+                "As she practiced, the sound of music filled the halls.",
+                "It is a not good practice to repeat old mistakes."
+          ],
+          "answer": "It is a not good practice to repeat old mistakes."
+    },
+    {
+          "question": "<b>Immensely</b>",
+          "options": [
+                "Savita felt immensely happy when she got promoted as one of the Directors.",
+                "Ravi's contribution was immensely to the successful completion of the project.",
+                "Some countries produce oil immensely which impact the world economy.",
+                "He boasts of eating breakfast immensely and falls sick often."
+          ],
+          "answer": "Savita felt immensely happy when she got promoted as one of the Directors."
+    },
+    {
+          "question": "<b>Insuperable</b>",
+          "options": [
+                "The difficulties presented by the situation seemed to be insuperable.",
+                "The group went insuperable for weeks during the agitation until the demands were met.",
+                "The insuperable element in the whole engagement was the leader herself.",
+                "The hostel administration remained insuperable for a month."
+          ],
+          "answer": "The difficulties presented by the situation seemed to be insuperable."
+    },
+    {
+          "question": "<b>Amoral</b>",
+          "options": [
+                "Murder can be categorized as an amoral act.",
+                "We must send out a message that we are not an amoral society.",
+                "It is amoral to cheat the one who loves you.",
+                "The pursuit of victory at all costs allows for amoral conduct."
+          ],
+          "answer": "We must send out a message that we are not an amoral society."
+    },
+    {
+          "question": "<b>Emigrate</b>",
+          "options": [
+                "Animals emigrate in search of food from place to place.",
+                "The family decided to emigrate to a safe and secure country.",
+                "Workers emigrate from province to province in search of seasonal jobs.",
+                "New laws were being enacted to control emigration into the country."
+          ],
+          "answer": "The family decided to emigrate to a safe and secure country."
+    },
+    {
+          "question": "<b>Directions :</b> Match List I (parts of speech) with List II (example) and select the answer using the code given below the Lists :<br/><br/><b>List I</b><br/>A. Noun<br/>B. Verb<br/>C. Present participle of verb<br/>D. Adjective<br/><br/><b>List II</b><br/>1. Intentional<br/>2. Intention<br/>3. Intend<br/>4. Intending",
+          "options": [
+                "A-1, B-3, C-4, D-2",
+                "A-2, B-4, C-3, D-1",
+                "A-2, B-3, C-4, D-1",
+                "A-1, B-4, C-3, D-2"
+          ],
+          "answer": "A-2, B-3, C-4, D-1"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Noun<br/>B. Verb<br/>C. Infinite form of verb<br/>D. Adjective<br/><br/><b>List II</b><br/>1. Experimental<br/>2. Experiment<br/>3. Experimentation<br/>4. To experiment",
+          "options": [
+                "A-1, B-4, C-2, D-3",
+                "A-1, B-2, C-4, D-3",
+                "A-3, B-4, C-2, D-1",
+                "A-3, B-2, C-4, D-1"
+          ],
+          "answer": "A-3, B-2, C-4, D-1"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Noun<br/>B. Verb<br/>C. Gerund<br/>D. Adjective<br/><br/><b>List II</b><br/>1. Discriminatory<br/>2. Discrimination<br/>3. Discriminate<br/>4. Discriminating",
+          "options": [
+                "A-1, B-3, C-4, D-2",
+                "A-2, B-4, C-3, D-1",
+                "A-2, B-3, C-4, D-1",
+                "A-1, B-4, C-3, D-2"
+          ],
+          "answer": "A-2, B-3, C-4, D-1"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Noun<br/>B. Verb<br/>C. Adverb<br/>D. Adjective<br/><br/><b>List II</b><br/>1. Suppose<br/>2. Supposed<br/>3. Supposition<br/>4. Supposedly",
+          "options": [
+                "A-3, B-4, C-1, D-2",
+                "A-3, B-1, C-4, D-2",
+                "A-2, B-1, C-4, D-3",
+                "A-2, B-4, C-1, D-3"
+          ],
+          "answer": "A-3, B-1, C-4, D-2"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Noun<br/>B. Verb<br/>C. Adverb<br/>D. Adjective<br/><br/><b>List II</b><br/>1. Justify<br/>2. Juridical<br/>3. Justice<br/>4. Just",
+          "options": [
+                "A-2, B-4, C-1, D-3",
+                "A-2, B-1, C-4, D-3",
+                "A-3, B-4, C-1, D-2",
+                "A-3, B-1, C-4, D-2"
+          ],
+          "answer": "A-3, B-1, C-4, D-2"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Noun<br/>B. Verb<br/>C. Adverb<br/>D. Adjective<br/><br/><b>List II</b><br/>1. Straight<br/>2. Straightest<br/>3. Straighten<br/>4. Straightness",
+          "options": [
+                "A-2, B-3, C-1, D-4",
+                "A-2, B-1, C-3, D-4",
+                "A-4, B-3, C-1, D-2",
+                "A-4, B-1, C-3, D-2"
+          ],
+          "answer": "A-4, B-3, C-1, D-2"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Noun<br/>B. Verb<br/>C. Gerund<br/>D. Adjective<br/><br/><b>List II</b><br/>1. Neglect<br/>2. Neglectfulness<br/>3. Neglecting<br/>4. Negligent",
+          "options": [
+                "A-4, B-3, C-1, D-2",
+                "A-2, B-1, C-3, D-4",
+                "A-4, B-1, C-3, D-2",
+                "A-2, B-3, C-1, D-4"
+          ],
+          "answer": "A-2, B-1, C-3, D-4"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Noun<br/>B. Verb<br/>C. Adverb<br/>D. Adjective<br/><br/><b>List II</b><br/>1. Forbid<br/>2. Forbiddingly<br/>3. Forbiddance<br/>4. Forbidden",
+          "options": [
+                "A-3, B-1, C-2, D-4",
+                "A-3, B-2, C-1, D-4",
+                "A-4, B-2, C-1, D-3",
+                "A-4, B-1, C-2, D-3"
+          ],
+          "answer": "A-3, B-1, C-2, D-4"
+    },
+    {
+          "question": "<b>Directions :</b> Match List I (parts of speech) with List II (example) and select the answer using the code given below the Lists :<br/><br/><b>List I</b><br/>A. Noun<br/>B. Verb<br/>C. Adverb<br/>D. Adjective<br/><br/><b>List II</b><br/>1. Hardy<br/>2. Hardness<br/>3. Harden<br/>4. Hard",
+          "options": [
+                "A-1, B-3, C-4, D-2",
+                "A-2, B-3, C-4, D-1",
+                "A-2, B-4, C-3, D-1",
+                "A-1, B-4, C-3, D-2"
+          ],
+          "answer": "A-2, B-3, C-4, D-1"
+    },
+    {
+          "question": "<b>List I</b><br/>A. Noun<br/>B. Verb<br/>C. Adverb<br/>D. Adjective<br/><br/><b>List II</b><br/>1. Fastest<br/>2. Fasten<br/>3. Fastness<br/>4. Fast",
+          "options": [
+                "A-1, B-2, C-4, D-3",
+                "A-3, B-4, C-2, D-1",
+                "A-3, B-2, C-4, D-1",
+                "A-1, B-4, C-2, D-3"
+          ],
+          "answer": "A-3, B-2, C-4, D-1"
+    },
+    {
+          "question": "<b>Directions :</b> In the following item a passage is given, in which there are ten blank spaces along with four options each for filling those blanks. Find the most appropriate word from the options provided to fill in the blanks, and mark your response on the Answer Sheet.<br/><br/>________ by the charm of Nature around him, man has expressed his appreciation of it in works of art produced by him.",
+          "options": [
+                "Moved",
+                "Moving",
+                "Having moved",
+                "Moves"
+          ],
+          "answer": "Moved"
+    },
+    {
+          "question": "This goes back to a time ________ he was still a primitive being.",
+          "options": [
+                "then",
+                "when",
+                "till",
+                "for"
+          ],
+          "answer": "when"
+    },
+    {
+          "question": "Art ________ a softening influence on him.",
+          "options": [
+                "has",
+                "have",
+                "has had",
+                "had had"
+          ],
+          "answer": "has"
+    },
+    {
+          "question": "The earliest paintings of the prehistoric age in the caves all over the world give us magnificent examples of the ________ eye and the trained hand in man's savage state.",
+          "options": [
+                "observing",
+                "observance",
+                "observant",
+                "observation"
+          ],
+          "answer": "observant"
+    },
+    {
+          "question": "The colours chosen, the movement ________",
+          "options": [
+                "portraying",
+                "portray",
+                "portrayed",
+                "portrayal"
+          ],
+          "answer": "portrayed"
+    },
+    {
+          "question": "and the expressions the pictures are ________ with really make us marvel,",
+          "options": [
+                "suffixed",
+                "suffused",
+                "suffusing",
+                "surfaced"
+          ],
+          "answer": "suffused"
+    },
+    {
+          "question": "even if all of them are not of the ________ of the paintings at Altamira.",
+          "options": [
+                "standard",
+                "standardised",
+                "standards",
+                "stand"
+          ],
+          "answer": "standard"
+    },
+    {
+          "question": "The prehistoric cave paintings in India give us a picture of life in those ________ days of the early man in India.",
+          "options": [
+                "far-off",
+                "far",
+                "far-out",
+                "far-fetched"
+          ],
+          "answer": "far-off"
+    },
+    {
+          "question": "It is a great and true experience that Kalidasa expresses, when he feels that ________ the happiest man feels",
+          "options": [
+                "even",
+                "for",
+                "with",
+                "still"
+          ],
+          "answer": "even"
+    },
+    {
+          "question": "________ when he sees beautiful things or hears melodious notes.",
+          "options": [
+                "elates",
+                "elating",
+                "elated",
+                "excite"
+          ],
+          "answer": "elated"
+    },
+    {
+          "question": "<b>S1:</b> Drought is a continuous and lengthy period during which no significant rainfall is recorded during the rainy season.<br/><b>S6:</b> In India, droughts are more frequent in the areas where the average annual rainfall is less than 60 cm and the variability of rainfall is over 20 per cent.<br/><br/><b>P :</b> This definition however, does not apply to Mawsynram and Cherrapunji, where even one week recording less than 0.25 mm of rainfall may be considered as a drought period.<br/><b>Q :</b> In general, the areas recording less than 60 cm of rainfall annually and in which the variability of rainfall is more than 20 per cent are the drought prone areas in India.<br/><b>R :</b> In India, the Meteorological Department has defined drought as a period of at least 22 consecutive days on none of which is there more than 0.25 mm of rainfall.<br/><b>S :</b> Areas where the variability of rainfall varies between 20 to 60 per cent are the chronic drought prone areas.",
+          "options": [
+                "Q R P S",
+                "S P Q R",
+                "P Q S R",
+                "R P Q S"
+          ],
+          "answer": "R P Q S"
+    },
+    {
+          "question": "<b>S1:</b> The definition of large farmers differs from state to state in India.<br/><b>S6:</b> This trend increased the income base of those who were already relatively well-off and better placed in society.<br/><br/><b>P :</b> In the initial phase of the Green Revolution, the large farmers were able to adopt the High Yielding Varieties easily.<br/><b>Q :</b> The new varieties increased their savings, both to buy machinery that can displace labour and to purchase more land.<br/><b>R :</b> For example, a farmer having 10 acres in Kerala is a large farmer, while in Rajasthan, Punjab and Haryana he falls under the category of a small or medium farmer.<br/><b>S :</b> All the studies conducted in areas where Green Revolution is a success show that the large farmers have been the main gainers of the package programme.",
+          "options": [
+                "Q P R S",
+                "R S P Q",
+                "P Q S R",
+                "S Q R P"
+          ],
+          "answer": "R S P Q"
+    },
+    {
+          "question": "<b>S1:</b> The Great Depression was a period of unemployment, low profits, low prices of goods, high poverty and a stand-still trade market that affected the entire world.<br/><b>S6:</b> Most notably among these was the New Deal, which involved large scale federal relief programmes, aid to agriculture, support for labour unions, etc.<br/><br/><b>P :</b> It began around 1929 and lasted till the mid-1930s.<br/><b>Q :</b> Though the stock market crash of 1929 did not cause the Depression, it certainly increased the difficulty of recovery.<br/><b>R :</b> The worst hit sectors were heavy industry, agriculture, mining and logging.<br/><b>S :</b> The Depression ended in 1935 and led to major political initiatives.",
+          "options": [
+                "Q P R S",
+                "S Q P R",
+                "P R Q S",
+                "S Q R P"
+          ],
+          "answer": "P R Q S"
+    },
+    {
+          "question": "<b>S1:</b> Resources are essential for sustenance as well as for development.<br/><b>S6:</b> Conservation does not prohibit the use of resources but emphasises judicious and planned use of natural resources.<br/><br/><b>P :</b> Over-exploitation and unplanned consumption of resources for development, however, are leading to their depletion.<br/><b>Q :</b> These consequences can be tackled by adopting resource conservation as a means to manage and save resources for a better future.<br/><b>R :</b> Such depletion has socio-economic and environmental consequences.<br/><b>S :</b> Conservation of resources means efficiently using resources that are needed now, without harming future prospects.",
+          "options": [
+                "Q P R S",
+                "S Q P R",
+                "P R Q S",
+                "S Q R P"
+          ],
+          "answer": "P R Q S"
+    },
+    {
+          "question": "<b>S1:</b> Land is a very important resource.<br/><b>S6:</b> India has a vast landmass but it is important to ensure careful planning in the utilization of its land resources.<br/><br/><b>P :</b> It is therefore an important asset that needs to be used with care and concern because it is finite in nature.<br/><b>Q :</b> All over the world, land supports natural vegetation, wildlife, human life, economic activities, and communication and transport systems.<br/><b>R :</b> Hence, land is of great significance for all nations.<br/><b>S :</b> In consequence to all of these, careful planning of land use assumes the utmost significance.",
+          "options": [
+                "Q R P S",
+                "S Q P R",
+                "Q P S R",
+                "S Q R P"
+          ],
+          "answer": "Q R P S"
+    },
+    {
+          "question": "<b>S1:</b> The National Forest Policy (1952) has outlined that the desired forest area of a country must be at least 33 per cent of the geographical area.<br/><b>S6:</b> Some land is termed as land put to other non-agricultural uses; this includes settlements, roads, railways, industries, etc.<br/><br/><b>P :</b> However the present forest cover is only 23 per cent, much lower than the desired percentage.<br/><b>Q :</b> This was felt to be necessary for maintaining the ecological balance.<br/><b>R :</b> Some land is termed as wasteland; this includes rocky, arid and desert areas.<br/><b>S :</b> This creates difficulties for millions of people who live in the fringe areas of forests and depend upon the forests for their livelihood.",
+          "options": [
+                "P Q R S",
+                "S Q P R",
+                "Q S P R",
+                "Q P S R"
+          ],
+          "answer": "Q P S R"
+    },
+    {
+          "question": "<b>S1:</b> Trade and transport have been very significant in the progress of human life.<br/><b>S6:</b> Thus, trade transport and communication complement each other.<br/><br/><b>P :</b> For a long time trade and transport moved within the restricted boundaries of space and time.<br/><b>Q :</b> This has been made possible by the development of a fast and efficient transport and communication system.<br/><b>R :</b> However, with the developments in the field of science and technology, trade and transport have spread all over the world.<br/><b>S :</b> The world has, as a consequence, become one big village and distances have become immaterial or, to be more precise, distances seem to have shrunk.",
+          "options": [
+                "P S Q R",
+                "P R S Q",
+                "Q S P R",
+                "S Q R P"
+          ],
+          "answer": "P R S Q"
+    },
+    {
+          "question": "<b>S&eacute;ance, Sconce, Scone</b><br/><br/>1. Those who practise spiritualism are at times seen to participate in a <u>s&eacute;ance</u>.<br/>2. They enjoyed eating the <u>sconce</u> that were served to them in the exclusive club.<br/>3. The <u>scone</u> reading on the graph indicated the correct value output of the experiment.<br/><br/>In which of the sentences given above has/have the words been used correctly?",
+          "options": [
+                "1 and 2 only",
+                "2 only",
+                "1 only",
+                "1, 2 and 3"
+          ],
+          "answer": "1 only"
+    },
+    {
+          "question": "<b>Truism, Altruism</b><br/><br/>1. That one has to reap what one sows is a <u>truism</u>.<br/>2. The <u>altruism</u> uttered by the seer covered the higher levels of spiritual knowledge.<br/><br/>In which of the sentences given above has/have the words been used correctly?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "1 only"
+    },
+    {
+          "question": "<b>Consequent, Consequence</b><br/><br/>1. <u>Consequent</u> to the decisions taken by the committee a new set of procedures was brought into force.<br/>2. The past is of little <u>consequence</u> when one is willing to bravely face the challenges of the future.<br/><br/>In which of the sentences given above has/have the words been used correctly?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "<b>Seize, Cease, Crease</b><br/><br/>1. The customs department decided to <u>seize</u> the consignment of contraband goods.<br/>2. To improve relations the two parties decided that the hostilities between them should <u>cease</u>.<br/>3. Military personnel are required to be attired in trousers with a knife-edge-like <u>crease</u>.<br/><br/>In which of the sentences given above has/have the words been used correctly?",
+          "options": [
+                "1 and 2 only",
+                "3 only",
+                "2 and 3 only",
+                "1, 2 and 3"
+          ],
+          "answer": "1, 2 and 3"
+    }
+  ],
+
   "2026": [
     {
       question: "Pontoon and Platoon",
