@@ -2404,6 +2404,1208 @@ const gkData: Record<string, Question[]> = {
           ],
           "answer": "Deen Dayal Antyodaya Yojana"
     }
+  ],
+  "2025-I": [
+    {
+          "question": "Consider the following statements with reference to Secondary waves (S-Waves) generated during an earthquake :<br/><br/>1. They create troughs and crests in the material through which they pass.<br/>2. The direction of vibrations of S-waves is perpendicular to the wave direction in the vertical plane.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Identify the Mineral on the basis of the following characteristics relating to it :<br/><br/>I. It is usually a greenish crystal.<br/>II. It is often found in basaltic rocks.<br/>III. Magnesium, iron and silica are its major elements.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "Amphibolite",
+                "Feldspar",
+                "Pyroxene",
+                "Olivine"
+          ],
+          "answer": "Olivine"
+    },
+    {
+          "question": "Which of the following statements with reference to Salt Weathering is/are correct ?<br/><br/>1. Salt crystallisation is the most effective of all the salt weathering processes.<br/>2. Salt crystal growth is more effective over sedimentary rocks as compared to igneous rocks.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Which of the following statements with reference to Surface inversion of temperature is/are correct ?<br/><br/>1. It causes instability in the lower layers of the atmosphere.<br/>2. This inversion commonly lasts for a few hours until the Sun comes up.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "2 only"
+    },
+    {
+          "question": "Identify the cloud on the basis of the following characteristics relating to it :<br/><br/>I. They look like cotton wool.<br/>II. They exist in patches and have flat base.<br/>III. They are generally formed at a height of 4 to 7 km.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "Cirrus",
+                "Cumulus",
+                "Nimbus",
+                "Stratus"
+          ],
+          "answer": "Cumulus"
+    },
+    {
+          "question": "Identify the type of climate on the basis of the following characteristics relating to it :<br/><br/>I. Temperature is high throughout the year.<br/>II. Rainfall is variable with a short wet season and a longer dry season.<br/>III. Climate of Sudan and Paraguay is an example of this climate type.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "Sub-tropical steppe climate",
+                "Mid-latitude steppe",
+                "Tropical monsoon climate",
+                "Tropical wet and dry climate"
+          ],
+          "answer": "Tropical wet and dry climate"
+    },
+    {
+          "question": "What is the correct sequence of the following salts in ascending order according to their presence in the sea water ?<br/><br/>1. Calcium Carbonate<br/>2. Calcium Sulphate<br/>3. Magnesium Chloride<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "3, 1, 2",
+                "1, 3, 2",
+                "1, 2, 3",
+                "2, 1, 3"
+          ],
+          "answer": "1, 2, 3"
+    },
+    {
+          "question": "Which of the following statements with reference to Humus is/are correct ?<br/><br/>1. It is a dark coloured amorphous substance.<br/>2. Being colloidal in nature, it serves as a reservoir of nutrients.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Which one among the following Biosphere Reserves is spread over three states in India ?",
+          "options": [
+                "Dehang Debang",
+                "Nilgiris",
+                "Nokrek",
+                "Seshachalam"
+          ],
+          "answer": "Nilgiris"
+    },
+    {
+          "question": "River Danube does <i>not</i> flow through which one of the following capital cities in Europe ?",
+          "options": [
+                "Belgrade",
+                "Budapest",
+                "Prague",
+                "Vienna"
+          ],
+          "answer": "Prague"
+    },
+    {
+          "question": "Which of the following statements with reference to Easter Island, a UNESCO World Heritage Site, is/are correct ?<br/><br/>1. It is part of Polynesia group of islands.<br/>2. It is a territory of the South American nation Chile.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Which one among the following is home to the endangered mountain gorillas in Africa ?",
+          "options": [
+                "Mount Kenya",
+                "Mount Kilimanjaro",
+                "Ngorongoro Crater",
+                "Virunga Mountains"
+          ],
+          "answer": "Virunga Mountains"
+    },
+    {
+          "question": "Which of the following statements with reference to Jordan is/are correct ?<br/><br/>1. The country of Jordan was created through the British Mandate after World War I.<br/>2. It is a landlocked country.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "1 only"
+    },
+    {
+          "question": "Which one among the following places is situated close to the Pearl River Estuary in Asia ?",
+          "options": [
+                "Bangkok",
+                "Hong Kong",
+                "Macau",
+                "Singapore"
+          ],
+          "answer": "Hong Kong"
+    },
+    {
+          "question": "Consider the following statements with regard to Australia :<br/><br/>1. The Coral Sea separates the Great Barrier Reef from the South Pacific.<br/>2. The Great Dividing Range extends from Melbourne to Perth in Australia.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "1 only"
+    },
+    {
+          "question": "What is the correct sequence of the following mountain ranges as one moves from North towards South ?<br/><br/>1. Karakoram<br/>2. Kunlun<br/>3. Ladakh<br/>4. Zaskar<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1, 2, 3, 4",
+                "1, 2, 4, 3",
+                "2, 1, 4, 3",
+                "2, 1, 3, 4"
+          ],
+          "answer": "2, 1, 3, 4"
+    },
+    {
+          "question": "Which of the following statements with reference to saline soil in India is/are correct ?<br/><br/>1. They are rich in nitrogen.<br/>2. They occur in arid and semi-arid regions, and in waterlogged and swampy areas.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "2 only"
+    },
+    {
+          "question": "Salal Power Project is situated on which one among the following rivers ?",
+          "options": [
+                "Chenab",
+                "Jhelum",
+                "Nubra",
+                "Shyok"
+          ],
+          "answer": "Chenab"
+    },
+    {
+          "question": "Which one among the following tributaries of Indus River does <i>not</i> originate in the Himalayas ?",
+          "options": [
+                "Gilgit",
+                "Gomal",
+                "Hunza",
+                "Zaskar"
+          ],
+          "answer": "Gomal"
+    },
+    {
+          "question": "As per the Annual Report 2023 - 24 of the Ministry of Mines, Government of India, which of the following are the major bauxite producing states in India ?",
+          "options": [
+                "Odisha and Madhya Pradesh",
+                "Odisha and Jharkhand",
+                "Jharkhand and Madhya Pradesh",
+                "Jharkhand and Karnataka"
+          ],
+          "answer": "Odisha and Jharkhand"
+    },
+    {
+          "question": "If your image appears to be erect, no matter how far you stand from a mirror, the mirror is likely to be :",
+          "options": [
+                "Plane",
+                "Concave",
+                "Convex",
+                "Either plane or convex"
+          ],
+          "answer": "Either plane or convex"
+    },
+    {
+          "question": "The rule that determines the direction of a magnetic field produced around a straight conductor carrying current is :",
+          "options": [
+                "Right-hand thumb rule",
+                "Fleming's left-hand rule",
+                "Fleming's right-hand rule",
+                "Hund's rule"
+          ],
+          "answer": "Right-hand thumb rule"
+    },
+    {
+          "question": "A motorcycle has initial velocity of 5 m/s. After 3 seconds, the velocity is 7 m/s. The displacement of the motorcycle in 3 seconds is :",
+          "options": [
+                "21 m",
+                "18 m",
+                "36 m",
+                "6 m"
+          ],
+          "answer": "18 m"
+    },
+    {
+          "question": "The minimum power required to lift a mass of 50 kg up to a vertical distance of 8 m in 10 s is : (Take g = 10 m/s<sup>2</sup>)",
+          "options": [
+                "400 W",
+                "40 W",
+                "50 W",
+                "500 W"
+          ],
+          "answer": "400 W"
+    },
+    {
+          "question": "Which one among the following statements is <i>not</i> correct ?",
+          "options": [
+                "All bodies in the universe attract each other due to the gravitational force.",
+                "Newton's law of gravitation follows from Newton's laws of motion.",
+                "The value of g (acceleration due to gravity) at the centre of the Earth is zero.",
+                "Mass and weight are measured in different units."
+          ],
+          "answer": "Newton's law of gravitation follows from Newton's laws of motion."
+    },
+    {
+          "question": "A body floats in a liquid if the buoyant force is :",
+          "options": [
+                "equal to its weight.",
+                "less than its weight.",
+                "greater than its weight.",
+                "zero."
+          ],
+          "answer": "equal to its weight."
+    },
+    {
+          "question": "A metallic sphere of mass 1 kg and volume 2 × 10<sup>-4</sup> m<sup>3</sup> is completely immersed in water.<br/>The buoyant force exerted by water on the sphere is :<br/>(Given : density of water = 1000 kg/m<sup>3</sup>, g = 10 m/s<sup>2</sup>)",
+          "options": [
+                "0·5 N",
+                "1·5 N",
+                "2 N",
+                "2·5 N"
+          ],
+          "answer": "2 N"
+    },
+    {
+          "question": "A light bulb rated as 60 W at 220 V has a potential difference of 110 V across its ends.<br/>The power dissipated in this light bulb is :",
+          "options": [
+                "30 W",
+                "45 W",
+                "15 W",
+                "2 W"
+          ],
+          "answer": "15 W"
+    },
+    {
+          "question": "Which one among the following is used in a simple microscope ?",
+          "options": [
+                "Diverging lens",
+                "Concave mirror",
+                "Converging lens",
+                "Plane mirror"
+          ],
+          "answer": "Converging lens"
+    },
+    {
+          "question": "The force with which the Earth attracts an object is called :",
+          "options": [
+                "Weight of the object",
+                "Mass of the object",
+                "Density of the object",
+                "Magnitude of the object"
+          ],
+          "answer": "Weight of the object"
+    },
+    {
+          "question": "Which of the following is one of the 'three gems' (<i>triratna</i>) of Jainism ?",
+          "options": [
+                "Brahmacharya",
+                "Samyag-darshana",
+                "Sunrita",
+                "Asteya"
+          ],
+          "answer": "Samyag-darshana"
+    },
+    {
+          "question": "Which one among the following motifs does <i>not</i> appear on Harappan seals ?",
+          "options": [
+                "Humped Bull",
+                "Elephant",
+                "Lion",
+                "Crocodile"
+          ],
+          "answer": "Lion"
+    },
+    {
+          "question": "Which one among the following is the earliest text ?",
+          "options": [
+                "Natyashastra of Bharata",
+                "Sushruta Samhita",
+                "Ashtadhyayi",
+                "Manusmriti"
+          ],
+          "answer": "Ashtadhyayi"
+    },
+    {
+          "question": "Which one of the following statements about Ashoka's inscriptions is correct ?",
+          "options": [
+                "The Major Rock Edict found in Kerala is in Sanskrit.",
+                "Minor Rock Edicts in Bihar are found only in Pataliputra.",
+                "The Dhauli Major Rock Edict makes a mention of the Kalinga War.",
+                "Kalsi in Uttarakhand is a site of Major Rock Edicts."
+          ],
+          "answer": "Kalsi in Uttarakhand is a site of Major Rock Edicts."
+    },
+    {
+          "question": "Which one of the following statements about the Ajivikas is <i>not</i> correct ?",
+          "options": [
+                "They did not practise discrimination on the basis of caste or class.",
+                "They had a corporate organisation and canonical texts.",
+                "They practised severe asceticism, often eating very little food.",
+                "They formed an alliance with Jainas against Buddhists."
+          ],
+          "answer": "They formed an alliance with Jainas against Buddhists."
+    },
+    {
+          "question": "Consider the following statements about the use of stirrup in India :<br/><br/>1. The Konarak horse sculpture (c. 1250) shows a ring-stirrup.<br/>2. A broad, probably wooden, stirrup appears in Khajuraho sculptures (probably 10<sup>th</sup> century).<br/>3. The iron-stirrup was used in the Delhi Sultans' armies from the thirteenth century onwards.<br/><br/>How many of the above statements is/are correct ?",
+          "options": [
+                "1",
+                "2",
+                "3",
+                "Nil"
+          ],
+          "answer": "3"
+    },
+    {
+          "question": "In the Rig Veda Samhita, use of the terms <i>ishukrit</i> and <i>isukara</i> referred to the maker of :",
+          "options": [
+                "Arrows",
+                "Swords",
+                "Vajra (Thunderbolt)",
+                "Maces"
+          ],
+          "answer": "Arrows"
+    },
+    {
+          "question": "Which one of the following does <i>not</i> refer to the bow (and arrow) as a weapon of war in ancient India ?",
+          "options": [
+                "Sharnga",
+                "Kunta",
+                "Kodanda",
+                "Karmuka"
+          ],
+          "answer": "Kunta"
+    },
+    {
+          "question": "What is the military-device referred to by the term <i>manjaniq</i> ?",
+          "options": [
+                "A device for loading field-guns with gunpowder",
+                "Preparing cavalry for rapid charge",
+                "A bolting device for strengthening the gates of forts",
+                "A device for throwing stones (mangonel)"
+          ],
+          "answer": "A device for throwing stones (mangonel)"
+    },
+    {
+          "question": "In medieval India, the process of indigo extraction underwent great improvement as a result of the :",
+          "options": [
+                "use of fertilizer enhancing the quality of indigo crop.",
+                "introduction of mechanical crushing tools for indigo stems.",
+                "use of gypsum and lime mortars in making the inner surfaces of indigo vats water-proof.",
+                "employment of slave labour in quick desilting of indigo crucibles."
+          ],
+          "answer": "use of gypsum and lime mortars in making the inner surfaces of indigo vats water-proof."
+    },
+    {
+          "question": "Which one of the following is listed in the <i>Ain-i Akbari</i> as one of the 'Indian sciences' prescribed by Akbar for scholars to learn at school ?",
+          "options": [
+                "Ayurveda",
+                "Vyakarana",
+                "Ganita",
+                "Jyotisha"
+          ],
+          "answer": "Vyakarana"
+    },
+    {
+          "question": "Consider the following statements about the arms used by Europeans in warfare in India :<br/><br/>1. The flint-lock muskets could work even in wet weather.<br/>2. The addition of bayonet made musket a more effective and dangerous weapon in close combat.<br/>3. The wrought-iron cannon barrels were easy to move and manoeuvre.<br/><br/>How many of the above statements is/are correct ?",
+          "options": [
+                "1",
+                "2",
+                "3",
+                "Nil"
+          ],
+          "answer": "1"
+    },
+    {
+          "question": "Which one of the following statements about the grammarian Katyayana is correct ?",
+          "options": [
+                "He was a contemporary of Panini.",
+                "He was a contemporary of Patanjali.",
+                "He belonged to a period between Panini and Patanjali.",
+                "He belonged to a period later than both Panini and Patanjali."
+          ],
+          "answer": "He belonged to a period between Panini and Patanjali."
+    },
+    {
+          "question": "Which one of the following statements about Rig Vedic goddesses is correct ?",
+          "options": [
+                "Ushas represents freedom from sickness.",
+                "Sinivali bestows children.",
+                "Aditi is goddess of dawn.",
+                "Raka is goddess of speech."
+          ],
+          "answer": "Sinivali bestows children."
+    },
+    {
+          "question": "Which one of the following statements about the Buddhist Goddess Hariti is correct ?",
+          "options": [
+                "She was converted by the Buddha from a blood-thirsty <i>yakshi</i> to a benevolent maternal figure.",
+                "She is the feminine personification of wisdom.",
+                "She protects people from eight great fears.",
+                "She is a warrior goddess associated with the dawn."
+          ],
+          "answer": "She was converted by the Buddha from a blood-thirsty <i>yakshi</i> to a benevolent maternal figure."
+    },
+    {
+          "question": "Consider the following statements about the literary language Apabhramsha :<br/><br/>1. It appeared in recognizable forms by the sixth century.<br/>2. It developed out of mixtures of regional vernaculars with the Prakrits and Sanskrit.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Who composed <i>Zainavilas</i>, a history of the rulers of Kashmir, in the time of Zainul Abidin ?",
+          "options": [
+                "Bhattavatara",
+                "Jonaraja",
+                "Shrivara",
+                "Vachaspati"
+          ],
+          "answer": "Bhattavatara"
+    },
+    {
+          "question": "In which one of the following works has Amir Khusrau praised the climate of India, its languages, notably Sanskrit, its arts and music and even its animals ?",
+          "options": [
+                "<i>Ijaz-i Khusrawi</i>",
+                "<i>Dewal Rani Khizr Khani</i>",
+                "<i>Khazainul Futuh</i>",
+                "<i>Nuh Sipihr</i>"
+          ],
+          "answer": "<i>Nuh Sipihr</i>"
+    },
+    {
+          "question": "Which one of the following works was written in early eighteenth century by the Bengali poet Rameshwar Bhattacharya ?",
+          "options": [
+                "<i>Dharmamangal</i>",
+                "<i>Shivsankirttan</i>",
+                "<i>Mansimha</i>",
+                "<i>Vidyasundar</i>"
+          ],
+          "answer": "<i>Shivsankirttan</i>"
+    },
+    {
+          "question": "Which one of the following present day territories was outside the limits of Ashoka's empire ?",
+          "options": [
+                "Brahmaputra valley, Assam",
+                "Baluchistan",
+                "North Bengal",
+                "Kashmir valley"
+          ],
+          "answer": "Brahmaputra valley, Assam"
+    },
+    {
+          "question": "Isobars of elements have same :",
+          "options": [
+                "Atomic numbers.",
+                "Number of electrons.",
+                "Mass numbers.",
+                "Number of neutrons."
+          ],
+          "answer": "Mass numbers."
+    },
+    {
+          "question": "Which one of the following could <i>not</i> be explained by Rutherford's nuclear model ?",
+          "options": [
+                "Stability of the atom",
+                "Presence of nucleus in the centre of an atom",
+                "Comparison of sizes of atom and nucleus",
+                "Nucleus is positively charged"
+          ],
+          "answer": "Stability of the atom"
+    },
+    {
+          "question": "If atomic number of an element is 11, the correct name, symbol and valency are :",
+          "options": [
+                "Lithium, Li, 1",
+                "Magnesium, Mg, 2",
+                "Boron, B, 3",
+                "Sodium, Na, 1"
+          ],
+          "answer": "Sodium, Na, 1"
+    },
+    {
+          "question": "Which one of the following gas is used in making soft drinks ?",
+          "options": [
+                "NH<sub>3</sub>",
+                "PH<sub>3</sub>",
+                "COCl<sub>2</sub>",
+                "CO<sub>2</sub>"
+          ],
+          "answer": "CO<sub>2</sub>"
+    },
+    {
+          "question": "Which one of the following is considered as a compound ?",
+          "options": [
+                "Silicon",
+                "Tin",
+                "Sugar solution",
+                "Calcium carbonate"
+          ],
+          "answer": "Calcium carbonate"
+    },
+    {
+          "question": "Rutherford's &alpha;-particle scattering experiment on gold foil is responsible for the discovery of :",
+          "options": [
+                "Neutron",
+                "Electron",
+                "Proton",
+                "Atomic nucleus"
+          ],
+          "answer": "Atomic nucleus"
+    },
+    {
+          "question": "Which one of the following is a metalloid ?",
+          "options": [
+                "Germanium",
+                "Coke",
+                "Iodine",
+                "Sugar"
+          ],
+          "answer": "Germanium"
+    },
+    {
+          "question": "Which one of the following is <i>not</i> explained by the Dalton's atomic theory ?",
+          "options": [
+                "Law of conservation of mass",
+                "Law of constant composition",
+                "Presence of different kind of sub-atomic particles in an atom",
+                "Law of multiple proportion"
+          ],
+          "answer": "Presence of different kind of sub-atomic particles in an atom"
+    },
+    {
+          "question": "Which one of the following contains all Lewis acids ?",
+          "options": [
+                "AlCl<sub>3</sub>, Co<sup>3+</sup>, BF<sub>3</sub>",
+                "BCl<sub>3</sub>, NH<sub>3</sub>, OH<sup>-</sup>",
+                "Mg<sup>2+</sup>, H<sub>2</sub>O, F<sup>-</sup>",
+                "BF<sub>3</sub>, NH<sub>3</sub>, H<sub>2</sub>O"
+          ],
+          "answer": "AlCl<sub>3</sub>, Co<sup>3+</sup>, BF<sub>3</sub>"
+    },
+    {
+          "question": "Number of electrons present in the species H<sub>2</sub><sup>+</sup>, He, H<sub>2</sub> and O<sub>2</sub><sup>+</sup> respectively are :",
+          "options": [
+                "1, 2, 2, 15",
+                "1, 2, 1, 14",
+                "2, 2, 2, 16",
+                "0, 2, 1, 14"
+          ],
+          "answer": "1, 2, 2, 15"
+    },
+    {
+          "question": "Consider the following statements with respect to performance of the merchandise export of India in FY - 2024 :<br/><br/>1. Share of capital goods such as machinery, equipment and other durable goods decreased substantially.<br/>2. Share of consumer goods and intermediate goods increased.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "2 only"
+    },
+    {
+          "question": "Which one among the following statements about Project Nexus is correct ?",
+          "options": [
+                "It is an international agreement to enable labour movement between countries.",
+                "It is an international initiative to enable instant cross-border retail payments.",
+                "It is an international initiative to transfer technology between countries.",
+                "It is an international agreement to create database on financial inclusion."
+          ],
+          "answer": "It is an international initiative to enable instant cross-border retail payments."
+    },
+    {
+          "question": "While calculating the consumer price index, 'housing' as an item is classified as :",
+          "options": [
+                "Core consumer durable",
+                "Core consumer non-durable",
+                "Core capital goods",
+                "Core service"
+          ],
+          "answer": "Core service"
+    },
+    {
+          "question": "Which one among the following established the first Global Capability Centre in India ?",
+          "options": [
+                "Honeywell",
+                "Citibank",
+                "Texas Instruments",
+                "SAP Labs India"
+          ],
+          "answer": "Texas Instruments"
+    },
+    {
+          "question": "Which of the following pairs is/are <i>not</i> correctly matched ?<br/><br/>1. Global Value Chains (GVC) : International Product Sharing<br/>2. World Integrated Trade Solutions : Database on GVC related Trade<br/>3. Current Account Deficit (CAD) : Foreign Direct Investment<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 and 2 only",
+                "2 and 3 only",
+                "3 only",
+                "1, 2 and 3"
+          ],
+          "answer": "3 only"
+    },
+    {
+          "question": "How can currency depreciation stimulate an increase in net exports ?<br/><br/>1. By reducing export costs<br/>2. By reducing import prices<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "1 only"
+    },
+    {
+          "question": "Core inflation is :",
+          "options": [
+                "CPI headline inflation minus all non-food items",
+                "WPI inflation minus all food and non-food items",
+                "CPI headline inflation minus food and energy items",
+                "WPI inflation minus food and energy items"
+          ],
+          "answer": "CPI headline inflation minus food and energy items"
+    },
+    {
+          "question": "In alignment with the guidelines of NEP 2020, 'Poshan bhi Padhai bhi' (PBPB) was launched under which one among the following programmes ?",
+          "options": [
+                "Integrated Teacher Training Programme",
+                "Vidya Pravesh",
+                "Early Childhood Care and Education",
+                "Samagra Shiksha Abhiyan"
+          ],
+          "answer": "Early Childhood Care and Education"
+    },
+    {
+          "question": "Which one among the following defines flexi workers in India ?",
+          "options": [
+                "Formal contract staff employed through organised contract",
+                "Informal sector employees working in urban areas",
+                "Agricultural labour migrating to urban areas",
+                "Regular salaried workers working in registered companies"
+          ],
+          "answer": "Formal contract staff employed through organised contract"
+    },
+    {
+          "question": "Which one among the following is an integrated teacher training programme ?",
+          "options": [
+                "Vidya Pravesh",
+                "NISHTHA",
+                "Vidyanjali",
+                "DIKSHA"
+          ],
+          "answer": "NISHTHA"
+    },
+    {
+          "question": "Which instrument is used to measure the blood pressure manually ?",
+          "options": [
+                "Sphygmomanometer",
+                "Centrifuge",
+                "Electrophoresis",
+                "Thermal cycler"
+          ],
+          "answer": "Sphygmomanometer"
+    },
+    {
+          "question": "Myopia is also known as :",
+          "options": [
+                "Far-sightedness",
+                "Near-sightedness",
+                "Cataract",
+                "Presbyopia"
+          ],
+          "answer": "Near-sightedness"
+    },
+    {
+          "question": "Why does the Rough Endoplasmic Reticulum look 'rough' under a microscope ?",
+          "options": [
+                "Due to the presence of ribosomes on its surface",
+                "Due to the absence of ribosomes on its surface",
+                "Due to the presence of lysosomes on its surface",
+                "Due to the presence of mitochondria on its surface"
+          ],
+          "answer": "Due to the presence of ribosomes on its surface"
+    },
+    {
+          "question": "Which one among the following is <i>not</i> a plant hormone ?",
+          "options": [
+                "Gibberellins",
+                "Abscisic acid",
+                "Auxins",
+                "Thyroxine"
+          ],
+          "answer": "Thyroxine"
+    },
+    {
+          "question": "The normal systolic pressure in human beings is :",
+          "options": [
+                "80 mm of Hg",
+                "100 mm of Hg",
+                "120 mm of Hg",
+                "140 mm of Hg"
+          ],
+          "answer": "120 mm of Hg"
+    },
+    {
+          "question": "Sponges belong to which one among the following phylum ?",
+          "options": [
+                "Porifera",
+                "Platyhelminthes",
+                "Cnidaria",
+                "Annelida"
+          ],
+          "answer": "Porifera"
+    },
+    {
+          "question": "Lactose is made up of :",
+          "options": [
+                "Glucose only",
+                "Glucose and Fructose",
+                "Glucose and Sucrose",
+                "Glucose and Galactose"
+          ],
+          "answer": "Glucose and Galactose"
+    },
+    {
+          "question": "The enzymes which catalyze the same reaction but have different amino acid compositions are commonly referred as :",
+          "options": [
+                "Isoenzymes",
+                "Isotopes",
+                "Isomers",
+                "Coenzymes"
+          ],
+          "answer": "Isoenzymes"
+    },
+    {
+          "question": "How many Carbon atoms are present in a Pyruvate molecule ?",
+          "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+          ],
+          "answer": "3"
+    },
+    {
+          "question": "The human eye has a point that lacks photoreceptor cells. This is identified as :",
+          "options": [
+                "Fovea",
+                "Blind spot",
+                "Dark spot",
+                "Orbit"
+          ],
+          "answer": "Blind spot"
+    },
+    {
+          "question": "Which of the following Constitution Amendment Acts introduced GST (Goods and Services Tax) in course of inter-state trade or commerce ?",
+          "options": [
+                "Constitution (One Hundred and First Amendment) Act",
+                "Constitution (One Hundred and Second Amendment) Act",
+                "Constitution (One Hundred and Fourth Amendment) Act",
+                "Constitution (One Hundred and Sixth Amendment) Act"
+          ],
+          "answer": "Constitution (One Hundred and First Amendment) Act"
+    },
+    {
+          "question": "Which one among the following UN agencies has received the Nobel Prize more than once ?",
+          "options": [
+                "ILO",
+                "WFP",
+                "UNICEF",
+                "UNHCR"
+          ],
+          "answer": "UNHCR"
+    },
+    {
+          "question": "Consider the following statements about Central Vigilance Commission (CVC) :<br/><br/>1. Central Vigilance Commissioner is appointed by the President of India.<br/>2. The Committee to recommend the appointment of Central Vigilance Commissioner has the Minister of Home Affairs as one of the members.<br/>3. In certain circumstances the Leader of the single largest group in opposition in Lok Sabha can be on the Committee to recommend the appointment of Central Vigilance Commissioner.<br/><br/>How many of the above statements is/are correct ?",
+          "options": [
+                "Nil",
+                "1",
+                "2",
+                "3"
+          ],
+          "answer": "3"
+    },
+    {
+          "question": "International Day of Democracy, as decided vide a UN General Assembly resolution, is observed on :",
+          "options": [
+                "20 January",
+                "1 July",
+                "15 September",
+                "9 December"
+          ],
+          "answer": "15 September"
+    },
+    {
+          "question": "Which of the following statements about the NITI Aayog is/are correct ?<br/><br/>1. Prime Minister of India is the Chairperson of its Governing Council.<br/>2. Lieutenant Governor of Ladakh is a member of its Governing Council.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Which of the following statements about National Commission for Women are correct ?<br/><br/>1. It is a statutory body.<br/>2. It has the mandate to review the constitutional and legal safeguards for women.<br/>3. It has the mandate to advise the Government on all policy matters affecting women.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 and 2 only",
+                "2 and 3 only",
+                "1 and 3 only",
+                "1, 2 and 3"
+          ],
+          "answer": "1, 2 and 3"
+    },
+    {
+          "question": "Which, amongst the following, is the latest language to be included in the Eighth Schedule of the Constitution of India ?",
+          "options": [
+                "Maithili",
+                "Nepali",
+                "Konkani",
+                "Manipuri"
+          ],
+          "answer": "Maithili"
+    },
+    {
+          "question": "Which one among the following states has the highest number of seats in the Council of States ?",
+          "options": [
+                "Andhra Pradesh",
+                "Bihar",
+                "Madhya Pradesh",
+                "Tamil Nadu"
+          ],
+          "answer": "Tamil Nadu"
+    },
+    {
+          "question": "Which of the following statements about the Indus Waters Treaty is/are correct ?<br/><br/>1. The term 'Eastern Rivers' means the Sutlej, the Beas and the Ravi taken together.<br/>2. The term 'Western Rivers' means the Indus, the Jhelum and the Chenab taken together.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Which of the following statements is/are correct as per the Constitution of India ?<br/><br/>1. The Constitution (Eighty-sixth Amendment) Act has added the Right to Education to the chapter of Directive Principles of State Policy.<br/>2. Right to Work and Right to Education are both, Fundamental Rights and Directive Principles of State Policy.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Neither 1 nor 2"
+    },
+    {
+          "question": "As defined in Article 12 of the Constitution of India, 'State' includes :<br/><br/>1. Parliament of India<br/>2. State Governments<br/>3. State Legislatures<br/>4. Local authorities in India<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 and 3 only",
+                "1, 2 and 3 only",
+                "1, 2, 3 and 4",
+                "2 and 4 only"
+          ],
+          "answer": "1, 2, 3 and 4"
+    },
+    {
+          "question": "Which of the following descriptions with regard to Parliamentary Privilege for Members of the Parliament of India is/are correct ?<br/><br/>1. The Speaker is empowered to refer <i>suo moto</i> any question of privilege for investigation<br/>2. A question of privilege is accorded priority over other items in the List of Business<br/>3. The privilege extends to freedom from preventive arrest or detention<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 and 3 only",
+                "1 and 2 only",
+                "1, 2 and 3"
+          ],
+          "answer": "1 and 2 only"
+    },
+    {
+          "question": "Which one among the following statements about an adjournment motion in the Parliament of India is <i>not</i> correct ?",
+          "options": [
+                "Its objective is to draw attention of the House to any recent matter of urgent public importance.",
+                "Adjournment motion is an extraordinary procedure.",
+                "This motion can be invoked on any matter of urgent importance that may even be within the jurisdiction of a State Government.",
+                "The Chair has absolute discretion to refuse consent."
+          ],
+          "answer": "This motion can be invoked on any matter of urgent importance that may even be within the jurisdiction of a State Government."
+    },
+    {
+          "question": "The Kyoto Protocol specifically relates to which one among the following issues ?",
+          "options": [
+                "Emission reduction",
+                "Ozone layer depletion",
+                "Chlorofluorocarbons",
+                "Biodiversity management"
+          ],
+          "answer": "Emission reduction"
+    },
+    {
+          "question": "Who among the following was responsible for demarcating the borders between India and Pakistan during the partition in 1947 ?",
+          "options": [
+                "Cyril Radcliffe",
+                "Mortimer Durand",
+                "Henry McMahon",
+                "Arthur Belfour"
+          ],
+          "answer": "Cyril Radcliffe"
+    },
+    {
+          "question": "Which one among the following statements about Dr. Muthulakshmi Reddy, a freedom fighter, is <i>not</i> correct ?",
+          "options": [
+                "She was the first girl student to be admitted into a men's college.",
+                "She was the first woman legislator in British India.",
+                "She was a medical professional.",
+                "She was honoured with Bharat Ratna in 1956."
+          ],
+          "answer": "She was honoured with Bharat Ratna in 1956."
+    },
+    {
+          "question": "\"Since wars begin in the minds of men, it is in the minds of men that the defences of peace must be constructed.\" This observation can be found in the Constitution of which one of the following Organs of the United Nations ?",
+          "options": [
+                "World Health Organisation",
+                "United Nations Educational, Scientific and Cultural Organisation",
+                "International Atomic Energy Agency",
+                "United Nations Economic and Social Council"
+          ],
+          "answer": "United Nations Educational, Scientific and Cultural Organisation"
+    },
+    {
+          "question": "Which one among the following countries does <i>not</i> share its territorial boundary with Ukraine ?",
+          "options": [
+                "Poland",
+                "Romania",
+                "Lithuania",
+                "Belarus"
+          ],
+          "answer": "Lithuania"
+    },
+    {
+          "question": "Which of the following statements is/are correct ?<br/><br/>1. First Law Commission recommended Indian Penal Code, 1860.<br/>2. Indian Penal Code, 1860 has been completely replaced by the Bharatiya Nyaya Sanhita, 2023.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Consider the following statements with regard to the setting up of the Backward Class Commission in India :<br/><br/>1. The First Backward Class Commission, set up by the Government of India, is popularly known as Kaka Kalelkar Commission.<br/>2. The Third Backward Class Commission, set up by the Government of India, is popularly known as Mandal Commission.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "1 only"
+    },
+    {
+          "question": "Which one among the following is the purpose of firewall ?",
+          "options": [
+                "Preventing unauthorised access to computer via the internet",
+                "Installation of software that can harm the computer",
+                "Recording everything that is done on computer",
+                "Running checks to prevent virus attacks"
+          ],
+          "answer": "Preventing unauthorised access to computer via the internet"
+    },
+    {
+          "question": "Which one of the following is <i>not</i> an application software ?",
+          "options": [
+                "Spreadsheet",
+                "AutoCAD",
+                "MS PowerPoint",
+                "Linker"
+          ],
+          "answer": "Linker"
+    },
+    {
+          "question": "Which among the following is a malicious software ?",
+          "options": [
+                "Hacking",
+                "Password Cracking",
+                "Trojan Horse",
+                "Firewall"
+          ],
+          "answer": "Trojan Horse"
+    },
+    {
+          "question": "What is an interactive combination of text, graphics, video, audio and images termed as ?",
+          "options": [
+                "JPEG",
+                "Multimedia",
+                "AVA",
+                "PNG"
+          ],
+          "answer": "Multimedia"
+    },
+    {
+          "question": "Which one of the following is the characteristic of Artificial Intelligence ?",
+          "options": [
+                "Replicates human decision making",
+                "Stores relevant information",
+                "Stores similar kind of data for a specific purpose",
+                "Allows user to interact with media"
+          ],
+          "answer": "Replicates human decision making"
+    },
+    {
+          "question": "Which organisation/institute has recently started the new initiatives such as <i>Bharat Vidya Pariyojana</i>, <i>Brihattar Bharat</i> and <i>Nari Samvaad Prakalp</i> ?",
+          "options": [
+                "IGNOU",
+                "Sahitya Akademi",
+                "Centre for Cultural Resources and Training (CCRT)",
+                "Indira Gandhi National Centre for Arts (IGNCA)"
+          ],
+          "answer": "Indira Gandhi National Centre for Arts (IGNCA)"
+    },
+    {
+          "question": "Which one among the following educational institutions established under the Union Ministry of Culture is promoting to preserve, protect and promote Lord Buddha's teaching and value of love, compassion and non-violence for developing good moral values and practices ?",
+          "options": [
+                "Indian Institute of Advanced Study, Shimla",
+                "National Council of Educational Research & Training, New Delhi",
+                "Nava Nalanda Mahavihara, Nalanda",
+                "IGNOU, New Delhi"
+          ],
+          "answer": "Nava Nalanda Mahavihara, Nalanda"
+    },
+    {
+          "question": "\"Nirbhaya Fund\", a non-lapsable corpus fund, which is to be utilized for the projects specifically designed to improve the safety and security of women is administered by :",
+          "options": [
+                "The Ministry of Women & Child Development",
+                "The Ministry of Home Affairs",
+                "The Ministry of Finance",
+                "The Ministry of Education"
+          ],
+          "answer": "The Ministry of Finance"
+    },
+    {
+          "question": "The <i>Paramparagat Krishi Vikas Yojana</i> (PKVY) launched in 2015 - 16 by the Central Government is aimed to :",
+          "options": [
+                "make agriculture more modern and globally competitive.",
+                "provide improved access to irrigation and enhanced water efficiency.",
+                "support promotion of organic farming in the country.",
+                "reduce dependence of agriculture on monsoon."
+          ],
+          "answer": "support promotion of organic farming in the country."
+    },
+    {
+          "question": "When did the Union Government establish a separate 'Ministry of Cooperation' with the vision of \"<i>Sahkar Se Samriddhi</i>\" ?",
+          "options": [
+                "2014",
+                "2016",
+                "2018",
+                "2021"
+          ],
+          "answer": "2021"
+    },
+    {
+          "question": "The Ministry of Defence, Government of India, has declared 2025 as the year of :",
+          "options": [
+                "Rehabilitation of the families of martyrs",
+                "Reforms",
+                "Peace",
+                "Self-reliance"
+          ],
+          "answer": "Rehabilitation of the families of martyrs"
+    },
+    {
+          "question": "Which of the following statements about Open Network for Digital Commerce (ONDC) is/are correct ?<br/><br/>1. It was launched in 2021 by the Government of India.<br/>2. Its aim is to democratize e-commerce in India.<br/>3. India has surpassed China in 2024 in e-retail penetration.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1, 2 and 3",
+                "1 and 2 only",
+                "2 and 3 only",
+                "3 only"
+          ],
+          "answer": "1 and 2 only"
+    },
+    {
+          "question": "\"Million Minds Augmenting National Aspirations and Knowledge\" (MANAK), a scheme under the flagship programme, Innovation in Science Pursuit for Inspired Research (INSPIRE), caters to :",
+          "options": [
+                "The college students studying in the undergraduate programme in the age group of 19 - 25 years.",
+                "The research scholars in recognized research laboratories of national importance.",
+                "The college teachers of the country.",
+                "The school children studying in classes 6 - 10 in the age group of 10 - 15 years."
+          ],
+          "answer": "The school children studying in classes 6 - 10 in the age group of 10 - 15 years."
+    },
+    {
+          "question": "Who among the following were awarded the Major Dhyan Chand Khel Ratna Award 2024 ?<br/><br/>1. Shri Gukesh D<br/>2. Shri Harmanpreet Singh<br/>3. Shri Praveen Kumar<br/>4. Ms. Manu Bhaker<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1, 2, 3 and 4",
+                "1 and 4 only",
+                "1, 2 and 4 only",
+                "2 and 3 only"
+          ],
+          "answer": "1, 2 and 4 only"
+    },
+    {
+          "question": "Consider the following statements about a prominent film personality of India :<br/><br/>He was born in Hyderabad. He emerged in the 1970s with a series of films that challenged mainstream Bollywood. He became widely known for <i>Bharat Ek Khoj</i>, a landmark 53-episode television series. He directed a 2023 biopic about Sheikh Mujibur Rahman.<br/><br/>Identify the personality from the following :",
+          "options": [
+                "Govind Nihalani",
+                "Girish Karnad",
+                "Shyam Benegal",
+                "Mani Ratnam"
+          ],
+          "answer": "Shyam Benegal"
+    },
+    {
+          "question": "'The Order of Mubarak Al-Kabeer' is the highest national award of :",
+          "options": [
+                "Egypt",
+                "Kuwait",
+                "Bahrain",
+                "United Arab Emirates"
+          ],
+          "answer": "Kuwait"
+    },
+    {
+          "question": "Bald eagle has recently been officially declared as the national bird of which one among the following countries ?",
+          "options": [
+                "China",
+                "England",
+                "USA",
+                "Ireland"
+          ],
+          "answer": "USA"
+    },
+    {
+          "question": "Surya Kiran is a joint military exercise between India and :",
+          "options": [
+                "Bangladesh",
+                "Bhutan",
+                "Singapore",
+                "Nepal"
+          ],
+          "answer": "Nepal"
+    },
+    {
+          "question": "Which of the following statements is/are correct ?<br/><br/>1. Moidam-The Mound-Burial system of the Ahom dynasty was inscribed in the UNESCO World Heritage list.<br/>2. The Government of India conferred the status of classical language to Pali, Assamese, Bengali and Maithili.<br/>3. Project PARI is an initiative of Ministry of Education.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "2 only",
+                "1 only",
+                "2 and 3 only",
+                "1, 2 and 3"
+          ],
+          "answer": "1 only"
+    },
+    {
+          "question": "Which one of the following PSLVs, launched by ISRO, is <i>not</i> correctly matched with their Missions ?<br/><br/><i>PSLV</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Mission</i>",
+          "options": [
+                "PSLV C60 - SPADEX",
+                "PSLV C59 - Proba-3",
+                "PSLV C58 - XPoSat",
+                "PSLV C57 - DS-SAR"
+          ],
+          "answer": "PSLV C57 - DS-SAR"
+    }
   ]
 };
 
