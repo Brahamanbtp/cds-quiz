@@ -1005,9 +1005,1004 @@ const mathsData: Record<string, Question[]> = {
   ],
   "2025": [
     {
-      question: "If x + y = 10 and x - y = 4, what is the value of x?",
-      options: ["3", "5", "7", "10"],
-      answer: "7"
+      "question": "Let p(x) be a polynomial. When p(x) is divided by (x - 1), it leaves 2 as the remainder. When p(x) is divided by (x - 2), it leaves 1 as the remainder. What is the remainder when p(x) is divided by (x - 1)(x - 2)?",
+      "options": [
+            "3",
+            "-3",
+            "3 - x",
+            "3 - 2x"
+      ],
+      "answer": "3 - x"
+},
+    {
+      "question": "Consider the following in respect of a positive real number x :<br/><br/>I. x + 1/x > 1<br/>II. (x + 1/x)<sup>2</sup> > 2<br/>III. (x + 1/x)<sup>4</sup> > 9<br/><br/>Which of the above are correct?",
+      "options": [
+            "I and II only",
+            "II and III only",
+            "I and III only",
+            "I, II and III"
+      ],
+      "answer": "I, II and III"
+},
+    {
+      "question": "Let p and q be natural numbers such that q > p. What is the largest value of p such that q<sup>2</sup> - 5p - 4 is negative?",
+      "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+      ],
+      "answer": "3"
+},
+    {
+      "question": "Let x and y be natural numbers, each less than 20, such that x, y, x + y and x - y are prime numbers. How many such combinations of (x, y, x + y, x - y) are possible?",
+      "options": [
+            "One",
+            "Two",
+            "Three",
+            "None"
+      ],
+      "answer": "One"
+},
+    {
+      "question": "If (x + 1)(x + p)(x<sup>2</sup> + p<sup>2</sup>) = x<sup>4</sup> - 1, then what is the value of p?",
+      "options": [
+            "-1",
+            "0",
+            "1",
+            "Cannot be determined"
+      ],
+      "answer": "-1"
+},
+    {
+      "question": "If (2 + &radic;3)<sup>x</sup> + (2 - &radic;3)<sup>x</sup> = 2, then what is (2 + &radic;3)<sup>x</sup> - (2 - &radic;3)<sup>x</sup> equal to?",
+      "options": [
+            "0",
+            "0.5",
+            "1",
+            "1.5"
+      ],
+      "answer": "0"
+},
+    {
+      "question": "If 1/a + 1/b = 5/6 and 1/a<sup>2</sup> + 1/b<sup>2</sup> = 13/36, then what is 1/a<sup>3</sup> + 1/b<sup>3</sup> equal to?",
+      "options": [
+            "31/216",
+            "35/216",
+            "37/216",
+            "41/216"
+      ],
+      "answer": "35/216"
+},
+    {
+      "question": "What is the remainder when x<sup>6</sup> is divided by x<sup>2</sup> + 1?",
+      "options": [
+            "-1",
+            "0",
+            "1",
+            "x + 1"
+      ],
+      "answer": "-1"
+},
+    {
+      "question": "(x + 2) is a factor of which one of the following?",
+      "options": [
+            "x<sup>5</sup> - 4x<sup>4</sup> - 3x<sup>3</sup> + 8x<sup>2</sup> - 14x + 12",
+            "x<sup>5</sup> + 4x<sup>4</sup> - 3x<sup>3</sup> + 8x<sup>2</sup> - 14x + 12",
+            "x<sup>5</sup> - 4x<sup>4</sup> + 3x<sup>3</sup> + 8x<sup>2</sup> - 14x + 12",
+            "x<sup>5</sup> - 4x<sup>4</sup> - 3x<sup>3</sup> + 8x<sup>2</sup> + 14x + 12"
+      ],
+      "answer": "x<sup>5</sup> - 4x<sup>4</sup> - 3x<sup>3</sup> + 8x<sup>2</sup> - 14x + 12"
+},
+    {
+      "question": "If log<sub>10</sub> 2 = 0.301 and log<sub>10</sub> 3 = 0.477, then what is the number of digits in the expansion of 60<sup>60</sup> ?",
+      "options": [
+            "105",
+            "106",
+            "107",
+            "108"
+      ],
+      "answer": "107"
+},
+    {
+      "question": "What is the remainder when (17<sup>25</sup> + 19<sup>25</sup>) is divided by 18?",
+      "options": [
+            "0",
+            "1",
+            "3",
+            "9"
+      ],
+      "answer": "0"
+},
+    {
+      "question": "The HCF of x and y is H. Consider the following statements in respect of the HCF of p = (x<sup>3</sup> + y<sup>3</sup>) / (x<sup>2</sup> - xy + y<sup>2</sup>) and q = (x<sup>3</sup> - y<sup>3</sup>) / (x<sup>2</sup> + xy + y<sup>2</sup>) :<br/><br/>I. The HCF of p and q can be H.<br/>II. The HCF of p and q can be 2H.<br/><br/>Which of the statements given above is/are correct?",
+      "options": [
+            "I only",
+            "II only",
+            "Both I and II",
+            "Neither I nor II"
+      ],
+      "answer": "Both I and II"
+},
+    {
+      "question": "If x<sup>4</sup> = x<sup>2</sup> + 1, where x > 0, then what is 2x<sup>4</sup> equal to?",
+      "options": [
+            "2 + &radic;3",
+            "3 + &radic;5",
+            "5 - 2&radic;3",
+            "3 - &radic;5"
+      ],
+      "answer": "3 + &radic;5"
+},
+    {
+      "question": "If (p + q) / (q + r) = (r + s) / (s + p); (q + r) &ne; 0, (s + p) &ne; 0, then which one of the following is correct?",
+      "options": [
+            "p + q + r + s = 0",
+            "p = r",
+            "Either p + q + r + s = 0 or p = r",
+            "None of the above"
+      ],
+      "answer": "Either p + q + r + s = 0 or p = r"
+},
+    {
+      "question": "If n is natural number less than 7, then what is the number of values of n for which (12n + 2) and (8n + 1) are relatively prime?",
+      "options": [
+            "6",
+            "5",
+            "4",
+            "3"
+      ],
+      "answer": "6"
+},
+    {
+      "question": "What is the HCF of x<sup>3</sup> + y<sup>3</sup> + 3xy - 1 and (x + y)<sup>4</sup> - 1?",
+      "options": [
+            "x + y",
+            "x + y + 1",
+            "x + y - 1",
+            "1"
+      ],
+      "answer": "x + y - 1"
+},
+    {
+      "question": "Let x = n(n + 1)(n + 2), where n is an even natural number. Which of the following statements is/are correct?<br/><br/>I. x is always divisible by 48.<br/>II. x<sup>2</sup> is always divisible by 144.<br/><br/>Select the answer using the code given below.",
+      "options": [
+            "I only",
+            "II only",
+            "Both I and II",
+            "Neither I nor II"
+      ],
+      "answer": "II only"
+},
+    {
+      "question": "What is the LCM of x<sup>4</sup> + x<sup>2</sup>y<sup>2</sup> + y<sup>4</sup>, x<sup>3</sup>y + y<sup>4</sup> and x<sup>4</sup>y<sup>2</sup> - x<sup>3</sup>y<sup>3</sup> ?",
+      "options": [
+            "x<sup>3</sup>y<sup>3</sup>(x<sup>6</sup> - y<sup>6</sup>)",
+            "x<sup>3</sup>y<sup>2</sup>(x<sup>6</sup> - y<sup>6</sup>)",
+            "x<sup>3</sup>y(x<sup>6</sup> - y<sup>6</sup>)",
+            "xy(x<sup>6</sup> - y<sup>6</sup>)"
+      ],
+      "answer": "x<sup>3</sup>y<sup>2</sup>(x<sup>6</sup> - y<sup>6</sup>)"
+},
+    {
+      "question": "Let XYZ be a 3-digit number. Let D be the difference between XYZ and ZYX. What is the remainder when D is divided by 99?",
+      "options": [
+            "0",
+            "1",
+            "7",
+            "9"
+      ],
+      "answer": "0"
+},
+    {
+      "question": "Let p and q be two natural numbers such that (p + q)<sup>p + q</sup> is divisible by 512. What is the least value of (p + q)?",
+      "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+      ],
+      "answer": "8"
+},
+    {
+      "question": "What is (a + b)<sup>2</sup> / ((c - a)(c + a + b)) + (a + b)c / (c<sup>2</sup> + bc - a<sup>2</sup> - ab) - (a + 2b + c) / (2(c - a)), a &ne; b, b &ne; c, c &ne; a equal to?",
+      "options": [
+            "-1/2",
+            "0",
+            "1/2",
+            "1"
+      ],
+      "answer": "-1/2"
+},
+    {
+      "question": "If a<sup>b</sup> = b<sup>a</sup>, then what is (a * (a / b)<sup>a / b</sup>) / a<sup>(a / b)</sup> equal to?",
+      "options": [
+            "1",
+            "ab",
+            "b",
+            "a<sup>b</sup>"
+      ],
+      "answer": "1"
+},
+    {
+      "question": "If x = 2 + 2<sup>1/2</sup> + 2<sup>3/2</sup>, then what is x<sup>2</sup> - 4x - 10 equal to?",
+      "options": [
+            "0",
+            "1",
+            "4",
+            "6"
+      ],
+      "answer": "4"
+},
+    {
+      "question": "If (&radic;(p + x) + &radic;(p - x)) / (&radic;(p + x) - &radic;(p - x)) = p, then what is x equal to?",
+      "options": [
+            "p / (p<sup>2</sup> + 1)",
+            "2p / (p<sup>2</sup> + 1)",
+            "p<sup>2</sup> / (p<sup>2</sup> + 1)",
+            "2p<sup>2</sup> / (p<sup>2</sup> + 1)"
+      ],
+      "answer": "2p<sup>2</sup> / (p<sup>2</sup> + 1)"
+},
+    {
+      "question": "If ((a - b) / 2)x<sup>2</sup> - ((a + b) / 2)x + b = 0, then what are the roots of this equation?",
+      "options": [
+            "1, b / (a - b)",
+            "1, 2b / (a - b)",
+            "1/2, b / (a + b)",
+            "1/2, 2b / (a + b)"
+      ],
+      "answer": "1, 2b / (a - b)"
+},
+    {
+      "question": "If x - 1/x = 2, x > 0; then what is x<sup>2</sup> - 1/x<sup>2</sup> equal to?",
+      "options": [
+            "6",
+            "4&radic;2",
+            "4",
+            "2&radic;2"
+      ],
+      "answer": "4&radic;2"
+},
+    {
+      "question": "If (a - b)<sup>2</sup> + (b - c)<sup>2</sup> + (c - a)<sup>2</sup> = 6 and a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> = 29, then what is (a + b + c) equal to?",
+      "options": [
+            "&plusmn;9",
+            "&plusmn;8",
+            "&plusmn;6",
+            "&plusmn;3"
+      ],
+      "answer": "&plusmn;9"
+},
+    {
+      "question": "If p = (&radic;5 - 2) / (&radic;5 + 2) and q = (&radic;5 + 2) / (&radic;5 - 2), then what is (p/q + q/p) equal to?",
+      "options": [
+            "18",
+            "8&radic;5",
+            "322",
+            "72&radic;5"
+      ],
+      "answer": "322"
+},
+    {
+      "question": "What is the digit at hundreds place of the number (25)<sup>10</sup> ?",
+      "options": [
+            "1",
+            "2",
+            "5",
+            "6"
+      ],
+      "answer": "6"
+},
+    {
+      "question": "A number N is such that when divided by 4, 6, 7 or 9, it leaves 3 as remainder. What is the smallest 4-digit number that satisfies this property?",
+      "options": [
+            "1003",
+            "1005",
+            "1007",
+            "1011"
+      ],
+      "answer": "1011"
+},
+    {
+      "question": "If &radic;(2 + &radic;(2 + &radic;(2 + &radic;(2 + ...)))) = cosec&theta;, then what is sin&theta; equal to?",
+      "options": [
+            "1",
+            "&radic;3 / 2",
+            "1 / &radic;2",
+            "1 / 2"
+      ],
+      "answer": "1 / 2"
+},
+    {
+          "question": "If 8 sin&theta; - cos&theta; = 4, where 0 < &theta; < &pi;/2, then what is cosec&theta; equal to?",
+          "options": [
+                "1",
+                "3 / 2",
+                "5 / 3",
+                "2"
+          ],
+          "answer": "5 / 3"
+    },
+    {
+          "question": "If 2 tan&theta; = sec<sup>2</sup>&theta; - 2, where 0 < &theta; < &pi;/2, then what is cot&theta; equal to?",
+          "options": [
+                "&radic;2 - 1",
+                "&radic;2 + 1",
+                "&radic;3 - 1",
+                "&radic;3 + 2"
+          ],
+          "answer": "&radic;2 - 1"
+    },
+    {
+          "question": "What is (sec&theta; - tan&theta;) - &radic;((1 - sin&theta;) / (1 + sin&theta;)) equal to?",
+          "options": [
+                "0",
+                "2 tan&theta;",
+                "2 sec&theta;",
+                "sin&theta; + cos&theta;"
+          ],
+          "answer": "0"
+    },
+    {
+          "question": "If cot&theta; = &radic;7, then what is (cosec<sup>2</sup>&theta; - sec<sup>2</sup>&theta;) / (cosec<sup>2</sup>&theta; + sec<sup>2</sup>&theta;) equal to?",
+          "options": [
+                "1 / 2",
+                "1 / 3",
+                "2 / 3",
+                "3 / 4"
+          ],
+          "answer": "3 / 4"
+    },
+    {
+          "question": "The difference between the two acute angles in a right-angled triangle is &pi;/12 radian. One of the acute angles of the triangle is",
+          "options": [
+                "60&deg;",
+                "57.5&deg;",
+                "52.5&deg;",
+                "47.5&deg;"
+          ],
+          "answer": "52.5&deg;"
+    },
+    {
+          "question": "If &alpha; and &beta; are the roots of the equation log<sub>10</sub>(998 + &radic;(x<sup>2</sup> - 18x + 76)) = 3, then what is (&alpha; - &beta;)<sup>2</sup> equal to?",
+          "options": [
+                "16",
+                "25",
+                "36",
+                "49"
+          ],
+          "answer": "36"
+    },
+    {
+          "question": "If x<sup>4</sup> + y<sup>4</sup> = 14x<sup>2</sup>y<sup>2</sup>, then consider the following :<br/><br/>I. log<sub>10</sub>(x<sup>2</sup> + y<sup>2</sup>) = log<sub>10</sub>x + log<sub>10</sub>y + 2log<sub>10</sub>2<br/>II. log<sub>10</sub>(x<sup>2</sup> - y<sup>2</sup>) = log<sub>10</sub>x + log<sub>10</sub>y + log<sub>10</sub>2 + 0.5log<sub>10</sub>3<br/><br/>Which of the above is/are correct?",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "Both I and II"
+    },
+    {
+          "question": "Which of the following is/are the factor(s) of (3x + y)<sup>2</sup> + (3x + y)(x + 5y) - 20(x + 5y)<sup>2</sup> ?<br/><br/>I. (4x + 13y)<br/>II. (x + 19y)<br/><br/>Select the correct answer using the code given below.",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "Both I and II"
+    },
+    {
+          "question": "What is (x / (x - y) + y / (y - z) + z / (z - x)) / ( (x + y) / (x - y) + (y + z) / (y - z) + (z + x) / (z - x) + 3 ) equal to?",
+          "options": [
+                "1",
+                "1 / 2",
+                "1 / 3",
+                "1 / 4"
+          ],
+          "answer": "1 / 2"
+    },
+    {
+          "question": "Let psin<sup>2</sup>&alpha; + qcos<sup>2</sup>&alpha; = m, qsin<sup>2</sup>&beta; + pcos<sup>2</sup>&beta; = n; p &ne; m, n and q &ne; m, n.<br/><br/>What is tan<sup>2</sup>&alpha; / tan<sup>2</sup>&beta; equal to?",
+          "options": [
+                "- ((m - q)(n - q)) / ((m - p)(n - p))",
+                "- ((m - q)(n - p)) / ((m - p)(n - q))",
+                "((m - q)(n - q)) / ((m - p)(n - p))",
+                "((m - q)(n - p)) / ((m - p)(n - q))"
+          ],
+          "answer": "((m - q)(n - q)) / ((m - p)(n - p))"
+    },
+    {
+          "question": "If &alpha; and &beta; are complementary angles, then which one of the following is correct?",
+          "options": [
+                "mn - 1 = 0",
+                "mn + 1 = 0",
+                "m + n = 0",
+                "m - n = 0"
+          ],
+          "answer": "m - n = 0"
+    },
+    {
+          "question": "Let cosec&theta; - sin&theta; = p and sec&theta; - cos&theta; = q.<br/><br/>What is (psin&theta; + qcos&theta;) equal to?",
+          "options": [
+                "-1",
+                "0",
+                "1",
+                "2"
+          ],
+          "answer": "1"
+    },
+    {
+          "question": "What is p<sup>2</sup>q<sup>2</sup>(p<sup>2</sup> + q<sup>2</sup> + 3) equal to?",
+          "options": [
+                "0",
+                "1",
+                "2",
+                "4"
+          ],
+          "answer": "1"
+    },
+    {
+          "question": "Let (sin&alpha;) / (sin&beta;) = (4&radic;2) / 3 and (cos&alpha;) / (cos&beta;) = (2&radic;3) / 9.<br/><br/>What is tan<sup>2</sup>&alpha; equal to?",
+          "options": [
+                "8",
+                "6",
+                "4",
+                "3"
+          ],
+          "answer": "8"
+    },
+    {
+          "question": "What is tan<sup>2</sup>&beta; equal to?",
+          "options": [
+                "1 / &radic;2",
+                "3 / &radic;2",
+                "1 / 3",
+                "2 / 3"
+          ],
+          "answer": "1 / 3"
+    },
+    {
+          "question": "Let (1 + sin&theta;) / cos&theta; = p + &radic;(p<sup>2</sup> + 1).<br/><br/>What is sec&theta; equal to?",
+          "options": [
+                "p",
+                "&radic;(p<sup>2</sup> + 1)",
+                "1 / &radic;(p<sup>2</sup> + 1)",
+                "p / &radic;(p<sup>2</sup> + 1)"
+          ],
+          "answer": "&radic;(p<sup>2</sup> + 1)"
+    },
+    {
+          "question": "What is tan&theta; equal to?",
+          "options": [
+                "p",
+                "&radic;(p<sup>2</sup> + 1)",
+                "1 / &radic;(p<sup>2</sup> + 1)",
+                "p / &radic;(p<sup>2</sup> + 1)"
+          ],
+          "answer": "p"
+    },
+    {
+          "question": "Let sin&theta; + cos&theta; = p and sec&theta; + cosec&theta; = q, where p &ne; 1.<br/><br/>What is the relation between p and q?",
+          "options": [
+                "p = q(p<sup>2</sup> - 1)",
+                "2p = q(p<sup>2</sup> - 1)",
+                "q = p<sup>2</sup> - 1",
+                "2q = p(p<sup>2</sup> - 1)"
+          ],
+          "answer": "2p = q(p<sup>2</sup> - 1)"
+    },
+    {
+          "question": "What is tan&theta; + cot&theta; equal to?",
+          "options": [
+                "p / q",
+                "q / p",
+                "2p / q",
+                "2q / p"
+          ],
+          "answer": "q / p"
+    },
+    {
+          "question": "Two trains X and Y are travelling in the same direction at 100 km/hr and 60 km/hr respectively. Train X crosses a man in train Y in 9 seconds. What is the length of train X?",
+          "options": [
+                "80 m",
+                "100 m",
+                "120 m",
+                "150 m"
+          ],
+          "answer": "100 m"
+    },
+    {
+          "question": "Two persons X and Y leave place P for place Q at 7:00 a.m. and 7:10 a.m. respectively along the same path. X walks at a speed of 4.8 km/hr and Y walks at a speed of 6 km/hr. How many kilometres from place P will X meet Y?",
+          "options": [
+                "3 km",
+                "3.5 km",
+                "4 km",
+                "4.5 km"
+          ],
+          "answer": "4 km"
+    },
+    {
+          "question": "There are two employees X and Y. X's salary is first increased by 12% and then decreased by 10%, and Y's salary is first increased by 10% and then decreased by 12%. If their salaries at present are equal, then what was the ratio of initial salary of X to initial salary of Y?",
+          "options": [
+                "50 : 53",
+                "51 : 53",
+                "121 : 126",
+                "121 : 125"
+          ],
+          "answer": "121 : 126"
+    },
+    {
+          "question": "In a village consisting of p persons, x% can read and write. Of the males, only y% can read and write. Of the females, only z% can read and write. If x, y > z, then what is the number of males in the village?",
+          "options": [
+                "p(x - z) / (y - z)",
+                "p(y - z) / (x - z)",
+                "px / y",
+                "py / x"
+          ],
+          "answer": "p(x - z) / (y - z)"
+    },
+    {
+          "question": "X and Y are two alloys of copper (Cu) and zinc (Zn). Alloy X is prepared by mixing Cu and Zn in the ratio 5:4, and alloy Y is prepared by mixing Cu and Zn in the ratio 5:13 respectively. If equal quantities of alloys X and Y are melted to form a third alloy Z, then what is the ratio of Cu to Zn in Z?",
+          "options": [
+                "5 : 8",
+                "5 : 7",
+                "6 : 7",
+                "7 : 8"
+          ],
+          "answer": "5 : 7"
+    },
+    {
+          "question": "Two students X and Y appeared in a test. The score of X is 20 more than that of Y. If the score of X is 75% of the sum of the scores of X and Y, then what is the ratio of score of X to score of Y?",
+          "options": [
+                "5 : 1",
+                "4 : 1",
+                "3 : 1",
+                "3 : 2"
+          ],
+          "answer": "3 : 1"
+    },
+    {
+          "question": "If one root of the equation 2x<sup>2</sup> - 5px + 2p<sup>2</sup> = 0 exceeds the other by 4, then what is the value of p?",
+          "options": [
+                "8 / 3",
+                "4 / 3",
+                "2 / 3",
+                "1 / 3"
+          ],
+          "answer": "8 / 3"
+    },
+    {
+          "question": "An amount of &#8377;10,000 is borrowed at 10% per annum on compound interest for 3 years, compounded annually, and paid back in 3 equal annual installments during these years. What is the amount of each installment (approximately)?",
+          "options": [
+                "&#8377;4,437",
+                "&#8377;4,237",
+                "&#8377;4,021",
+                "&#8377;3,811"
+          ],
+          "answer": "&#8377;4,021"
+    },
+    {
+          "question": "What is the solution of the inequalities 5x + 3 < 8x - 9 and 2x + 20 > 5x + 2?",
+          "options": [
+                "4 < x < 6",
+                "3 < x < 5",
+                "x < 3 or x > 5",
+                "x < 4 or x > 6"
+          ],
+          "answer": "4 < x < 6"
+    },
+    {
+          "question": "A shopkeeper gives three consecutive discounts 10%, 20% and 25% after which he sells the article at a profit of 8% on the cost price. Had he sold the article after the first discount, how much profit would he have got?",
+          "options": [
+                "20%",
+                "40%",
+                "50%",
+                "None of the above"
+          ],
+          "answer": "None of the above"
+    },
+    {
+          "question": "Let AD be the altitude of a triangle ABC. If (AB + AC) = p, (AB - AC) = q and (BD - CD) = r, then what is BC equal to?",
+          "options": [
+                "qr / p",
+                "pr / q",
+                "pq / r",
+                "p + q - r"
+          ],
+          "answer": "pq / r"
+    },
+    {
+          "question": "The sum of the height and the radius of a right circular cylinder is 21 cm, and the radius is less than the height. If the curved surface area of the cylinder is 616 cm<sup>2</sup>, then what is the volume of the cylinder? (Take &pi; = 22 / 7)",
+          "options": [
+                "1078 cm<sup>3</sup>",
+                "1617 cm<sup>3</sup>",
+                "1927 cm<sup>3</sup>",
+                "2156 cm<sup>3</sup>"
+          ],
+          "answer": "2156 cm<sup>3</sup>"
+    },
+    {
+          "question": "ABC is a triangle right angled at B. P is the midpoint of AB and Q is the midpoint of BC. Consider the following :<br/><br/>I. AQ = &radic;73 units<br/>II. CP = &radic;52 units<br/><br/>Which of the above is/are required to determine the area of the triangle?",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "More information is needed"
+          ],
+          "answer": "Both I and II"
+    },
+    {
+          "question": "The length, breadth and height of a cuboid are consecutive integers. If the volume of the cuboid is 336 cubic units, then what is the total surface area of the cuboid?",
+          "options": [
+                "288 square units",
+                "292 square units",
+                "296 square units",
+                "Cannot be determined due to insufficient data"
+          ],
+          "answer": "292 square units"
+    },
+    {
+          "question": "In a circle of radius 14 cm, APB is a shorter arc and P is the midpoint of the arc. Let C be the midpoint of the chord AB and PC = 7 cm. What is the length of the chord AP?",
+          "options": [
+                "3.5 cm",
+                "7 cm",
+                "10.5 cm",
+                "14 cm"
+          ],
+          "answer": "14 cm"
+    },
+    {
+          "question": "Two poles of heights 10 m and 15 m are 25 m apart. What is the height of the point of intersection of the lines joining the tip of each pole to the foot of the other pole?",
+          "options": [
+                "4.8 m",
+                "5 m",
+                "6 m",
+                "6.4 m"
+          ],
+          "answer": "6 m"
+    },
+    {
+          "question": "ABC is a triangle right angled at B. Further, (AB + BC) exceeds AC by 10 units. If the perimeter of the triangle is 60 units, then what is the area of the triangle?",
+          "options": [
+                "75 square units",
+                "100 square units",
+                "125 square units",
+                "150 square units"
+          ],
+          "answer": "150 square units"
+    },
+    {
+          "question": "Two poles are situated 24 m apart and their heights differ by 10 m. What is the distance between their tips?",
+          "options": [
+                "25 m",
+                "26 m",
+                "30 m",
+                "Cannot be determined due to insufficient data"
+          ],
+          "answer": "26 m"
+    },
+    {
+          "question": "Let X, Y and Z be the midpoints of the sides BC, CA and AB of a triangle ABC respectively. Consider the following statements :<br/><br/>I. The quadrilateral AZXY is a parallelogram.<br/>II. The area of the quadrilateral AZXY is half of the area of the triangle ABC.<br/><br/>Which of the statements given above is/are correct?",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "Both I and II"
+    },
+    {
+          "question": "Consider the following angles :<br/><br/>I. 4&deg;<br/>II. 5&deg;<br/>III. 6&deg;<br/>IV. 8&deg;<br/><br/>How many of the above can be the exterior angle of a regular polygon?",
+          "options": [
+                "One",
+                "Two",
+                "Three",
+                "All four"
+          ],
+          "answer": "All four"
+    },
+    {
+          "question": "In a triangle ABC, &ang;A = 30&deg;, AB = 7 cm and AC = 12 cm. What is the area of the triangle ABC?",
+          "options": [
+                "21 cm<sup>2</sup>",
+                "21&radic;3 cm<sup>2</sup>",
+                "42 cm<sup>2</sup>",
+                "42&radic;3 cm<sup>2</sup>"
+          ],
+          "answer": "21 cm<sup>2</sup>"
+    },
+    {
+          "question": "ABC is a triangle right angled at B. D is a point on AC such that BD is perpendicular to AC. If AB = p and BC = &radic;3p, then what is BD equal to?",
+          "options": [
+                "p / 3",
+                "p / 2",
+                "&radic;3p / 2",
+                "&radic;3p / 4"
+          ],
+          "answer": "&radic;3p / 2"
+    },
+    {
+          "question": "The difference between an interior angle and an exterior angle of a regular polygon is 120&deg;. What is the number of sides of the polygon?",
+          "options": [
+                "9",
+                "10",
+                "11",
+                "12"
+          ],
+          "answer": "12"
+    },
+    {
+          "question": "An angle &theta; is exactly one-fourth of its complementary angle. What is the value of angle &theta;?",
+          "options": [
+                "12&deg;",
+                "15&deg;",
+                "18&deg;",
+                "20&deg;"
+          ],
+          "answer": "18&deg;"
+    },
+    {
+          "question": "The sides of a triangle are 11 cm, 60 cm and 61 cm. What is the area of the triangle formed by joining the mid-points of the sides of the triangle?",
+          "options": [
+                "165 cm<sup>2</sup>",
+                "110 cm<sup>2</sup>",
+                "82.5 cm<sup>2</sup>",
+                "72.5 cm<sup>2</sup>"
+          ],
+          "answer": "82.5 cm<sup>2</sup>"
+    },
+    {
+          "question": "A pendulum swings through an angle of 30&deg; and its end describes an arc of length 55 cm. What is the length of the pendulum? (Take &pi; = 22 / 7)",
+          "options": [
+                "90 cm",
+                "100 cm",
+                "105 cm",
+                "110 cm"
+          ],
+          "answer": "105 cm"
+    },
+    {
+          "question": "A conical tent has an angle of 60&deg; at the vertex. If the curved surface area is 100 m<sup>2</sup>, then what is the volume of the tent?",
+          "options": [
+                "250&radic;2 / &radic;(3&pi;) m<sup>3</sup>",
+                "500&radic;3 / &radic;&pi; m<sup>3</sup>",
+                "1000&radic;3 / &radic;(2&pi;) m<sup>3</sup>",
+                "1000&radic;3 / &radic;&pi; m<sup>3</sup>"
+          ],
+          "answer": "250&radic;2 / &radic;(3&pi;) m<sup>3</sup>"
+    },
+    {
+          "question": "A right circular cone and a hemisphere have equal base and equal volume. What is the ratio of the height of the cone to the radius of the hemisphere?",
+          "options": [
+                "1 : 1",
+                "1 : 2",
+                "2 : 1",
+                "3 : 2"
+          ],
+          "answer": "2 : 1"
+    },
+    {
+          "question": "A wire is in the form of an equilateral triangle with an area of 36&radic;3 cm<sup>2</sup>. If it is changed into a semicircle, then what is its radius?",
+          "options": [
+                "9 / &pi; cm",
+                "18 / (&pi; + 2) cm",
+                "18 / &pi; cm",
+                "None of the above"
+          ],
+          "answer": "None of the above"
+    },
+    {
+          "question": "Let the area of the largest possible square inscribed in a circle of unit radius be x. Let the area of the largest possible circle inscribed in a square of unit side length be y. What is the relation between x and y?",
+          "options": [
+                "&pi;x = 2y",
+                "2&pi;x = y",
+                "&pi;x = 4y",
+                "&pi;x = 8y"
+          ],
+          "answer": "&pi;x = 8y"
+    },
+    {
+          "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.<br/><br/><b>Question :</b> What is the remainder when x<sup>2n</sup> - y<sup>2n</sup> + 1 is divided by x<sup>n</sup> + y<sup>n</sup>, where n is a natural number?<br/><br/><b>Statement-I :</b> n is odd.<br/><br/><b>Statement-II :</b> n is even.<br/><br/>Which one of the following is correct in respect of the above Question and the Statements?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question can be answered even without using any of the Statements"
+          ],
+          "answer": "The Question can be answered even without using any of the Statements"
+    },
+    {
+          "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.<br/><br/><b>Question :</b> The product of a natural number N and the number M written by the same digits of N in the reverse order is 252. What is the number N?<br/><br/><b>Statement-I :</b> N + M = 33<br/><br/><b>Statement-II :</b> N > M<br/><br/>Which one of the following is correct in respect of the above Question and the Statements?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question can be answered even without using any of the Statements"
+          ],
+          "answer": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone"
+    },
+    {
+          "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.<br/><br/><b>Question :</b> The last digit in the expansion of the number (54D)<sup>100</sup> is 1. What is the value of the digit D?<br/><br/><b>Statement-I :</b> D > 5<br/><br/><b>Statement-II :</b> D is a multiple of 3.<br/><br/>Which one of the following is correct in respect of the above Question and the Statements?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question can be answered even without using any of the Statements"
+          ],
+          "answer": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone"
+    },
+    {
+          "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.<br/><br/><b>Question :</b> In a triangle ABC, &ang;A = &ang;B - &ang;C. Is angle A acute?<br/><br/><b>Statement-I :</b> ABC is not an obtuse-angled triangle.<br/><br/><b>Statement-II :</b> Angle C is acute.<br/><br/>Which one of the following is correct in respect of the above Question and the Statements?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question can be answered even without using any of the Statements"
+          ],
+          "answer": "The Question can be answered even without using any of the Statements"
+    },
+    {
+          "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.<br/><br/><b>Question :</b> In a triangle ABC right angled at B, AC = 20 cm. What is the circum-radius of the triangle?<br/><br/><b>Statement-I :</b> AB = 12 cm<br/><br/><b>Statement-II :</b> BC = 16 cm<br/><br/>Which one of the following is correct in respect of the above Question and the Statements?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question can be answered even without using any of the Statements"
+          ],
+          "answer": "The Question can be answered even without using any of the Statements"
+    },
+    {
+          "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.<br/><br/><b>Question :</b> ABCD is a parallelogram with &ang;ABC = 60&deg;. If the area of the parallelogram is 7&radic;3 square units, then what is the perimeter of the parallelogram?<br/><br/><b>Statement-I :</b> The lengths of the sides AB and DA are prime numbers.<br/><br/><b>Statement-II :</b> The lengths of the sides are natural numbers each greater than 1 unit.<br/><br/>Which one of the following is correct in respect of the above Question and the Statements?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question can be answered even without using any of the Statements"
+          ],
+          "answer": "The Question can be answered by using either Statement alone"
+    },
+    {
+          "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.<br/><br/><b>Question :</b> AB and CD are chords of a circle intersecting at P. If AP &times; PB = 48 square units, then what is CP &times; PD equal to?<br/><br/><b>Statement-I :</b> AP = 8 units<br/><br/><b>Statement-II :</b> CP = 10 units<br/><br/>Which one of the following is correct in respect of the above Question and the Statements?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question can be answered even without using any of the Statements"
+          ],
+          "answer": "The Question can be answered even without using any of the Statements"
+    },
+    {
+          "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.<br/><br/><b>Question :</b> In a quadrilateral ABCD, AB = 6 units, BC = 18 units, CD = 6 units, DA = 9 units. What is the length of diagonal BD?<br/><br/><b>Statement-I :</b> The length of BD is an integer greater than 13.<br/><br/><b>Statement-II :</b> The length of BD is an even integer.<br/><br/>Which one of the following is correct in respect of the above Question and the Statements?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question can be answered even without using any of the Statements"
+          ],
+          "answer": "The Question can be answered by using either Statement alone"
+    },
+    {
+          "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.<br/><br/><b>Question :</b> ABC is an isosceles triangle with AB = AC = 10 units. If the area of the triangle is 48 square units, then what is the length of the base BC?<br/><br/><b>Statement-I :</b> The length of BC is an even integer.<br/><br/><b>Statement-II :</b> The height of the triangle is greater than the length of half of the base.<br/><br/>Which one of the following is correct in respect of the above Question and the Statements?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question can be answered even without using any of the Statements"
+          ],
+          "answer": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone"
+    },
+    {
+          "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.<br/><br/><b>Question :</b> The diagonals of a rhombus ABCD are in the ratio 5:12. Is one of the diagonals equal to side of the rhombus?<br/><br/><b>Statement-I :</b> The sum of the diagonals = 34 cm.<br/><br/><b>Statement-II :</b> The length of a side = 13 cm.<br/><br/>Which one of the following is correct in respect of the above Question and the Statements?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question can be answered even without using any of the Statements"
+          ],
+          "answer": "The Question can be answered even without using any of the Statements"
+    },
+    {
+          "question": "Which measure of central tendency is least affected by the presence of extreme observations in the data?",
+          "options": [
+                "Arithmetic mean",
+                "Harmonic mean",
+                "Geometric mean",
+                "Median"
+          ],
+          "answer": "Median"
+    },
+    {
+          "question": "For the following two (02) items:<br/><br/>The following data represent the distance covered (in metres) by two groups of athletic children. It is known that the median distance in the first group is 20.8 metres while the mean distance in the second group is 17.3 metres. Some frequencies in both the groups are missing :<br/><br/><b>Distance Class</b> | <b>First Group</b> | <b>Second Group</b><br/>0-5 | u | 3u<br/>5-10 | v | 2v<br/>10-15 | 11 | 40<br/>15-20 | 52 | 50<br/>20-25 | 75 | 30<br/>25-30 | 22 | 28<br/><br/>What is the value of u?",
+          "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+          ],
+          "answer": "3"
+    },
+    {
+          "question": "What is the value of v?",
+          "options": [
+                "5",
+                "6",
+                "7",
+                "8"
+          ],
+          "answer": "7"
+    },
+    {
+          "question": "For the following two (02) items:<br/><br/>Consider the following distribution having median value 24 :<br/><br/><b>Marks</b> | <b>Number of Students</b><br/>Less than 10 | 5<br/>Less than 20 | 30<br/>Less than 30 | 30 + k<br/>Less than 40 | 48 + k<br/>Less than 50 | 55 + k<br/><br/>What is the value of k?",
+          "options": [
+                "20",
+                "22",
+                "25",
+                "30"
+          ],
+          "answer": "25"
+    },
+    {
+          "question": "What is the mean of the distribution?",
+          "options": [
+                "21.625",
+                "22.225",
+                "23.225",
+                "24.625"
+          ],
+          "answer": "24.625"
+    },
+    {
+          "question": "To find the average ratio like price/unit, work done/hour, kilometre/hour under certain conditions, the suitable measure of central tendency applicable is",
+          "options": [
+                "arithmetic mean",
+                "geometric mean",
+                "harmonic mean",
+                "mode"
+          ],
+          "answer": "harmonic mean"
+    },
+    {
+          "question": "The frequency distribution of marks of 100 candidates in a particular examination is as follows :<br/><br/><b>Marks</b> | <b>Number of Candidates</b><br/>More than 10 | 100<br/>More than 20 | 75<br/>More than 30 | 60<br/>More than 40 | 40<br/><br/>What are the average marks of the candidates?",
+          "options": [
+                "20.5",
+                "22.5",
+                "30.5",
+                "32.5"
+          ],
+          "answer": "32.5"
+    },
+    {
+          "question": "The arithmetic mean of 200 observations is 60. If 5 is multiplied to each observation, then what will be the new arithmetic mean?",
+          "options": [
+                "500",
+                "300",
+                "60",
+                "40"
+          ],
+          "answer": "300"
+    },
+    {
+          "question": "A distribution consists of 3 components with frequencies 45, 40 and 55 having their means 2, 2.5 and 2 respectively. What is the mean of the combined distribution?",
+          "options": [
+                "2.14",
+                "2.25",
+                "2.37",
+                "2.50"
+          ],
+          "answer": "2.14"
+    },
+    {
+          "question": "Which one of the following is a positional average?",
+          "options": [
+                "Arithmetic mean",
+                "Median",
+                "Mode",
+                "Geometric mean"
+          ],
+          "answer": "Median"
     }
   ]
 };
