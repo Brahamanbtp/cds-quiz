@@ -5617,6 +5617,227 @@ const englishData: Record<string, Question[]> = {
           ],
           "answer": "(d)"
     }
+  ,
+    {
+          "question": "<b>Directions:</b> Each item in this section consists of a sentence with an underlined word followed by four words/groups of words. Select the option that is nearest in meaning to the underlined word.<br><br>Winning the World Cup was the most <u>exhilarating</u> moment for the Indian cricket team.",
+          "options": [
+                "peaceful",
+                "prominent",
+                "thrilling",
+                "eager"
+          ],
+          "answer": "thrilling"
+    },
+    {
+          "question": "Justice prevailed and the murderer was <u>decapitated</u>.",
+          "options": [
+                "beheaded",
+                "dismissed",
+                "kidnapped",
+                "discharged"
+          ],
+          "answer": "beheaded"
+    },
+    {
+          "question": "The hotel room had <u>dingy</u> walls.",
+          "options": [
+                "hazy",
+                "dark and dirty",
+                "pale",
+                "cloudy"
+          ],
+          "answer": "dark and dirty"
+    },
+    {
+          "question": "Keshav planned the event with <u>fastidious</u> care.",
+          "options": [
+                "inattentive",
+                "boring",
+                "meticulous",
+                "uninteresting"
+          ],
+          "answer": "meticulous"
+    },
+    {
+          "question": "Her left leg was paralysed due to a <u>debilitating</u> disease.",
+          "options": [
+                "crippling",
+                "sad",
+                "strange",
+                "critical"
+          ],
+          "answer": "crippling"
+    },
+    {
+          "question": "<b>Directions:</b> Given below are pairs of sentences (S1, S2). Select the co-relationship of the second sentence to the first from among the options.<br><br>S1 : Civics classes focus on citizenship and governance.<br>S2 : The subject develops concepts that enable the reader to apply knowledge about government and the state to the idea of participative citizenship.<br><br>The second sentence",
+          "options": [
+                "expands the first",
+                "contrasts with the first",
+                "proposes a solution",
+                "states an effect"
+          ],
+          "answer": "expands the first"
+    },
+    {
+          "question": "S1 : China has made rapid economic strides but at the cost of democracy.<br>S2 : India has followed a path towards rapid economic growth, but by abiding by the norms of a democratic polity.<br><br>The second sentence",
+          "options": [
+                "negates the first",
+                "explains what is stated in the first",
+                "offers a contrast to the first",
+                "confirms the first"
+          ],
+          "answer": "offers a contrast to the first"
+    },
+    {
+          "question": "S1 : The concept of right or wrong needs to be determined on the basis of principles.<br>S2 : When it comes to matters related to the field of human rights, positions should be based solely on principles.<br><br>The second sentence",
+          "options": [
+                "establishes the first",
+                "develops an axiom based on the first",
+                "contradicts the first",
+                "delegitimises the premise of the first"
+          ],
+          "answer": "develops an axiom based on the first"
+    },
+    {
+          "question": "S1 : The concept of <i>Ahimsa</i> was adopted by Gandhiji after he was introduced to it by Tolstoy. The latter first read about it in German translation of <i>Thirukkural</i>, the great moral treatise in Tamil.<br>S2 : Much in the same way that Gandhi was influenced by Tolstoy, in the United States of America, Martin Luther King Jr. shaped his Civil Rights Movement based on Gandhian principles.<br><br>The second sentence",
+          "options": [
+                "counters the first",
+                "defends the premise of the first",
+                "provides an analogy for the first",
+                "explains the first"
+          ],
+          "answer": "provides an analogy for the first"
+    },
+    {
+          "question": "S1 : The best ever cricket captain India has ever had is <i>XYZ</i>.<br>S2 : As captain, <i>XYZ</i> has won considerably more matches for India than any other captain.<br><br>The second sentence",
+          "options": [
+                "rebuts the first",
+                "is the premise for the first",
+                "contrasts with the first",
+                "dilutes the first"
+          ],
+          "answer": "is the premise for the first"
+    },
+    {
+          "question": "<b>Directions:</b> In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words.<br><br>'Compliment' and 'Complement'",
+          "options": [
+                "Compliment means to synthesise and complement means to praise",
+                "Compliment means to go well with and complement means to praise",
+                "Compliment means to praise and complement means to blend well with",
+                "Compliment means to blend well with and complement means to praise"
+          ],
+          "answer": "Compliment means to praise and complement means to blend well with"
+    },
+    {
+          "question": "'Deify' and 'Defy'",
+          "options": [
+                "Deify means to confer upon one the status of god and defy means to oppose",
+                "Deify means to oppose and defy means to confer upon one the status of god",
+                "Deify means to define and defy means to oppose",
+                "Deify means to deny and defy means to oppose"
+          ],
+          "answer": "Deify means to confer upon one the status of god and defy means to oppose"
+    },
+    {
+          "question": "'Stationery' and 'Stationary'",
+          "options": [
+                "Stationery means standing still and stationary means immobile",
+                "Stationery means writing and office material and stationary means in station",
+                "Stationery means writing and office material and stationary means immobile",
+                "Stationery means standing still and stationary means writing and office material"
+          ],
+          "answer": "Stationery means writing and office material and stationary means immobile"
+    },
+    {
+          "question": "'Complaisant' and 'Complacent'",
+          "options": [
+                "Complaisant means overconfident and complacent means eager to please",
+                "Complaisant means confident and complacent means overconfident",
+                "Complaisant means eager to please and complacent means to manifest universally",
+                "Complaisant means eager to please and complacent means overconfident"
+          ],
+          "answer": "Complaisant means eager to please and complacent means overconfident"
+    },
+    {
+          "question": "'Enquiry' and 'Inquiry'",
+          "options": [
+                "Enquiry means to seek information and inquiry means to investigate",
+                "Enquiry means to investigate and inquiry means to seek information",
+                "Enquiry means to seek information and inquiry means act of investiture",
+                "Enquiry means act of investiture and inquiry means to investigate"
+          ],
+          "answer": "Enquiry means to seek information and inquiry means to investigate"
+    },
+    {
+          "question": "'Masterful' and 'Masterly'",
+          "options": [
+                "Masterful means imperious and masterly means autocratic",
+                "Masterful means skilful and masterly means imperious",
+                "Masterful means leader-like and masterly means skilful",
+                "Masterful means imperious and masterly means highly skilful"
+          ],
+          "answer": "Masterful means imperious and masterly means highly skilful"
+    },
+    {
+          "question": "'Boarder' and 'Border'",
+          "options": [
+                "Boarder means a food-and-lodge resident and border means boundary",
+                "Boarder means boundary and border means a food-and-lodge resident",
+                "Boarder means one who fits planks on the surfaces and border means boundary",
+                "Boarder means wider and border means one who fits planks on the surfaces"
+          ],
+          "answer": "Boarder means a food-and-lodge resident and border means boundary"
+    },
+    {
+          "question": "'Concurrent' and 'Consecutive'",
+          "options": [
+                "Concurrent means occurring at the same time and consecutive means occurring one after the other",
+                "Concurrent means occurring non-simultaneously and consecutive means occurring one after the other",
+                "Concurrent means occurring at the same time and consecutive means occurring thereafter",
+                "Concurrent means occurring thereafter and consecutive means occurring at the same time"
+          ],
+          "answer": "Concurrent means occurring at the same time and consecutive means occurring one after the other"
+    },
+    {
+          "question": "'Epitaph' and 'Epithet'",
+          "options": [
+                "Epitaph means a tombstone and epithet means a phrase expressing an attribute",
+                "Epitaph means words written on a tombstone and epithet means a phrase expressing an attribute",
+                "Epitaph means unspoken words and epithet means a phrase expressing an attribute",
+                "Epitaph means words written on a tombstone and epithet means an epigram"
+          ],
+          "answer": "Epitaph means words written on a tombstone and epithet means a phrase expressing an attribute"
+    },
+    {
+          "question": "'Discomfort' and 'Discomfit'",
+          "options": [
+                "Discomfort means disturb and discomfit means unfit",
+                "Discomfort means unease and discomfit means to embarrass",
+                "Discomfort means to embarrass and discomfit means unfit",
+                "Discomfort means unfit and discomfit means to make comfortable"
+          ],
+          "answer": "Discomfort means unease and discomfit means to embarrass"
+    },
+    {
+          "question": "<b>Directions:</b> In the following items, two lists are given with the keywords mentioned. You are required to match List-I with List-II.<br><br><table style=\"width:100%\"><tr><th>List-I (Loan word)</th><th>List-II (Meaning)</th></tr><tr><td>A. Attach&eacute;</td><td>1. New and experimental</td></tr><tr><td>B. Aperitif</td><td>2. Proven fact of being elsewhere</td></tr><tr><td>C. Avant-garde</td><td>3. Diplomatic support staff</td></tr><tr><td>D. Alibi</td><td>4. A drink just before a meal</td></tr></table>",
+          "options": [
+                "A-3, B-1, C-4, D-2",
+                "A-3, B-4, C-1, D-2",
+                "A-2, B-4, C-1, D-3",
+                "A-2, B-1, C-4, D-3"
+          ],
+          "answer": "A-3, B-4, C-1, D-2"
+    },
+    {
+          "question": "<table style=\"width:100%\"><tr><th>List-I (Loan word)</th><th>List-II (Meaning)</th></tr><tr><td>A. <i>Sui generis</i></td><td>1. Remaining same despite changes</td></tr><tr><td>B. <i>Facta non verba</i></td><td>2. Conclusion not drawn from stated logic</td></tr><tr><td>C. <i>Mutatis mutandis</i></td><td>3. Nothing else like it</td></tr><tr><td>D. <i>Non sequitur</i></td><td>4. Deeds not words</td></tr></table>",
+          "options": [
+                "A-3, B-4, C-1, D-2",
+                "A-3, B-1, C-4, D-2",
+                "A-2, B-4, C-1, D-3",
+                "A-2, B-1, C-4, D-3"
+          ],
+          "answer": "A-3, B-4, C-1, D-2"
+    }
   ]
 };
 
