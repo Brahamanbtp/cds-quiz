@@ -3958,6 +3958,287 @@ const gkData: Record<string, Question[]> = {
           ],
           "answer": "It is a Centrally sponsored scheme."
     }
+  ,
+    {
+          "question": "Which one of the following UN organizations has <i>not</i> been awarded the Nobel Prize ?",
+          "options": [
+                "WFP",
+                "ILO",
+                "UNESCO",
+                "UNHCR"
+          ],
+          "answer": "UNESCO"
+    },
+    {
+          "question": "Which of the following areas has been exempted from the purview of the Citizenship (Amendment) Act, 2019 ?",
+          "options": [
+                "Ladakh",
+                "Jammu and Kashmir",
+                "The Sixth Schedule Areas",
+                "The Fifth Schedule Areas"
+          ],
+          "answer": "The Sixth Schedule Areas"
+    },
+    {
+          "question": "Who among the following stated that 'A just society is that society in which ascending sense of reverence and descending sense of contempt is dissolved into the creation of a compassionate society' ?",
+          "options": [
+                "Vinoba Bhave",
+                "Bhimrao Ramji Ambedkar",
+                "Rammanohar Lohia",
+                "Jayaprakash Narayan"
+          ],
+          "answer": "Bhimrao Ramji Ambedkar"
+    },
+    {
+          "question": "Which of the following statements is/are correct ?<br/><br/>1. Criminal law is exclusively a subject under the State List of the Constitution of India.<br/>2. Code of Civil Procedure falls under the Concurrent List of the Constitution of India.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "2 only"
+    },
+    {
+          "question": "Arrange the following agreements between India and Pakistan in chronological order :<br/><br/>1. Tashkent Declaration<br/>2. Indus Water Treaty<br/>3. Agreement on the Prohibition of Attack Against Each Other's Nuclear Installations and Facilities<br/>4. Agreement on Reducing the Risk from Accidents Relating to Nuclear Weapons<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1, 2, 3, 4",
+                "2, 3, 1, 4",
+                "2, 1, 3, 4",
+                "1, 4, 2, 3"
+          ],
+          "answer": "2, 1, 3, 4"
+    },
+    {
+          "question": "Which of the following statements with regard to the Shanghai Cooperation Organization (SCO) is/are correct ?<br/><br/>1. The official languages of the SCO are Russian and Chinese.<br/>2. The SCO enjoys observer status in the UN General Assembly.<br/>3. The SCO consists of 13 member states.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "1 and 3",
+                "1 and 2",
+                "2 and 3"
+          ],
+          "answer": "1 and 2"
+    },
+    {
+          "question": "Financial Action Task Force is :",
+          "options": [
+                "A wing under the Central Economic Intelligence Bureau",
+                "A division of Enforcement Directorate",
+                "A global money laundering and terrorist financing watchdog",
+                "A UN Anti-Corruption Agency"
+          ],
+          "answer": "A global money laundering and terrorist financing watchdog"
+    },
+    {
+          "question": "In which of the following matters placed before the UN General Assembly, a resolution by two-thirds majority of the members present and voting is required ?<br/><br/>1. Admission of new members to the UN<br/>2. Election of the non-permanent members of the Security Council<br/>3. Election of members of the Economic and Social Council<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 and 2 only",
+                "2 and 3 only",
+                "1 and 3 only",
+                "1, 2 and 3"
+          ],
+          "answer": "1, 2 and 3"
+    },
+    {
+          "question": "'Bharat Parv' was organized by the Government of India during which of the following programmes ?<br/><br/>1. Republic Day 2024<br/>2. National Film Festival 2024<br/>3. Cannes Film Festival 2024<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 and 2 only",
+                "2 and 3 only",
+                "1 and 3 only",
+                "1, 2 and 3"
+          ],
+          "answer": "1 and 3 only"
+    },
+    {
+          "question": "Which one of the following organizations challenged the constitutionality of Section 377 of the Indian Penal Code in the Supreme Court of India ?",
+          "options": [
+                "Naz Foundation (India) Trust",
+                "Bachpan Bachao Andolan",
+                "Sambhav Foundation India",
+                "ActionAid India"
+          ],
+          "answer": "Naz Foundation (India) Trust"
+    },
+    {
+          "question": "As per Article 371G of the Constitution of India, special provisions have been made with respect to the state of Mizoram. Accordingly, no Act of Parliament shall apply on certain matters unless the Legislative Assembly of Mizoram so decides by a resolution. Which one of the following matters is <i>not</i> covered under this Article ?",
+          "options": [
+                "Religious or social practices of the Mizos",
+                "Mizo customary law and procedure",
+                "Administration of civil and criminal justice involving decisions according to Mizo customary law",
+                "Ownership and transfer of natural resources"
+          ],
+          "answer": "Ownership and transfer of natural resources"
+    },
+    {
+          "question": "Which of the following statements, as per the Information Technology Act, 2000, is/are correct ?<br/><br/>1. This Act provides that electronic signature is legally valid in the same manner as the handwritten signature.<br/>2. Both the Central Government and State Governments have been given the power to make rules with respect to electronic signature.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "1 only"
+    },
+    {
+          "question": "Which of the following statements about National Recruitment Agency is correct ?",
+          "options": [
+                "It is a body to conduct Common Eligibility Test (CET) to shortlist the candidates for vacancies under 'Group B' and 'Group C' of the Government.",
+                "Employment in private sector is facilitated in all the districts, particularly 117 aspirational districts.",
+                "It was set up in 2014.",
+                "It has been accorded Constitutional status in 2021."
+          ],
+          "answer": "It is a body to conduct Common Eligibility Test (CET) to shortlist the candidates for vacancies under 'Group B' and 'Group C' of the Government."
+    },
+    {
+          "question": "The Research Design and Standards Organization is the R&D wing of which one of the following organizations ?",
+          "options": [
+                "Bhabha Atomic Research Centre",
+                "Indian Space Research Organization",
+                "Indian Railways",
+                "Defence Research and Development Organization"
+          ],
+          "answer": "Indian Railways"
+    },
+    {
+          "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/>List-I (Speaker of Lok Sabha)<br/>A. Manohar Gajanan Joshi<br/>B. Somnath Chatterjee<br/>C. Meira Kumar<br/>D. Sumitra Mahajan<br/><br/>List-II (Tenure)<br/>1. 14<sup>th</sup> Lok Sabha<br/>2. 13<sup>th</sup> Lok Sabha<br/>3. 16<sup>th</sup> Lok Sabha<br/>4. 15<sup>th</sup> Lok Sabha",
+          "options": [
+                "A-2, B-1, C-4, D-3",
+                "A-2, B-4, C-1, D-3",
+                "A-3, B-4, C-1, D-2",
+                "A-3, B-1, C-4, D-2"
+          ],
+          "answer": "A-2, B-1, C-4, D-3"
+    },
+    {
+          "question": "Consider the following statements about the Vedanta philosophy :<br/><br/>1. Shankara was the founder of Advaita Vedanta.<br/>2. The philosophy of Dvaita was elaborated by Madhva.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "The distribution of <i>charkhas</i> on a wide scale among the people was decided by :",
+          "options": [
+                "Congress Working Committee in 1919",
+                "All India Congress Committee in 1921",
+                "Mahatma Gandhi at the start of Dandi March",
+                "All India Congress Committee in 1947"
+          ],
+          "answer": "All India Congress Committee in 1921"
+    },
+    {
+          "question": "The terms used for cereals in the Rig Veda are :",
+          "options": [
+                "<i>Godhuma</i> and <i>Vrihi</i>",
+                "<i>Yava</i> and <i>Dhanya</i>",
+                "<i>Tila</i> and <i>Khala</i>",
+                "<i>Priyangu</i> and <i>Shyamaka</i>"
+          ],
+          "answer": "<i>Yava</i> and <i>Dhanya</i>"
+    },
+    {
+          "question": "Consider the following statements about the condition of widows in the 18<sup>th</sup> century India :<br/><br/>1. Raja Sawai Jai Singh of Amber promoted widow remarriage.<br/>2. Maratha General Parshuram Bhau promoted widow remarriage.<br/>3. Raja Ram Mohan Roy opposed Sati.<br/><br/>Which of the statements given above are correct ?",
+          "options": [
+                "1 and 2 only",
+                "1 and 3 only",
+                "2 and 3 only",
+                "1, 2 and 3"
+          ],
+          "answer": "1, 2 and 3"
+    },
+    {
+          "question": "Consider the following statements about the administrative measures of Shivaji :<br/><br/>1. The scheme of <i>Ashta Pradhan</i> (eight ministers) was completed and announced at the time of Shivaji's coronation with regulations and duties properly defined.<br/>2. Shivaji introduced Marathi in place of Persian and coined Sanskrit technical terms for administrative purposes.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "With reference to the Mesolithic art in India, consider the following statements :<br/><br/>1. Alexander Burns discovered the first rock paintings in India at Sohagighat in Uttar Pradesh.<br/>2. Bhimbetka rock paintings were discovered when archaeologist V.S. Wakankar noticed the rocks out of a train window while travelling from Bhopal to Itarsi and got off at the nearest railway station to explore the site.<br/>3. The paintings and engravings do not exist in the same shelter in the rock art of Orissa.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "2 and 3",
+                "1 and 2"
+          ],
+          "answer": "2 only"
+    },
+    {
+          "question": "In the decoration of Stupas, what does the term '<i>Kinjalkini</i>' refer to ?",
+          "options": [
+                "Creepers showing ornaments and textiles",
+                "Scarves and saris",
+                "Mango shaped pendants",
+                "A garland of thousand lotus flowers"
+          ],
+          "answer": "A garland of thousand lotus flowers"
+    },
+    {
+          "question": "Which of the following is/are the correct components of the \"Lion Capital\" at Sarnath ?<br/><br/>1. The shaft (stambha-yashti) or the tall tapering column<br/>2. An elliptical top part &ndash; the abacus, devoid of any carvings<br/>3. Overflowing inverted petals below the abacus<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "1 and 3 only",
+                "2 and 3 only",
+                "1, 2 and 3"
+          ],
+          "answer": "1 and 3 only"
+    },
+    {
+          "question": "Consider the following events leading to the Indian Independence :<br/><br/>1. Lucknow Pact<br/>2. Return of Subhash Chandra Bose to India<br/>3. Cripps Mission<br/>4. Naval Mutiny in Bombay<br/><br/>Select the chronological sequence of these events (earliest to latest) from the code given below :",
+          "options": [
+                "4, 3, 2, 1",
+                "3, 4, 2, 1",
+                "1, 2, 3, 4",
+                "2, 1, 3, 4"
+          ],
+          "answer": "1, 2, 3, 4"
+    },
+    {
+          "question": "Who among the following were famous for their metal-casting skills and used to cast excellent matchlocks during the medieval period ?",
+          "options": [
+                "Marathas",
+                "Rajputs",
+                "Ahoms",
+                "Gonds"
+          ],
+          "answer": "Ahoms"
+    },
+    {
+          "question": "Consider the following statements about the Ancient Hindu metal images in India :<br/><br/>1. The Chola period is well known for the aesthetic and technical finesse of its metal sculpture.<br/>2. The iconography and style of Chola metal images were similar to those of their stone counterparts.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Which one of the following terms was used for the States in the Draft Constitution presented by Dr. B.R. Ambedkar on 4<sup>th</sup> November, 1948 ?",
+          "options": [
+                "Union of States",
+                "Federation of States",
+                "Autonomous States",
+                "Subsidiary States"
+          ],
+          "answer": "Union of States"
+    },
+    {
+          "question": "The <i>antariya</i> was a garment worn by people during the Mauryan period. It was :",
+          "options": [
+                "an unstitched length of cloth draped around the body.",
+                "a sewn garment consisting of a sleeved tunic.",
+                "a head covering used exclusively by women.",
+                "made of strips sewn together tied at the waist with a cord."
+          ],
+          "answer": "an unstitched length of cloth draped around the body."
+    }
   ]
 };
 
