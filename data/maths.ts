@@ -2957,7 +2957,7 @@ const mathsData: Record<string, Question[]> = {
           "answer": "Two"
     },
     {
-          "question": "<b>Consider the following for the next three (03) items that follow :</b><br/><br/>Study the following Pie Charts :<br/><br/>Chart-I : Number of houses : 1,20,000<br/>PUCCA : 110&deg;, SEMI PUCCA : 210&deg;, KUTCHA : 40&deg;<br/><br/>Chart-II : Population : 21,00,000<br/>LIVING IN PUCCA HOUSES : 60&deg;, LIVING IN KUTCHA HOUSES : 70&deg;, HOUSELESS : 20&deg;, LIVING IN SEMI PUCCA HOUSES : 210&deg;<br/><br/>Chart-III : Number of families : 3,60,000<br/>LIVING IN PUCCA HOUSES : 70&deg;, LIVING IN KUTCHA HOUSES : 185&deg;, HOUSELESS : 20&deg;, LIVING IN SEMI PUCCA HOUSES : 85&deg;<br/><br/>On an average, how many persons live in every pucca house ?",
+          "question": "<b>Consider the following for the next three (03) items that follow :</b><br/><br/>Study the following Pie Charts :<br/><br/>Chart-I : Number of houses : 1,20,000<br/>PUCCA : 110&deg;, SEMI PUCCA : 210&deg;, KUTCHA : 40&deg;<br/><br/>Chart-II : Population : 21,00,000<br/>LIVING IN PUCCA HOUSES : 60&deg;, LIVING IN KUTCHA HOUSES : 70&deg;, HOUSELESS : 20&deg;, LIVING IN SEMI PUCCA HOUSES : 210&deg;<br/><br/>Chart-III : Number of families : 3,60,000<br/>LIVING IN PUCCA HOUSES : 70&deg;, LIVING IN KUTCHA HOUSES : 185&deg;, HOUSELESS : 20&deg;, LIVING IN SEMI PUCCA HOUSES : 85&deg;<br/><br/><img src=\"/images/maths_2025_I_96_100.png\" alt=\"Pie Charts\" class=\"w-full max-w-xl my-4 rounded-lg shadow-md border border-gray-200\" /><br/><br/>On an average, how many persons live in every pucca house ?",
           "options": [
                 "8",
                 "8&middot;54",
