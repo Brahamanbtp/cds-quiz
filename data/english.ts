@@ -5838,6 +5838,187 @@ const englishData: Record<string, Question[]> = {
           ],
           "answer": "A-3, B-4, C-1, D-2"
     }
+  ,
+    {
+          "question": "<b>Directions:</b> In the following items, two lists are given with the keywords mentioned. You are required to match List-I with List-II.<br><br><table style=\"width:100%\"><tr><th>List-I (Loan word)</th><th>List-II (Meaning)</th></tr><tr><td>A. <i>Connoisseur</i></td><td>1. Scattered remains</td></tr><tr><td>B. <i>Cul-de-sac</i></td><td>2. Collection of documents on someone or something</td></tr><tr><td>C. <i>Dossier</i></td><td>3. Street with a closed end</td></tr><tr><td>D. <i>Debris</i></td><td>4. Expert in matters of taste</td></tr></table>",
+          "options": [
+                "A-1, B-2, C-3, D-4",
+                "A-1, B-3, C-2, D-4",
+                "A-4, B-2, C-3, D-1",
+                "A-4, B-3, C-2, D-1"
+          ],
+          "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+          "question": "<table style=\"width:100%\"><tr><th>List-I (Loan word)</th><th>List-II (Meaning)</th></tr><tr><td>A. <i>D&eacute;j&agrave; vu</i></td><td>1. Policy of minimal governmental interference</td></tr><tr><td>B. <i>Faux pas</i></td><td>2. Feeling of having experienced the present</td></tr><tr><td>C. <i>En route</i></td><td>3. Tactless remark or act</td></tr><tr><td>D. <i>Laissez-faire</i></td><td>4. During the course of a journey</td></tr></table>",
+          "options": [
+                "A-1, B-3, C-4, D-2",
+                "A-2, B-4, C-3, D-1",
+                "A-2, B-3, C-4, D-1",
+                "A-1, B-4, C-3, D-2"
+          ],
+          "answer": "A-2, B-3, C-4, D-1"
+    },
+    {
+          "question": "<table style=\"width:100%\"><tr><th>List-I (Loan word)</th><th>List-II (Meaning)</th></tr><tr><td>A. <i>Fa&ccedil;ade</i></td><td>1. Principal front of a building</td></tr><tr><td>B. <i>Liaison</i></td><td>2. Round flattish cap</td></tr><tr><td>C. <i>Maisonette</i></td><td>3. Diplomatic support staff</td></tr><tr><td>D. <i>Beret</i></td><td>4. Rooms with a separate entrance in a building</td></tr></table>",
+          "options": [
+                "A-2, B-4, C-3, D-1",
+                "A-1, B-3, C-4, D-2",
+                "A-1, B-4, C-3, D-2",
+                "A-2, B-3, C-4, D-1"
+          ],
+          "answer": "A-1, B-3, C-4, D-2"
+    },
+    {
+          "question": "<b>Directions:</b> In the following items, certain words which have been borrowed into English from other languages have been given. Select the most appropriate meaning from the options provided.<br><br>Aplomb",
+          "options": [
+                "Pride",
+                "Self-confidence",
+                "Determination",
+                "Arrogance"
+          ],
+          "answer": "Self-confidence"
+    },
+    {
+          "question": "Condign",
+          "options": [
+                "Ingredients in culinary activities",
+                "Confined to one place",
+                "Punishment appropriate to wrongdoing",
+                "Formally arranged sit-down dinner"
+          ],
+          "answer": "Punishment appropriate to wrongdoing"
+    },
+    {
+          "question": "Incommunicado",
+          "options": [
+                "Not wanting to or able to communicate",
+                "Breakdown and isolation",
+                "Communication across semantic barriers",
+                "Unbridged destinations"
+          ],
+          "answer": "Not wanting to or able to communicate"
+    },
+    {
+          "question": "Gastronomy",
+          "options": [
+                "Study of cosmic gases or cosmic dust",
+                "Science of flatulence",
+                "Study of the digestive system",
+                "Art and science of fine food and eating"
+          ],
+          "answer": "Art and science of fine food and eating"
+    },
+    {
+          "question": "Expatriate",
+          "options": [
+                "To remove from a settled location",
+                "Resident outside country of citizenship",
+                "Out of court settlement",
+                "To congregate outdoors"
+          ],
+          "answer": "Resident outside country of citizenship"
+    },
+    {
+          "question": "<b>Directions:</b> In the following items, a sentence is given with a blank space that is required to be filled with a phrasal verb. Select the most appropriate response from the options provided.<br><br>She was advised by her coach to _______ to form if she wanted to do well in the tournament.",
+          "options": [
+                "get on",
+                "get along",
+                "get done",
+                "get back"
+          ],
+          "answer": "get back"
+    },
+    {
+          "question": "She said goodbye and _______ along the road.",
+          "options": [
+                "tripped out",
+                "tripped over",
+                "tripped off",
+                "tripped in"
+          ],
+          "answer": "tripped off"
+    },
+    {
+          "question": "The team reported that they had _______ the contract with tooth and comb before forwarding its recommendation.",
+          "options": [
+                "pored over",
+                "plied over",
+                "poured over",
+                "run over"
+          ],
+          "answer": "pored over"
+    },
+    {
+          "question": "The boisterous crowd _______ with its merry-making even amidst pouring rain.",
+          "options": [
+                "played on",
+                "flowed on",
+                "carried on",
+                "carried out"
+          ],
+          "answer": "carried on"
+    },
+    {
+          "question": "The goons _______ the unsuspecting victims when the latter walked into the dark alley.",
+          "options": [
+                "set upon",
+                "set up",
+                "set along",
+                "set down"
+          ],
+          "answer": "set upon"
+    },
+    {
+          "question": "<b>Directions:</b> In the following items, there are two sentences S1 and S2, based on commonly used word(s), which are underlined. Read the two sentences carefully and mark the response that denotes the correct use of these words.<br><br>S1 : What is <u>especially</u> noticeable about the pair is that they always dress impeccably.<br>S2 : Lunch is served late in the office, <u>specially</u> on days when there is a board meeting.",
+          "options": [
+                "S1 is right and S2 is wrong",
+                "S1 is wrong and S2 is right",
+                "Both S1 and S2 are wrong",
+                "Both S1 and S2 are right"
+          ],
+          "answer": "S1 is right and S2 is wrong"
+    },
+    {
+          "question": "S1 : The matter was resolved amicably <u>between</u> the group even though there were so many of them.<br>S2 : <u>Among</u> them the two never have problems sharing what they have.",
+          "options": [
+                "S1 is right and S2 is wrong",
+                "S1 is wrong and S2 is right",
+                "Both S1 and S2 are wrong",
+                "Both S1 and S2 are right"
+          ],
+          "answer": "Both S1 and S2 are wrong"
+    },
+    {
+          "question": "S1 : We <u>shall</u> have to present ourselves before the Dean and explain our behaviour.<br>S2 : They <u>will</u> need to get their act together if they wish to win the contract.",
+          "options": [
+                "S1 is right and S2 is wrong",
+                "S1 is wrong and S2 is right",
+                "Both S1 and S2 are wrong",
+                "Both S1 and S2 are right"
+          ],
+          "answer": "Both S1 and S2 are right"
+    },
+    {
+          "question": "S1 : I have not seen her <u>since</u> a long time.<br>S2 : It has been a while <u>since</u> I saw her.",
+          "options": [
+                "S1 is right and S2 is wrong",
+                "S1 is wrong and S2 is right",
+                "Both S1 and S2 are wrong",
+                "Both S1 and S2 are right"
+          ],
+          "answer": "S1 is wrong and S2 is right"
+    },
+    {
+          "question": "S1 : The teacher enquired whether there is <u>any</u> problem with the question paper.<br>S2 : He asked her whether she had <u>some</u> pets at home.",
+          "options": [
+                "S1 is right and S2 is wrong",
+                "S1 is wrong and S2 is right",
+                "Both S1 and S2 are wrong",
+                "Both S1 and S2 are right"
+          ],
+          "answer": "S1 is right and S2 is wrong"
+    }
   ]
 };
 
