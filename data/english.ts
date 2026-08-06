@@ -4110,6 +4110,307 @@ const englishData: Record<string, Question[]> = {
           ],
           "answer": "Noun"
     }
+  ,
+    {
+          "question": "<b>Directions :</b> In this section, you have two short passages. After each passage, you will find some items based on the passage. Read the passage carefully and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage &minus; I</b><br/><br/>It must not be imagined that a walking tour, as some would have us fancy, is merely a better or worse way of seeing the country. There are many ways of seeing landscape quite as good; and none more vivid, in spite of canting dilettantes, than from a railway train. But landscape on a walking tour is quite an accessory. He who is indeed of the brotherhood does not voyage in quest of the picturesque, but of certain jolly humours &mdash; of the hope and spirit with which the march begins at morning, and the peace and spiritual repletion of the evening's rest. He cannot tell whether he puts his knapsack on, or takes it off, with more delight. The excitement of the departure puts him in key for that of the arrival. Whatever he does is not only a reward in itself, but will be further rewarded in the sequel; and so pleasure leads on to pleasure in an endless chain. It is this that so few can understand; they will either be always lounging or always at five miles an hour; they do not play off the one against the other, prepare all day for the evening, and all evening for the next day.<br/><br/>Now, to be properly enjoyed, a walking tour should be gone upon alone. If you go in a company, or even in pairs, it is no longer a walking tour in anything but name; it is something else and more in the nature of a picnic. A walking tour should be gone upon alone, because freedom is of the essence; because you should be able to stop and go on, and follow this way or that, as the freak takes you; and because you must have your own pace, and neither trot alongside a champion walker, nor mince in time with a girl. And then you must be open to all impressions and let your thoughts take colour from what you see. You should be as a pipe for any wind to play upon. \"I cannot see the wit,\" says Hazlitt, \"of walking and talking at the same time. When I am in the country I wish to vegetate like the country\" &mdash; which is the gist of all that can be said upon the matter. There should be no cackle of voices at your elbow, to jar on the meditative silence of the morning. And so long as a man is reasoning he cannot surrender himself to that fine intoxication that comes of much motion in the open air, that begins in a sort of dazzle and sluggishness of the brain, and ends in a peace that passes comprehension.<br/><br/>According to the passage, what is the primary purpose of a walking tour ?",
+          "options": [
+                "Seeing the landscape",
+                "Quest of the picturesque",
+                "Longing for pleasure",
+                "Desire for education"
+          ],
+          "answer": "Longing for pleasure"
+    },
+    {
+          "question": "<b>Following the previous passage:</b><br/><br/>According to the passage, a walking tour should be gone upon alone because :",
+          "options": [
+                "It is more in the nature of a picnic.",
+                "He may put his knapsack on, or take it off, with more delight.",
+                "It will add to individual excitement.",
+                "It will provide freedom which is of the utmost importance."
+          ],
+          "answer": "It will provide freedom which is of the utmost importance."
+    },
+    {
+          "question": "<b>Following the previous passage:</b><br/><br/>According to the passage, what can adversely affect the walking tour ?",
+          "options": [
+                "Walking and talking at the same time",
+                "Walking to rise above the everyday worries of life",
+                "Walking to experience the beauty of the surroundings",
+                "Walking to meditate in silence"
+          ],
+          "answer": "Walking and talking at the same time"
+    },
+    {
+          "question": "<b>Following the previous passage:</b><br/><br/>According to the passage, how should a walking tour conclude ?",
+          "options": [
+                "With the meditative peace above the real surroundings",
+                "With a peace that delights you",
+                "With the impressions of the surroundings",
+                "With the sounds of the birds around you"
+          ],
+          "answer": "With the meditative peace above the real surroundings"
+    },
+    {
+          "question": "<b>Following the previous passage:</b><br/><br/>What is the meaning of the word \"dilettantes\" in the passage ?",
+          "options": [
+                "Persons who cultivate an aesthetic pursuit without real interest",
+                "Professionals",
+                "Morning joggers",
+                "Schooled travellers"
+          ],
+          "answer": "Persons who cultivate an aesthetic pursuit without real interest"
+    },
+    {
+          "question": "<b>Directions :</b> In this section, you have two short passages. After each passage, you will find some items based on the passage. Read the passage carefully and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage &minus; II</b><br/><br/>Historical analysis combines several levels of thinking and study, posing a question about the past, setting up the problem in a form intended to facilitate its solution, solving the problem, and verifying the solution or interpretation. Academic history relies on formal analysis, based on rational and systematic apprehension of relevant evidence. Yet such formal analysis can be seen as a subset of the broader category of interpretation, including responses to evidence that are impressionistic and informal rather than formal and logically structured. Indeed, the many genres of academic and popular history run the full gamut from logically systematic to impressionistic.<br/><br/>Historians come from a widely varying range of philosophical traditions, and the varying philosophies lead to quite different ways of posing questions and answers. The distinctions among philosophical principles sketched here help to show how it is that different analytical priorities arise on the main topics proposed for analysis; they also show how historians can rely on similar data yet come to different or conflicting conclusions. Nineteenth century philosophical outlooks remain central to the world-historical analysis: most notably the dialectics of G.W.F. Hegel and the materialism of Karl Marx. Another great nineteenth-century current of thought was positivism, elaborated by Auguste Comte and focusing on study through breaking large problems into small ones, seeking deterministic relationship within the smaller problems. Philosophies of structuralism and post modernism have developed in more recent times, rejecting the positivist separation of problems into discrete sub-problems and emphasizing interaction among aspects of a problem.<br/><br/>Which of the following does <i>not</i> amount to historical analysis ?",
+          "options": [
+                "Posing a question about the past, setting up the problem in a form intended to facilitate its solution.",
+                "Solving the problem and verifying the solution or interpretation.",
+                "Combines several levels of thinking and study to arrive at a conclusion.",
+                "Drawing from evidence to make impressionistic and informal conclusion."
+          ],
+          "answer": "Drawing from evidence to make impressionistic and informal conclusion."
+    },
+    {
+          "question": "<b>Following the previous passage:</b><br/><br/>'The many genres of academic and popular history run the full gamut from logically systematic to impressionistic' means :",
+          "options": [
+                "The range of texts varies from those based on objective analysis and those based on subjective assertions.",
+                "Historical analysis that is rarely vague to that which establishes evidence.",
+                "Historical analysis that is always vague to that which establishes no evidence.",
+                "Historical analysis that is rarely systematic to that which establishes evidence."
+          ],
+          "answer": "The range of texts varies from those based on objective analysis and those based on subjective assertions."
+    },
+    {
+          "question": "<b>Following the previous passage:</b><br/><br/>What, according to the author, makes historians come to conflicting conclusions ?<br/><br/>1. They are influenced by their philosophical beliefs in asking questions on the same data.<br/>2. They apply different interpretations on the same data.<br/>3. They go for the primary data and evidence.<br/>4. They are influenced by the current political developments.<br/><br/>Select the correct answer using the code given below:",
+          "options": [
+                "1 and 2 only",
+                "3 and 4 only",
+                "2 and 4 only",
+                "1, 2, 3 and 4"
+          ],
+          "answer": "1 and 2 only"
+    },
+    {
+          "question": "<b>Following the previous passage:</b><br/><br/>Which word(s) from the passage can be substituted for the assertion that \"all events and human actions are ultimately shaped by causes external to the will\" ?",
+          "options": [
+                "Impressionistic",
+                "Idealist approach to history",
+                "Deterministic relationship",
+                "Dialectics"
+          ],
+          "answer": "Deterministic relationship"
+    },
+    {
+          "question": "<b>Following the previous passage:</b><br/><br/>Which one of the following relates to the post-modernist approach to History ?",
+          "options": [
+                "Post-modernist approach builds on positivism.",
+                "Post-modernist approach emphasises interaction among aspects of a problem.",
+                "Post-modernist approach rejects both; the separation of problems into sub-problems and interaction among them.",
+                "Post-modernist approach supports separation of problems and interaction among them."
+          ],
+          "answer": "Post-modernist approach emphasises interaction among aspects of a problem."
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/>I saw Nandini ________ she was waiting for the bus.",
+          "options": [
+                "during",
+                "while",
+                "on",
+                "for"
+          ],
+          "answer": "while"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/>This sauce has to be used ________ 23<sup>rd</sup> September.",
+          "options": [
+                "by",
+                "for",
+                "into",
+                "with"
+          ],
+          "answer": "by"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/>I'll be working on this report ________ 10:30 p.m.",
+          "options": [
+                "during",
+                "since",
+                "until",
+                "in"
+          ],
+          "answer": "until"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/>I have ________ energy left to complete the work.",
+          "options": [
+                "few",
+                "many",
+                "little",
+                "any"
+          ],
+          "answer": "little"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/>I had ________ trouble finding the house.",
+          "options": [
+                "any",
+                "some",
+                "few",
+                "all"
+          ],
+          "answer": "some"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/>________ of these officers are very well-trained.",
+          "options": [
+                "Much",
+                "Not",
+                "Most",
+                "One"
+          ],
+          "answer": "Most"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/>I don't like going to ________ dentist.",
+          "options": [
+                "these",
+                "an",
+                "the",
+                "no article"
+          ],
+          "answer": "the"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/>They placed the African elephant ________ their endangered list.",
+          "options": [
+                "in",
+                "at",
+                "about",
+                "on"
+          ],
+          "answer": "on"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/>________ travel industry is changing rapidly.",
+          "options": [
+                "An",
+                "A",
+                "The",
+                "no article"
+          ],
+          "answer": "The"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/>She is ________ MP from Rajasthan.",
+          "options": [
+                "any",
+                "a",
+                "an",
+                "no article"
+          ],
+          "answer": "an"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).<br/><br/><u>Everything</u> (a) / <u>what happened</u> (b) / <u>was because of my actions.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(b)"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).<br/><br/><u>Some people</u> (a) / <u>could write well</u> (b) / <u>while others didn't.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).<br/><br/><u>The police are working hard</u> (a) / <u>until they are able to</u> (b) / <u>arrest the culprits.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(b)"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).<br/><br/><u>Since he was going to live in South Korea for some time,</u> (a) / <u>he thought he should</u> (b) / <u>learn something about their culture.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).<br/><br/><u>The company's phenomenal success</u> (a) / <u>are largely due to</u> (b) / <u>the new director and his team.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(b)"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).<br/><br/><u>I am owning</u> (a) / <u>two houses</u> (b) / <u>in Bengaluru.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(a)"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).<br/><br/><u>A boy was injured</u> (a) / <u>in the accident and was taken</u> (b) / <u>onto hospital.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).<br/><br/><u>Mr. Malhotra is a historian</u> (a) / <u>who's books</u> (b) / <u>have won international acclaim.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(b)"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).<br/><br/><u>I hate it</u> (a) / <u>when I break</u> (b) / <u>in hives.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).<br/><br/><u>Either Vikas</u> (a) / <u>or his friends</u> (b) / <u>is going to cook dinner.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    }
   ]
 };
 
