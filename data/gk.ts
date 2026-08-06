@@ -4510,6 +4510,307 @@ const gkData: Record<string, Question[]> = {
           ],
           "answer": "1 and 2 only"
     }
+  ,
+    {
+          "question": "Consider the following statements :<br/><br/>1. A rupee Vostro account is an account that an Indian bank holds for a foreign bank in the domestic currency (rupee) to enable domestic banks to provide international banking services.<br/>2. Insurance density, i.e., average insurance premium per capita does not fully capture the financing gap in the event of a premature death because most of the insurance products sold in India are savings-linked with a small component of protection.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Consider the following statements :<br/><br/>1. An additional spending by the Government of ₹ X is likely to have less impact on income than an additional transfer of ₹ X to households.<br/>2. An additional spending by the Government of ₹ X is likely to have less impact on income if it is not accompanied by an expansion in money supply.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "2 only"
+    },
+    {
+          "question": "Long-Term Low Emissions Development Strategy envisions :<br/><br/>1. a transition from fossil fuels in a just, smooth, sustainable manner.<br/>2. increased use of bio-fuels.<br/>3. climate resistant urban development.<br/>4. financing of sustainable development through Green Bonds.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 and 2 only",
+                "1, 2 and 3",
+                "2 and 4 only",
+                "1, 3 and 4"
+          ],
+          "answer": "1, 2 and 3"
+    },
+    {
+          "question": "Which one among the following was the focus of the Twelfth Five-Year Plan ?",
+          "options": [
+                "Sustainable and Inclusive Growth",
+                "Social Justice and Equality",
+                "Food, Work and Productivity",
+                "Attainment of Self-reliance"
+          ],
+          "answer": "Sustainable and Inclusive Growth"
+    },
+    {
+          "question": "Which of the following is <i>not</i> included in the Capital Account of the Balance of Payments of a country ?",
+          "options": [
+                "Foreign Direct Investment",
+                "Commercial Borrowing",
+                "Invisibles",
+                "External Assistance"
+          ],
+          "answer": "Invisibles"
+    },
+    {
+          "question": "The Atmanirbhar Bharat Scheme announced by the Government helps in :<br/><br/>1. Enhancing India's manufacturing capabilities and exports across the industries<br/>2. Incentivizing foreign investments for domestic production<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Which one of the following statements for a firm's equilibrium in Perfect Competition is <i>not</i> correct ?",
+          "options": [
+                "The market price must be greater or equal to average variable cost in the short run.",
+                "The market price must be equal to marginal cost.",
+                "The market price must be equal to average cost in the long run.",
+                "The marginal cost decreases at the equilibrium output."
+          ],
+          "answer": "The marginal cost decreases at the equilibrium output."
+    },
+    {
+          "question": "Which one of the following taxes is <i>not</i> included in the Central Pool to be shared with the States according to the recommendations of Finance Commission of India ?",
+          "options": [
+                "Personal Income Tax",
+                "Corporate Profit Tax",
+                "Surcharge and Cess",
+                "Excise Duties"
+          ],
+          "answer": "Surcharge and Cess"
+    },
+    {
+          "question": "Which one of the following dimensions is <i>not</i> included in Human Development Index ?",
+          "options": [
+                "Life Expectancy at birth",
+                "Mean years of schooling",
+                "Expected years of schooling",
+                "Mortality rate"
+          ],
+          "answer": "Mortality rate"
+    },
+    {
+          "question": "Suppose there are only two normal goods in the economy, X and Y. If price of good X increases, which would be the correct statement from below ?",
+          "options": [
+                "Demand for good X decreases and demand for Y is indeterminate.",
+                "Demand for good X decreases and demand for Y decreases.",
+                "Demand for good X increases and demand for Y is indeterminate.",
+                "Demand for good X increases and demand for Y decreases."
+          ],
+          "answer": "Demand for good X decreases and demand for Y is indeterminate."
+    },
+    {
+          "question": "If the price index increased from 100 in 2021 to 110 in 2022 to 132 in 2023, then the rate of inflation is :",
+          "options": [
+                "10%",
+                "32%",
+                "20%",
+                "Cannot be determined"
+          ],
+          "answer": "20%"
+    },
+    {
+          "question": "The Rangarajan Committee methodology for determining the poverty line incorporated which of the following ?<br/><br/>1. A food component<br/>2. A normative level of expenditure for essential non-food items<br/>3. A behaviourally determined expenditure for other non-food items<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 and 2 only",
+                "2 and 3 only",
+                "1, 2 and 3",
+                "1 and 3 only"
+          ],
+          "answer": "1, 2 and 3"
+    },
+    {
+          "question": "Which one of the following is <i>not</i> a fund managed by NIIFL (National Investment and Infrastructure Fund Limited) ?",
+          "options": [
+                "Master Fund",
+                "Fund of Funds",
+                "Strategic Opportunities Fund",
+                "Global Investment Fund"
+          ],
+          "answer": "Global Investment Fund"
+    },
+    {
+          "question": "Pandit Deendayal Upadhyay National Welfare Fund was established with the view to help which one of the following groups ?",
+          "options": [
+                "Medical Practitioners",
+                "Farmers",
+                "Sportspersons",
+                "War Widows"
+          ],
+          "answer": "Sportspersons"
+    },
+    {
+          "question": "Which one among the following items comprises the major portion of revenue expenditure of the Union Government of India ?",
+          "options": [
+                "Salaries",
+                "Interest Payments",
+                "Road Transport and Highways",
+                "Defence Services"
+          ],
+          "answer": "Interest Payments"
+    },
+    {
+          "question": "India's women's badminton team recently won the Badminton Asia Team Championship, 2024. Who among the following players was <i>not</i> a part of the team ?",
+          "options": [
+                "P.V. Sindhu",
+                "Treesa Jolly",
+                "Anmol Kharb",
+                "Saina Nehwal"
+          ],
+          "answer": "Saina Nehwal"
+    },
+    {
+          "question": "Which of the following statements related to Indian medicine system is <i>not</i> correct ?",
+          "options": [
+                "The Siddha system is a holistic system of medicine.",
+                "Sowa-Rigpa has been in practice in the Himalayan regions of India.",
+                "Unani system of medicine has been dissociated from the Ministry of Ayush.",
+                "Sushruta Samhita is a major source of Ayurveda."
+          ],
+          "answer": "Unani system of medicine has been dissociated from the Ministry of Ayush."
+    },
+    {
+          "question": "Which one of the following statements is correct about NISHTHA, a Government of India initiative ?",
+          "options": [
+                "It is a training module recently introduced in LBSNAA for civil servants.",
+                "It is a teacher-training programme.",
+                "It is a training programme for the new recruits in Delhi Police to inculcate integrity of service among them.",
+                "It is a workshop for newly elected Members of Parliament organized routinely by the Lok Sabha Secretariat."
+          ],
+          "answer": "It is a teacher-training programme."
+    },
+    {
+          "question": "Arrange the BRICS countries in ascending order of their rank in the Human Development Report 2023-24, released by the UNDP :<br/><br/>1. China<br/>2. India<br/>3. Russia<br/>4. Brazil<br/>5. South Africa<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "2, 5, 4, 1, 3",
+                "2, 4, 5, 3, 1",
+                "5, 4, 2, 3, 1",
+                "4, 5, 2, 1, 3"
+          ],
+          "answer": "2, 5, 4, 1, 3"
+    },
+    {
+          "question": "India has signed a Trade and Economic Partnership Agreement (TEPA) with EFTA, which is a regional group consisting of four countries. Which one of the following countries is <i>not</i> a member of this group ?",
+          "options": [
+                "Switzerland",
+                "Norway",
+                "Iceland",
+                "England"
+          ],
+          "answer": "England"
+    },
+    {
+          "question": "Which one of the following countries shares the territorial boundary with both Russia and Ukraine ?",
+          "options": [
+                "Estonia",
+                "Latvia",
+                "Belarus",
+                "Poland"
+          ],
+          "answer": "Belarus"
+    },
+    {
+          "question": "In June 2024, India signed a Memorandum of Understanding (MoU) with USA for supporting Indian Railways to achieve Mission Net Zero Carbon Emission by the year :",
+          "options": [
+                "2030",
+                "2040",
+                "2050",
+                "2070"
+          ],
+          "answer": "2030"
+    },
+    {
+          "question": "Which one of the following statements is correct about the PM-JANMAN scheme ?",
+          "options": [
+                "It is a scheme of the Government of India to impart electoral literacy to voters.",
+                "It is a scheme of the Government of India for deepening of democracy in the functioning of Panchayati Raj institutions.",
+                "It is a scheme of the Government of India for benefitting every member of the tribal community from Government schemes.",
+                "It is a scheme of the Government of India for benefitting migrants workers in the unorganized sector."
+          ],
+          "answer": "It is a scheme of the Government of India for benefitting every member of the tribal community from Government schemes."
+    },
+    {
+          "question": "Which of the following statements is <i>not</i> correct ?",
+          "options": [
+                "SAGAR-SETU is a mobile app, which aims to improve the Ease of Doing Business.",
+                "Harit Sagar aims at achieving Zero Carbon Emission Goal.",
+                "Sagar Manthan is a mission launched by Ministry of Ports, Shipping and Waterways, Government of India, to increase fish production.",
+                "Costa Serena is the first international cruise liner in India."
+          ],
+          "answer": "Sagar Manthan is a mission launched by Ministry of Ports, Shipping and Waterways, Government of India, to increase fish production."
+    },
+    {
+          "question": "ISRO, in its studies, has revealed that there is a 178% increase in the size of the Ghepang Ghat Glacial Lake. In which of the following States/UTs is this lake located ?",
+          "options": [
+                "Jammu & Kashmir",
+                "Ladakh",
+                "Himachal Pradesh",
+                "Uttarakhand"
+          ],
+          "answer": "Himachal Pradesh"
+    },
+    {
+          "question": "Which of the following State/s is/are common to Bru-Reang Agreement, NLFT (SD) Agreement and Tripartite Agreement with TIPRA ?",
+          "options": [
+                "Tripura",
+                "Assam and Tripura",
+                "Tripura and Mizoram",
+                "Manipur and Mizoram"
+          ],
+          "answer": "Tripura"
+    },
+    {
+          "question": "Which of the following movies won the 96<sup>th</sup> Academy Award 2024 in the Best Picture category ?",
+          "options": [
+                "Anatomy of a Fall",
+                "Oppenheimer",
+                "Barbie",
+                "Killers of the Flower Moon"
+          ],
+          "answer": "Oppenheimer"
+    },
+    {
+          "question": "India's first dedicated OPD for the Transgenders was opened at which one among the following hospitals ?",
+          "options": [
+                "AIIMS, New Delhi",
+                "PGIMER, Chandigarh",
+                "KGMU, Lucknow",
+                "RML Hospital, New Delhi"
+          ],
+          "answer": "RML Hospital, New Delhi"
+    },
+    {
+          "question": "Which one of the following statements about 'INS Tarmugli' is <i>not</i> correct ?",
+          "options": [
+                "It is a fast attack craft commissioned by the Indian Navy.",
+                "It was commissioned at Naval Dockyard, Visakhapatnam.",
+                "It was given by the Government of India to Sri Lankan Naval Force in 2006 and returned to the Indian Navy in May 2023.",
+                "It is supposed to be used for coastal surveillance."
+          ],
+          "answer": "It was given by the Government of India to Sri Lankan Naval Force in 2006 and returned to the Indian Navy in May 2023."
+    },
+    {
+          "question": "Which one of the following resolutions in the final agreement reached at COP28 is associated with the target of achieving 'Net Zero by 2050' ?",
+          "options": [
+                "Fossil fuel phase-out",
+                "Methane emission cuts",
+                "Global goal on adaptation",
+                "Climate resilience"
+          ],
+          "answer": "Fossil fuel phase-out"
+    }
   ]
 };
 
