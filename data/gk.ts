@@ -3606,6 +3606,358 @@ const gkData: Record<string, Question[]> = {
           ],
           "answer": "PSLV C57 - DS-SAR"
     }
+  ],
+  "2024-II": [
+    {
+          "question": "Which one among the following is <i>not</i> a micronutrient for plants ?",
+          "options": [
+                "Iron",
+                "Manganese",
+                "Magnesium",
+                "Chlorine"
+          ],
+          "answer": "Magnesium"
+    },
+    {
+          "question": "Xylem in the plants are responsible for the transport of :",
+          "options": [
+                "Water",
+                "Water and dissolved minerals",
+                "Gases",
+                "Food"
+          ],
+          "answer": "Water and dissolved minerals"
+    },
+    {
+          "question": "Which one among the following hormones inhibits the growth activity in plants ?",
+          "options": [
+                "Auxins",
+                "Cytokinins",
+                "Abscisic acid",
+                "Gibberellins"
+          ],
+          "answer": "Abscisic acid"
+    },
+    {
+          "question": "Which of the following category of biomolecules does Starch belong to ?",
+          "options": [
+                "Protein",
+                "Carbohydrate",
+                "Lipid",
+                "Nucleic acid"
+          ],
+          "answer": "Carbohydrate"
+    },
+    {
+          "question": "Which one among the following is <i>not</i> a feature of Xerophytes ?",
+          "options": [
+                "Smaller leaves",
+                "Large number of stomata",
+                "Waxy cuticle",
+                "Stomata in pits"
+          ],
+          "answer": "Large number of stomata"
+    },
+    {
+          "question": "Halophytes are the plants that grow on which one, among the following categories of soil ?",
+          "options": [
+                "Acidic soil",
+                "Saline soil",
+                "Black soil",
+                "Sandy soil"
+          ],
+          "answer": "Saline soil"
+    },
+    {
+          "question": "Which one among the following is <i>not</i> a part of vascular bundle in plants ?",
+          "options": [
+                "Phloem",
+                "Xylem",
+                "Cambium",
+                "Endodermis"
+          ],
+          "answer": "Endodermis"
+    },
+    {
+          "question": "In which one among the following mediums would the speed of sound be maximum ?",
+          "options": [
+                "Distilled water",
+                "Sea water",
+                "Drinking water",
+                "Methanol"
+          ],
+          "answer": "Sea water"
+    },
+    {
+          "question": "Which organelle in animal cells can digest foreign materials ?",
+          "options": [
+                "Endoplasmic reticulum",
+                "Lysosome",
+                "Golgi body",
+                "Mitochondria"
+          ],
+          "answer": "Lysosome"
+    },
+    {
+          "question": "Photosynthesis that converts light energy into chemical energy by the plants, involves the use of green pigments of leaves called chlorophyll. The only structure in a leaf that hosts chlorophyll is :",
+          "options": [
+                "Nucleus",
+                "Ribosome",
+                "Chloroplast",
+                "Chromosome"
+          ],
+          "answer": "Chloroplast"
+    },
+    {
+          "question": "In which of the following colloids is the dispersing medium a liquid ?",
+          "options": [
+                "Mist",
+                "Foam",
+                "Jelly",
+                "Shaving cream"
+          ],
+          "answer": "Shaving cream"
+    },
+    {
+          "question": "The two isotopes of elemental chlorine are :",
+          "options": [
+                "<sup>35</sup><sub>17</sub>C and <sup>36</sup><sub>17</sub>C",
+                "<sup>34</sup><sub>17</sub>C and <sup>36</sup><sub>18</sub>C",
+                "<sup>35</sup><sub>17</sub>C and <sup>37</sup><sub>18</sub>C",
+                "<sup>35</sup><sub>17</sub>Cl and <sup>37</sup><sub>17</sub>Cl"
+          ],
+          "answer": "<sup>35</sup><sub>17</sub>Cl and <sup>37</sup><sub>17</sub>Cl"
+    },
+    {
+          "question": "Which one among the following metals is <i>not</i> stored under oil ?",
+          "options": [
+                "Sodium",
+                "Rubidium",
+                "Potassium",
+                "Lithium"
+          ],
+          "answer": "Lithium"
+    },
+    {
+          "question": "Potassium nitrate is <i>not</i> used :",
+          "options": [
+                "as a fertilizer",
+                "in medicine",
+                "in making gunpowder",
+                "as a preservative of meat products"
+          ],
+          "answer": "in medicine"
+    },
+    {
+          "question": "The surface of the concrete structure of a new construction is covered with straw/gunny bags by wetting. This is done to :",
+          "options": [
+                "prevent fast evaporation, until hydration has proceeded well",
+                "protect the concrete structure from contamination by dust particles",
+                "prevent development of any fungus on the surface",
+                "give smoother and cleaner surface over cement structure"
+          ],
+          "answer": "prevent fast evaporation, until hydration has proceeded well"
+    },
+    {
+          "question": "Which one among the following statements for the gases mentioned below is <i>not</i> correct ?",
+          "options": [
+                "Hydrogen has 3 isotopes.",
+                "Helium is a commonly used gas in electric bulbs.",
+                "Oxygen is used to burn fuel in rocket engines in spacecraft.",
+                "Nitrogen can be used in gaseous form to replace air in food packaging."
+          ],
+          "answer": "Helium is a commonly used gas in electric bulbs."
+    },
+    {
+          "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/>List-I (Trade Name)<br/>A. Bleaching powder<br/>B. Baking soda<br/>C. Washing soda<br/>D. Plaster of Paris<br/><br/>List-II (Chemical Name)<br/>1. Sodium bicarbonate<br/>2. Sodium carbonate, 10 water<br/>3. Calcium oxychloride<br/>4. Calcium sulphate, <sup>1</sup>/<sub>2</sub> water",
+          "options": [
+                "A-3, B-1, C-2, D-4",
+                "A-3, B-2, C-1, D-4",
+                "A-4, B-2, C-1, D-3",
+                "A-4, B-1, C-2, D-3"
+          ],
+          "answer": "A-3, B-1, C-2, D-4"
+    },
+    {
+          "question": "Which one among the following statements is <i>not</i> true for glass ?",
+          "options": [
+                "Sodium silicate is known as water glass.",
+                "Glass is also called super cooled liquid.",
+                "Crystallinity develops on cooling of the molten mass of the glass.",
+                "Coloured glasses can be made by adding different colouring materials."
+          ],
+          "answer": "Crystallinity develops on cooling of the molten mass of the glass."
+    },
+    {
+          "question": "Which one among the following is responsible for determining the chemical properties of an element ?",
+          "options": [
+                "Protons",
+                "Electrons",
+                "Neutrons",
+                "Nucleus"
+          ],
+          "answer": "Electrons"
+    },
+    {
+          "question": "Which one among the following is used in bleaching of paper ?",
+          "options": [
+                "Chlorine",
+                "Chlorobenzene",
+                "Ammonium chloride",
+                "Hydrochloric acid"
+          ],
+          "answer": "Chlorine"
+    },
+    {
+          "question": "X-rays can be used to :<br/><br/>1. inspect welded joints between two metal parts of a machine.<br/>2. study structure of crystals.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Which one of the following heat transfers is an example of convection ?",
+          "options": [
+                "Heating of food in a microwave oven",
+                "Boiling water in a pot on a gas stove",
+                "Feeling the warmth in sun",
+                "Heating a brass rod at one end and observing the temperature rise at the other end"
+          ],
+          "answer": "Boiling water in a pot on a gas stove"
+    },
+    {
+          "question": "The phenomenon of rainbow formation by water droplets involves :",
+          "options": [
+                "single refraction of sunlight",
+                "one internal reflection of sunlight",
+                "two internal reflections of sunlight",
+                "both refraction and internal reflection of sunlight"
+          ],
+          "answer": "both refraction and internal reflection of sunlight"
+    },
+    {
+          "question": "Ozone hole is a region over :",
+          "options": [
+                "the Antarctic caused mainly by CFC gases.",
+                "the Antarctic caused mainly by carbon dioxide gas.",
+                "the Arctic caused mainly by CFC gases.",
+                "the Arctic caused mainly by carbon dioxide gas."
+          ],
+          "answer": "the Antarctic caused mainly by CFC gases."
+    },
+    {
+          "question": "Which of the following are the major missions of Indian Space Research Organization in 2023 ?<br/><br/>1. Chandrayaan-3<br/>2. Solar Mission Aditya-L1<br/>3. Liquid fuel powered rockets<br/>4. Solar powered rockets<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 and 2 only",
+                "1, 2 and 3",
+                "3 and 4 only",
+                "1, 2, 3 and 4"
+          ],
+          "answer": "1 and 2 only"
+    },
+    {
+          "question": "Which one of the following is the most appropriate reason for aircraft being equipped with conducting tyres ?",
+          "options": [
+                "They can transfer the charge accumulated on their surfaces during lightning",
+                "They can transfer the charge accumulated on their surfaces being rubbed by air particles",
+                "They can transfer the charge accumulated on their surfaces due to inflight operation of several gadgets",
+                "For preventing sparks while they land on the ground"
+          ],
+          "answer": "They can transfer the charge accumulated on their surfaces being rubbed by air particles"
+    },
+    {
+          "question": "Which of the following statements for persons suffering from presbyopia is/are correct ?<br/><br/>1. They cannot distinguish colours.<br/>2. It usually develops with ageing.<br/>3. They wear either bi-focal lenses consisting of both concave and convex lenses or progressive lenses.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "1 and 3",
+                "2 and 3"
+          ],
+          "answer": "2 and 3"
+    },
+    {
+          "question": "A sound wave having frequency of 300 Hz is travelling in an unknown medium. Its wavelength is not known. It travels a distance equal to 150 times its wavelength in time $t$. The value of $t$ is :",
+          "options": [
+                "0&middot;5 s",
+                "1 s",
+                "1&middot;5 s",
+                "2 s"
+          ],
+          "answer": "0&middot;5 s"
+    },
+    {
+          "question": "<i>Mission Shakti</i> (DRDO) of India is related to which one among the following ?",
+          "options": [
+                "Launch of multiple satellites using a single rocket",
+                "Launch of heavy satellites",
+                "Use of high power rockets in launching of satellites",
+                "Use of rocket to destroy an orbiting satellite"
+          ],
+          "answer": "Use of rocket to destroy an orbiting satellite"
+    },
+    {
+          "question": "In Sun-Earth system, the Sun, the Earth and the Lagrange point L4 form :",
+          "options": [
+                "an isosceles triangle",
+                "an equilateral triangle",
+                "a straight line",
+                "a scalene triangle"
+          ],
+          "answer": "an equilateral triangle"
+    },
+    {
+          "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/>List-I (Training Institute)<br/>A. National Academy of Customs, Indirect Taxes and Narcotics<br/>B. LBS National Academy of Administration<br/>C. National Academy of Audit and Accounts<br/>D. All India Institute of Local Self Government<br/><br/>List-II (Location)<br/>1. Mussoorie<br/>2. Shimla<br/>3. Mumbai<br/>4. Palasamudram",
+          "options": [
+                "A-3, B-2, C-1, D-4",
+                "A-3, B-1, C-2, D-4",
+                "A-4, B-1, C-2, D-3",
+                "A-4, B-2, C-1, D-3"
+          ],
+          "answer": "A-4, B-1, C-2, D-3"
+    },
+    {
+          "question": "Consider the following statements :<br/><br/>1. The Flag Code of India superseded the 'Flag Code-India'.<br/>2. The state emblem of India is an adaptation of the Lion Capital of Ashoka at Sarnath.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Which one of the following is <i>not</i> among the thematic areas of National Mission on Sustainable Habitat ?",
+          "options": [
+                "Energy and Green Building",
+                "Mobility and Air Quality",
+                "Waste Management",
+                "Rural Planning, Green cover and Biodiversity"
+          ],
+          "answer": "Rural Planning, Green cover and Biodiversity"
+    },
+    {
+          "question": "Which of the following are the components of the Indian Legal System ?<br/><br/>1. Basic values and principles enshrined in the Constitution<br/>2. Rights and obligations conferred by ordinary statutes<br/>3. Organizational set-up to enforce rights and obligations within the constitutional norms<br/>4. Legal and judicial persons<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1, 2, 3 and 4",
+                "1, 2 and 4 only",
+                "1, 2 and 3 only",
+                "3 and 4 only"
+          ],
+          "answer": "1, 2, 3 and 4"
+    },
+    {
+          "question": "Which one among the following statements about the objectives of Vibrant Village Programme is correct ?",
+          "options": [
+                "It is a Centrally sponsored scheme.",
+                "This programme was launched in 2021.",
+                "Arunachal Pradesh, Sikkim and Manipur are the states selected under this scheme.",
+                "Villages of Uttar Pradesh along the Nepal border are selected as flagship villages under this scheme."
+          ],
+          "answer": "It is a Centrally sponsored scheme."
+    }
   ]
 };
 
