@@ -4411,6 +4411,407 @@ const englishData: Record<string, Question[]> = {
           ],
           "answer": "(c)"
     }
+  ,
+    {
+          "question": "<b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.<br/><br/>The village headman was old and <u>cantankerous</u>.",
+          "options": [
+                "polite",
+                "ill-tempered",
+                "weak",
+                "serious"
+          ],
+          "answer": "ill-tempered"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.<br/><br/>Psychological problems among the youth can be attributed to the <u>pernicious</u> influence of the Internet.",
+          "options": [
+                "harmful",
+                "innocuous",
+                "positive",
+                "tricky"
+          ],
+          "answer": "harmful"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.<br/><br/>Our teacher told us not to be <u>verbose</u> while writing.",
+          "options": [
+                "excessive",
+                "short",
+                "informal",
+                "succinct"
+          ],
+          "answer": "excessive"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.<br/><br/>The actor narrated the story in a <u>resonant</u> voice.",
+          "options": [
+                "soft",
+                "harsh",
+                "deep",
+                "quivering"
+          ],
+          "answer": "deep"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.<br/><br/>They were fed-up with his <u>doltish</u> behaviour.",
+          "options": [
+                "wise",
+                "imbecilic",
+                "clever",
+                "precocious"
+          ],
+          "answer": "imbecilic"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows :<br/><br/>'Anarchism'<br/><br/>1. Absence of government and/or authority<br/>2. Chaos and disorder in the absence of government",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows :<br/><br/>'Pristine'<br/><br/>1. In the original condition<br/>2. In the defiled condition",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "1 only"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows :<br/><br/>'Enormity'<br/><br/>1. The fact of something being serious and grave<br/>2. Abominable crime or sin",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows :<br/><br/>'Quotidian'<br/><br/>1. To quote inaccurately<br/>2. Someone fond of quoting others",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Neither 1 nor 2"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows :<br/><br/>'Immolate'<br/><br/>1. To kill somebody or self by burning<br/>2. To kill somebody or self or an animal as an act of sacrifice",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows :<br/><br/>'Minimise'<br/><br/>1. Reduce something to the smallest possible degree<br/>2. Reduce expenses, or the degree of anything or of any activity",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows :<br/><br/>'Deify'<br/><br/>1. To treat someone in high office with utmost reverence<br/>2. Worship or treat someone as a god",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "2 only"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows :<br/><br/>'Raconteur'<br/><br/>1. Someone who is capable of telling stories in an interesting manner<br/>2. Somebody who believes in only telling tall tales",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "1 only"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows :<br/><br/>'Emasculate'<br/><br/>1. Making someone strong and powerful<br/>2. Increase one's musculature",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Neither 1 nor 2"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows :<br/><br/>'Perturbation'<br/><br/>1. Mental anxiety and disturbance<br/>2. Deviation of a system or moving object caused by an outside influence",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a pair of sentences are given in which the keywords have been underlined. Identify the sentence/s in which the underlined words have been used correctly in the context and mark your choice using the code that follows :<br/><br/>1. <u>In spite</u> the cold he decided to climb the mountain top.<br/>2. <u>Despite</u> of the warning she was determined to swim the entire distance.",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Neither 1 nor 2"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a pair of sentences are given in which the keywords have been underlined. Identify the sentence/s in which the underlined words have been used correctly in the context and mark your choice using the code that follows :<br/><br/>1. The issue of human rights is <u>immanent</u> in the constitution of most countries.<br/>2. They invited an <u>imminent</u> person as the chief guest for the event.",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "1 only"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a pair of sentences are given in which the keywords have been underlined. Identify the sentence/s in which the underlined words have been used correctly in the context and mark your choice using the code that follows :<br/><br/>1. <u>Among</u> those who had applied for the job I found four candidates to be outstanding.<br/>2. <u>Amidst</u> the confusion caused by the melee, the perpetrators slipped away.",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a pair of sentences are given in which the keywords have been underlined. Identify the sentence/s in which the underlined words have been used correctly in the context and mark your choice using the code that follows :<br/><br/>1. They <u>will</u> soon be applying for the permission.<br/>2. They <u>shall</u> be pleased with the arrangements made by us.",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a pair of sentences are given in which the keywords have been underlined. Identify the sentence/s in which the underlined words have been used correctly in the context and mark your choice using the code that follows :<br/><br/>1. You have been frivolous, <u>whereas</u> I have been serious.<br/>2. The difficulties seemed insurmountable; <u>nevertheless</u>, the courage to carry on was undaunted.",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, two lists of words are provided. You are required to match the associations between List I and List II and mark your answer using the given code.<br/><br/>Match List I with List II :<br/>List I (Game)<br/>A. Golf<br/>B. Cricket<br/>C. Polo<br/>D. Tennis<br/><br/>List II (Arena)<br/>1. Court<br/>2. Pitch<br/>3. Course<br/>4. Ground",
+          "options": [
+                "A-3, B-2, C-4, D-1",
+                "A-3, B-4, C-2, D-1",
+                "A-1, B-4, C-2, D-3",
+                "A-1, B-2, C-4, D-3"
+          ],
+          "answer": "A-3, B-2, C-4, D-1"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, two lists of words are provided. You are required to match the associations between List I and List II and mark your answer using the given code.<br/><br/>Match List I with List II :<br/>List I (Animal)<br/>A. Dolphin<br/>B. Elephant<br/>C. Monkey<br/>D. Cheetah<br/><br/>List II (Sound)<br/>1. Trumpet<br/>2. Chatter<br/>3. Chirp<br/>4. Click",
+          "options": [
+                "A-3, B-2, C-1, D-4",
+                "A-4, B-2, C-1, D-3",
+                "A-4, B-1, C-2, D-3",
+                "A-3, B-1, C-2, D-4"
+          ],
+          "answer": "A-4, B-1, C-2, D-3"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, two lists of words are provided. You are required to match the associations between List I and List II and mark your answer using the given code.<br/><br/>Match List I with List II :<br/>List I (Animal)<br/>A. Fish<br/>B. Ducks<br/>C. Ants<br/>D. Crows<br/><br/>List II (Grouping)<br/>1. Colony of<br/>2. Flock of<br/>3. Paddling of<br/>4. School of",
+          "options": [
+                "A-2, B-1, C-3, D-4",
+                "A-4, B-3, C-1, D-2",
+                "A-4, B-1, C-3, D-2",
+                "A-2, B-3, C-1, D-4"
+          ],
+          "answer": "A-4, B-3, C-1, D-2"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, two lists of words are provided. You are required to match the associations between List I and List II and mark your answer using the given code.<br/><br/>Match List I with List II :<br/>List I (Grouping)<br/>A. Clump of<br/>B. Bunch of<br/>C. Stack of<br/>D. Bundle of<br/><br/>List II (Object)<br/>1. Clothes<br/>2. Firewood<br/>3. Flowers<br/>4. Grass",
+          "options": [
+                "A-1, B-3, C-2, D-4",
+                "A-1, B-2, C-3, D-4",
+                "A-4, B-2, C-3, D-1",
+                "A-4, B-3, C-2, D-1"
+          ],
+          "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, two lists of words are provided. You are required to match the associations between List I and List II and mark your answer using the given code.<br/><br/>Match List I with List II :<br/>List I (Sport)<br/>A. Swimming<br/>B. Kho Kho<br/>C. Kabaddi<br/>D. Fencing<br/><br/>List II (Related word)<br/>1. Touché<br/>2. Butterfly<br/>3. Chaser<br/>4. Ankle hold",
+          "options": [
+                "A-2, B-4, C-3, D-1",
+                "A-1, B-4, C-3, D-2",
+                "A-1, B-3, C-4, D-2",
+                "A-2, B-3, C-4, D-1"
+          ],
+          "answer": "A-2, B-3, C-4, D-1"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, two sentences are given. You are required to identify the option that most appropriately combines both the sentences into one sentence, and mark your response accordingly.<br/><br/>He was adamant about refusing the honour bestowed upon him. He did not trust the credentials of the organisation that intended to recognise his contribution.",
+          "options": [
+                "He was adamant about refusing the honour bestowed upon him as because he did not trust the credentials of the organisation that intended to recognise his contribution.",
+                "He was adamant about refusing the honour bestowed upon him due to he did not trust the credentials of the organisation that intended to recognise his contribution.",
+                "He was adamant about refusing the honour bestowed upon him since he did not trust the credentials of the organisation that intended to recognise his contribution.",
+                "He was adamant about refusing the honour bestowed upon him whenever he did not trust the credentials of the organisation that intended to recognise his contribution."
+          ],
+          "answer": "He was adamant about refusing the honour bestowed upon him since he did not trust the credentials of the organisation that intended to recognise his contribution."
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, two sentences are given. You are required to identify the option that most appropriately combines both the sentences into one sentence, and mark your response accordingly.<br/><br/>He undertook the difficult task. He did so albeit the fact that he did not have any spare time.",
+          "options": [
+                "He undertook the difficult task in spite of the fact that he did not have any spare time.",
+                "He undertook the difficult task because of the fact that he did not have any spare time.",
+                "He undertook the difficult task contrary to the fact that he did not have any spare time.",
+                "He undertook the difficult task nevertheless for the fact that he did not have any spare time."
+          ],
+          "answer": "He undertook the difficult task in spite of the fact that he did not have any spare time."
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, two sentences are given. You are required to identify the option that most appropriately combines both the sentences into one sentence, and mark your response accordingly.<br/><br/>He wrote the exam with the utmost confidence. He was grossly underprepared for the examination.",
+          "options": [
+                "He wrote the exam with the utmost confidence so he was grossly underprepared for the examination.",
+                "He wrote the exam with the utmost confidence for whenever he was grossly underprepared for the examination.",
+                "He wrote the exam with the utmost confidence nevertheless he was grossly underprepared for the examination.",
+                "He wrote the exam with the utmost confidence although he was grossly underprepared for the examination."
+          ],
+          "answer": "He wrote the exam with the utmost confidence although he was grossly underprepared for the examination."
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, two sentences are given. You are required to identify the option that most appropriately combines both the sentences into one sentence, and mark your response accordingly.<br/><br/>He pledged to donate his body parts. He was himself the beneficiary of organ transplantation.",
+          "options": [
+                "He pledged to donate his body parts though he was himself the beneficiary of organ transplantation.",
+                "He pledged to donate his body parts because he was himself the beneficiary of organ transplantation.",
+                "He pledged to donate his body parts if he was himself the beneficiary of organ transplantation.",
+                "He pledged to donate his body parts but he was himself the beneficiary of organ transplantation."
+          ],
+          "answer": "He pledged to donate his body parts because he was himself the beneficiary of organ transplantation."
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, two sentences are given. You are required to identify the option that most appropriately combines both the sentences into one sentence, and mark your response accordingly.<br/><br/>He was adamant to undertake the journey to the hills. He had promised to visit his school.",
+          "options": [
+                "He was adamant to undertake the journey to the hills for he had promised to visit his school.",
+                "He was adamant to undertake the journey to the hills even he had promised to visit his school.",
+                "He was adamant to undertake the journey to the hills if he had promised to visit his school.",
+                "He was adamant to undertake the journey to the hills forever he had promised to visit his school."
+          ],
+          "answer": "He was adamant to undertake the journey to the hills for he had promised to visit his school."
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a sentence is given with one or more underlined words. From the options provided mark the correct answer from among (a), (b) or (c), which is the most appropriate improvement over the word(s) to be substituted. If no improvement can be identified, mark your response as (d).<br/><br/>Similar mishaps are continually <u>happening on</u> the new highway because of improper signalling.",
+          "options": [
+                "manifesting",
+                "occurring",
+                "repeating",
+                "no improvement"
+          ],
+          "answer": "occurring"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a sentence is given with one or more underlined words. From the options provided mark the correct answer from among (a), (b) or (c), which is the most appropriate improvement over the word(s) to be substituted. If no improvement can be identified, mark your response as (d).<br/><br/>The visiting school children <u>circumnavigated around</u> the Dal Lake with visible delight during their visit to Srinagar.",
+          "options": [
+                "circumnavigated about",
+                "circumnavigated on",
+                "circumnavigated",
+                "no improvement"
+          ],
+          "answer": "circumnavigated"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a sentence is given with one or more underlined words. From the options provided mark the correct answer from among (a), (b) or (c), which is the most appropriate improvement over the word(s) to be substituted. If no improvement can be identified, mark your response as (d).<br/><br/>The Principal of the school assembled the students and <u>emphasised the importance of</u> discipline in their everyday lives.",
+          "options": [
+                "emphasised on the importance",
+                "emphasised over the importance",
+                "emphasised upon the importance",
+                "no improvement"
+          ],
+          "answer": "no improvement"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a sentence is given with one or more underlined words. From the options provided mark the correct answer from among (a), (b) or (c), which is the most appropriate improvement over the word(s) to be substituted. If no improvement can be identified, mark your response as (d).<br/><br/>The group was accused of biased participation in the discussion because their entire attention was <u>centred around</u> their own proposal.",
+          "options": [
+                "centred on",
+                "centred in",
+                "centred over",
+                "no improvement"
+          ],
+          "answer": "centred on"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, a sentence is given with one or more underlined words. From the options provided mark the correct answer from among (a), (b) or (c), which is the most appropriate improvement over the word(s) to be substituted. If no improvement can be identified, mark your response as (d).<br/><br/>He claimed that he was merely an <u>uninterested</u> participant in the negotiation.",
+          "options": [
+                "an interested",
+                "a disinterested",
+                "a uninterested",
+                "no improvement"
+          ],
+          "answer": "a disinterested"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, you are required to select the most appropriate voice of the given phrase and mark your response from the options that follow.<br/><br/>Change from Active to Passive voice :<br/>Respect your elders",
+          "options": [
+                "You should respect elders",
+                "Elders are respected",
+                "Respect the elders",
+                "Elders should be respected"
+          ],
+          "answer": "Elders should be respected"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, you are required to select the most appropriate voice of the given phrase and mark your response from the options that follow.<br/><br/>Change from Active to Passive voice :<br/>Shut the door",
+          "options": [
+                "The door is to be shut",
+                "Let the door be shut",
+                "The door be shut",
+                "No change"
+          ],
+          "answer": "Let the door be shut"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, you are required to select the most appropriate voice of the given phrase and mark your response from the options that follow.<br/><br/>Change from Passive to Active voice :<br/>Sujata was advised by her mother to carry an umbrella while stepping out into the rain",
+          "options": [
+                "Her mother advised Sujata to carry an umbrella while stepping out into the rain",
+                "Sujata advised her mother to carry an umbrella while stepping out into the rain",
+                "The mother advised Sujata to carry an umbrella while stepping out into the rain",
+                "No change"
+          ],
+          "answer": "Her mother advised Sujata to carry an umbrella while stepping out into the rain"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, you are required to select the most appropriate voice of the given phrase and mark your response from the options that follow.<br/><br/>Change from Passive to Active voice :<br/>He was said to be a good cricketer",
+          "options": [
+                "They said he is a good cricketer",
+                "They said he was a good cricketer",
+                "He is a good cricketer",
+                "No change"
+          ],
+          "answer": "They said he was a good cricketer"
+    },
+    {
+          "question": "<b>Directions :</b> In the following items, you are required to select the most appropriate voice of the given phrase and mark your response from the options that follow.<br/><br/>Change from Passive to Active voice :<br/>His hair is being cut by a professional",
+          "options": [
+                "A professional will be cutting his hair",
+                "A professional is cutting his hair",
+                "He will be getting a professional haircut",
+                "No change"
+          ],
+          "answer": "A professional is cutting his hair"
+    }
   ]
 };
 
