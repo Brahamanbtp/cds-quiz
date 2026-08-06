@@ -5195,6 +5195,127 @@ const englishData: Record<string, Question[]> = {
           ],
           "answer": "RPSQ"
     }
+  ,
+    {
+          "question": "S1 : Digital Locker is a key initiative under Digital India, aimed at transforming India into a digitally empowered society and knowledge economy.<br>S6 : These legacy documents can be electronically signed using the eSign facility.<br><br>P : Targeted at the idea of paperless governance, Digital Locker is a platform for issuance and verification of documents and certificates in a digital way.<br>Q : Organisations that are registered with Digital Locker can push electronic copies of documents and certificates directly into citizens' lockers.<br>R : Citizens can also upload scanned copies of their legacy documents in their accounts.<br>S : Indian residents, who sign up for a DigiLocker account, get a dedicated cloud storage space.",
+          "options": [
+                "PSQR",
+                "QSRP",
+                "RSPQ",
+                "SPRQ"
+          ],
+          "answer": "PSQR"
+    },
+    {
+          "question": "S1 : Nano Mission Programme was initiated in 2007.<br>S6 : The efforts of this mission are evident through India's global ranking based on the publications in SCI journals.<br><br>P : The Nano Mission is likely to pave the path for India's domination in cutting-edge science.<br>Q : Its goal is to foster, promote and develop all aspects of nanoscience and nanotechnology.<br>R : This is an umbrella programme which promotes basic research and focuses on nanotechnology adaptation and transfer to industry for use by masses.<br>S : The support under this extends to create skilled human resources, projects related to nanoscience and nanotechnology and building infrastructure of nano S&T labs at several institutes spread across the country.",
+          "options": [
+                "PSRQ",
+                "QRPS",
+                "RPQS",
+                "SPRQ"
+          ],
+          "answer": "QRPS"
+    },
+    {
+          "question": "<b>Directions:</b> Each of the following sentences has an underlined word. Read the sentence carefully and identify which word class the underlined word belongs to.<br><br>She sings much <u>better</u> than I do.",
+          "options": [
+                "Adjective",
+                "Adverb",
+                "Verb",
+                "Conjunction"
+          ],
+          "answer": "Adverb"
+    },
+    {
+          "question": "The story was in all the <u>dailies</u>.",
+          "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Determiner"
+          ],
+          "answer": "Noun"
+    },
+    {
+          "question": "<u>Smoking</u> is injurious to health.",
+          "options": [
+                "Participle",
+                "Infinitive",
+                "Gerund",
+                "Verb"
+          ],
+          "answer": "Gerund"
+    },
+    {
+          "question": "What made you choose the <u>one</u> rather than the other?",
+          "options": [
+                "Pronoun",
+                "Verb",
+                "Number",
+                "Adverb"
+          ],
+          "answer": "Pronoun"
+    },
+    {
+          "question": "There is still <u>some</u> water in the bottle.",
+          "options": [
+                "Adverb",
+                "Conjunction",
+                "Determiner",
+                "Verb"
+          ],
+          "answer": "Determiner"
+    },
+    {
+          "question": "<u>Hurray !</u> We have won the match.",
+          "options": [
+                "Interjection",
+                "Conjunction",
+                "Adjective",
+                "Interrogative"
+          ],
+          "answer": "Interjection"
+    },
+    {
+          "question": "<u>Having</u> finished her work, Sharmila left home at 8:00 PM.",
+          "options": [
+                "Participle",
+                "Auxiliary verb",
+                "Adverb",
+                "Conjunction"
+          ],
+          "answer": "Participle"
+    },
+    {
+          "question": "My teacher always moves <u>around</u> in her class while teaching.",
+          "options": [
+                "Verb",
+                "Adverb",
+                "Conjunction",
+                "Noun"
+          ],
+          "answer": "Adverb"
+    },
+    {
+          "question": "The <u>cantankerous</u> men of the town roar around the marketplace.",
+          "options": [
+                "Verb",
+                "Adverb",
+                "Determiner",
+                "Adjective"
+          ],
+          "answer": "Adjective"
+    },
+    {
+          "question": "India is revered as the <u>fountainhead</u> of democracy in the world today.",
+          "options": [
+                "Noun",
+                "Adjective",
+                "Adverb",
+                "Interjection"
+          ],
+          "answer": "Noun"
+    }
   ]
 };
 
