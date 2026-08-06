@@ -5316,6 +5316,307 @@ const englishData: Record<string, Question[]> = {
           ],
           "answer": "Noun"
     }
+  ,
+    {
+          "question": "<b>Directions:</b> In this section, you have two short passages. After each passage, you will find some items based on the passage. Read the passage carefully and answer the items based on it.<br><br><b>Passage-I</b><br>Our tragedy today is a general and universal physical fear so long sustained by now that we can even bear it. There are no longer problems of the spirit. There is only the question: When will I be blown up? Because of this, the young man or woman writing today has forgotten the problems of the human heart in conflict with itself which alone can make good writing because only that is worth writing about, worth the agony and the sweat. He must learn them again. He must teach himself that the basest of all things is to be afraid; and, teaching himself that, forget it forever, leaving no room in his workshop for anything but the old verities and truths of the heart, the old universal truths lacking which any story is ephemeral and doomed—love and honour and pity and pride and compassion and sacrifice. Until he does so, he labours under a curse. He writes not of love but of lust, of defeats in which nobody loses anything of value, of victories without hope and, worst of all, without pity or compassion. His griefs grieve on no universal bones, leaving no scars. He writes not of the heart but of the glands.<br><br>Until he relearns these things, he will write as though he stood among and watched the end of man. I decline to accept the end of man. It is easy enough to say that man is immortal simply because he will endure: that when the last dingdong of doom has clanged and faded from the last worthless rock hanging tideless in the last red and dying evening, that even then there will still be one more sound: that of his puny inexhaustible voice, still talking.<br><br>I refuse to accept this. I believe man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice.<br><br>The tragedy of our times is",
+          "options": [
+                "we are unable to bear pain",
+                "we have forgotten the problems of the human heart",
+                "we have learnt to bear general and universal physical fear",
+                "the fear of the spirit"
+          ],
+          "answer": "we have learnt to bear general and universal physical fear"
+    },
+    {
+          "question": "What must writers learn again?",
+          "options": [
+                "The lessons of life",
+                "The problems of a heart in conflict with itself",
+                "To be afraid",
+                "To be fearless"
+          ],
+          "answer": "The problems of a heart in conflict with itself"
+    },
+    {
+          "question": "A writer's workshop should be filled with",
+          "options": [
+                "stories of love and lust",
+                "stories of victories",
+                "universal truths",
+                "ephemeral facts"
+          ],
+          "answer": "universal truths"
+    },
+    {
+          "question": "According to the author, the end of man is untenable because",
+          "options": [
+                "of his inexhaustible voice",
+                "of his endurance",
+                "of his mortal life",
+                "of his spirit, born of his soul"
+          ],
+          "answer": "of his spirit, born of his soul"
+    },
+    {
+          "question": "The word 'puny' means",
+          "options": [
+                "brave",
+                "daring",
+                "tiny",
+                "doomed"
+          ],
+          "answer": "tiny"
+    },
+    {
+          "question": "<b>Passage-II</b><br>People do not understand the nature or ramifications of most educational changes. They become involved in change voluntarily or involuntarily and in either case experience ambivalence about its meanings, form, and consequences. I have implied that there are a number of things at stake—changes in goals, skills, philosophy or beliefs, behaviour, etc. Subjectively these different aspects are experienced in a diffuse, incoherent manner. Change often is not conceived of as being multidimensional. Objectively, it is possible to clarify the meaning of an educational change by identifying and describing its separate dimensions. Ignorance of these dimensions explains a number of interesting phenomena in the field of educational changes: for example, why some people accept an innovation they do not understand; why some aspects of a change are implemented and others not; why strategies for change neglect certain essential components.<br><br>The concept of objective reality is tricky. Reality is always defined by individuals and groups. But individuals and groups interact to produce social phenomena (constitutions, laws, policies, educational change programmes), which exist outside any given individual. There is also the danger that the objective reality is only the reflection of the producers of change and thus simply a glorified version of their subjective conceptions. We can reduce this problem by following the practice of posing double questions: \"What is the existing conception of reality on a given issue?\" Followed quickly by \"says who?\"<br><br>People do not understand the nature or ramifications of educational change because",
+          "options": [
+                "they do not understand the multidimensional character of change",
+                "they see the certainty in the change",
+                "they are ambiguous in their decision",
+                "it takes time and hard work"
+          ],
+          "answer": "they do not understand the multidimensional character of change"
+    },
+    {
+          "question": "People would accept an innovation with understanding, if",
+          "options": [
+                "they find meaning of the innovation in their use",
+                "there is clarity regarding its aspects",
+                "they themselves learn to innovate in their contexts",
+                "they work with their immediate and distant colleagues"
+          ],
+          "answer": "there is clarity regarding its aspects"
+    },
+    {
+          "question": "What is the caution the author sounds with regard to 'objective reality'?",
+          "options": [
+                "Objective reality is a collective reality which may have many problems",
+                "Objective reality may be influenced by subjective thinking and considerations",
+                "Objective reality is the collective influence of all people",
+                "Objective considerations are part of the subjective reality and thus they are interrelated"
+          ],
+          "answer": "Objective reality may be influenced by subjective thinking and considerations"
+    },
+    {
+          "question": "Which two words in the passage mean the opposite of the word 'whole'?",
+          "options": [
+                "Version and ramifications",
+                "Phenomena and programmes",
+                "Components and dimensions",
+                "Conceptions and programmes"
+          ],
+          "answer": "Components and dimensions"
+    },
+    {
+          "question": "Which of the following sums up the idea of the author?",
+          "options": [
+                "Change is subjective and warrants objectivity from conceptualisation to implementation",
+                "Subjectivity cannot be ruled out by describing the main dimensions of change",
+                "It is difficult to conceptualise the change which satisfies all sections with understanding",
+                "Change has to be conceptualised collectively in its many dimensions, and dealt with objectively"
+          ],
+          "answer": "Change has to be conceptualised collectively in its many dimensions, and dealt with objectively"
+    },
+    {
+          "question": "<b>Directions:</b> Each of the following sentences has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space.<br><br>I don't like working _______ night.",
+          "options": [
+                "in",
+                "at",
+                "on",
+                "into"
+          ],
+          "answer": "at"
+    },
+    {
+          "question": "I'll see you _______ the morning.",
+          "options": [
+                "at",
+                "on",
+                "along",
+                "in"
+          ],
+          "answer": "in"
+    },
+    {
+          "question": "There is a mark _______ the wall.",
+          "options": [
+                "on",
+                "by",
+                "into",
+                "from"
+          ],
+          "answer": "on"
+    },
+    {
+          "question": "Shalini usually goes to work _______ bus.",
+          "options": [
+                "on",
+                "by",
+                "at",
+                "with"
+          ],
+          "answer": "by"
+    },
+    {
+          "question": "She has always been very polite _______ me.",
+          "options": [
+                "about",
+                "by",
+                "to",
+                "of"
+          ],
+          "answer": "to"
+    },
+    {
+          "question": "I'm fed up _______ you.",
+          "options": [
+                "by",
+                "at",
+                "until",
+                "with"
+          ],
+          "answer": "with"
+    },
+    {
+          "question": "We had a discussion _______ the project.",
+          "options": [
+                "beneath",
+                "with",
+                "about",
+                "in"
+          ],
+          "answer": "about"
+    },
+    {
+          "question": "She is capable _______ winning the race.",
+          "options": [
+                "on",
+                "at",
+                "of",
+                "until"
+          ],
+          "answer": "of"
+    },
+    {
+          "question": "His first novel has been translated _______ many languages.",
+          "options": [
+                "into",
+                "with",
+                "on",
+                "along"
+          ],
+          "answer": "into"
+    },
+    {
+          "question": "We met a very nice family _______ our holiday.",
+          "options": [
+                "while",
+                "into",
+                "during",
+                "by"
+          ],
+          "answer": "during"
+    },
+    {
+          "question": "<b>Directions:</b> Each item in this section has a sentence with three underlined parts, labelled as (a), (b) and (c). Read each sentence to determine whether there is any error in any underlined part. If you find no error, your response should be indicated as (d).<br><br><u>During recession</u> (a) / <u>many companies were compelled</u> (b) / <u>to decrease their workforce.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(a)"
+    },
+    {
+          "question": "<u>The politicians</u> (a) / <u>parted ways</u> (b) / <u>due towards ideological differences.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<u>The murder was</u> (a) / <u>too abominable</u> (b) / <u>to described.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<u>Each new word</u> (a) / <u>in this book</u> (b) / <u>have a different meaning.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<u>The news regarding</u> (a) / <u>the earthquake survivors</u> (b) / <u>are very disturbing.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<u>These equipments</u> (a) / <u>must have</u> (b) / <u>cost a fortune.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(a)"
+    },
+    {
+          "question": "<u>Prateek doesn't</u> (a) / <u>look well today,</u> (b) / <u>doesn't he?</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(c)"
+    },
+    {
+          "question": "<u>It was one of</u> (a) / <u>most eloquent speeches</u> (b) / <u>delivered by Swami Vivekananda.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(b)"
+    },
+    {
+          "question": "<u>He suffered</u> (a) / <u>from fever when he was interviewed</u> (b) / <u>for the job.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(a)"
+    },
+    {
+          "question": "<u>She forced</u> (a) / <u>herself</u> (b) / <u>to eat.</u> (c) / <u>No error</u> (d)",
+          "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+          ],
+          "answer": "(d)"
+    }
   ]
 };
 
