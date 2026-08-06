@@ -3750,6 +3750,267 @@ const mathsData: Record<string, Question[]> = {
           ],
           "answer": "80%"
     }
+  ,
+    {
+          "question": "The difference of 10<sup>31</sup> &minus; 5 and 10<sup>30</sup> + <i>p</i> is divisible by 3 where <i>p</i> is a digit. How many values of <i>p</i> are possible ?",
+          "options": [
+                "4",
+                "3",
+                "2",
+                "1"
+          ],
+          "answer": "3"
+    },
+    {
+          "question": "Consider the following statements :<br/><br/>I. 61 divides 107<sup>100</sup> &minus; 76<sup>100</sup><br/><br/>II. 100 divides 67<sup>5</sup> + 33<sup>5</sup><br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "Both I and II"
+    },
+    {
+          "question": "The average of the temperatures recorded at noontime from Monday to Sunday is 31&deg;C. If the lowest temperature recorded is 30&deg;C, then what is the maximum of temperature that is possible to record at noontime on any one of the days",
+          "options": [
+                "34&deg;C",
+                "35&deg;C",
+                "36&deg;C",
+                "37&deg;C"
+          ],
+          "answer": "37&deg;C"
+    },
+    {
+          "question": "If<br/><br/>(<i>x</i> + <sup>1</sup>/<sub><i>yz</i></sub>) &minus; (<i>y</i> + <sup>1</sup>/<sub><i>zx</i></sub>) = (<i>y</i> + <sup>1</sup>/<sub><i>zx</i></sub>) &minus; (<i>z</i> + <sup>1</sup>/<sub><i>xy</i></sub>)<br/><br/>and <i>x</i> + <i>z</i> &ne; 2<i>y</i>, then what is <i>xyz</i> equal to ?",
+          "options": [
+                "&minus;3",
+                "&minus;1",
+                "1",
+                "3"
+          ],
+          "answer": "&minus;1"
+    },
+    {
+          "question": "Consider the following statements in respect of<br/><i>p</i> = <i>n</i>(<i>n</i> + 1)(<i>n</i> + 2)(<i>n</i> + 3) + 1,<br/>where <i>n</i> is a natural number :<br/><br/>I. <i>p</i> is always odd<br/><br/>II. <i>p</i> is a perfect square<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "Both I and II"
+    },
+    {
+          "question": "What is the difference between the average of first 50 even natural numbers and the average of first 50 odd natural numbers ?",
+          "options": [
+                "0",
+                "0.5",
+                "1",
+                "2"
+          ],
+          "answer": "1"
+    },
+    {
+          "question": "Three amounts <i>x</i>, <i>y</i>, <i>z</i> are such that <i>y</i> is the compound interest on <i>x</i>; and <i>z</i> is the compound interest on <i>y</i>. The rate of interest per annum and the time period in years are same. Which one of the following is correct ?",
+          "options": [
+                "<i>x</i><sup>2</sup> = <i>yz</i>",
+                "<i>y</i><sup>2</sup> = <i>zx</i>",
+                "<i>z</i><sup>2</sup> = <i>xy</i>",
+                "<i>x</i> = <i>yz</i>"
+          ],
+          "answer": "<i>y</i><sup>2</sup> = <i>zx</i>"
+    },
+    {
+          "question": "There are <i>n</i> concentric squares. The area of the innermost square is 1 unit and the distance between corresponding corners of any two consecutive squares is 1 unit. Consider the following statements :<br/><br/>I. The diagonal of the <i>n</i>th square is 2<i>n</i> + &radic;2 &minus; 2<br/><br/>II. The area included between <i>n</i>th square and (<i>n</i> &minus; 1)th square is independent of <i>n</i><br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "I only"
+    },
+    {
+          "question": "In a rectangle <i>ABCD</i>, <i>AC</i> is one of the diagonals. If <i>AC</i> + <i>AB</i> = 3<i>AD</i> and <i>AC</i> &minus; <i>AD</i> = 4 units, then what is the area of the triangle ?",
+          "options": [
+                "24 square unit",
+                "36 square unit",
+                "48 square unit",
+                "72 square unit"
+          ],
+          "answer": "24 square unit"
+    },
+    {
+          "question": "The area of the circle circumscribing three identical circles touching each other is <sup>&pi;(2 + &radic;3)<sup>2</sup></sup>/<sub>3</sub> square cm. What is the radius of one of the smaller circles ?",
+          "options": [
+                "0.5 cm",
+                "1 cm",
+                "1.5 cm",
+                "&radic;3 cm"
+          ],
+          "answer": "1 cm"
+    },
+    {
+          "question": "In a triangle <i>ABC</i>, <i>AB</i> = 21 cm, <i>BC</i> = 20 cm and <i>CA</i> = 13 cm. A perpendicular <i>CD</i> is drawn upon the longest side. What is the area of the triangle <i>BCD</i> ?",
+          "options": [
+                "96 square cm",
+                "84 square cm",
+                "80 square cm",
+                "72 square cm"
+          ],
+          "answer": "96 square cm"
+    },
+    {
+          "question": "There are two containers <i>A</i> and <i>B</i>. In container <i>A</i>, the ratio of milk and water is 1 : 3 and in container <i>B</i>, the ratio of milk and water is <i>m</i> : <i>n</i>. If the mixture in the containers <i>A</i> and <i>B</i> are mixed in the ratio 2 : 3 to get 20 litres of a mixture having milk and water in the ratio 3 : 7, then what is the value of <sup><i>m</i></sup>/<sub><i>n</i></sub> ?",
+          "options": [
+                "<sup>1</sup>/<sub>2</sub>",
+                "<sup>2</sup>/<sub>3</sub>",
+                "<sup>3</sup>/<sub>4</sub>",
+                "<sup>4</sup>/<sub>5</sub>"
+          ],
+          "answer": "<sup>1</sup>/<sub>2</sub>"
+    },
+    {
+          "question": "A cone, a hemisphere and a cylinder stand on equal base of radius <i>r</i> and have the same height. If the sum of volumes of cone, the hemisphere and the cylinder is equal to volume of a sphere of radius <i>R</i>, then what is <sup><i>R</i><sup>3</sup></sup>/<sub><i>r</i><sup>3</sup></sub> equal to ?",
+          "options": [
+                "1.25",
+                "1.5",
+                "2",
+                "2.5"
+          ],
+          "answer": "1.5"
+    },
+    {
+          "question": "If <i>x</i><sup>3</sup> + <i>px</i><sup>2</sup> + <i>qx</i> + <i>r</i> is an integer for all integral values of <i>x</i>, then consider the following statements :<br/><br/>I. <i>p</i> must be an integer<br/><br/>II. <i>q</i> must be an integer<br/><br/>III. <i>r</i> must be an integer<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "I and II only",
+                "III only",
+                "I, II and III",
+                "None of the statements is correct"
+          ],
+          "answer": "III only"
+    },
+    {
+          "question": "<i>XYZ</i> is a 3-digit number, where <i>X</i>, <i>Y</i>, <i>Z</i> are distinct non-zero digits. The difference between the two 3-digit numbers <i>XYZ</i> and <i>YXZ</i> is 90. How many possible values exist for the sum (<i>X</i> + <i>Y</i>) ?",
+          "options": [
+                "9",
+                "8",
+                "7",
+                "6"
+          ],
+          "answer": "8"
+    },
+    {
+          "question": "How many times does the minute hand of a clock coincide with the second hand between 2&middot;01 pm and 4&middot;01 pm on the same day ?",
+          "options": [
+                "121",
+                "120",
+                "119",
+                "None of the above"
+          ],
+          "answer": "None of the above"
+    },
+    {
+          "question": "What is the HCF of 2<sup>36</sup> &minus; 1 and 2<sup>45</sup> &minus; 1 ?",
+          "options": [
+                "1023",
+                "512",
+                "511",
+                "255"
+          ],
+          "answer": "511"
+    },
+    {
+          "question": "The section of a solid right circular cone by a plane containing vertex and perpendicular to base is an equilateral triangle of side 14 cm. What is the volume of the cone ? (<i>&pi;</i> = <sup>22</sup>/<sub>7</sub>)",
+          "options": [
+                "1078&radic;3 cubic cm",
+                "<sup>1078</sup>/<sub>&radic;3</sub> cubic cm",
+                "539&radic;3 cubic cm",
+                "<sup>539</sup>/<sub>&radic;3</sub> cubic cm"
+          ],
+          "answer": "<sup>1078</sup>/<sub>&radic;3</sub> cubic cm"
+    },
+    {
+          "question": "Three identical cones each with base radius 3 cm are placed on their bases so that each is touching the other two. There will be one and only circle that would pass through each of the vertices of the cones. What is the area of the circle ?",
+          "options": [
+                "3&pi; square cm",
+                "6&pi; square cm",
+                "9&pi; square cm",
+                "12&pi; square cm"
+          ],
+          "answer": "12&pi; square cm"
+    },
+    {
+          "question": "A circle is inscribed in a triangle <i>ABC</i> right-angled at <i>B</i>. If <i>AB</i> = 5 cm and <i>BC</i> = 12 cm, then what is the radius of the circle ?",
+          "options": [
+                "1 cm",
+                "1.5 cm",
+                "2 cm",
+                "2.5 cm"
+          ],
+          "answer": "2 cm"
+    },
+    {
+          "question": "The ratio of sum of interior angles to sum of exterior angles of a regular polygon of <i>n</i> sides is <sup>7</sup>/<sub>2</sub>. What is the measure of an interior angle of polygon ?",
+          "options": [
+                "110&deg;",
+                "120&deg;",
+                "130&deg;",
+                "140&deg;"
+          ],
+          "answer": "140&deg;"
+    },
+    {
+          "question": "The number 199 can be written as <i>m</i><sup>2</sup> &minus; <i>n</i><sup>2</sup>, where <i>m</i>, <i>n</i> are natural numbers (<i>m</i> &gt; <i>n</i>). What is the value of <i>mn</i> ?",
+          "options": [
+                "9900",
+                "9800",
+                "9701",
+                "Cannot be uniquely determined"
+          ],
+          "answer": "9900"
+    },
+    {
+          "question": "How many numbers of the form 2<sup><i>n</i></sup> &minus; 1 and less than 2000 are prime ?",
+          "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+          ],
+          "answer": "4"
+    },
+    {
+          "question": "In a class of 160 students, each of them opt at least one language from among English, Hindi and Sanskrit. It is found that 130 students opt English, 120 students Hindi and 110 Sanskrit. If the students opt either only one language or all three languages, then what is the number of students who study all three languages ?",
+          "options": [
+                "40",
+                "60",
+                "80",
+                "100"
+          ],
+          "answer": "100"
+    },
+    {
+          "question": "Let <i>S</i> = 5<sup><i>a</i></sup> + 7<sup><i>b</i></sup> + 11<sup><i>c</i></sup> + 13<sup><i>d</i></sup>, where <i>a</i>, <i>b</i>, <i>c</i> and <i>d</i> are natural numbers. What is the number of distinct remainders of <i>S</i> when it is divided by 10 ?",
+          "options": [
+                "1",
+                "4",
+                "5",
+                "More than 5"
+          ],
+          "answer": "5"
+    },
+    {
+          "question": "In a right triangle <i>ABC</i>, &ang;<i>A</i> = 90&deg; and <i>AD</i> is perpendicular to <i>BC</i>. If &ang;<i>CAD</i> = 60&deg; and <i>BC</i> = 6 cm, then what is <i>AB</i> equal to ?",
+          "options": [
+                "3 cm",
+                "4 cm",
+                "5 cm",
+                "6 cm"
+          ],
+          "answer": "3 cm"
+    }
   ]
 };
 
