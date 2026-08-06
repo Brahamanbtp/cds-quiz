@@ -3006,6 +3006,338 @@ const mathsData: Record<string, Question[]> = {
           ],
           "answer": "51&middot;5"
     }
+  ],
+  "2024-II": [
+    {
+          "question": "A real number <i>x</i> is such that the sum of the number and four times its square is the least. What is that number ?",
+          "options": [
+                "-0.625",
+                "-0.125",
+                "0.125",
+                "1"
+          ],
+          "answer": "-0.125"
+    },
+    {
+          "question": "The difference of the square of two natural numbers <i>m</i> and <i>n</i> (<i>m</i> &gt; <i>n</i>) is 72. How many pairs of natural numbers will satisfy ?",
+          "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+          ],
+          "answer": "3"
+    },
+    {
+          "question": "Let <i>N</i> be a 5-digit number. When <i>N</i> is divided by 6, 12, 15, 24 it leaves respectively 2, 8, 11, 20 as remainders. What is the greatest value of <i>N</i> ?",
+          "options": [
+                "99960",
+                "99956",
+                "99950",
+                "99946"
+          ],
+          "answer": "99956"
+    },
+    {
+          "question": "What is the remainder when 111<sup>222</sup> + 222<sup>333</sup> + 333<sup>444</sup> is divided by 5 ?",
+          "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+          ],
+          "answer": "4"
+    },
+    {
+          "question": "What are the last three digits in the multiplication of 4321012345 &times; 98766789 ?",
+          "options": [
+                "1, 0, 5",
+                "2, 0, 5",
+                "2, 1, 5",
+                "3, 0, 5"
+          ],
+          "answer": "2, 0, 5"
+    },
+    {
+          "question": "<i>p</i> varies directly as (<i>x</i><sup>2</sup> + <i>y</i><sup>2</sup> + <i>z</i><sup>2</sup>). When <i>x</i> = 1, <i>y</i> = 2, <i>z</i> = 3, then <i>p</i> = 70. What is the value of <i>p</i> when <i>x</i> = &minus;1, <i>y</i> = 1, <i>z</i> = 5 ?",
+          "options": [
+                "100",
+                "125",
+                "135",
+                "140"
+          ],
+          "answer": "135"
+    },
+    {
+          "question": "Let <i>N</i> be the least positive multiple of 11 that leaves a remainder of 5 when divided by 6, 12, 15, 18. Which one of the following is correct ?",
+          "options": [
+                "900 &lt; <i>N</i> &lt; 1000",
+                "1000 &lt; <i>N</i> &lt; 1100",
+                "1100 &lt; <i>N</i> &lt; 1200",
+                "1200 &lt; <i>N</i> &lt; 1300"
+          ],
+          "answer": "1200 &lt; <i>N</i> &lt; 1300"
+    },
+    {
+          "question": "What is <sup>1</sup>/<sub>(&radic;10 + &radic;9)</sub> + <sup>1</sup>/<sub>(&radic;11 + &radic;10)</sub> + <sup>1</sup>/<sub>(&radic;12 + &radic;11)</sub> + ... + <sup>1</sup>/<sub>(&radic;196 + &radic;195)</sub> equal to ?",
+          "options": [
+                "17",
+                "14",
+                "11",
+                "10"
+          ],
+          "answer": "11"
+    },
+    {
+          "question": "Train <i>X</i> crosses a man standing on the platform in 24 seconds and train <i>Y</i> crosses a man standing on the platform in 18 seconds. They cross each other while running in opposite directions in 20 seconds. What is the ratio of speed of <i>X</i> to speed of <i>Y</i> ?",
+          "options": [
+                "1 : 2",
+                "2 : 3",
+                "1 : 3",
+                "3 : 4"
+          ],
+          "answer": "1 : 2"
+    },
+    {
+          "question": "Let <i>p</i>, <i>q</i> be the roots of the equation <i>x</i><sup>2</sup> + <i>mx</i> &minus; <i>n</i> = 0 and <i>m</i>, <i>n</i> be the roots of the equation <i>x</i><sup>2</sup> + <i>px</i> &minus; <i>q</i> = 0 (<i>m</i>, <i>n</i>, <i>p</i>, <i>q</i> are non-zero numbers). Which of the following statements is/are correct ?<br/><br/>I. <i>m</i>(<i>m</i> + <i>n</i>) = &minus;1<br/><br/>II. <i>p</i> + <i>q</i> = 1<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "Both I and II"
+    },
+    {
+          "question": "What is the maximum value of 8sin<i>&theta;</i> &minus; 4sin<sup>2</sup><i>&theta;</i> ?",
+          "options": [
+                "3",
+                "4",
+                "8",
+                "12"
+          ],
+          "answer": "4"
+    },
+    {
+          "question": "What is (1 + tan<i>&alpha;</i> tan<i>&beta;</i>)<sup>2</sup> + (tan<i>&alpha;</i> &minus; tan<i>&beta;</i>)<sup>2</sup> equal to ?",
+          "options": [
+                "tan<sup>2</sup><i>&alpha;</i> tan<sup>2</sup><i>&beta;</i>",
+                "sec<sup>2</sup><i>&alpha;</i> sec<sup>2</sup><i>&beta;</i>",
+                "tan<sup>2</sup><i>&alpha;</i> cot<sup>2</sup><i>&beta;</i>",
+                "sec<sup>2</sup><i>&alpha;</i> tan<sup>2</sup><i>&beta;</i>"
+          ],
+          "answer": "sec<sup>2</sup><i>&alpha;</i> sec<sup>2</sup><i>&beta;</i>"
+    },
+    {
+          "question": "Consider the following statements :<br/><br/>I. tan 50&deg; &minus; cot 50&deg; is positive<br/><br/>II. cot 25&deg; &minus; tan 25&deg; is negative<br/><br/>Which of the statements is/are correct ?",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "I only"
+    },
+    {
+          "question": "If 0 &le; (<i>&alpha;</i> &minus; <i>&beta;</i>) &le; (<i>&alpha;</i> + <i>&beta;</i>) &le; <i>&pi;</i>/2, tan(<i>&alpha;</i> + <i>&beta;</i>) = &radic;3 and tan(<i>&alpha;</i> &minus; <i>&beta;</i>) = 1/&radic;3, then what is tan <i>&alpha;</i> &middot; cot 2<i>&beta;</i> equal to ?",
+          "options": [
+                "1",
+                "&radic;2",
+                "&radic;3",
+                "1/&radic;3"
+          ],
+          "answer": "&radic;3"
+    },
+    {
+          "question": "What is the value of sin<sup>2</sup><i>&theta;</i> cos<sup>2</sup><i>&theta;</i> (sec<sup>2</sup><i>&theta;</i> + cosec<sup>2</sup><i>&theta;</i>) equal to ?",
+          "options": [
+                "0",
+                "1",
+                "2",
+                "4"
+          ],
+          "answer": "1"
+    },
+    {
+          "question": "If 64<sup>sin<sup>2</sup><i>&theta;</i></sup> + 64<sup>cos<sup>2</sup><i>&theta;</i></sup> = 16 where 0 &le; <i>&theta;</i> &le; <i>&pi;</i>/2, then what is the value of tan <i>&theta;</i> + cot <i>&theta;</i> ?",
+          "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+          ],
+          "answer": "2"
+    },
+    {
+          "question": "If cosec <i>&theta;</i> &minus; cot <i>&theta;</i> = <i>m</i> and sec <i>&theta;</i> &minus; tan <i>&theta;</i> = <i>n</i>, then what is cosec <i>&theta;</i> + sec <i>&theta;</i> equal to ?",
+          "options": [
+                "<sup>1</sup>/<sub>2</sub>(<i>m</i> + <i>n</i> + <sup>1</sup>/<sub><i>m</i></sub> + <sup>1</sup>/<sub><i>n</i></sub>)",
+                "(<i>m</i> + <i>n</i> + <sup>1</sup>/<sub><i>m</i></sub> + <sup>1</sup>/<sub><i>n</i></sub>)",
+                "<sup>1</sup>/<sub>2</sub>(<i>m</i> + <i>n</i> &minus; <sup>1</sup>/<sub><i>m</i></sub> &minus; <sup>1</sup>/<sub><i>n</i></sub>)",
+                "(<i>m</i> + <i>n</i> &minus; <sup>1</sup>/<sub><i>m</i></sub> &minus; <sup>1</sup>/<sub><i>n</i></sub>)"
+          ],
+          "answer": "<sup>1</sup>/<sub>2</sub>(<i>m</i> + <i>n</i> + <sup>1</sup>/<sub><i>m</i></sub> + <sup>1</sup>/<sub><i>n</i></sub>)"
+    },
+    {
+          "question": "From a point <i>X</i> on a bridge across a river, the angles of depression of two points <i>P</i> and <i>Q</i> on the banks on opposite side of the river are <i>&alpha;</i> and <i>&beta;</i> respectively. If the point <i>X</i> is at a height <i>h</i> above the surface of the river, what is the width of the river if <i>&alpha;</i> and <i>&beta;</i> are complementary ?",
+          "options": [
+                "2<i>h</i>(tan <i>&alpha;</i> + cot <i>&alpha;</i>)",
+                "<i>h</i> tan <i>&alpha;</i> &middot; tan <i>&beta;</i>",
+                "<i>h</i> cot <i>&alpha;</i> &middot; cot <i>&beta;</i>",
+                "<i>h</i> sec <i>&alpha;</i> &middot; cosec <i>&alpha;</i>"
+          ],
+          "answer": "<i>h</i> sec <i>&alpha;</i> &middot; cosec <i>&alpha;</i>"
+    },
+    {
+          "question": "In a triangle <i>ABC</i>, &ang;<i>ABC</i> = 60&deg; and <i>AD</i> is the altitude. If <i>AB</i> = 6 cm and <i>BC</i> = 8 cm, then what is the area of the triangle ?",
+          "options": [
+                "12 square cm",
+                "12&radic;3 square cm",
+                "24 square cm",
+                "24&radic;3 square cm"
+          ],
+          "answer": "12&radic;3 square cm"
+    },
+    {
+          "question": "If <i>p</i> and <i>q</i> are the roots of the equation <i>x</i><sup>2</sup> &minus; (sin<sup>2</sup><i>&theta;</i>)<i>x</i> &minus; cos<sup>2</sup><i>&theta;</i> = 0, then what is the minimum value of <i>p</i><sup>2</sup> + <i>q</i><sup>2</sup> ?",
+          "options": [
+                "<sup>1</sup>/<sub>2</sub>",
+                "1",
+                "<sup>3</sup>/<sub>2</sub>",
+                "2"
+          ],
+          "answer": "1"
+    },
+    {
+          "question": "The arithmetic mean of <i>n</i> numbers is <i>M</i>. If the sum of first (<i>n</i> &minus; 1) terms is <i>k</i>, then what is the <i>n</i>th number ?",
+          "options": [
+                "<i>M</i> &minus; <i>k</i>",
+                "<i>nM</i> &minus; <i>k</i>",
+                "<i>n</i>(<i>M</i> &minus; <i>k</i>)",
+                "<i>M</i> &minus; <i>nk</i>"
+          ],
+          "answer": "<i>nM</i> &minus; <i>k</i>"
+    },
+    {
+          "question": "What is the geometric mean of 3, 9, 27, 81, 243, 729, 2187 ?",
+          "options": [
+                "81",
+                "105",
+                "144",
+                "243"
+          ],
+          "answer": "81"
+    },
+    {
+          "question": "A person purchases one kg of tea powder from each of the four places <i>A</i>, <i>B</i>, <i>C</i>, <i>D</i> at the rate of ₹ 1000 per 1 kg, 2 kg, 4 kg, 5 kg. If on an average he purchased <i>x</i> kg of tea powder per ₹ 1000, then what is the approximate value of <i>x</i> ?",
+          "options": [
+                "1.95",
+                "2.00",
+                "2.05",
+                "2.10"
+          ],
+          "answer": "2.05"
+    },
+    {
+          "question": "What is the sum of the largest and the smallest 4-digit numbers made by using single digit prime numbers (without repetition) ?",
+          "options": [
+                "7887",
+                "7997",
+                "8998",
+                "9889"
+          ],
+          "answer": "9889"
+    },
+    {
+          "question": "What is the remainder when 3<sup>255</sup> is divided by 28 ?",
+          "options": [
+                "1",
+                "11",
+                "24",
+                "27"
+          ],
+          "answer": "27"
+    },
+    {
+          "question": "What is the value of <i>x</i> (0 &le; <i>x</i> &le; 8) if (100<sup>97</sup> + 100<sup>54</sup> + <i>x</i> + 1) leaves a remainder 0 when divided by 9 ?",
+          "options": [
+                "8",
+                "6",
+                "4",
+                "1"
+          ],
+          "answer": "6"
+    },
+    {
+          "question": "In a triangle <i>ABC</i>, <i>D</i> is a point on <i>BC</i>. If <i>AB</i> &middot; <i>DC</i> = <i>AC</i> &middot; <i>BD</i>, &ang;<i>BAD</i> = <i>&alpha;</i> and &ang;<i>CAD</i> = <i>&beta;</i> then which one of the following is correct ?",
+          "options": [
+                "<i>&alpha;</i> = <i>&beta;</i>",
+                "<i>&alpha;</i> = 2<i>&beta;</i>",
+                "2<i>&alpha;</i> = <i>&beta;</i>",
+                "2<i>&alpha;</i> = 3<i>&beta;</i>"
+          ],
+          "answer": "<i>&alpha;</i> = <i>&beta;</i>"
+    },
+    {
+          "question": "Let <i>N</i> = 12345678<i>AB</i> be a 10-digit number, where <i>A</i>, <i>B</i> are digits. If <i>N</i> is divisible by 9, then which of the following statements is/are correct ?<br/><br/>I. (<i>A</i> + <i>B</i>) is divisible by 9<br/><br/>II. If <i>A</i> is odd, then <i>B</i> is odd<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "I only"
+    },
+    {
+          "question": "If <i>x</i><sup>3</sup> + <sup>1</sup>/<sub><i>x</i><sup>3</sup></sub> = <sup>65</sup>/<sub>8</sub> and <i>y</i><sup>3</sup> + <sup>1</sup>/<sub><i>y</i><sup>3</sup></sub> = <sup>730</sup>/<sub>27</sub>, then which one of the following is a value of <i>xy</i> ?",
+          "options": [
+                "3",
+                "6",
+                "8",
+                "9"
+          ],
+          "answer": "6"
+    },
+    {
+          "question": "If 11<i>x</i> + 5<i>y</i> is a prime number where <i>x</i>, <i>y</i> are natural numbers then what is the minimum value of (<i>x</i> + <i>y</i>) ?",
+          "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+          ],
+          "answer": "5"
+    },
+    {
+          "question": "A 4-digit number <i>N</i> has exactly 15 distinct divisors. What is the total number of distinct divisors of <i>N</i><sup>2</sup> ?",
+          "options": [
+                "16",
+                "30",
+                "45",
+                "225"
+          ],
+          "answer": "45"
+    },
+    {
+          "question": "If <i>p</i>, <i>q</i> and <i>r</i> are the lengths (in cm) of the sides of a right-angled triangle, then (<i>p</i> &minus; <i>q</i> &minus; <i>r</i>)(<i>q</i> &minus; <i>r</i> &minus; <i>p</i>)(<i>r</i> &minus; <i>p</i> &minus; <i>q</i>) is always",
+          "options": [
+                "Positive only",
+                "Negative only",
+                "Non-positive only",
+                "Non-negative only"
+          ],
+          "answer": "Negative only"
+    },
+    {
+          "question": "What is the minimum value of <sup>(<i>a</i><sup>8</sup> + <i>a</i><sup>4</sup> + 1)(<i>b</i><sup>8</sup> + <i>b</i><sup>4</sup> + 1)</sup>/<sub><i>a</i><sup>4</sup><i>b</i><sup>4</sup></sub> , where <i>a</i> &gt; 0, <i>b</i> &gt; 0 ?",
+          "options": [
+                "1",
+                "4",
+                "9",
+                "16"
+          ],
+          "answer": "9"
+    }
   ]
 };
 
