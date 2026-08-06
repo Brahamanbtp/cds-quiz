@@ -3607,7 +3607,510 @@ const englishData: Record<string, Question[]> = {
     ],
     "answer": "Differences"
 }
-]
+],
+  "2024-II": [
+    {
+          "question": "<b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.<br/><br/>The leader's views were <u>equivocal</u> on the contentious issue.",
+          "options": [
+                "obscure",
+                "ambiguous",
+                "clear",
+                "vague"
+          ],
+          "answer": "clear"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.<br/><br/>The authorities interacted with a group of <u>mutinous</u> students.",
+          "options": [
+                "unruly",
+                "contumacious",
+                "seditious",
+                "obedient"
+          ],
+          "answer": "obedient"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.<br/><br/>His behaviour was quite <u>belligerent</u>.",
+          "options": [
+                "bellicose",
+                "antagonistic",
+                "combative",
+                "amiable"
+          ],
+          "answer": "amiable"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.<br/><br/>He was <u>effusive</u> in his praise.",
+          "options": [
+                "exuberant",
+                "profuse",
+                "voluble",
+                "reticent"
+          ],
+          "answer": "reticent"
+    },
+    {
+          "question": "<b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.<br/><br/>He is often accused of being <u>iniquitous</u> in his conduct.",
+          "options": [
+                "preposterous",
+                "execrable",
+                "virtuous",
+                "revolting"
+          ],
+          "answer": "virtuous"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank.<br/><br/>Working in dim light ________ eye issues such as glaucoma.",
+          "options": [
+                "contributes",
+                "precipitates",
+                "eradicates",
+                "eliminates"
+          ],
+          "answer": "precipitates"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank.<br/><br/>He owns several sports cars and has an ________ lifestyle.",
+          "options": [
+                "opulent",
+                "occult",
+                "ocular",
+                "obscure"
+          ],
+          "answer": "opulent"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank.<br/><br/>Those medicines, ________ are used to treat kidney infection, have been withdrawn from the market.",
+          "options": [
+                "what",
+                "which",
+                "when",
+                "who"
+          ],
+          "answer": "which"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank.<br/><br/>________ intake of sugar can cause health problems.",
+          "options": [
+                "Access",
+                "Excess of",
+                "Excessive",
+                "Excessively"
+          ],
+          "answer": "Excessive"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank.<br/><br/>She suffered ________ pain because of the leg injury.",
+          "options": [
+                "hurting",
+                "excruciating",
+                "consuming",
+                "protracting"
+          ],
+          "answer": "excruciating"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank.<br/><br/>The country's politics ________ complex, with more than ten parties competing for power.",
+          "options": [
+                "are",
+                "am",
+                "is",
+                "were"
+          ],
+          "answer": "is"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank.<br/><br/>The job advertisement stipulates that the applicant ________ three years' experience.",
+          "options": [
+                "have",
+                "had",
+                "shall have",
+                "must have"
+          ],
+          "answer": "must have"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank.<br/><br/>Newspapers have reported heavy flooding in the coastal areas. The damage ________ to be extensive.",
+          "options": [
+                "expected",
+                "is expecting",
+                "has been expected",
+                "is expected"
+          ],
+          "answer": "is expected"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank.<br/><br/>The local bank was robbed by a group of men, ________ were armed.",
+          "options": [
+                "four of whom",
+                "four of these",
+                "four of those",
+                "four whom"
+          ],
+          "answer": "four of whom"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank.<br/><br/>The country ________ several economic changes in the past two decades.",
+          "options": [
+                "underwent",
+                "had undergone",
+                "will be undergoing",
+                "have been undergoing"
+          ],
+          "answer": "underwent"
+    },
+    {
+          "question": "<b>Directions :</b> Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d), which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.<br/><br/><b>A watched pot never boils</b>",
+          "options": [
+                "Surveillance destroys creativity",
+                "To experience failure due to over eagerness",
+                "To have no chance of achieving something",
+                "Desperate anticipation makes time drag on"
+          ],
+          "answer": "Desperate anticipation makes time drag on"
+    },
+    {
+          "question": "<b>Directions :</b> Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d), which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.<br/><br/><b>Look to your laurels</b>",
+          "options": [
+                "To make an extra effort to secure one's position",
+                "To look suitable for a particular situation",
+                "To guard one's trophies",
+                "To praise oneself"
+          ],
+          "answer": "To make an extra effort to secure one's position"
+    },
+    {
+          "question": "<b>Directions :</b> Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d), which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.<br/><br/><b>Play devil's advocate</b>",
+          "options": [
+                "To try to defeat someone by tricking them",
+                "To perform with a lot of skills",
+                "To delay doing something",
+                "To pretend to be against an idea in order to discuss it more carefully"
+          ],
+          "answer": "To pretend to be against an idea in order to discuss it more carefully"
+    },
+    {
+          "question": "<b>Directions :</b> Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d), which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.<br/><br/><b>Be in the same boat</b>",
+          "options": [
+                "To say two things in the same breath",
+                "To be in the same unpleasant situation",
+                "To do something that is dangerous",
+                "To pretend to be something that you are not"
+          ],
+          "answer": "To be in the same unpleasant situation"
+    },
+    {
+          "question": "<b>Directions :</b> Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d), which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.<br/><br/><b>Tilt at windmills</b>",
+          "options": [
+                "To be young and inexperienced",
+                "To celebrate good news",
+                "To blow hot air",
+                "To waste time dealing with enemies and problems that do not exist"
+          ],
+          "answer": "To waste time dealing with enemies and problems that do not exist"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.<br/><br/>the essence of human resource development is (P) / remedial role in (Q) / balancing the socio-economic fabric of the country (R) / education which plays a significant and (S)",
+          "options": [
+                "PSQR",
+                "PQSR",
+                "RSQP",
+                "RQSP"
+          ],
+          "answer": "PSQR"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.<br/><br/>in this endeavour (P) / gender budgeting is a critical strategy (Q) / is central to mitigate gender inequalities and (R) / financing for gender equality (S)",
+          "options": [
+                "QPRS",
+                "QRPS",
+                "SRQP",
+                "SPRQ"
+          ],
+          "answer": "SRQP"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.<br/><br/>balanced diet and are vital items of (P) / are essential ingredients for a wholesome and (Q) / fruit and vegetables (R) / mass consumption (S)",
+          "options": [
+                "RQPS",
+                "RPSQ",
+                "SRPQ",
+                "SQRP"
+          ],
+          "answer": "RQPS"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.<br/><br/>relating to the reduction of greenhouse gases (P) / and extending financial support to (Q) / developing countries (R) / India's position is reflected in decisions (S)",
+          "options": [
+                "SRPQ",
+                "SPQR",
+                "PRSQ",
+                "RSPQ"
+          ],
+          "answer": "SPQR"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.<br/><br/>disbursement of pension expeditiously (P) / all efforts are made to process the (Q) / once all requisite documents are received from (R) / the beneficiaries (S)",
+          "options": [
+                "QPSR",
+                "RSQP",
+                "PRSQ",
+                "SPQR"
+          ],
+          "answer": "QPSR"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.<br/><br/>than interpreting it (P) / combating poverty continues (Q) / understanding poverty is more important (R) / to elude humanity because (S)",
+          "options": [
+                "QSRP",
+                "PRSQ",
+                "SRQP",
+                "RSPQ"
+          ],
+          "answer": "QSRP"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.<br/><br/>the National Education Policy-2020 envisages (P) / and pedagogy in schools and colleges (Q) / following the liberal approach (R) / a restructuring of existing curriculum (S)",
+          "options": [
+                "SRQP",
+                "PQRS",
+                "RPSQ",
+                "RQSP"
+          ],
+          "answer": "RPSQ"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.<br/><br/>the Amazon Basin in the central north (P) / America's physiography is (Q) / in the west and (R) / dominated by the Andes Mountains (S)",
+          "options": [
+                "RSPQ",
+                "SPRQ",
+                "QSRP",
+                "PQRS"
+          ],
+          "answer": "QSRP"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.<br/><br/>encompassing a great many (P) / has been eclectic (Q) / historically and culturally Indian society (R) / differences and contradictions (S)",
+          "options": [
+                "RQPS",
+                "RSQP",
+                "PQRS",
+                "PQSR"
+          ],
+          "answer": "RQPS"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.<br/><br/>systems of India and is considered (P) / the Siddha system is (Q) / to be a form of age-old experiential wisdom (R) / one of the ancient comprehensive medical (S)",
+          "options": [
+                "RPSQ",
+                "QSPR",
+                "PSQR",
+                "PRSQ"
+          ],
+          "answer": "QSPR"
+    },
+    {
+          "question": "<b>Directions :</b> In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.<br/><br/>S1 : Indian defence forces are fully aligned with national agenda of Atmanirbhar Bharat and have already embarked in mission mode.<br/>S6 : As a result, the Indian defence industry will be apprised about the anticipated requirements of the armed forces and is thus better prepared to realize its goal.<br/>P : This will provide opportunity to the Indian industry to harness their potential and build an ecosystem which can sustain itself by being responsive to the needs of the defence forces.<br/>Q : Two Positive Indigenization Lists, comprising 101 and 108 items respectively, have been issued.<br/>R : Projects fielded are aimed to encourage indigenization of defence technologies and reduce dependence on import.<br/>S : The lists intend to implement ban on import of these items in a staggered manner up to 2025 and promote indigenous production.<br/><br/>The correct sequence should be :",
+          "options": [
+                "PSRQ",
+                "QPRS",
+                "QSRP",
+                "SRPQ"
+          ],
+          "answer": "QSRP"
+    },
+    {
+          "question": "<b>Directions :</b> In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.<br/><br/>S1 : Our Constitution makers were fully conscious of the fact that the Scheduled Castes and Scheduled Tribes had been oppressed and underprivileged sections of our society over the centuries and they deserved a special dispensation so that their condition may be vastly improved.<br/>S6 : Consequently, adequate safeguards were provided for these communities in our Constitution.<br/>P : Similarly, they were also sensitive of the difficulties and problems which were likely to be faced by the persons belonging to the Anglo-Indian community in the country.<br/>Q : One such provision related to the reservation of seats for these communities in the Lok Sabha and State Legislative Assemblies.<br/>R : This provision found place in Article 330 and Article 332 of the Constitution.<br/>S : For this purpose, several special provisions were incorporated in our Constitution.<br/><br/>The correct sequence should be :",
+          "options": [
+                "SQRP",
+                "SPRQ",
+                "QPRS",
+                "QRSP"
+          ],
+          "answer": "SQRP"
+    }
+  ,
+    {
+          "question": "<b>Directions :</b> In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.<br/><br/>S1 : Startup India is a flagship initiative of the Government of India.<br/>S6 : Under the Startup India scheme, eligible companies can get recognized as startups in order to access a host of tax benefits, easier compliance, IPR fast-tracking and other benefits.<br/>P : These programmes are managed by a dedicated Startup India team, which reports to DPIIT.<br/>Q : It envisions transforming India into a country of job creators instead of job seekers.<br/>R : It intends to catalyse the startup culture and build a strong and inclusive ecosystem for innovation and entrepreneurship in India.<br/>S : Launched in 2016, Startup India has rolled out several programmes with the objective of supporting entrepreneurs and building up a robust startup ecosystem.<br/><br/>The correct sequence should be :",
+          "options": [
+                "RQSP",
+                "QRSP",
+                "SQRP",
+                "PRSQ"
+          ],
+          "answer": "RQSP"
+    },
+    {
+          "question": "<b>Directions :</b> In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.<br/><br/>S1 : In India the first Livestock Census was conducted during 1919 &minus; 1920.<br/>S6 : For the first time, data was collected through tablet computers, which reduced the time gap in data collection, data processing and report generation.<br/>P : Since its inception it is being conducted quinquennially by all States/UTs.<br/>Q : The 20th Livestock Census was conducted with participation of Animal Husbandry Departments of States/UTs.<br/>R : This five-yearly census is the only source which gives disaggregated information on various species of animals and poultry birds.<br/>S : The main objective of the census is to provide information on livestock population, species-wise and breed-wise, along with age, sex-composition, etc., in rural and urban areas.<br/><br/>The correct sequence should be :",
+          "options": [
+                "PRSQ",
+                "PSQR",
+                "QRSP",
+                "QSPR"
+          ],
+          "answer": "PRSQ"
+    },
+    {
+          "question": "<b>Directions :</b> In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.<br/><br/>S1 : India has been a welfare state since Independence.<br/>S6 : Elimination of poverty, ignorance, diseases and inequality of opportunities, and providing a better quality of life were the basic premise upon which all the plans of the development were built.<br/>P : The policies and programmes have been designed with the aim of alleviation of rural poverty.<br/>Q : The primary objective of all governmental endeavours has been the welfare of its rural population.<br/>R : It was realized that a sustainable strategy of poverty alleviation has to be based on increasing the productive employment opportunities in the process of growth itself.<br/>S : Ensuring rural welfare has been one of the main objectives of planned development in India.<br/><br/>The correct sequence should be :",
+          "options": [
+                "PRSQ",
+                "QPSR",
+                "RQSP",
+                "SRPQ"
+          ],
+          "answer": "QPSR"
+    },
+    {
+          "question": "<b>Directions :</b> In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.<br/><br/>S1 : Covid-19 pandemic threw a lot of challenges on the entire economy.<br/>S6 : In order to address this need and to promote economic activities post pandemic, MoHUA initiated ARHCs, a sub-scheme under PMAY(U).<br/>P : These urban migrants stay in slums, informal settlements, unauthorized colonies, peri-urban areas to save cost on housing.<br/>Q : Hence, they need decent rental housing at affordable rate near their worksites.<br/>R : The biggest challenge was reverse migration of urban migrants/poor in the country.<br/>S : The migration took place due to the temporary shutting down of industries and other sectors.<br/><br/>The correct sequence should be :",
+          "options": [
+                "PQRS",
+                "SRQP",
+                "QSRP",
+                "RSPQ"
+          ],
+          "answer": "RSPQ"
+    },
+    {
+          "question": "<b>Directions :</b> In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.<br/><br/>S1 : Press Trust of India (PTI) is a non-profit making cooperative owned by the country's newspapers with a mandate to provide effective and unbiased news to all subscribers.<br/>S6 : Increasingly, more and more subscribers are opting for satellite reception.<br/>P : It offers its news services in English and Hindi languages.<br/>Q : Over 500 newspapers and several news services subscribe to PTI, including many overseas news entities.<br/>R : PTI now has its own satellite delivery system.<br/>S : Bhasha is the Hindi language news service of the agency.<br/><br/>The correct sequence should be :",
+          "options": [
+                "QRSP",
+                "QPSR",
+                "RPSQ",
+                "RQSP"
+          ],
+          "answer": "QPSR"
+    },
+    {
+          "question": "<b>Directions :</b> In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.<br/><br/>S1 : The National School of Drama (NSD) was set up by the Sangeet Natak Akademi in 1959.<br/>S6 : The NSD has promoted Children's Theatre as well.<br/>P : Post admission, the students at NSD are required to undergo training of three year's duration.<br/>Q : The eligible applicants for admission are screened through two stages.<br/>R : The objective of the NSD is to train students in all aspects of theatre, including theatre history, production, scene design, costume design, lighting, make-up, etc.<br/>S : In 1975, it became an autonomous organisation.<br/><br/>The correct sequence should be :",
+          "options": [
+                "PQRS",
+                "SRQP",
+                "QSRP",
+                "RSPQ"
+          ],
+          "answer": "SRQP"
+    },
+    {
+          "question": "<b>Directions :</b> In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.<br/><br/>S1 : Gaganyaan is a national programme wherein ISRO is leveraging the domain expertise of various agencies for expediting its execution.<br/>S6 : It will lay the foundation for a sustained Indian human space exploration programme in the long run.<br/>P : With this programme, a new vertical has been created within ISRO to steer this growth.<br/>Q : The Gaganyaan Programme marks an inflection point in the growth profile of India's space endeavour.<br/>R : This new vertical envisages undertaking the demonstration of human space flight to Low Earth Orbit in the short-term.<br/>S : A new ISRO centre, Human Spaceflight Centre has been formed for Low Earth Orbit flights.<br/><br/>The correct sequence should be :",
+          "options": [
+                "QPRS",
+                "QSRP",
+                "RSPQ",
+                "SPRQ"
+          ],
+          "answer": "QPRS"
+    },
+    {
+          "question": "<b>Directions :</b> In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.<br/><br/>S1 : India has the largest youth population in the world.<br/>S6 : The role of the Department of Youth Affairs is to act as a facilitator and catalytic agent for youth development.<br/>P : The Department has also recognised adolescents as an important segment of the youth.<br/>Q : Youth represent the most dynamic and vibrant segment of the population.<br/>R : To optimally tap their constructive and creative energies, the Department of Youth Affairs pursues the twin objectives of personality development and nation building.<br/>S : Other Ministries and the State Governments are also working to support youth development and to enable productive youth participation.<br/><br/>The correct sequence should be :",
+          "options": [
+                "PSRQ",
+                "QRPS",
+                "RPQS",
+                "SPRQ"
+          ],
+          "answer": "QRPS"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.<br/><br/><u>Consequently</u>, this poses a threat to agriculture and human health.",
+          "options": [
+                "Adjective",
+                "Adverb",
+                "Verb",
+                "Noun"
+          ],
+          "answer": "Adverb"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.<br/><br/>His <u>only</u> answer was a grunt.",
+          "options": [
+                "Noun",
+                "Adjective",
+                "Pronoun",
+                "Determiner"
+          ],
+          "answer": "Adjective"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.<br/><br/><u>To swim</u> every day is good for health.",
+          "options": [
+                "Participle",
+                "Infinitive verb",
+                "Gerund",
+                "Adjective"
+          ],
+          "answer": "Infinitive verb"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.<br/><br/>I didn't tell him anything <u>except</u> that I needed the money.",
+          "options": [
+                "Adjective",
+                "Adverb",
+                "Preposition",
+                "Conjunction"
+          ],
+          "answer": "Conjunction"
+    },
+    {
+          "question": "<b>Directions :</b> Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.<br/><br/>She married at 18 and gave birth to her first child shortly <u>thereafter</u>.",
+          "options": [
+                "Pronoun",
+                "Determiner",
+                "Adjective",
+                "Adverb"
+          ],
+          "answer": "Adverb"
+    },
+    {
+          "question": "<b>Directions :</b> Identify the part of the speech of the underlined word/phrase in the sentence and mark your response in the Answer Sheet accordingly.<br/><br/>He is one of the tallest boys in <u>his</u> class.",
+          "options": [
+                "Possessive Pronoun",
+                "Noun",
+                "Reflexive Pronoun",
+                "Numeral Adjective"
+          ],
+          "answer": "Possessive Pronoun"
+    },
+    {
+          "question": "<b>Directions :</b> Identify the part of the speech of the underlined word/phrase in the sentence and mark your response in the Answer Sheet accordingly.<br/><br/>The <u>mighty</u> river Brahmaputra flows through the plains of Assam.",
+          "options": [
+                "Adverb",
+                "Adjective",
+                "Noun",
+                "Pronoun"
+          ],
+          "answer": "Adjective"
+    },
+    {
+          "question": "<b>Directions :</b> Identify the part of the speech of the underlined word/phrase in the sentence and mark your response in the Answer Sheet accordingly.<br/><br/>The money which one earns is not the money for <u>himself</u>, it is for the family and society.",
+          "options": [
+                "Noun",
+                "Pronoun",
+                "Verb",
+                "Adverb"
+          ],
+          "answer": "Pronoun"
+    },
+    {
+          "question": "<b>Directions :</b> Identify the part of the speech of the underlined word/phrase in the sentence and mark your response in the Answer Sheet accordingly.<br/><br/>The Principal said, \"We should <u>always</u> be disciplined.\"",
+          "options": [
+                "Preposition",
+                "Adverb",
+                "Adjective",
+                "Determiner"
+          ],
+          "answer": "Adverb"
+    },
+    {
+          "question": "<b>Directions :</b> Identify the part of the speech of the underlined word/phrase in the sentence and mark your response in the Answer Sheet accordingly.<br/><br/>The <u>river</u> that flows through the village is a tributary of the Cauvery.",
+          "options": [
+                "Pronoun",
+                "Noun",
+                "Verb",
+                "Adjective"
+          ],
+          "answer": "Noun"
+    }
+  ]
 };
 
 export default englishData;
