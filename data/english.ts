@@ -5084,6 +5084,117 @@ const englishData: Record<string, Question[]> = {
           ],
           "answer": "QSPR"
     }
+  ,
+    {
+          "question": "<b>Directions:</b> Each of the following items consists of a sentence, the parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Select the most appropriate option indicating the rearrangement of the parts.<br><br>a decade sooner than 2050 (P)<br>that the population will peak (Q)<br>the second scenario suggested (R)<br>at 8.5 billion by 2040 (S)",
+          "options": [
+                "PSQR",
+                "RQSP",
+                "RPSQ",
+                "PRSQ"
+          ],
+          "answer": "RQSP"
+    },
+    {
+          "question": "turbulent times (P)<br>not only during war and (Q)<br>peace is always the only alternative (R)<br>but also during peaceful times (S)",
+          "options": [
+                "RPSQ",
+                "PRSQ",
+                "RQPS",
+                "SPQR"
+          ],
+          "answer": "RQPS"
+    },
+    {
+          "question": "generations of Indian women (P)<br>many policies and behaviours (Q)<br>'population bomb' related narratives mobilised (R)<br>that shaped the lives of (S)",
+          "options": [
+                "RQSP",
+                "PSQR",
+                "RPSQ",
+                "PQRS"
+          ],
+          "answer": "RQSP"
+    },
+    {
+          "question": "<b>Directions:</b> In this section, each item consists of six sentences. The first and sixth sentences are marked as S1 and S6. The four sentences between S1 and S6 have been jumbled up and labelled as P, Q, R and S. Identify the most appropriate sequence.<br><br>S1 : The Attorney-General of India is appointed by the President of India.<br>S6 : He shall receive such remuneration as the President may determine.<br><br>P : In the performance of his duties, the Attorney-General shall have the right of audience in all courts in the territory of India.<br>Q : The Attorney-General shall hold office during the pleasure of the President.<br>R : Any person qualified to be a judge of the Supreme Court can be appointed for the post.<br>S : The duty of the Attorney-General is to give advice to the Government of India upon such legal matters, and to perform such other duties of a legal character, as may from time to time be referred to him or assigned to him by the President, and to discharge the functions conferred on him by or under the Constitution or any other law for the time being in force.",
+          "options": [
+                "PSRQ",
+                "QPRS",
+                "RSPQ",
+                "SRPQ"
+          ],
+          "answer": "RSPQ"
+    },
+    {
+          "question": "S1 : COVID-19 was a health catastrophe that caused great distress.<br>S6 : It triggered the movement of more than 7 million people through lockdown and post-lockdown periods.<br><br>P : India also undertook the Vande Bharat Mission.<br>Q : Made-in-India vaccines were sent to more than 90 countries on a commercial and grant basis.<br>R : India justified its credentials as a global HADR player deploying Rapid Response Teams to Maldives, Kuwait and Mauritius launching the multiphased mission SAGAR.<br>S : During the pandemic, India re-established its credentials as the Pharmacy of the World by supplying medicines and equipment to over 150 countries in the face of daunting logistical challenges.",
+          "options": [
+                "SQRP",
+                "SPRQ",
+                "QPRS",
+                "QRSP"
+          ],
+          "answer": "SQRP"
+    },
+    {
+          "question": "S1 : The New Development Bank (NDB) has been instituted with a vision to support and foster infrastructure and sustainable initiatives in emerging economies.<br>S6 : India is one of the largest borrowers from the Bank in the sectors of transport, health, water and financial sectors.<br><br>P : The purpose of the Bank is to mobilise resources for infrastructure and sustainable projects in BRICS and other emerging economies.<br>Q : Each member country has a shareholding of 20 per cent.<br>R : The founding members of the NDB—Brazil, Russia, India, China and South Africa—brought in capital USD 1 billion as initial contribution.<br>S : India and other four founding members have equal shareholding in the Bank.",
+          "options": [
+                "PQSR",
+                "SPRQ",
+                "QSRP",
+                "RSQP"
+          ],
+          "answer": "RSQP"
+    },
+    {
+          "question": "S1 : Ayurveda literally means 'science of life'.<br>S6 : It is about the interrelationships between these aspects.<br><br>P : Ayurveda has evolved from the various Vedic hymns rooted in the fundamental philosophies about life, disease and health.<br>Q : Ayurveda takes an integrated view of the physical, mental, spiritual and social aspects of human beings.<br>R : The Charaka Samhita and Sushruta Samhita, which developed around 2500 BCE, are the main treatises of Ayurveda.<br>S : According to Ayurveda, health is considered a prerequisite for achieving the goals of life, i.e., Dharma, Artha, Kama and Moksha.",
+          "options": [
+                "PRSQ",
+                "SPQR",
+                "QRSP",
+                "QSPR"
+          ],
+          "answer": "PRSQ"
+    },
+    {
+          "question": "S1 : The National Education Policy, 2020 is an important policy on education.<br>S6 : The policy was formulated through consultation process at every stage—from preformulation to formulation and implementation.<br><br>P : To fulfil its objectives, it seeks to bring access, equity, quality, affordability and accountability in education for sustainable development.<br>Q : It has come after 34 years, replacing the National Policy on Education, 1986.<br>R : The policy also lays emphasis on bringing out the unique capabilities of each student, promoting ethical values, encouraging critical thinking, fostering a culture of research and encouraging rootedness and pride in India.<br>S : It aims to transform India into a vibrant knowledge society and global knowledge superpower by making both school and college education more holistic and flexible.",
+          "options": [
+                "PRSQ",
+                "QSPR",
+                "RQSP",
+                "SQRP"
+          ],
+          "answer": "QSPR"
+    },
+    {
+          "question": "S1 : Cotton is one of the most important cash crops in India, and it makes India an important global player in cotton production.<br>S6 : To support the cotton industry, the Government of India regularly announces Minimum Support Price (MSP) for two basic staple groups, viz., medium staple and long staple cotton.<br><br>P : Cotton sustains the livelihood of an estimated 508 million cotton farmers and 40–50 million people engaged in related activities such as cotton processing and trade.<br>Q : India's contribution to cotton production comes from around 126 lakh hectares under cotton cultivation which is around 38 per cent of the world area.<br>R : The country accounts for around 25 per cent of the total global fibre production.<br>S : In the raw material consumption basket of the Indian textile industry, the proportion of cotton is around 60 per cent.",
+          "options": [
+                "PQRS",
+                "SRPQ",
+                "QSRP",
+                "RQSP"
+          ],
+          "answer": "RQSP"
+    },
+    {
+          "question": "S1 : One of the features of humanist culture in Italy was a slackening of the control of religion over human life.<br>S6 : There was also a concern at this time with good manners.<br><br>P : Though they were not irreligious, Italians were strongly attracted to material wealth, power and glory.<br>Q : He wrote a pamphlet defending acquisition of wealth as a virtue.<br>R : In <i>On Pleasure</i>, Lorenzo Valla, another humanist, criticised the Christian injunction against pleasure.<br>S : Francesco Barbaro was a humanist from Venice.",
+          "options": [
+                "QRSP",
+                "QPSR",
+                "PSQR",
+                "RSPQ"
+          ],
+          "answer": "PSQR"
+    },
+    {
+          "question": "S1 : Rural Postal Life Insurance was started in 1995.<br>S6 : Therefore, various schemes of PLI and RPLI are very popular amongst eligible clients.<br><br>P : It also aims to spread insurance awareness among the rural population.<br>Q : However, PLI and RPLI continue to offer life insurance cover at lower premium rate and higher bonus.<br>R : The prime objective of the scheme is to provide insurance cover to the rural public in general and to benefit weaker sections and women workers of rural areas in particular.<br>S : With liberalisation of the insurance sector, Postal Life Insurance and Rural Postal Life Insurance are operating in a very competitive market.",
+          "options": [
+                "QRSP",
+                "QPSR",
+                "RPSQ",
+                "RSPQ"
+          ],
+          "answer": "RPSQ"
+    }
   ]
 };
 
