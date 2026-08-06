@@ -4239,6 +4239,277 @@ const gkData: Record<string, Question[]> = {
           ],
           "answer": "an unstitched length of cloth draped around the body."
     }
+  ,
+    {
+          "question": "Consider the following statements with reference to the Utpala dynasty of Kashmir :<br/><br/>1. Avantivarman, the founder, devoted his energies to the economic upliftment of his subjects.<br/>2. Avantivarman's period in Kashmir is known for the engineering operations under his minister Suyya, resulting in the enormous increase of grains and fall in prices.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Consider the following pairs of High Offices and concerned Departments in the Mauryan Administration :<br/><br/>1. <i>Samahartri</i> : Chief Collector of Revenue<br/>2. <i>Dauvarika</i> : Chief of Army<br/>3. <i>Akshapatala</i> : Records-cum-Audit Officer<br/>4. <i>Samnidhatri</i> : Treasurer<br/><br/>Which of the pairs given above are correctly matched ?",
+          "options": [
+                "1 and 2 only",
+                "1, 3 and 4 only",
+                "3 and 4 only",
+                "1, 2, 3 and 4"
+          ],
+          "answer": "1, 3 and 4 only"
+    },
+    {
+          "question": "Which kingdom was described by Governor-General Lord Dalhousie as \"<i>A cherry that will drop into our mouth one day</i>\" ?",
+          "options": [
+                "Delhi",
+                "Awadh",
+                "Jhansi",
+                "Gwalior"
+          ],
+          "answer": "Awadh"
+    },
+    {
+          "question": "Consider the following statements with reference to Census in India :<br/><br/>1. The first All India Census was attempted in 1872.<br/>2. From 1881, decennial censuses became a regular feature.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "Which of the following statements is/are correct ?<br/><br/>1. During the Second Round Table Conference held in London in 1931, the British Government refused to accept the basic nationalist demand for freedom.<br/>2. India was granted dominion status in 1932.<br/>3. Viceroy Lord Willingdon adopted a policy of reconciliation with Congress.<br/>4. The Civil Disobedience Movement was started with the breaking of salt laws.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "2 and 3 only",
+                "4 only",
+                "1 and 4 only",
+                "1, 2 and 4"
+          ],
+          "answer": "1 and 4 only"
+    },
+    {
+          "question": "Which of the following statements about Cabinet Mission are correct ?<br/><br/>1. It was sent to India in 1946 to negotiate the transfer of power with the Indian leaders.<br/>2. It proposed a two-tiered federal plan while conceding the largest measure of regional autonomy.<br/>3. There was to be a federation of provinces and states, alongside a federal centre.<br/>4. The individual provinces were allowed to form regional unions to which they could surrender some of their powers by mutual agreement.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 and 3 only",
+                "1, 2 and 4 only",
+                "2, 3 and 4 only",
+                "1, 2, 3 and 4"
+          ],
+          "answer": "1 and 3 only"
+    },
+    {
+          "question": "Consider the following pairs :<br/><br/>1. <i>Gajapati</i> &ndash; Name of a powerful Dynasty in Orissa<br/>2. <i>Ashvapati</i> &ndash; Deccan Sultans<br/>3. <i>Narapati</i> &ndash; Rayas of Vijayanagara<br/><br/>Which of the above pairs is/are correctly matched ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "1, 2 and 3",
+                "None of the above"
+          ],
+          "answer": "1, 2 and 3"
+    },
+    {
+          "question": "Which of the following pairs of Himalayan Glaciers and their location is/are correctly matched ?<br/><br/>1. Siachen &ndash; Nubra Valley Region<br/>2. Chungphar &ndash; Kumaon-Garhwal Region<br/>3. Zemu &ndash; Central Nepal Region<br/>4. Gasherbrum &ndash; Pir Panjal Range<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "1 and 2",
+                "2 and 3",
+                "3 and 4"
+          ],
+          "answer": "1 only"
+    },
+    {
+          "question": "Consider the following statements regarding the rivers of India :<br/><br/>1. The Barak River, the head stream of the Meghna, rises in the hills of Meghalaya.<br/>2. The Ghaggar River does not drain out to the sea and gets lost in the Rajasthan desert.<br/>3. Puthimari and Manas are important tributaries of the Brahmaputra.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "2 only",
+                "1 and 2",
+                "2 and 3"
+          ],
+          "answer": "2 and 3"
+    },
+    {
+          "question": "Consider the following statements regarding transportation functions associated with important ports :<br/><br/>1. Singapore functions both as a port of call and an entrepot.<br/>2. Karwar in India is an example of a naval port.<br/>3. Dover in England is an example of an outport.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "1 only",
+                "3 only",
+                "1 and 3",
+                "1 and 2"
+          ],
+          "answer": "1 and 2"
+    },
+    {
+          "question": "Cumulonimbus clouds develop from which among the following clouds ?",
+          "options": [
+                "Cumulus congestus clouds",
+                "Cumulus and Nimbostratus clouds",
+                "Cumulus and Altostratus clouds",
+                "Cirrocumulus clouds"
+          ],
+          "answer": "Cumulus congestus clouds"
+    },
+    {
+          "question": "Which of the following Ramsar Wetland sites is <i>not</i> situated in any of the Union Territories of India ?",
+          "options": [
+                "Hokera Wetland",
+                "Point Calimere Wildlife and Bird Sanctuary",
+                "Tsomoriri Lake",
+                "Wular Lake"
+          ],
+          "answer": "Point Calimere Wildlife and Bird Sanctuary"
+    },
+    {
+          "question": "Eratosthenes, a Greek philosopher measured the Earth's circumference based on the angle of Sun rays at two different points. Which cities were they ?",
+          "options": [
+                "Alexandria and Syene",
+                "Syene and Troy",
+                "Alexandria and Troy",
+                "Alexandria and Thebes"
+          ],
+          "answer": "Alexandria and Syene"
+    },
+    {
+          "question": "Which kind of mass wasting processes are commonly associated with creep ?",
+          "options": [
+                "Fast speed with soil",
+                "Slow speed with rock",
+                "Slow speed with ice",
+                "Slow speed with soil"
+          ],
+          "answer": "Slow speed with soil"
+    },
+    {
+          "question": "Consider the following statements :<br/><br/>1. Hadley cells are key to understanding the wind patterns of Earth.<br/>2. Hadley cells are formed because the Equator is heated more strongly by the Sun than other places, creating thermal circulations.<br/><br/>With regard to the statements given above, which of the following is correct ?",
+          "options": [
+                "Both the statements are correct and statement 2 is the correct explanation of statement 1.",
+                "Both the statements are correct, but statement 2 is <i>not</i> the correct explanation of statement 1.",
+                "Statement 1 is correct, but statement 2 is false.",
+                "Statement 1 is false, but statement 2 is correct."
+          ],
+          "answer": "Both the statements are correct and statement 2 is the correct explanation of statement 1."
+    },
+    {
+          "question": "Consider the following statements :<br/><br/>1. Ocean currents are dominated by huge surface gyres that are driven by the global surface wind pattern.<br/>2. Equatorial currents move cold water westward and then poleward along the east coasts of continents.<br/><br/>With regard to the statements given above, which of the following is correct ?",
+          "options": [
+                "Both the statements are correct and statement 2 is the correct explanation of statement 1.",
+                "Both the statements are correct, but statement 2 is <i>not</i> the correct explanation of statement 1.",
+                "Statement 1 is correct, but statement 2 is false.",
+                "Statement 1 is false, but statement 2 is correct."
+          ],
+          "answer": "Statement 1 is correct, but statement 2 is false."
+    },
+    {
+          "question": "As per India State of Forest Report 2021, which one of the following states is <i>not</i> among the top three with reference to maximum area under forest ?",
+          "options": [
+                "Arunachal Pradesh",
+                "Chhattisgarh",
+                "Madhya Pradesh",
+                "Maharashtra"
+          ],
+          "answer": "Maharashtra"
+    },
+    {
+          "question": "How is strong pressure gradient represented on a weather map ?",
+          "options": [
+                "Closely spaced isobars",
+                "Widely spaced isobars",
+                "Closely spaced isobars at the periphery",
+                "A set of two widely spaced isobars followed by two closely spaced isobars"
+          ],
+          "answer": "Closely spaced isobars"
+    },
+    {
+          "question": "Which one of the following is <i>not</i> an example of chemical weathering ?",
+          "options": [
+                "Acid action",
+                "Hydrolysis",
+                "Salt Crystal Growth",
+                "Oxidation"
+          ],
+          "answer": "Salt Crystal Growth"
+    },
+    {
+          "question": "Which of the following statements regarding Arc Volcanoes is/are correct ?<br/><br/>1. Arc volcanoes are found near divergent plate boundaries.<br/>2. Some of the world's classical examples of cone-shaped stratovolcanoes, such as Mount Fuji in Japan, Mayon in the Philippines are Arc volcanoes.<br/>3. Some of the highest volcanoes on Earth are of the Arc type, notably Nevado Ojos del Salado in the Chilean Andes.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "2 only",
+                "2 and 3 only",
+                "1 and 3 only",
+                "1, 2 and 3"
+          ],
+          "answer": "2 and 3 only"
+    },
+    {
+          "question": "Which one of the following statements regarding S-waves is <i>not</i> correct ?",
+          "options": [
+                "S-waves are slower than P-waves.",
+                "During an earthquake S-waves are less destructive to structures like buildings and highway overpasses.",
+                "S-waves can travel only through solids and cannot travel through the Earth's outer core.",
+                "Seismologists have concluded that the Earth's outer core must be liquid or fluid."
+          ],
+          "answer": "During an earthquake S-waves are less destructive to structures like buildings and highway overpasses."
+    },
+    {
+          "question": "Which of the following states is/are part of the Ganga Basin ?<br/><br/>1. Chhattisgarh<br/>2. Himachal Pradesh<br/>3. Rajasthan<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "1 and 2 only",
+                "2 and 3 only",
+                "1, 2 and 3"
+          ],
+          "answer": "1, 2 and 3"
+    },
+    {
+          "question": "Which peninsular river has a tributary named 'Kabini' ?",
+          "options": [
+                "Godavari",
+                "Krishna",
+                "Mahanadi",
+                "Kaveri"
+          ],
+          "answer": "Kaveri"
+    },
+    {
+          "question": "Consider the following statements :<br/><br/>1. Bajra is predominantly grown in states like Rajasthan, Uttar Pradesh and Gujarat, while Ragi is mainly cultivated in Karnataka and Tamil Nadu.<br/>2. Bajra grows well in sandy and shallow black soils, whereas red and shallow black soil is suited for Ragi.<br/><br/>With regard to the statements given above, which of the following is correct ?",
+          "options": [
+                "Both the statements are correct and statement 2 is the correct explanation of statement 1.",
+                "Both the statements are correct, but statement 2 is <i>not</i> the correct explanation of statement 1.",
+                "Statement 1 is correct, but statement 2 is false.",
+                "Statement 1 is false, but statement 2 is correct."
+          ],
+          "answer": "Both the statements are correct and statement 2 is the correct explanation of statement 1."
+    },
+    {
+          "question": "Which of the following peaks are situated in India ?<br/><br/>1. Dhaulagiri<br/>2. Namcha Barwa<br/>3. Kamet<br/>4. Makalu<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1, 2 and 3",
+                "1 and 3 only",
+                "2 and 3 only",
+                "2 and 4 only"
+          ],
+          "answer": "2 and 3 only"
+    },
+    {
+          "question": "Which of the following statements regarding River Rhine is/are correct ?<br/><br/>1. Rhine River is an important pathway for industrial activity in northern Germany.<br/>2. Port of Rotterdam is located at the mouth of the Rhine River.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+          ],
+          "answer": "Both 1 and 2"
+    },
+    {
+          "question": "With reference to the continent of 'Antarctica' which of the following statements are correct ?<br/><br/>1. It is larger than Europe in terms of area.<br/>2. It has the highest average elevation as compared to all other continents.<br/>3. Mt. Ross is the highest peak of this continent.<br/>4. Waters of the Southern Ocean (West Wind Drift) move in an anticlockwise direction around it.<br/><br/>Select the answer using the code given below :",
+          "options": [
+                "1 and 2 only",
+                "1 and 3 only",
+                "1, 2 and 3",
+                "2, 3 and 4"
+          ],
+          "answer": "1 and 2 only"
+    }
   ]
 };
 
