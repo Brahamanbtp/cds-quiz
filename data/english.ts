@@ -4812,6 +4812,278 @@ const englishData: Record<string, Question[]> = {
           ],
           "answer": "A professional is cutting his hair"
     }
+  ],
+  "2024-I": [
+    {
+          "question": "<b>Directions:</b> Each item in this section consists of a sentence with an underlined word followed by four words. Select the option that is opposite in meaning to the underlined word.<br><br>She accepted the prospect of her medical treatment with <u>equanimity</u>.",
+          "options": [
+                "tranquillity",
+                "agitation",
+                "composure",
+                "placidity"
+          ],
+          "answer": "agitation"
+    },
+    {
+          "question": "He had been <u>vehement</u> in opposing the idea.",
+          "options": [
+                "ardent",
+                "subdued",
+                "fervent",
+                "impassioned"
+          ],
+          "answer": "subdued"
+    },
+    {
+          "question": "He indulges in <u>nefarious</u> activities.",
+          "options": [
+                "flagitious",
+                "execrable",
+                "admirable",
+                "abominable"
+          ],
+          "answer": "admirable"
+    },
+    {
+          "question": "When he was born, his family was <u>indigent</u>.",
+          "options": [
+                "pretentious",
+                "impecunious",
+                "affluent",
+                "ruined"
+          ],
+          "answer": "affluent"
+    },
+    {
+          "question": "All of us are living in <u>turbulent</u> times.",
+          "options": [
+                "capricious",
+                "desolate",
+                "tranquil",
+                "obstreperous"
+          ],
+          "answer": "tranquil"
+    },
+    {
+          "question": "<b>Directions:</b> Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank.<br><br>I shall not be going to the theatre _______.",
+          "options": [
+                "if it may snow",
+                "if it snow",
+                "if it snows",
+                "if snowed"
+          ],
+          "answer": "if it snows"
+    },
+    {
+          "question": "_______ than a hundred passengers were killed in the recent train accident.",
+          "options": [
+                "Less",
+                "No less",
+                "Fewest",
+                "No fewer"
+          ],
+          "answer": "No fewer"
+    },
+    {
+          "question": "Each of these paintings _______ made by a famous painter.",
+          "options": [
+                "are",
+                "is",
+                "be",
+                "should"
+          ],
+          "answer": "is"
+    },
+    {
+          "question": "This is an area of _______ dense population.",
+          "options": [
+                "extremely",
+                "totally",
+                "tangentially",
+                "languidly"
+          ],
+          "answer": "extremely"
+    },
+    {
+          "question": "Reading ability in young children _______ by speech disorders.",
+          "options": [
+                "effected",
+                "affected",
+                "is effected",
+                "is affected"
+          ],
+          "answer": "is affected"
+    },
+    {
+          "question": "She has faced almost _______ difficulty in arranging the funds for the event.",
+          "options": [
+                "big",
+                "insurmountable",
+                "gigantic",
+                "large"
+          ],
+          "answer": "insurmountable"
+    },
+    {
+          "question": "Our school building is _______ dilapidated.",
+          "options": [
+                "visibly",
+                "little",
+                "deeply",
+                "satisfactorily"
+          ],
+          "answer": "visibly"
+    },
+    {
+          "question": "Ranikhet is a place of remarkably _______ beauty.",
+          "options": [
+                "scenery",
+                "scenic",
+                "scene",
+                "scenically"
+          ],
+          "answer": "scenic"
+    },
+    {
+          "question": "The criminal on the run managed to _______ capture by the police officer.",
+          "options": [
+                "invade",
+                "evade",
+                "slip",
+                "run away"
+          ],
+          "answer": "evade"
+    },
+    {
+          "question": "I am _______ on the ambitious project of learning one new language every year.",
+          "options": [
+                "sailing",
+                "embarking",
+                "adventuring",
+                "concurring"
+          ],
+          "answer": "embarking"
+    },
+    {
+          "question": "<b>Directions:</b> Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response which presents the most appropriate meaning.<br><br>Walking on eggshells",
+          "options": [
+                "Careful not to offend or upset others",
+                "Walking with great care",
+                "Making a noisy entry",
+                "Undertaking an uncomfortable journey"
+          ],
+          "answer": "Careful not to offend or upset others"
+    },
+    {
+          "question": "Feather your own nest",
+          "options": [
+                "To make one's lodgings comfortable",
+                "To make money for oneself by way of dishonest means",
+                "To look at something with a lot of pleasure",
+                "To make something more important than it really is"
+          ],
+          "answer": "To make money for oneself by way of dishonest means"
+    },
+    {
+          "question": "Neither fish nor fowl",
+          "options": [
+                "Difficult to describe or classify",
+                "Neither this or that",
+                "Strict rules and regulations",
+                "Feel awkward because of unfamiliarity"
+          ],
+          "answer": "Difficult to describe or classify"
+    },
+    {
+          "question": "Elephant in the room",
+          "options": [
+                "The important topic",
+                "The unavoidable mind-set",
+                "The obvious problem that is being avoided",
+                "The prized possession in the room"
+          ],
+          "answer": "The obvious problem that is being avoided"
+    },
+    {
+          "question": "The ship has sailed",
+          "options": [
+                "The matter is carried over",
+                "The matter is decided",
+                "The opportunity has passed",
+                "Seeking new opportunities"
+          ],
+          "answer": "The opportunity has passed"
+    },
+    {
+          "question": "<b>Directions:</b> Each of the following items consists of a sentence, the parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Select the most appropriate option indicating the rearrangement of the parts.<br><br>directive principles of state policy which though not justiciable are (P)<br>fundamental to the governance of the country and it is the duty (Q)<br>the Constitution lays down certain (R)<br>of the state to apply these principles in making laws (S)",
+          "options": [
+                "PQRS",
+                "QRPS",
+                "RPQS",
+                "SPRQ"
+          ],
+          "answer": "RPQS"
+    },
+    {
+          "question": "are evolving rapidly (P)<br>the geo-political and geo-economic landscape (Q)<br>where aspects related to application of military force (R)<br>in a multipolar world is dynamic (S)",
+          "options": [
+                "QRSP",
+                "QSRP",
+                "SPRQ",
+                "SQRP"
+          ],
+          "answer": "QSRP"
+    },
+    {
+          "question": "international security, taking into account its national security interests and priorities (P)<br>India has participated actively in multilateral forums (Q)<br>relating to disarmament, non-proliferation and (R)<br>in the international security arena (S)",
+          "options": [
+                "PQRS",
+                "SRPQ",
+                "QPRS",
+                "QRPS"
+          ],
+          "answer": "QRPS"
+    },
+    {
+          "question": "linked to the formal education system through (P)<br>a close coordination with the (Q)<br>children in the age group of 5–8 years are directly (R)<br>Sarva Shiksha Abhiyan (S)",
+          "options": [
+                "RPSQ",
+                "QSPR",
+                "RPQS",
+                "QRPS"
+          ],
+          "answer": "RPQS"
+    },
+    {
+          "question": "our spiritual heritage (P)<br>and has become part of (Q)<br>practised as part of healthy lifestyle (R)<br>yoga is being (S)",
+          "options": [
+                "PQRS",
+                "PRSQ",
+                "SRPQ",
+                "SRQP"
+          ],
+          "answer": "SRQP"
+    },
+    {
+          "question": "who has been troubling (P)<br>better than the one (Q)<br>would know the trouble (R)<br>she who has been in trouble (S)",
+          "options": [
+                "PSQR",
+                "SPRQ",
+                "SRQP",
+                "PQRS"
+          ],
+          "answer": "SRQP"
+    },
+    {
+          "question": "\"all that glitters is not gold\" (P)<br>the speaker reiterated before the audience (Q)<br>is still valid (R)<br>the fact that the old epithet (S)",
+          "options": [
+                "QRPS",
+                "QSPR",
+                "RPSQ",
+                "SPQR"
+          ],
+          "answer": "QSPR"
+    }
   ]
 };
 
