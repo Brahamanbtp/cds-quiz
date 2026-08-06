@@ -3619,6 +3619,137 @@ const mathsData: Record<string, Question[]> = {
           ],
           "answer": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone"
     }
+  ,
+    {
+          "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.<br/><br/>Question : In how many days can <i>A</i>, <i>B</i> and <i>C</i> together finish the work ?<br/><br/>Statement-I : <i>A</i> and <i>B</i> together can finish the work in 24 days<br/><br/>Statement-II : <i>B</i> and <i>C</i> together can finish the work in 36 days<br/><br/>Which one of the following is correct in respect of the above Question and the Statements ?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question cannot be answered even by using both the Statements together"
+          ],
+          "answer": "The Question cannot be answered even by using both the Statements together"
+    },
+    {
+          "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.<br/><br/>Question : Can we have a common solution which is prime ?<br/><br/>Statement-I : <i>x</i><sup>2</sup> &minus; 26<i>x</i> + 133 = 0<br/><br/>Statement-II : <i>x</i><sup>2</sup> &minus; 44<i>x</i> + 475 = 0<br/><br/>Which one of the following is correct in respect of the above Question and the Statements ?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question cannot be answered even by using both the Statements together"
+          ],
+          "answer": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone"
+    },
+    {
+          "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.<br/><br/>Question : Is 327<sup><i>n</i></sup> + 173<sup><i>n</i></sup> divisible by 500 ?<br/><br/>Statement-I : <i>n</i> is odd natural number<br/><br/>Statement-II : <i>n</i> is a positive integer<br/><br/>Which one of the following is correct in respect of the above Question and the Statements ?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question can be answered even without using any of the Statements"
+          ],
+          "answer": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone"
+    },
+    {
+          "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.<br/><br/>Question : If the price of petrol goes up by 20%, by what percentage should the consumption be reduced so that the expenditure remains the same ?<br/><br/>Statement-I : Price of petrol per litre was Rs. 90<br/><br/>Statement-II : Consumption was 24 litre before price hike<br/><br/>Which one of the following is correct in respect of the above Question and the Statements ?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question can be answered even without using any of the Statements"
+          ],
+          "answer": "The Question can be answered even without using any of the Statements"
+    },
+    {
+          "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.<br/><br/>Question : The ratio of <i>P</i>'s salary to <i>Q</i>'s salary is 6 : 5. How much is <i>P</i>'s expenditure ?<br/><br/>Statement-I : The ratio of <i>P</i>'s saving to <i>Q</i>'s saving is 3 : 2<br/><br/>Statement-II : The ratio of <i>P</i>'s expenditure to <i>Q</i>'s expenditure is 1 : 1<br/><br/>Which one of the following is correct in respect of the above Question and the Statements ?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question cannot be answered even by using both the Statements together"
+          ],
+          "answer": "The Question cannot be answered even by using both the Statements together"
+    },
+    {
+          "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.<br/><br/>Question : The largest of five different integers is 8 and least is 2. What is the average of these integers ?<br/><br/>Statement-I : The sum of all the 5 integers is a multiple of 5<br/><br/>Statement-II : The number of odd integers is odd<br/><br/>Which one of the following is correct in respect of the above Question and the Statements ?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question cannot be answered even by using both the Statements together"
+          ],
+          "answer": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone"
+    },
+    {
+          "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.<br/><br/>Question : There are three different weights. All the weights are integers and their sum is a prime number. What are the weights ?<br/><br/>Statement-I : One of the weights is twice the another weight<br/><br/>Statement-II : One of the weights is thrice the another weight<br/><br/>Which one of the following is correct in respect of the above Question and the Statements ?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question cannot be answered even by using both the Statements together"
+          ],
+          "answer": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone"
+    },
+    {
+          "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.<br/><br/>Question : What is the amount at the end of 10 years ?<br/><br/>Statement-I : The principal amount is ₹ 1,00,000<br/><br/>Statement-II : Rate of interest is 10% per annum<br/><br/>Which one of the following is correct in respect of the above Question and the Statements ?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question cannot be answered even by using both the Statements together"
+          ],
+          "answer": "The Question cannot be answered even by using both the Statements together"
+    },
+    {
+          "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.<br/><br/>Question : Is <i>p</i><sup>2</sup> + <i>pq</i> + <i>q</i><sup>2</sup> odd where <i>p</i>, <i>q</i> are integers ?<br/><br/>Statement-I : <i>p</i> + <i>q</i> is even<br/><br/>Statement-II : <i>pq</i> is odd<br/><br/>Which one of the following is correct in respect of the above Question and the Statements ?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question cannot be answered even by using both the Statements together"
+          ],
+          "answer": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone"
+    },
+    {
+          "question": "The total population of an area is 10,000 out of which males and females are equal in number. Out of the total population 30% are Newspaper readers. Out of the total newspaper readers, one-third read English Newspaper. Out of the total English Newspaper readers, 20% are females. What is the number of males who do not read English Newspaper ?",
+          "options": [
+                "800",
+                "2100",
+                "4200",
+                "Cannot be determined due to insufficient data"
+          ],
+          "answer": "4200"
+    },
+    {
+          "question": "What is the maximum area of a rectangle, in square cm, whose perimeter is 400 cm ?",
+          "options": [
+                "100",
+                "200",
+                "1000",
+                "10,000"
+          ],
+          "answer": "10,000"
+    },
+    {
+          "question": "What is the remainder if we divide 3<sup>10</sup> by 7 ?",
+          "options": [
+                "0",
+                "1",
+                "2",
+                "4"
+          ],
+          "answer": "4"
+    },
+    {
+          "question": "What is the square root of 64% ?",
+          "options": [
+                "0.08%",
+                "0.8%",
+                "8%",
+                "80%"
+          ],
+          "answer": "80%"
+    }
   ]
 };
 
