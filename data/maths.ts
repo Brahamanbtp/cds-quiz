@@ -3338,6 +3338,287 @@ const mathsData: Record<string, Question[]> = {
           ],
           "answer": "9"
     }
+  ,
+    {
+          "question": "In a class containing 200 students, <i>n</i> students prefer both tea and coffee; 2<i>n</i> students prefer coffee, 3<i>n</i> students prefer tea; 4<i>n</i> students prefer neither tea nor coffee. What is the value of <i>n</i> ?",
+          "options": [
+                "20",
+                "25",
+                "30",
+                "35"
+          ],
+          "answer": "25"
+    },
+    {
+          "question": "Let <i>ABC</i> be a triangle with area 36 square cm. If <i>AB</i> = 9 cm, <i>BC</i> = 12 cm and &ang;<i>ABC</i> = <i>&theta;</i>, then what is cos <i>&theta;</i> equal to ?",
+          "options": [
+                "&radic;5 / 3",
+                "&radic;5 / 4",
+                "1 / 3",
+                "2 / 3"
+          ],
+          "answer": "&radic;5 / 3"
+    },
+    {
+          "question": "Let <i>n</i> be a natural number. The HCF of <i>n</i>, <i>n</i> + 10 is 10. If the LCM is <i>x</i> (a 2-digit number), then how many values of <i>x</i> are possible ?",
+          "options": [
+                "Only one",
+                "Only two",
+                "Only three",
+                "More than three"
+          ],
+          "answer": "Only two"
+    },
+    {
+          "question": "What is HCF of <i>a</i><sup>4</sup> + 2<i>a</i><sup>3</sup> + 3<i>a</i><sup>2</sup> + 2<i>a</i> + 1 and <i>a</i><sup>6</sup> &minus; 2<i>a</i><sup>3</sup> + 1 ?",
+          "options": [
+                "<i>a</i><sup>3</sup> + 3<i>a</i><sup>2</sup> + 2<i>a</i> + 1",
+                "<i>a</i><sup>3</sup> + <i>a</i><sup>2</sup> + <i>a</i> + 1",
+                "(<i>a</i><sup>2</sup> + <i>a</i> + 1)<sup>2</sup>",
+                "(<i>a</i><sup>2</sup> &minus; <i>a</i> + 1)<sup>2</sup>"
+          ],
+          "answer": "(<i>a</i><sup>2</sup> + <i>a</i> + 1)<sup>2</sup>"
+    },
+    {
+          "question": "If the roots of the equation <i>x</i><sup>2</sup> &minus; (<i>k</i> &minus; 2)<i>x</i> + (<i>k</i> + 1) = 0 are equal, then what are the values of <i>k</i> ?",
+          "options": [
+                "0, 4",
+                "0, 8",
+                "4, 4",
+                "2, 6"
+          ],
+          "answer": "0, 8"
+    },
+    {
+          "question": "What is (<sup>(cos <i>&theta;</i> &minus; sin <i>&theta;</i> + 1)</sup>/<sub>(cos <i>&theta;</i> + sin <i>&theta;</i> &minus; 1)</sub>)(cot <i>&theta;</i> &minus; cosec <i>&theta;</i>) equal to ?",
+          "options": [
+                "&minus;1",
+                "0",
+                "1",
+                "2"
+          ],
+          "answer": "&minus;1"
+    },
+    {
+          "question": "What is <sup>(sin <i>&theta;</i> &minus; 2sin<sup>3</sup><i>&theta;</i>)</sup>/<sub>(2cos<sup>3</sup><i>&theta;</i> &minus; cos <i>&theta;</i>)</sub> equal to ?",
+          "options": [
+                "sin<sup>2</sup><i>&theta;</i>",
+                "cos<sup>2</sup><i>&theta;</i>",
+                "cot <i>&theta;</i>",
+                "tan <i>&theta;</i>"
+          ],
+          "answer": "tan <i>&theta;</i>"
+    },
+    {
+          "question": "The mean weight of 150 students in a class is 60 kg. The mean weight of boys in the class is 70 kg and that of girls is 55 kg. What is the ratio of number of boys to number of girls ?",
+          "options": [
+                "1 : 2",
+                "1 : 1",
+                "2 : 1",
+                "2 : 3"
+          ],
+          "answer": "1 : 2"
+    },
+    {
+          "question": "Two towers <i>A</i> and <i>B</i> of height 23 m and 11 m respectively, stand 9 m apart. A straight rod is joined to the two tops of the towers. A monkey sitting on the top of <i>A</i>, climbs the rod to reach the top of <i>B</i>. If the monkey takes 5 minutes to reach the other end, what is the average speed of the monkey ?",
+          "options": [
+                "10 m/min",
+                "5 m/min",
+                "10 cm/sec",
+                "5 cm/sec"
+          ],
+          "answer": "5 cm/sec"
+    },
+    {
+          "question": "A spherical wooden ball of radius <i>r</i> is to be divided into eight identical parts by cutting by planes passing through the same diameter. What is the surface area of each final piece ?",
+          "options": [
+                "<sup>&pi;<i>r</i><sup>2</sup></sup>/<sub>3</sub>",
+                "<sup>3&pi;<i>r</i><sup>2</sup></sup>/<sub>2</sub>",
+                "<sup>2&pi;<i>r</i><sup>2</sup></sup>/<sub>3</sub>",
+                "<sup>4&pi;<i>r</i><sup>2</sup></sup>/<sub>3</sub>"
+          ],
+          "answer": "<sup>3&pi;<i>r</i><sup>2</sup></sup>/<sub>2</sub>"
+    },
+    {
+          "question": "A trolley with two wheels one metre apart is moved clockwise on the circular track around a ground with radius 50 m (described by right wheel). If the size of each wheel is of 1 foot radius and the right wheel turns 1000 times, how many times will the other wheel turn ?",
+          "options": [
+                "1010",
+                "1015",
+                "1020",
+                "1025"
+          ],
+          "answer": "1020"
+    },
+    {
+          "question": "What is the remainder when 70 &times; 71 &times; 72 &times; 73 &times; 74 &times; 75 &times; 76 &times; 77 &times; 78 &times; 79 is divided by 1000 ?",
+          "options": [
+                "3",
+                "2",
+                "1",
+                "0"
+          ],
+          "answer": "0"
+    },
+    {
+          "question": "A vertical pole of length 80 m is situated on the horizontal plane. The base of the pole is at <i>P</i>. There are two points <i>A</i> and <i>B</i> such that <i>P</i>, <i>A</i>, <i>B</i> are on the same straight line. Let the angles of elevation of top of the pole from <i>A</i> and <i>B</i> be <i>&alpha;</i> and <i>&beta;</i> (<i>&alpha;</i> &gt; <i>&beta;</i>) respectively. If <i>PA</i> = 64 m and <i>AB</i> = 36 m, then what is (<i>&alpha;</i> + <i>&beta;</i>) equal to ?",
+          "options": [
+                "60&deg;",
+                "90&deg;",
+                "120&deg;",
+                "135&deg;"
+          ],
+          "answer": "90&deg;"
+    },
+    {
+          "question": "Let <i>k</i> be a positive integer. What is the quotient when <i>x</i><sup>8<i>k</i>+3</sup> + <i>x</i><sup>8<i>k</i>+6</sup> + <i>x</i><sup>8<i>k</i>+9</sup> + <i>x</i><sup>8<i>k</i>+12</sup> is divided by (1 + <i>x</i><sup>3</sup>)(1 + <i>x</i><sup>6</sup>) ?",
+          "options": [
+                "<i>x</i><sup>8<i>k</i></sup>",
+                "<i>x</i><sup>8<i>k</i>+1</sup>",
+                "<i>x</i><sup>8<i>k</i>+2</sup>",
+                "<i>x</i><sup>8<i>k</i>+3</sup>"
+          ],
+          "answer": "<i>x</i><sup>8<i>k</i>+3</sup>"
+    },
+    {
+          "question": "A square is drawn inside a square of side 14 cm in such a way that the corners of the inner square coincide with the mid points of the sides of the outer square. What is the area lying between the two squares ?",
+          "options": [
+                "98 square cm",
+                "56 square cm",
+                "49 square cm",
+                "24.5 square cm"
+          ],
+          "answer": "98 square cm"
+    },
+    {
+          "question": "The base of a right-angled triangle is <sup>4</sup>/<sub>3</sub> times the height of triangle. If the area of the triangle is 54 square cm, then what is the perimeter of the triangle ?",
+          "options": [
+                "30 cm",
+                "32 cm",
+                "36 cm",
+                "40 cm"
+          ],
+          "answer": "36 cm"
+    },
+    {
+          "question": "What is the area of a triangle having sides 4, 4 and 6 units ?",
+          "options": [
+                "3&radic;7 square unit",
+                "8 square unit",
+                "7 square unit",
+                "7&radic;3 square unit"
+          ],
+          "answer": "3&radic;7 square unit"
+    },
+    {
+          "question": "Consider the following for the next three (03) items that follow :<br/><br/>Let <i>ABC</i> be a triangle right-angled at <i>B</i>. Let <i>P</i> be the point on <i>BC</i> such that <i>BP</i> = <i>PC</i>. If <i>AB</i> = 10 cm, &ang;<i>BAP</i> = 45&deg; and &ang;<i>CAP</i> = <i>&theta;</i><br/><br/>(use tan(<i>&alpha;</i> + <i>&beta;</i>) = <sup>(tan <i>&alpha;</i> + tan <i>&beta;</i>)</sup>/<sub>(1 &minus; tan <i>&alpha;</i> tan <i>&beta;</i>)</sub>)<br/><br/>What is tan <i>&theta;</i> equal to ?",
+          "options": [
+                "<sup>1</sup>/<sub>2</sub>",
+                "<sup>1</sup>/<sub>3</sub>",
+                "<sup>1</sup>/<sub>4</sub>",
+                "<sup>1</sup>/<sub>5</sub>"
+          ],
+          "answer": "<sup>1</sup>/<sub>3</sub>"
+    },
+    {
+          "question": "If &ang;<i>ACP</i> = <i>&gamma;</i>, then what is tan <i>&gamma;</i> equal to ?",
+          "options": [
+                "<sup>1</sup>/<sub>2</sub>",
+                "<sup>1</sup>/<sub>3</sub>",
+                "<sup>2</sup>/<sub>3</sub>",
+                "1"
+          ],
+          "answer": "<sup>1</sup>/<sub>2</sub>"
+    },
+    {
+          "question": "Consider the following statements :<br/><br/>I. The line segment <i>AP</i> divides the area of the triangle <i>ABC</i> into two equal parts<br/><br/>II. The perimeter of the triangle <i>APC</i> is more than 46 cm<br/><br/>III. The area of the triangle <i>APC</i> is 50 square cm<br/><br/>Which of the statements given above are correct ?",
+          "options": [
+                "I and II only",
+                "II and III only",
+                "I and III only",
+                "I, II and III"
+          ],
+          "answer": "I, II and III"
+    },
+    {
+          "question": "Consider the following for the next two (02) items that follow :<br/><br/>A frequency distribution is as follows :<br/><br/><table border=\"1\" cellpadding=\"5\"><tr><td>Marks</td><td>18-26</td><td>27-35</td><td>36-44</td><td>45-53</td><td>54-62</td><td>63-71</td><td>72-80</td></tr><tr><td>Number of students</td><td>5</td><td>7</td><td>10</td><td>15</td><td>8</td><td>3</td><td>2</td></tr></table><br/><br/>What is the median of the distribution ?",
+          "options": [
+                "44.9",
+                "45.5",
+                "45.9",
+                "46.3"
+          ],
+          "answer": "46.3"
+    },
+    {
+          "question": "What is the mode of the distribution ?",
+          "options": [
+                "47.25",
+                "47.75",
+                "48.25",
+                "48.75"
+          ],
+          "answer": "48.25"
+    },
+    {
+          "question": "Consider the following for the next two (02) items that follow :<br/><br/><i>ABC</i> is a triangle right-angled at <i>B</i>. Given that <i>AC</i> &minus; <i>AB</i> = 2 cm and <i>BC</i> = 16 cm<br/><br/>If &ang;<i>BAC</i> = <i>&theta;</i> then what is sin <i>&theta;</i> + cos <i>&theta;</i> equal to ?",
+          "options": [
+                "1",
+                "<sup>71</sup>/<sub>65</sub>",
+                "<sup>73</sup>/<sub>65</sub>",
+                "<sup>79</sup>/<sub>65</sub>"
+          ],
+          "answer": "<sup>79</sup>/<sub>65</sub>"
+    },
+    {
+          "question": "If <i>BD</i> is the perpendicular on the side <i>AC</i>, then what is the length of <i>BD</i> ?",
+          "options": [
+                "<sup>1008</sup>/<sub>65</sub> cm",
+                "<sup>756</sup>/<sub>65</sub> cm",
+                "<sup>168</sup>/<sub>7</sub> cm",
+                "<sup>165</sup>/<sub>7</sub> cm"
+          ],
+          "answer": "<sup>1008</sup>/<sub>65</sub> cm"
+    },
+    {
+          "question": "Consider the following for the next three (03) items that follow :<br/><br/>Let <i>MN</i> be a chord of length 16 cm of a circle with centre at <i>O</i> and radius 10 cm. The tangents at <i>M</i> and <i>N</i> intersect at a point <i>P</i>. Further, <i>OP</i> intersects <i>MN</i> perpendicularly at <i>Q</i>.<br/><br/>What is <i>OQ</i> equal to ?",
+          "options": [
+                "5 cm",
+                "6 cm",
+                "7 cm",
+                "8 cm"
+          ],
+          "answer": "6 cm"
+    },
+    {
+          "question": "What is <i>PM</i> equal to ?",
+          "options": [
+                "10 cm",
+                "12 cm",
+                "<sup>40</sup>/<sub>3</sub> cm",
+                "<sup>50</sup>/<sub>3</sub> cm"
+          ],
+          "answer": "<sup>40</sup>/<sub>3</sub> cm"
+    },
+    {
+          "question": "What is the area of triangle <i>OMN</i> ?",
+          "options": [
+                "36 square cm",
+                "40 square cm",
+                "45 square cm",
+                "48 square cm"
+          ],
+          "answer": "48 square cm"
+    },
+    {
+          "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.<br/><br/>Question : What is the integral value of <i>k</i> for which the expression 4<i>x</i><sup>2</sup> &minus; <i>kx</i> + 1 is positive ?<br/><br/>Statement-I : <i>k</i> &lt; &minus;2<br/><br/>Statement-II : <i>k</i> &gt; &minus;4<br/><br/>Which one of the following is correct in respect of the above Question and the Statements ?",
+          "options": [
+                "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+                "The Question can be answered by using either Statement alone",
+                "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+                "The Question cannot be answered even by using both the Statements together"
+          ],
+          "answer": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone"
+    }
   ]
 };
 
