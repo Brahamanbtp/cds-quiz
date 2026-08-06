@@ -2004,6 +2004,1008 @@ const mathsData: Record<string, Question[]> = {
           ],
           "answer": "Median"
     }
+  ],
+  "2025-I": [
+    {
+          "question": "A real number M is squared to give the value N. What is the minimum value of (M + N) ?",
+          "options": [
+                "&minus;0&middot;25",
+                "&minus;0&middot;50",
+                "0",
+                "0&middot;25"
+          ],
+          "answer": "&minus;0&middot;25"
+    },
+    {
+          "question": "What is the sum of all 3-digit numbers that give a remainder of 5 when they are divided by 50 ?",
+          "options": [
+                "9005",
+                "9540",
+                "9600",
+                "9640"
+          ],
+          "answer": "9540"
+    },
+    {
+          "question": "If the average of 64, 69, 72, 75, x lies between 62 and 76 (excluding 62 and 76), then what is the number of possible integer values of x ?",
+          "options": [
+                "68",
+                "69",
+                "70",
+                "71"
+          ],
+          "answer": "69"
+    },
+    {
+          "question": "Let x, y, z be variables such that (x + y + z) = k, where k is a constant. If (x + z &minus; y) &times; (x &minus; z + y) is proportional to yz, then (y + z &minus; x) is proportional to :",
+          "options": [
+                "x",
+                "y",
+                "yz",
+                "xz"
+          ],
+          "answer": "x"
+    },
+    {
+          "question": "Let p be the remainder when 7<sup>84</sup> is divided by 342 and q be the remainder when 7<sup>84</sup> is divided by 344. What is (p &minus; q) equal to ?",
+          "options": [
+                "0",
+                "1",
+                "2",
+                "6"
+          ],
+          "answer": "0"
+    },
+    {
+          "question": "N is the smallest 5-digit number which when divided by 2, 2<sup>2</sup>, 2<sup>3</sup>, 2<sup>4</sup>, ..., 2<sup>n</sup> leaves a remainder 1. What is the value of n ?",
+          "options": [
+                "12",
+                "13",
+                "14",
+                "15"
+          ],
+          "answer": "13"
+    },
+    {
+          "question": "What is the minimum value of p for which<br/>1 / 532900 + p<sup>2</sup> / 266450 + p<sup>4</sup> / 523900 is an integer ?",
+          "options": [
+                "729",
+                "243",
+                "27",
+                "1"
+          ],
+          "answer": "729"
+    },
+    {
+          "question": "If &alpha; and &beta; are the roots of the equation<br/>x + a + b = abx / (ab + ax + bx) , then what is<br/>(&alpha;&beta; + &alpha; + &beta;) equal to ?",
+          "options": [
+                "ab + a + b",
+                "ab &minus; a &minus; b",
+                "a + b &minus; ab",
+                "&minus;(ab + a + b)"
+          ],
+          "answer": "&minus;(ab + a + b)"
+    },
+    {
+          "question": "Consider a 2-digit number N. Let P be the product of the digits of the number. If P is added to square of the digit in the tens place of N, we get 84. If P is added to the square of the digit in the unit place of N, we get 60. What is the value of P + N ?",
+          "options": [
+                "100",
+                "110",
+                "115",
+                "120"
+          ],
+          "answer": "110"
+    },
+    {
+          "question": "A mixture of 100 L contains kerosene and turpentine oil in the ratio 3 : 2. What is the minimum quantity of kerosene in litres (whole number) that should be mixed in the mixture so that the resulting mixture has 20% of kerosene ?",
+          "options": [
+                "10 L",
+                "20 L",
+                "25 L",
+                "Not possible"
+          ],
+          "answer": "Not possible"
+    },
+    {
+          "question": "A lamp is kept on a vertical pole. The height of the top of the lamp above the ground is (5&radic;3)/2 m. The perpendicular distances of the bottom of the pole from two adjacent walls meeting perpendicularly are 0&middot;7 m and 2&middot;4 m. What is the distance of the top of the lamp from the corner point of the walls on the ground ?",
+          "options": [
+                "3 m",
+                "5 m",
+                "6 m",
+                "7 m"
+          ],
+          "answer": "5 m"
+    },
+    {
+          "question": "C is the centre of a circle of radius 20 cm. AB is a chord of length 32 cm. E is a point on AB such that CE = 13 cm. What is AE &times; EB equal to ?",
+          "options": [
+                "231 square cm",
+                "256 square cm",
+                "272 square cm",
+                "297 square cm"
+          ],
+          "answer": "231 square cm"
+    },
+    {
+          "question": "The inside of a bowl is part of a sphere. When water is put into the bowl to a depth d, the water surface becomes a circle of radius 2d. What is the radius of the sphere ?",
+          "options": [
+                "2&middot;5d",
+                "2&middot;75d",
+                "3d",
+                "3&middot;25d"
+          ],
+          "answer": "2&middot;5d"
+    },
+    {
+          "question": "In a triangle ABC, AB = 2 cm, BC = 4 cm and AC = 3 cm. The bisector of angle A meets BC at D and the bisector of angle B meets AD at E. What is AE : ED equal to ?",
+          "options": [
+                "5 : 4",
+                "5 : 3",
+                "4 : 3",
+                "3 : 2"
+          ],
+          "answer": "5 : 4"
+    },
+    {
+          "question": "In a triangle ABC, the bisector of angle A cuts BC at D. If AB + AC = 10 cm and BD : DC = 3 : 1, then what is the length of AC ?",
+          "options": [
+                "2&middot;5 cm",
+                "6 cm",
+                "7&middot;5 cm",
+                "8 cm"
+          ],
+          "answer": "2&middot;5 cm"
+    },
+    {
+          "question": "In a triangle ABC, AB + BC = 7&middot;1 cm, BC + CA = 12&middot;1 cm and CA + AB = 7&middot;2 cm. What is the area of the triangle ?",
+          "options": [
+                "3 square cm",
+                "32 square cm",
+                "33 square cm",
+                "3&middot;3 square cm"
+          ],
+          "answer": "3&middot;3 square cm"
+    },
+    {
+          "question": "The adjacent sides of a parallelogram are 10 cm and 8 cm and the angle between them is 150&deg;. What is the area of the parallelogram ?",
+          "options": [
+                "40&radic;3 square cm",
+                "40 square cm",
+                "20&radic;3 square cm",
+                "20 square cm"
+          ],
+          "answer": "40 square cm"
+    },
+    {
+          "question": "The measure of an angle formed by the bisectors of the angles A and C of the triangle ABC is 130&deg;. What is the measure of the angle B ?",
+          "options": [
+                "65&deg;",
+                "75&deg;",
+                "80&deg;",
+                "85&deg;"
+          ],
+          "answer": "80&deg;"
+    },
+    {
+          "question": "What is log<sub>10</sub> 2000 + log<sub>10</sub> 400 + 4 log<sub>10</sub> 25 + 5 log<sub>10</sub> 20 equal to ?",
+          "options": [
+                "10",
+                "16",
+                "18",
+                "20"
+          ],
+          "answer": "18"
+    },
+    {
+          "question": "If log<sub>10</sub>(100001 &minus; 4<sup>x</sup>) / (5 &minus; x) = 1, then what is x equal to ?",
+          "options": [
+                "0",
+                "1",
+                "10",
+                "100"
+          ],
+          "answer": "0"
+    },
+    {
+          "question": "If 2 sin<sup>4</sup> &alpha; + 2 cos<sup>4</sup> &alpha; &minus; 1 = 0, where 0 &le; &alpha; &lt; &pi;/2, then what is sin 2&alpha; + cos 2&alpha; equal to ?",
+          "options": [
+                "0",
+                "1",
+                "(&radic;3 + 1)/2",
+                "(&radic;3 &minus; 1)/2"
+          ],
+          "answer": "1"
+    },
+    {
+          "question": "Consider the following :<br/><br/>I. 1 &minus; sin<sup>6</sup> &alpha; = cos<sup>2</sup> &alpha; (cos<sup>4</sup> &alpha; &minus; 3 cos<sup>2</sup> &alpha; + 3)<br/>II. cos<sup>8</sup> &alpha; &minus; sin<sup>8</sup> &alpha; = 2 sin<sup>2</sup> &alpha; (1 &minus; cos<sup>4</sup> &alpha; + sin<sup>2</sup> &alpha; cos<sup>2</sup> &alpha;)<br/><br/>Which of the above is/are identities ?",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "I only"
+    },
+    {
+          "question": "If p = 1 / (cosec &theta; + cot &theta;) and q = cosec &theta;, then what is p<sup>2</sup> &minus; 2pq equal to ?",
+          "options": [
+                "&minus;1",
+                "0",
+                "1",
+                "2"
+          ],
+          "answer": "&minus;1"
+    },
+    {
+          "question": "Consider the following statements :<br/><br/>I. (cosec &alpha; &minus; sec &alpha;) is always positive in the first quadrant.<br/>II. (tan &alpha; &minus; cot &alpha;) is always negative in the first quadrant.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "Neither I nor II"
+    },
+    {
+          "question": "A tower subtends an angle 60&deg; at a point A on the same level as the foot of the tower. B is a point vertically above A and AB = h. The angle of depression of the foot of the tower, measured from B is 30&deg;. What is the height of the tower ?",
+          "options": [
+                "2h",
+                "2&middot;5h",
+                "3h",
+                "3&middot;5h"
+          ],
+          "answer": "3h"
+    },
+    {
+          "question": "What is (sin &theta;) / (1 &minus; cot &theta;) + (cos &theta;) / (1 &minus; tan &theta;) (&theta; &ne; &pi;/4) equal to ?",
+          "options": [
+                "sin &theta; + cos &theta;",
+                "sin &theta; &minus; cos &theta;",
+                "cos &theta; &minus; sin &theta;",
+                "&minus;(sin &theta; + cos &theta;)"
+          ],
+          "answer": "sin &theta; + cos &theta;"
+    },
+    {
+          "question": "The length of an arc of a circle of radius 4 cm is &pi; cm. What is the magnitude of the angle subtended by the arc at the centre ?",
+          "options": [
+                "&pi;",
+                "&pi;/2",
+                "&pi;/3",
+                "&pi;/4"
+          ],
+          "answer": "&pi;/4"
+    },
+    {
+          "question": "If cot<sup>2</sup> &theta; &minus; 3&radic;3 cot &theta; + 6 = 0, where &pi;/6 &le; &theta; &lt; &pi;/2, then what is a value of sin &theta; + cos 2&theta; ?",
+          "options": [
+                "0",
+                "1",
+                "&radic;3",
+                "1 + &radic;2"
+          ],
+          "answer": "1"
+    },
+    {
+          "question": "Which of the following equations is/are possible ?<br/><br/>I. sin<sup>2</sup> &theta; = (x + y)<sup>2</sup> / 4xy, where x, y are positive unequal real quantities.<br/>II. sin &theta; + cos &theta; = x + 1/x, where x is a positive real quantity.<br/><br/>Select the correct answer using the code given below :",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "Neither I nor II"
+    },
+    {
+          "question": "If m<sup>2</sup>(sin &theta; &minus; 1) + n<sup>2</sup>(sin &theta; + 1) = 0, where 0 &lt; &theta; &lt; &pi;/2, then what is (m<sup>2</sup> + n<sup>2</sup>) cos &theta; &minus; (m<sup>2</sup> &minus; n<sup>2</sup>) cot &theta; equal to ?",
+          "options": [
+                "4mn",
+                "2mn",
+                "1",
+                "0"
+          ],
+          "answer": "0"
+    },
+    {
+          "question": "If sin &alpha; + cos &alpha; = &radic;2, where 0 &lt; &alpha; &lt; &pi;/2, then what is sin<sup>3</sup> &alpha; &minus; cos<sup>3</sup> &alpha; equal to ?",
+          "options": [
+                "1",
+                "1/2",
+                "1/4",
+                "0"
+          ],
+          "answer": "0"
+    },
+    {
+          "question": "What is (1 + cot &alpha; &minus; cosec &alpha;) (1 + tan &alpha; + sec &alpha;) equal to ?",
+          "options": [
+                "1/2",
+                "1",
+                "2",
+                "4"
+          ],
+          "answer": "2"
+    },
+    {
+          "question": "If tan &theta; = (sin &alpha; &minus; cos &alpha;) / (sin &alpha; + cos &alpha;), where &theta; and &alpha; (&alpha; &ne; &pi;/4) are acute angles, then what is &radic;2 sin &theta; equal to ?",
+          "options": [
+                "sin &alpha; &minus; cos &alpha;",
+                "sin &alpha; + cos &alpha;",
+                "cos &alpha; &minus; sin &alpha;",
+                "&plusmn;(sin &alpha; &minus; cos &alpha;)"
+          ],
+          "answer": "sin &alpha; &minus; cos &alpha;"
+    },
+    {
+          "question": "For how many values of &alpha; does the expression (sin &alpha; + 2) (sin &alpha; + 4) (sin &alpha; &minus; 2) (sin &alpha; &minus; 4) become zero ?",
+          "options": [
+                "No value",
+                "One",
+                "Two",
+                "Four"
+          ],
+          "answer": "No value"
+    },
+    {
+          "question": "What is the value of x, where 0 &le; x &lt; 30&deg;, satisfying tan 3x tan 6x = 1 ?",
+          "options": [
+                "0&deg;",
+                "10&deg;",
+                "12&deg;",
+                "15&deg;"
+          ],
+          "answer": "10&deg;"
+    },
+    {
+          "question": "What is (a &minus; b)<sup>2</sup> / ((b &minus; c)(c &minus; a)) + (b &minus; c)<sup>2</sup> / ((c &minus; a)(a &minus; b)) + (c &minus; a)<sup>2</sup> / ((a &minus; b)(b &minus; c)) &minus; 3 equal to, where a &ne; b &ne; c ?",
+          "options": [
+                "0",
+                "3",
+                "a + b + c",
+                "3(a &minus; b)(b &minus; c)(c &minus; a)"
+          ],
+          "answer": "0"
+    },
+    {
+          "question": "Given that (100 &times; 99 &times; 98 &times; ... &times; 3 &times; 2 &times; 1) / 100<sup>n</sup> is an integer. What is the largest value of n for which this is true ?",
+          "options": [
+                "20",
+                "21",
+                "24",
+                "None of the above"
+          ],
+          "answer": "None of the above"
+    },
+    {
+          "question": "A man starting from a place P went x metre (x &gt; 120 m) East before turning South. He went 40 m straight before turning to West. He went 60 m to reach a place Q. From Q he went 200 m North and reached a place R. If PR = 200 m, then what is x equal to ?",
+          "options": [
+                "150 m",
+                "180 m",
+                "200 m",
+                "240 m"
+          ],
+          "answer": "180 m"
+    },
+    {
+          "question": "If x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> = 3, where x, y and z are integers, then how many values can (xy + yz + zx) have ?",
+          "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+          ],
+          "answer": "Two"
+    },
+    {
+          "question": "If x, y, z are real numbers such that x + y + z = 10 and xy + yz + zx = 18, then what is the value of x<sup>3</sup> + y<sup>3</sup> + z<sup>3</sup> &minus; 3xyz ?",
+          "options": [
+                "400",
+                "440",
+                "460",
+                "500"
+          ],
+          "answer": "460"
+    },
+    {
+          "question": "What is &radic;(17 &minus; 4&radic;15) + &radic;(8 &minus; 2&radic;15) equal to ?",
+          "options": [
+                "&radic;3",
+                "2&radic;3",
+                "2(&radic;5 &minus; &radic;3)",
+                "2(&radic;5 + &radic;3)"
+          ],
+          "answer": "&radic;3"
+    },
+    {
+          "question": "What is the maximum value of the sum of the numbers 36, 33, 30, 27, 24, ... ?",
+          "options": [
+                "240",
+                "237",
+                "234",
+                "231"
+          ],
+          "answer": "234"
+    },
+    {
+          "question": "There are two natural numbers m and n (m &gt; n). When m is divided by 12, it leaves a remainder 4. When n is divided by 12, it leaves a remainder 6. Which of the following statements is/are correct ?<br/><br/>I. The remainder when (m + n) is divided by 12 is 10.<br/>II. The remainder when (m &minus; n) is divided by 12 is 10.<br/><br/>Select the correct answer using the code given below :",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "Both I and II"
+    },
+    {
+          "question": "If (x + y) : (y + z) : (z + x) = 3 : 5 : 6 and x + y + z = 14, then what is x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> equal to ?",
+          "options": [
+                "81",
+                "84",
+                "87",
+                "90"
+          ],
+          "answer": "84"
+    },
+    {
+          "question": "The ratio of sum of two numbers to their difference is 5 : 1. What is the ratio of the sum of their squares to the difference of their squares ?",
+          "options": [
+                "13 : 5",
+                "25 : 1",
+                "9 : 4",
+                "16 : 1"
+          ],
+          "answer": "13 : 5"
+    },
+    {
+          "question": "Travelling at 3/5th of his usual speed, a man is late by 20 minutes. What is the usual time if he travels with his usual speed ?",
+          "options": [
+                "25 minutes",
+                "30 minutes",
+                "32 minutes",
+                "35 minutes"
+          ],
+          "answer": "30 minutes"
+    },
+    {
+          "question": "What is the remainder when 2<sup>p</sup> &minus; 1 is divided by p, where p &gt; 5 is a prime number ?",
+          "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+          ],
+          "answer": "1"
+    },
+    {
+          "question": "What is the number of factors of 24<sup>3</sup> &minus; 16<sup>3</sup> &minus; 8<sup>3</sup> ?",
+          "options": [
+                "33",
+                "30",
+                "28",
+                "24"
+          ],
+          "answer": "33"
+    },
+    {
+          "question": "What is the least number of complete years in which a sum of money put out at 20% compound interest (compounded annually) will be more than doubled ?",
+          "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+          ],
+          "answer": "4"
+    },
+    {
+          "question": "A train of certain length takes time t to pass completely through a station of length x. The same train with same speed takes time 2t to pass completely through another station of length y. What is the time taken by the train to pass completely through a station of length (x + y) ?",
+          "options": [
+                "(2yt + xt) / (y &minus; x)",
+                "(yt + xt) / (y &minus; x)",
+                "(3yt &minus; xt) / (2y &minus; x)",
+                "(2yt &minus; xt) / (y &minus; x)"
+          ],
+          "answer": "(2yt &minus; xt) / (y &minus; x)"
+    },
+    {
+          "question": "<b>Consider the following for the next two (02) items that follow :</b><br/><br/>A frustum of a right cone has a top of diameter 2k, bottom of diameter 2&middot;5k and height k.<br/><br/>What is the whole surface area of the frustum ?",
+          "options": [
+                "39&pi;k<sup>2</sup>/8",
+                "41&pi;k<sup>2</sup>/8",
+                "43&pi;k<sup>2</sup>/8",
+                "45&pi;k<sup>2</sup>/8"
+          ],
+          "answer": "39&pi;k<sup>2</sup>/8"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>A frustum of a right cone has a top of diameter 2k, bottom of diameter 2&middot;5k and height k.<br/><br/>What is the volume of the frustum ?",
+          "options": [
+                "61&pi;k<sup>3</sup>/48",
+                "59&pi;k<sup>3</sup>/48",
+                "57&pi;k<sup>3</sup>/48",
+                "53&pi;k<sup>3</sup>/48"
+          ],
+          "answer": "61&pi;k<sup>3</sup>/48"
+    },
+    {
+          "question": "<b>Consider the following for the next two (02) items that follow :</b><br/><br/>ABC is a triangle right-angled at B. The perimeter of the triangle is 24 cm and the difference between the sum of the perpendicular sides and the hypotenuse is 4 cm.<br/><br/>What is the area of the triangle ABC ?",
+          "options": [
+                "18 square cm",
+                "24 square cm",
+                "36 square cm",
+                "48 square cm"
+          ],
+          "answer": "24 square cm"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>ABC is a triangle right-angled at B. The perimeter of the triangle is 24 cm and the difference between the sum of the perpendicular sides and the hypotenuse is 4 cm.<br/><br/>A circle is inscribed in the triangle. What is its radius ?",
+          "options": [
+                "1 cm",
+                "1&middot;5 cm",
+                "2 cm",
+                "2&middot;5 cm"
+          ],
+          "answer": "2 cm"
+    },
+    {
+          "question": "<b>Consider the following for the next two (02) items that follow :</b><br/><br/>A circle M of radius 8 cm touches externally with another circle N of radius 16 cm. Let P, Q be the points where the common tangent touches the circles M and N respectively.<br/><br/>What is the length of the common tangent PQ ?",
+          "options": [
+                "16 cm",
+                "16&radic;2 cm",
+                "24 cm",
+                "24&radic;2 cm"
+          ],
+          "answer": "16&radic;2 cm"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>A circle M of radius 8 cm touches externally with another circle N of radius 16 cm. Let P, Q be the points where the common tangent touches the circles M and N respectively.<br/><br/>If U, V are the centres of the circles M and N respectively, then what is the area of the quadrilateral formed by the points P, Q, V and U ?",
+          "options": [
+                "192&radic;2 square cm",
+                "192 square cm",
+                "96&radic;2 square cm",
+                "96 square cm"
+          ],
+          "answer": "192&radic;2 square cm"
+    },
+    {
+          "question": "<b>Consider the following for the next two (02) items that follow :</b><br/><br/>The perimeter of a triangle ABC is 105 cm. The altitudes AD, BE and CF are in the ratio 3 : 5 : 6.<br/><br/>What is AB : BC : CA equal to ?",
+          "options": [
+                "10 : 6 : 5",
+                "5 : 10 : 6",
+                "6 : 5 : 3",
+                "3 : 5 : 6"
+          ],
+          "answer": "5 : 10 : 6"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>The perimeter of a triangle ABC is 105 cm. The altitudes AD, BE and CF are in the ratio 3 : 5 : 6.<br/><br/>What is the approximate area of the triangle ABC ?",
+          "options": [
+                "175 square cm",
+                "190 square cm",
+                "205 square cm",
+                "285 square cm"
+          ],
+          "answer": "285 square cm"
+    },
+    {
+          "question": "<b>Consider the following for the next two (02) items that follow :</b><br/><br/>A pot is made from a hollow sphere of inner radius 20 cm by cutting its upper portion horizontally. The height of the pot is 30 cm.<br/><br/>What is the inner radius of the circular opening of the pot so formed ?",
+          "options": [
+                "10&radic;2 cm",
+                "15 cm",
+                "10&radic;3 cm",
+                "12 cm"
+          ],
+          "answer": "10&radic;3 cm"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>A pot is made from a hollow sphere of inner radius 20 cm by cutting its upper portion horizontally. The height of the pot is 30 cm.<br/><br/>What is the angle made by the line joining the centre of the sphere and any point on the rim of the circular opening with a vertical line passing through the centre ?",
+          "options": [
+                "&pi;/3",
+                "&pi;/4",
+                "&pi;/6",
+                "&pi;/12"
+          ],
+          "answer": "&pi;/3"
+    },
+    {
+          "question": "<b>Consider the following for the next two (02) items that follow :</b><br/><br/>A hall is of length l, breadth b and height h. The maximum distance between any two points (say P and Q) inside the hall is 14 m, whereas the maximum distance between two points (say P and R) on the floor is 6&radic;5 m.<br/><br/>What is h equal to ?",
+          "options": [
+                "3&middot;5 m",
+                "4 m",
+                "4&middot;5 m",
+                "5 m"
+          ],
+          "answer": "4 m"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>A hall is of length l, breadth b and height h. The maximum distance between any two points (say P and Q) inside the hall is 14 m, whereas the maximum distance between two points (say P and R) on the floor is 6&radic;5 m.<br/><br/>If &alpha; is the angle between the line joining P and Q, and the line joining P and R, then what is cos &alpha; equal to ?",
+          "options": [
+                "2&radic;5 / 7",
+                "3&radic;5 / 7",
+                "1 / 3",
+                "2 / 3"
+          ],
+          "answer": "3&radic;5 / 7"
+    },
+    {
+          "question": "<b>Consider the following for the next two (02) items that follow :</b><br/><br/>The sides of an open box are 0&middot;5 cm thick and bottom is 1 cm thick. The internal length, breadth and depth are respectively 14 cm, 10 cm and 8 cm. It is completely filled with water.<br/><br/>If the material weighs 2000 kg per cubic metre, then what is the weight of the material used in the construction of the box ?",
+          "options": [
+                "360 gm",
+                "365 gm",
+                "720 gm",
+                "730 gm"
+          ],
+          "answer": "730 gm"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>The sides of an open box are 0&middot;5 cm thick and bottom is 1 cm thick. The internal length, breadth and depth are respectively 14 cm, 10 cm and 8 cm. It is completely filled with water.<br/><br/>If water weighs 1000 kg per cubic metre, then what is the weight of the box with water ?",
+          "options": [
+                "1&middot;850 kg",
+                "1&middot;900 kg",
+                "2&middot;050 kg",
+                "2&middot;100 kg"
+          ],
+          "answer": "1&middot;850 kg"
+    },
+    {
+          "question": "<b>Consider the following for the next two (02) items that follow :</b><br/><br/>ABC is a triangle right-angled at A. Further, AB = 8 cm, BC = 10 cm. D is the point on BC such that AD is perpendicular to BC.<br/><br/>What is AD equal to ?",
+          "options": [
+                "4&middot;8 cm",
+                "5&middot;0 cm",
+                "5&middot;2 cm",
+                "5&middot;4 cm"
+          ],
+          "answer": "4&middot;8 cm"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>ABC is a triangle right-angled at A. Further, AB = 8 cm, BC = 10 cm. D is the point on BC such that AD is perpendicular to BC.<br/><br/>What is ratio of area of triangle ADC to area of triangle ADB ?",
+          "options": [
+                "7 : 15",
+                "9 : 16",
+                "2 : 3",
+                "3 : 4"
+          ],
+          "answer": "9 : 16"
+    },
+    {
+          "question": "<b>Consider the following for the next two (02) items that follow :</b><br/><br/>The annual rainfall at a place is 40 cm. The weight of water is 1 metric tonne per cubic meter.<br/><br/>What is the volume of rainfall in cubic meter per hectare ?",
+          "options": [
+                "40",
+                "400",
+                "4000",
+                "40000"
+          ],
+          "answer": "4000"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>The annual rainfall at a place is 40 cm. The weight of water is 1 metric tonne per cubic meter.<br/><br/>What is the weight of water (in metric tonnes) of annual rainfall falling there on a hectare of land ?",
+          "options": [
+                "40",
+                "400",
+                "4000",
+                "40000"
+          ],
+          "answer": "4000"
+    },
+    {
+          "question": "<b>Consider the following for the next two (02) items that follow :</b><br/><br/>The angle at the vertex of a conical body is 120&deg;.<br/><br/>What is the ratio of the radius of the conical body to its slant height ?",
+          "options": [
+                "1 : 2",
+                "&radic;3 : 1",
+                "&radic;3 : 2",
+                "&radic;2 : 1"
+          ],
+          "answer": "&radic;3 : 2"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>The angle at the vertex of a conical body is 120&deg;.<br/><br/>If the sum of slant height, height and radius is (9 + 3&radic;3) cm, then what is the volume of the cone ?",
+          "options": [
+                "27&pi; cubic cm",
+                "18&radic;3 &pi; cubic cm",
+                "24&pi; cubic cm",
+                "27&radic;3 &pi; cubic cm"
+          ],
+          "answer": "27&pi; cubic cm"
+    },
+    {
+          "question": "A person sells article X for ₹ 34,500 and makes a profit of 15%. He sells article Y at a loss of 10%. He neither loses nor gains on the whole because of these two transactions. What is the selling price of article Y ?",
+          "options": [
+                "₹ 40,000",
+                "₹ 40,500",
+                "₹ 41,000",
+                "₹ 51,500"
+          ],
+          "answer": "₹ 40,500"
+    },
+    {
+          "question": "100 quintals is what percent of 10 metric tonnes ?",
+          "options": [
+                "1%",
+                "10%",
+                "100%",
+                "1000%"
+          ],
+          "answer": "100%"
+    },
+    {
+          "question": "A circle is inscribed in an equilateral triangle. The radius of the circle is 2 cm. What is the area of the triangle ?",
+          "options": [
+                "12&radic;3 square cm",
+                "12 square cm",
+                "9&radic;3 square cm",
+                "9 square cm"
+          ],
+          "answer": "12&radic;3 square cm"
+    },
+    {
+          "question": "The sides of a triangle are k, 1&middot;5k and 2&middot;25k. What is the sum of the squares of its medians ?",
+          "options": [
+                "359k<sup>2</sup>/64",
+                "379k<sup>2</sup>/64",
+                "389k<sup>2</sup>/64",
+                "399k<sup>2</sup>/64"
+          ],
+          "answer": "399k<sup>2</sup>/64"
+    },
+    {
+          "question": "If 2s = a + b + c, then what is s(s &minus; a)(s &minus; b)(s &minus; c) [1/(s &minus; a) + 1/(s &minus; b) + 1/(s &minus; c) &minus; 1/s] equal to ?",
+          "options": [
+                "abc",
+                "2abc",
+                "4abc",
+                "ab + bc + ca"
+          ],
+          "answer": "abc"
+    },
+    {
+          "question": "How much will ₹ 10,000 amount to in one year's time at 4% rate of interest per annum if the interest is compounded once in every three months ? (take approximate value)",
+          "options": [
+                "₹ 10,406",
+                "₹ 10,416",
+                "₹ 10,426",
+                "₹ 10,436"
+          ],
+          "answer": "₹ 10,406"
+    },
+    {
+          "question": "If p = 0.09&#773;, then what is the value of 70p<sup>2</sup> + 43p &minus; 5 ?",
+          "options": [
+                "&minus;1",
+                "0",
+                "1",
+                "10"
+          ],
+          "answer": "0"
+    },
+    {
+          "question": "What is the remainder when 2<sup>101</sup> is divided by 101 ?",
+          "options": [
+                "1",
+                "2",
+                "5",
+                "7"
+          ],
+          "answer": "2"
+    },
+    {
+          "question": "If p (&ne; 0) and q (&ne; 0) are the roots of the equation x<sup>2</sup> + px + q = 0, then what is p<sup>2</sup> + q<sup>2</sup> equal to ?",
+          "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+          ],
+          "answer": "5"
+    },
+    {
+          "question": "The equations x<sup>2</sup> + px + q = 0 and x<sup>2</sup> + qx + p = 0 (p &ne; q) have a common root. What is the value of (p + q) ?",
+          "options": [
+                "&minus;1",
+                "0",
+                "1",
+                "2"
+          ],
+          "answer": "&minus;1"
+    },
+    {
+          "question": "If x<sup>2</sup> &minus; 5x + 4 is a factor of x<sup>4</sup> &minus; px<sup>2</sup> + q, then what are the values of p and q respectively ?",
+          "options": [
+                "17, 16",
+                "16, 17",
+                "15, 16",
+                "16, 15"
+          ],
+          "answer": "17, 16"
+    },
+    {
+          "question": "If two quadratic equations px<sup>2</sup> + px + 4 = 0 and x<sup>2</sup> + qx + q = 0 have a common root 2, then what is p + q equal to ?",
+          "options": [
+                "&minus;3",
+                "&minus;2",
+                "0",
+                "3"
+          ],
+          "answer": "&minus;2"
+    },
+    {
+          "question": "What is the HCF of the polynomials x<sup>8</sup> + x<sup>4</sup> + 1 and x<sup>4</sup> + x<sup>2</sup> + 1 ?",
+          "options": [
+                "1",
+                "x<sup>4</sup> &minus; x<sup>2</sup> + 1",
+                "x<sup>4</sup> + x<sup>2</sup> + 1",
+                "x<sup>4</sup> &minus; x<sup>2</sup> &minus; 1"
+          ],
+          "answer": "x<sup>4</sup> + x<sup>2</sup> + 1"
+    },
+    {
+          "question": "An arc AB of a circle subtends an angle x radian at the centre O. If the area of the sector AOB is equal to half of the square of length of arc AB, then what is x equal to ?",
+          "options": [
+                "1/4",
+                "1/2",
+                "1",
+                "2"
+          ],
+          "answer": "1"
+    },
+    {
+          "question": "Consider the following statements in respect of prime numbers p and q :<br/><br/>I. Their LCM is always an odd number.<br/>II. Sum of their LCM and HCF is always an even number.<br/><br/>Which of the statements given above is/are correct ?",
+          "options": [
+                "I only",
+                "II only",
+                "Both I and II",
+                "Neither I nor II"
+          ],
+          "answer": "Neither I nor II"
+    },
+    {
+          "question": "<b>Consider the following for the next five (05) items that follow :</b><br/><br/>The frequency distribution of 205 observations on X is given below :<br/><br/><i>X :</i> 3, 5, 6, 7<br/><i>Frequency :</i> f, f+2, f&minus;3, f+6<br/><br/>What is the value of f ?",
+          "options": [
+                "50",
+                "60",
+                "70",
+                "80"
+          ],
+          "answer": "50"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>What is the median of the frequency distribution ?",
+          "options": [
+                "3",
+                "5",
+                "6",
+                "It cannot be determined from the given data"
+          ],
+          "answer": "6"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>What is the mode of the frequency distribution ?",
+          "options": [
+                "5",
+                "6",
+                "7",
+                "It cannot be determined from the given data"
+          ],
+          "answer": "7"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>What is the most appropriate graphical representation of the given frequency distribution of X ?",
+          "options": [
+                "Bar diagram",
+                "Histogram",
+                "Frequency polygon",
+                "Pie Chart"
+          ],
+          "answer": "Bar diagram"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>What is the mean of the frequency distribution ?",
+          "options": [
+                "3&middot;29",
+                "4&middot;29",
+                "5&middot;29",
+                "6&middot;29"
+          ],
+          "answer": "5&middot;29"
+    },
+    {
+          "question": "<b>Consider the following for the next two (02) items that follow :</b><br/><br/>The frequency distribution of marks obtained by students in an English examination is given below :<br/><br/>Marks obtained : Number of Students<br/>Below 40 : 50<br/>Below 50 : 125<br/>Below 60 : 210<br/>Below 70 : 315<br/>Below 80 : 350<br/><br/>What is the number of students who scored between 60 and 70 marks ?",
+          "options": [
+                "105",
+                "110",
+                "205",
+                "210"
+          ],
+          "answer": "105"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>What is the number of students who scored more than 50 marks ?",
+          "options": [
+                "100",
+                "125",
+                "200",
+                "225"
+          ],
+          "answer": "225"
+    },
+    {
+          "question": "<b>Consider the following for the next three (03) items that follow :</b><br/><br/>Circulation figures (in thousands) of different newspapers (A, B, C, D, E) for five years are given below :<br/><br/>Year | A | B | C | D | E<br/>2019 | 20| 10| 15| 8 | 20<br/>2020 | 12| 12| 18| 12| 12<br/>2021 | 24| 14| 17| 14| 15<br/>2022 | 26| 10| 16| 15| 9<br/>2023 | 22| 16| 14| 16| 11<br/><br/>In which of the given years was the circulation of the newspaper D close to its average circulation over all the years ?",
+          "options": [
+                "2020 and 2021",
+                "2022 and 2023",
+                "2022 only",
+                "2020 only"
+          ],
+          "answer": "2020 and 2021"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>In which of the years from 2019 to 2022 was the circulation of the newspaper D close to the average circulation of all the newspapers in that year ?",
+          "options": [
+                "2019",
+                "2020",
+                "2021",
+                "2022"
+          ],
+          "answer": "2022"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>How many cases are there in which average of the circulation for an individual newspaper was more than the average of the circulation of all the newspapers ?",
+          "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+          ],
+          "answer": "Two"
+    },
+    {
+          "question": "<b>Consider the following for the next three (03) items that follow :</b><br/><br/>Study the following Pie Charts :<br/><br/>Chart-I : Number of houses : 1,20,000<br/>PUCCA : 110&deg;, SEMI PUCCA : 210&deg;, KUTCHA : 40&deg;<br/><br/>Chart-II : Population : 21,00,000<br/>LIVING IN PUCCA HOUSES : 60&deg;, LIVING IN KUTCHA HOUSES : 70&deg;, HOUSELESS : 20&deg;, LIVING IN SEMI PUCCA HOUSES : 210&deg;<br/><br/>Chart-III : Number of families : 3,60,000<br/>LIVING IN PUCCA HOUSES : 70&deg;, LIVING IN KUTCHA HOUSES : 185&deg;, HOUSELESS : 20&deg;, LIVING IN SEMI PUCCA HOUSES : 85&deg;<br/><br/>On an average, how many persons live in every pucca house ?",
+          "options": [
+                "8",
+                "8&middot;54",
+                "9&middot;54",
+                "7&middot;54"
+          ],
+          "answer": "9&middot;54"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>If 5000 more Kutcha houses are built, then what will be approximate change in angle for Kutcha houses in Pie Chart-I ?",
+          "options": [
+                "11&deg;",
+                "13&deg;",
+                "15&deg;",
+                "23&deg;"
+          ],
+          "answer": "13&deg;"
+    },
+    {
+          "question": "<b>Following the previous context:</b><br/><br/>If 300 families from the \"Houseless\" category shift into Kutcha houses, what will be the average number of families in every Kutcha house ?",
+          "options": [
+                "15",
+                "13&middot;9",
+                "12&middot;9",
+                "10&middot;5"
+          ],
+          "answer": "13&middot;9"
+    },
+    {
+          "question": "Marks obtained by 60 students in a test (Maximum Marks-100) are given below :<br/><br/>60, 82, 63, 40, 88, 80, 24, 60, 09, 58, 44, 74<br/>57, 60, 63, 30, 31, 64, 00, 62, 37, 54, 10, 99<br/>35, 83, 58, 33, 92, 43, 66, 41, 78, 72, 32, 33<br/>65, 11, 60, 17, 53, 93, 57, 03, 29, 31, 82, 50<br/>63, 15, 41, 55, 72, 42, 32, 23, 30, 48, 67, 34<br/><br/>What is the percentage (approximate) of students getting marks higher than or equal to 60 but less than 80 ?",
+          "options": [
+                "25&middot;0",
+                "26&middot;7",
+                "28&middot;3",
+                "30&middot;0"
+          ],
+          "answer": "26&middot;7"
+    },
+    {
+          "question": "The arithmetic mean of 100 observations was 50. Later on, it was found that two observations were misread as 82 and 6 instead of 182 and 56. What is the value of the corrected mean ?",
+          "options": [
+                "50&middot;1",
+                "51&middot;5",
+                "52&middot;3",
+                "53&middot;4"
+          ],
+          "answer": "51&middot;5"
+    }
   ]
 };
 
