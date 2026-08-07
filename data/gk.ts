@@ -1,6 +1,268 @@
 import type { Question } from "@/types/Question";
 
 const gkData: Record<string, Question[]> = {
+  "2024-I": [
+    {
+        "question": "Consider the following statements about the Jorwe culture of the Deccan :<br/><br/>1. It covers, practically, the whole of modern Maharashtra except the coastal Konkan district.<br/>2. The Pravara-Godavari valleys seem to have been the nuclear zone.<br/>3. The large sites of this culture yield evidence of shifting agriculture.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Consider the following statements about Madurai, the capital city of the Pandya kingdom :<br/><br/>1. It has been described in <i>Maduraikkanchi</i> as a large grand city, enclosed by walls on three sides and the Vaigai river on the fourth side.<br/>2. The <i>Arthashastra</i> mentions it as a centre of fine cotton textiles.<br/>3. Other literary sources describe it as a major craft centre.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Consider the following statements about Sawai Jai Singh's astronomical work :<br/><br/>1. He learnt of the accuracy of European observations, and obtained de La Hire's tables from which he reproduced a refraction table.<br/>2. His astronomers also developed a telescope of their own to observe the lunar phases of Venus.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "<i>Man Kautuhal</i>, a work on music, was prepared under the aegis of",
+        "options": [
+            "Raja Man Singh of Gwalior",
+            "Tansen",
+            "Meera Bai",
+            "Amir Khusrau"
+        ],
+        "answer": "Raja Man Singh of Gwalior"
+    },
+    {
+        "question": "Consider the following statements regarding the Sugamya Bharat Abhiyan :<br/><br/>1. This programme is initiated by the Department of Empowerment of Persons with Disabilities, Ministry of Social Justice and Empowerment.<br/>2. It aims to develop an inclusive society for persons with disabilities.<br/>3. It has provisions of pension for persons with disabilities.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which one among the following was <i>not</i> a part of the action programme of the Non-Cooperation Movement?",
+        "options": [
+            "The Congress organisation was to reach down to the village and the Mohalla level",
+            "Boycott of government affiliated schools and colleges",
+            "Taking control of the law and order machinery of the State by the Congress Working Committee",
+            "Surrender of titles and honours given by the government"
+        ],
+        "answer": "Taking control of the law and order machinery of the State by the Congress Working Committee"
+    },
+    {
+        "question": "Consider the following statements about the Mauryan State and the forest people :<br/><br/>1. The forest people were subjected to new forms of political and economic dominance and the necessity to subordinate and assimilate them led to a change in the earlier attitude of excluding these people from imperial territory.<br/>2. The State recognised that the forest produce was the sole monopoly of the forest people.<br/>3. The State was concerned with the conservation of forests and to this end the burning of forests was prohibited.<br/>4. The forest people could be harnessed to serve the State and could be used as troops, spies and assassins.<br/><br/>How many of the above statements is/are correct?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "At which of the following places was diamond mining carried out during the Delhi Sultanate period?",
+        "options": [
+            "Awadh",
+            "Khambhat",
+            "Panna",
+            "Lakhnauti"
+        ],
+        "answer": "Panna"
+    },
+    {
+        "question": "Which one of the following statements is true for James Webb Space Telescope launched in December 2021?",
+        "options": [
+            "It orbits the Sun, about 15 lakh km away from the Earth.",
+            "It orbits the Earth, about 15 lakh km away.",
+            "It is stationary in space nearly 10 lakh km away from the Earth.",
+            "It revolves around the Moon nearly 3&middot;5 lakh km away from the Earth."
+        ],
+        "answer": "It orbits the Sun, about 15 lakh km away from the Earth."
+    },
+    {
+        "question": "Which of the following particles are subatomic particles?<br/><br/>1. Electron<br/>2. Proton<br/>3. Neutron<br/>4. Muon<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 4 only",
+            "1, 2, 3 and 4",
+            "2 and 3 only",
+            "1, 2 and 3 only"
+        ],
+        "answer": "1, 2, 3 and 4"
+    },
+    {
+        "question": "Qubit refers to a two-valued quantity used in",
+        "options": [
+            "classical computers",
+            "classical cryptography",
+            "quantum computers",
+            "lasers"
+        ],
+        "answer": "quantum computers"
+    },
+    {
+        "question": "Photo 51 refers to an image of",
+        "options": [
+            "a crater on the Moon",
+            "DNA molecules",
+            "the virus responsible for COVID-19",
+            "the virus responsible for common cold"
+        ],
+        "answer": "DNA molecules"
+    },
+    {
+        "question": "The rest mass of Higgs boson is estimated to be close to",
+        "options": [
+            "0&middot;5 MeV",
+            "900 MeV",
+            "100 GeV",
+            "1000 GeV"
+        ],
+        "answer": "100 GeV"
+    },
+    {
+        "question": "Which one of the following correctly describes the principle of the working of an atomic clock?",
+        "options": [
+            "Vibration of a small quartz crystal",
+            "Simple harmonic motion of atoms inside a crystal",
+            "Resonant frequency in cesium (or rubidium) atom",
+            "Excitation and de-excitation of hydrogen atoms"
+        ],
+        "answer": "Resonant frequency in cesium (or rubidium) atom"
+    },
+    {
+        "question": "Political analysis involves both normative and empirical approaches. Which of the following statements is/are correct about the two approaches?<br/><br/>1. Knowledge acquired through the empirical approach is value-loaded.<br/>2. Knowledge acquired through the normative approach is objectively neutral.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Neither 1 nor 2"
+    },
+    {
+        "question": "Which one amongst the following <i>cannot</i> be a feature of a 'totalitarian regime'?",
+        "options": [
+            "State control of the political and often personal realms of individual life",
+            "A monopoly of the means of mass communication",
+            "One-party State",
+            "Autonomy of civil society"
+        ],
+        "answer": "Autonomy of civil society"
+    },
+    {
+        "question": "Which of the following statements are <i>not</i> correct?<br/><br/>1. In world politics, 'hard power' can be exercised by both States and other actors involving use of threat or coercion.<br/>2. Globalisation is necessarily economic, not cultural.<br/>3. The term 'Washington Consensus' refers to a policy that seeks intervention in the market.<br/>4. 'Autarky' is generally understood as economic 'self-sufficiency'.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 4 only",
+            "2 and 3 only",
+            "2, 3 and 4 only",
+            "1, 2, 3 and 4"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "Consider the following statements :<br/><br/>1. Under Part III of the Constitution of India, individuals can enforce rights guaranteed by this Part when they are violated by the action of a government authority.<br/>2. Under Part III of the Constitution of India, individuals can enforce rights guaranteed by this Part when they are violated by not only the action of a government authority, but also by its inaction.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Consider the following statements :<br/><br/>1. The International Covenant on Civil and Political Rights (ICCPR) provides that everyone shall have the right to recognition everywhere as a person before the law.<br/>2. Although India agrees in principle with the ethos of ICCPR, it has not yet ratified it fully.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which of the following statements with respect to the right to have a legal aid is/are correct?<br/><br/>1. Under the Constitution of India, it is given under the Directive Principles of State Policy.<br/>2. It is the duty of the police to inform the nearest Legal Aid Committee immediately after the arrest of a person.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which of the following statements as per the 'Universal Declaration of Human Rights' is/are correct?<br/><br/>1. The Declaration provides that everyone has a right to seek and enjoy in other country's asylum from prosecution in respect of political crimes.<br/>2. The Declaration provides that everyone has the freedom from arbitrary deprival of nationality, except for the freedom to change nationality.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which of the following UN organisations has been awarded with Nobel Prize twice?",
+        "options": [
+            "IPCC",
+            "IAEA",
+            "UNHCR",
+            "UNICEF"
+        ],
+        "answer": "UNHCR"
+    },
+    {
+        "question": "Which of the following statements is/are correct about vaccination that provides protection against an infectious disease?<br/><br/>1. It blocks the entry of the infectious agent into body.<br/>2. It produces antibodies against infection.<br/>3. It kills the infectious agent when it enters in the body.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Which cells in human body have <i>no</i> nucleus?",
+        "options": [
+            "Muscle cells",
+            "Phagocytic cells",
+            "Red blood cells",
+            "Ciliated cells"
+        ],
+        "answer": "Red blood cells"
+    },
+    {
+        "question": "The use of plastics has led to a number of environment-related problems. For this, which one of the following statements is correct?",
+        "options": [
+            "They are non-biodegradable.",
+            "They do not get released into water and food.",
+            "They do not have any biochemical synthesis activity.",
+            "They are harmless to humans."
+        ],
+        "answer": "They are non-biodegradable."
+    },
+    {
+        "question": "Microbodies found to be present in plant and animal cells contain",
+        "options": [
+            "broken down membranes",
+            "enzymes",
+            "acidic fluids",
+            "waste metabolites"
+        ],
+        "answer": "enzymes"
+    }
+  ],
   "2026": [
     {
       question: "The central cytoplasmic region of a prokaryotic cell containing nucleic acids is called :",
