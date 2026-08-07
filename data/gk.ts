@@ -563,6 +563,247 @@ const gkData: Record<string, Question[]> = {
         ],
         "answer": "Let it be kept in a bowl of water (at room temperature) and operating a ceiling fan (or table fan) at full speed"
     }
+,
+    {
+        "question": "Which of the following statements about 'Marrakech Partnership' is/are correct?<br/><br/>1. It is an intergovernmental partnership for global climate action.<br/>2. It is not only an intergovernmental partnership for global climate action but also a collaboration between governments and other stakeholders like cities, businesses and investors.<br/>3. This partnership is guided by the 2030 Agenda for Sustainable Development.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "1, 2 and 3",
+            "2 only"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Consider the following statements :<br/><br/>1. In India, the Special Marriage Act protects an individual if one enters into an interreligious marriage.<br/>2. Right to marry a person of one's choice is an integral aspect of one's Fundamental Rights under Article 21 of the Constitution of India.<br/>3. The Universal Declaration of Human Rights also resonates marital rights of every adult consenting individuals.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3",
+            "1 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following statements about the International Court of Justice is/are correct?<br/><br/>1. The Court consists of members, wherein two members cannot be nationals of the same State.<br/>2. The General Assembly and the Security Council proceed independently of one another to elect the members of the Court.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Consider the following statements regarding Bhoonidhi Vista :<br/><br/>1. It is a data visualisation service of Bhoonidhi providing full resolution mosaicked data visualisation capability through Web Map Service.<br/>2. It is enabled for ResourceSat-2/2A, Sentinel 1 and 2 satellites.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which of the following were objectives of the G20 Summit, 2023 under India's Presidency?<br/><br/>1. Green development<br/>2. Accelerating progress on SDGs<br/>3. Women-led development<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3",
+            "1 and 3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "The causal organism of dengue fever is a mosquito-borne virus which belongs to which one among the following categories?",
+        "options": [
+            "Flavi-ribo virus",
+            "Adenovirus",
+            "Vaccinia virus",
+            "Nipah virus"
+        ],
+        "answer": "Flavi-ribo virus"
+    },
+    {
+        "question": "From which among the following are blood clotting factors released?",
+        "options": [
+            "RBCs",
+            "Eosinophils",
+            "Platelets",
+            "Monocytes"
+        ],
+        "answer": "Platelets"
+    },
+    {
+        "question": "Pulse is felt due to the rhythmic contraction and relaxation of the",
+        "options": [
+            "chambers of heart",
+            "valves present in veins",
+            "aorta and main arteries",
+            "valves of heart"
+        ],
+        "answer": "aorta and main arteries"
+    },
+    {
+        "question": "When eggs are heated, the transparent liquid portion around yolk turns solid and turbid white. This happens due to the thermal denaturation of",
+        "options": [
+            "fats",
+            "proteins",
+            "ribose sugar",
+            "carbohydrates"
+        ],
+        "answer": "proteins"
+    },
+    {
+        "question": "Which of the following statements is/are correct?<br/><br/>1. GDP deflator captures the average price of an unchanging basket of commodities that constitutes the GDP of the country.<br/>2. GDP deflator can be used to measure the real GDP of the economy but not the inflation rate.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Neither 1 nor 2"
+    },
+    {
+        "question": "Which of the following statements is/are correct?<br/><br/>1. A price index captures the change in the average price of a constant basket of commodities.<br/>2. If the price index takes values 100, 110 and 121 in three consecutive years respectively, then the inflation rates in the 2nd and 3rd years are 10% and 21% respectively.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which of the following statements is/are correct?<br/><br/>1. Most of India's reserves is held in the form of foreign currency.<br/>2. There is no cost of holding foreign currency as reserves by a nation.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "The market mechanism over-produces a good that generates positive externality.",
+            "A cap and trade of pollution permits can be used by the government to achieve the social optimum.",
+            "The optimal amount of subsidy in the case of an activity that produces a positive externality is the difference between the social benefit and the private benefit at the optimum.",
+            "Tragedy of Commons is an example of negative externality."
+        ],
+        "answer": "The market mechanism over-produces a good that generates positive externality."
+    },
+    {
+        "question": "Which one of the following statements regarding GST is <i>not</i> correct?",
+        "options": [
+            "Amendment 115 to the Constitution of India kept alcohol for human use and five petroleum products outside the ambit of GST.",
+            "Amendment 122 to the Constitution of India kept only alcohol for human use outside the ambit of GST.",
+            "Precious metals are taxed at a rate of 1% under GST.",
+            "Unworked diamond is taxed at a rate of 0&middot;25%."
+        ],
+        "answer": "Precious metals are taxed at a rate of 1% under GST."
+    },
+    {
+        "question": "Which of the following statements with regard to the Report of Tendulkar Committee (2009) on poverty estimates is/are correct?<br/><br/>1. The Committee had used an all-India urban poverty line basket as a reference to derive both rural and urban poverty levels.<br/>2. The Committee had anchored the poverty line to the official food calorie norms.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which of the following components of Central Government taxes on petroleum products is/are <i>not</i> shareable with the States?<br/><br/>1. Basic Excise Duty<br/>2. Additional Excise Duty<br/>3. Special Additional Excise Duty<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "3 only",
+            "2 and 3 only"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "Level of per capita GDP depends upon which of the following?<br/><br/>1. Proportion of population in the working age<br/>2. Work participation rate<br/>3. Per worker productivity<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "3 only",
+            "1 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following are included in M1 definition of money for the Indian economy?<br/><br/>1. Reserves<br/>2. Currency<br/>3. Time deposits<br/>4. Demand deposits<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 3 only",
+            "2 and 3",
+            "2 and 4",
+            "1, 3 and 4"
+        ],
+        "answer": "2 and 4"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct for National Income Accounting for India?",
+        "options": [
+            "Imports are subtracted in calculating Gross Domestic Product.",
+            "Net factor payments earned from abroad are included in Gross Domestic Product.",
+            "Purchase and sale of second-hand goods are not included in Gross Domestic Product.",
+            "Inventories are included in Gross Domestic Capital Formation."
+        ],
+        "answer": "Net factor payments earned from abroad are included in Gross Domestic Product."
+    },
+    {
+        "question": "Under normal downward sloping demand curve and fully elastic supply curve of a commodity, an exogenous decrease in demand would lead to",
+        "options": [
+            "increase in equilibrium price and quantity",
+            "decrease in equilibrium price and quantity",
+            "decrease in equilibrium quantity and no change in price",
+            "increase in equilibrium price and no change in quantity"
+        ],
+        "answer": "decrease in equilibrium quantity and no change in price"
+    },
+    {
+        "question": "The correct order of atomic radius of Li, Na, Be and O is",
+        "options": [
+            "Na &gt; Li &gt; Be &gt; O",
+            "Na &gt; Be &gt; Li &gt; O",
+            "Be &gt; Li &gt; Na &gt; O",
+            "O &gt; Be &gt; Li &gt; Na"
+        ],
+        "answer": "Na &gt; Li &gt; Be &gt; O"
+    },
+    {
+        "question": "Which of the following catalytic systems is used for the reduction of unsaturated hydrocarbon to saturated hydrocarbon?",
+        "options": [
+            "Copper and H<sub>2</sub>",
+            "Iron and H<sub>2</sub>",
+            "Zinc and H<sub>2</sub>",
+            "Nickel and H<sub>2</sub>"
+        ],
+        "answer": "Nickel and H<sub>2</sub>"
+    },
+    {
+        "question": "Which one of the following has the highest ionic character?",
+        "options": [
+            "BeF<sub>3</sub>",
+            "SiO<sub>2</sub>",
+            "NCl<sub>3</sub>",
+            "K<sub>2</sub>S"
+        ],
+        "answer": "K<sub>2</sub>S"
+    },
+    {
+        "question": "Which of the following statements regarding ice-cap climate is/are correct?<br/><br/>1. In the Koeppen climate classification, the ice-cap climate is signified by the letters EF.<br/>2. It is the Earth's most severe climate, where the mean monthly temperature is never above 0 degree Celsius.<br/>3. This climate is found in the Pir Panjal and the Great Himalayas.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 2 only"
+    }
   ],
   "2026": [
     {
