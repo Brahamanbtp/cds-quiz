@@ -932,6 +932,76 @@ const mathsData: Record<string, Question[]> = {
             "7&middot;625 square cm"
         ],
         "answer": "14&middot;25 square cm"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>Consider a circle of area 9&pi; square unit and an equilateral triangle ABC as shown in the figure given below. The circle passes through A and is tangent to BC at its midpoint.<br/><br/>What is the length of the side of the triangle ABC ?",
+        "options": [
+            "2&radic;3 unit",
+            "4&radic;3 unit",
+            "6&radic;3 unit",
+            "8&radic;3 unit"
+        ],
+        "answer": "4&radic;3 unit"
+    },
+    {
+        "question": "What is the area of the shaded region ?",
+        "options": [
+            "6(&pi; + &radic;3 ) square unit",
+            "3(&pi; + 2&radic;3 ) square unit",
+            "1&middot;5(3&pi; + 8&radic;3 ) square unit",
+            "6(&pi; + 2&radic;3 ) square unit"
+        ],
+        "answer": "3(&pi; + 2&radic;3 ) square unit"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next three (03) items that follow:<br/>Two circles with centres at O<sub>1</sub> and O<sub>2</sub> touching each other are placed inside a rectangle of sides 9 cm and 8 cm. The larger circle O<sub>1</sub> touches three sides of the rectangle, and the smaller circle O<sub>2</sub> touches two sides and the larger circle.<br/><br/>What is the sum of the areas of the two circles ?",
+        "options": [
+            "17&pi; square unit",
+            "16&middot;75&pi; square unit",
+            "16&middot;5&pi; square unit",
+            "16&middot;25&pi; square unit"
+        ],
+        "answer": "17&pi; square unit"
+    },
+    {
+        "question": "Which one of the following is correct in respect of angle &theta; (where &theta; is the angle between the vertical line through O<sub>1</sub> and the line O<sub>1</sub>O<sub>2</sub>) ?",
+        "options": [
+            "0 &lt; &theta; &lt; 30&deg;",
+            "30&deg; &lt; &theta; &lt; 45&deg;",
+            "45&deg; &lt; &theta; &lt; 60&deg;",
+            "60&deg; &lt; &theta; &lt; 90&deg;"
+        ],
+        "answer": "45&deg; &lt; &theta; &lt; 60&deg;"
+    },
+    {
+        "question": "What is the area of the shaded region (bounded by the two circles and the bottom side of the rectangle) ?",
+        "options": [
+            "<sup>(240 &minus; 10&pi; &minus; &pi;&theta;)</sup>&frasl;<sub>24</sub> square unit",
+            "<sup>(240 &minus; 6&pi; &minus; &pi;&theta;)</sup>&frasl;<sub>24</sub> square unit",
+            "<sup>(120 &minus; 12&pi; &minus; &pi;&theta;)</sup>&frasl;<sub>24</sub> square unit",
+            "<sup>(240 &minus; 12&pi; &minus; &pi;&theta;)</sup>&frasl;<sub>24</sub> square unit"
+        ],
+        "answer": "<sup>(240 &minus; 12&pi; &minus; &pi;&theta;)</sup>&frasl;<sub>24</sub> square unit"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>Let ABCD be the diameter of a circle of radius 6 cm. The lengths AB, BC and CD are equal. Semi-circles are drawn with AB and BD as diameters. The shaded region lies in the lower half, bounded by the large semicircle on AD and the two smaller semicircles.<br/><br/>What is the ratio of the area of the shaded region to that of the non-shaded region ?",
+        "options": [
+            "2 : 7",
+            "2 : 5",
+            "3 : 5",
+            "5 : 8"
+        ],
+        "answer": "2 : 7"
+    },
+    {
+        "question": "What is the perimeter of the shaded region ?",
+        "options": [
+            "24&pi; cm",
+            "18&pi; cm",
+            "15&pi; cm",
+            "12&pi; cm"
+        ],
+        "answer": "12&pi; cm"
     }],
   "2026": [
     {
