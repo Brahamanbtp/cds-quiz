@@ -332,7 +332,347 @@ const mathsData: Record<string, Question[]> = {
         ],
         "answer": "Both 1 and 2"
     }
-  ],
+  ,
+    {
+        "question": "What is the minimum value of <sup>(sin<sup>2</sup> A + 5 sin A + 1)</sup>&frasl;<sub>sin A</sub> for 0 &lt; A &le; &pi;/2 ?",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "9"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "What is <sup>3</sup>&frasl;<sub>(1<sup>2</sup> &times; 2<sup>2</sup>)</sub> + <sup>5</sup>&frasl;<sub>(2<sup>2</sup> &times; 3<sup>2</sup>)</sub> + <sup>7</sup>&frasl;<sub>(3<sup>2</sup> &times; 4<sup>2</sup>)</sub> + ... equal to ?",
+        "options": [
+            "1",
+            "4",
+            "7",
+            "9"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "If 1 / (a + 1 / (b + 1 / (c + 1 / (d + 1 / e)))) = 421 / 972, then what is the value of a &times; b &times; c &times; d &times; e ?",
+        "options": [
+            "720",
+            "480",
+            "360",
+            "60"
+        ],
+        "answer": "720"
+    },
+    {
+        "question": "A cube whose edge is 14 cm long has on each of its faces a circle of 7 cm radius painted yellow. What is the total area of unpainted surface ? (Take &pi; = 22/7)",
+        "options": [
+            "126 square cm",
+            "189 square cm",
+            "252 square cm",
+            "315 square cm"
+        ],
+        "answer": "252 square cm"
+    },
+    {
+        "question": "From a circular metal plate of radius 7 cm and thickness 0&middot;16 mm, a sector is cut off containing an angle 150&deg;. The remaining piece is moulded into a spherical bead of radius r. What is the value of r in cm ?",
+        "options": [
+            "0&middot;35",
+            "0&middot;7",
+            "1&middot;05",
+            "1&middot;4"
+        ],
+        "answer": "0&middot;7"
+    },
+    {
+        "question": "The chord AB of a circle with centre at O is 2&radic;3 times the height of the minor segment. If P is the area of the sector OAB and Q is the area of the minor segment of the circle, then what is the approximate value of P/Q ?<br/><br/>(Take &radic;3 = 1&middot;7 and &pi; = 3&middot;14)",
+        "options": [
+            "1&middot;4",
+            "1&middot;7",
+            "2&middot;2",
+            "2&middot;6"
+        ],
+        "answer": "1&middot;7"
+    },
+    {
+        "question": "What is the area of the region between two concentric circles, if the length of a chord of the outer circle touching the inner circle at a particular point of its circumference is 14 cm ?<br/><br/>(Take &pi; = 22/7)",
+        "options": [
+            "154 square cm",
+            "144 square cm",
+            "132 square cm",
+            "Cannot be determined due to insufficient data"
+        ],
+        "answer": "154 square cm"
+    },
+    {
+        "question": "In a right-angled triangle ABC, AB = 15 cm, BC = 20 cm and AC = 25 cm. Further, BP is the perpendicular on AC. What is the difference in the area of triangles PAB and PCB ?",
+        "options": [
+            "40 square cm",
+            "42 square cm",
+            "45 square cm",
+            "48 square cm"
+        ],
+        "answer": "42 square cm"
+    },
+    {
+        "question": "Let the positive numbers a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, ...., a<sub>3n</sub> be in GP. If P is the GM of a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, ...., a<sub>n</sub> and Q is the GM of a<sub>n+1</sub>, a<sub>n+2</sub>, a<sub>n+3</sub>, ...., a<sub>3n</sub>, then what is the GM of 3n numbers ?",
+        "options": [
+            "P<sup>2</sup>Q",
+            "PQ<sup>2</sup>",
+            "&radic;(PQ)",
+            "P<sup>1/3</sup> Q<sup>2/3</sup>"
+        ],
+        "answer": "P<sup>1/3</sup> Q<sup>2/3</sup>"
+    },
+    {
+        "question": "The cost price of y articles is equal to selling price of z articles. If y : z = 5 : 4, what is the profit percentage ?",
+        "options": [
+            "20%",
+            "25%",
+            "30%",
+            "40%"
+        ],
+        "answer": "25%"
+    },
+    {
+        "question": "A sum of money invested at simple interest triples itself in 8 years and becomes n times in 20 years. What is the value of n ?",
+        "options": [
+            "5",
+            "6",
+            "7&middot;5",
+            "9"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "If the work done by x men in (x + 1) days is equal to the work done by (x + 5) men in (x &minus; 2) days, then what is the value of x ?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "If (a + b) : (b + c) : (c + a) = 5 : 7 : 6, then what is the value of (a &minus; b + c) : (a + b &minus; c) ?",
+        "options": [
+            "1 : 1",
+            "2 : 3",
+            "3 : 1",
+            "4 : 3"
+        ],
+        "answer": "3 : 1"
+    },
+    {
+        "question": "Let x be the compound interest at the end of 3 years on a sum of &#x20B9; 1000 at the rate of 10% compounded annually and y be the simple interest at the end of 3 years on a sum of &#x20B9; 1000 at the annual rate of 11%. What is the difference between x and y ?",
+        "options": [
+            "&#x20B9; 16",
+            "&#x20B9; 15",
+            "&#x20B9; 5",
+            "&#x20B9; 1"
+        ],
+        "answer": "&#x20B9; 1"
+    },
+    {
+        "question": "In a quadrilateral ABCD, AB = 6 cm, BC = 18 cm, CD = 6 cm and DA = 10 cm. If the diagonal BD = x, then which one of the following is correct ?",
+        "options": [
+            "8 &lt; x &lt; 12",
+            "12 &lt; x &lt; 16",
+            "16 &lt; x &lt; 18",
+            "18 &lt; x &lt; 20"
+        ],
+        "answer": "12 &lt; x &lt; 16"
+    },
+    {
+        "question": "In a quarter circle of radius R, a circle of radius r is inscribed. What is the ratio of R to r ?",
+        "options": [
+            "(&radic;2 + 1) : 1",
+            "(&radic;3 + 1) : 1",
+            "3 : 2",
+            "5 : 4"
+        ],
+        "answer": "(&radic;2 + 1) : 1"
+    },
+    {
+        "question": "In a quadrilateral ABCD, AB = BC and CD = DA; AC and BD are diagonals such that AC = 6 cm and BD = 12 cm. What is the area of the quadrilateral ?",
+        "options": [
+            "24 square cm",
+            "30 square cm",
+            "36 square cm",
+            "40 square cm"
+        ],
+        "answer": "36 square cm"
+    },
+    {
+        "question": "If tan (3A) = cot (A &minus; 22&deg;), where 3A is an acute angle, then what is the value of A ?",
+        "options": [
+            "25&deg;",
+            "27&deg;",
+            "28&deg;",
+            "30&deg;"
+        ],
+        "answer": "28&deg;"
+    },
+    {
+        "question": "If (sin &theta; &minus; cos &theta; + 1) / (sin &theta; + cos &theta; &minus; 1) = p sec &theta; + q tan &theta;, where 0 &lt; &theta; &lt; &pi;/2, then what is p + q equal to ?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "4"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "The angles of elevation of the top of a tower from two points A and B at a distance of x m and (x + 5) m from the base of the tower of height 6 m and in the same straight line with it are complementary. What is the value of x ?",
+        "options": [
+            "4 m",
+            "5 m",
+            "6 m",
+            "9 m"
+        ],
+        "answer": "4 m"
+    },
+    {
+        "question": "Consider the following statements :<br/><br/>1. In a triangle ABC, if sin A + sin B + sin C = 3&radic;3 / 2, then the triangle can be equilateral.<br/>2. In a triangle ABC, if cos A + cos B + cos C = 3 / 2, then the triangle can be equilateral.<br/><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Two trains A and B leave Delhi for Hyderabad at 7:00 a.m. and 7:50 a.m. on the same day and travel at 80 kmph and 100 kmph respectively. After how many kilometers from Delhi will the two trains be together ?",
+        "options": [
+            "200/3 km",
+            "100 km",
+            "400/3 km",
+            "1000/3 km"
+        ],
+        "answer": "1000/3 km"
+    },
+    {
+        "question": "The length, breadth and height of a cuboid are increased by 10%, 20% and 50% respectively. What is the percentage increase in volume of the cuboid ?",
+        "options": [
+            "100%",
+            "99%",
+            "98%",
+            "50%"
+        ],
+        "answer": "98%"
+    },
+    {
+        "question": "&#x20B9; 9400 is distributed among P, Q, R in such a way that if &#x20B9; 93, &#x20B9; 24, &#x20B9; 55 are deducted from their respective shares, then they have money in the ratio 3 : 4 : 5. What is the share of P ?",
+        "options": [
+            "&#x20B9; 2307",
+            "&#x20B9; 2376",
+            "&#x20B9; 2508",
+            "&#x20B9; 2896"
+        ],
+        "answer": "&#x20B9; 2307"
+    },
+    {
+        "question": "If P<sup>2</sup> varies as R and Q<sup>2</sup> varies as R, (P &ne; Q), then which of the following are correct ?<br/><br/>1. P<sup>2</sup> + Q<sup>2</sup> varies as R.<br/>2. PQ varies as R.<br/>3. P<sup>2</sup> &minus; Q<sup>2</sup> varies as R.<br/><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "p number of men can finish a piece of work in q days. If there are 50% more men, then the work will be finished 12 days earlier. What is the value of q ?",
+        "options": [
+            "48",
+            "40",
+            "36",
+            "Cannot be determined due to insufficient data"
+        ],
+        "answer": "36"
+    },
+    {
+        "question": "What is the minimum value of <sup>(a<sup>2</sup> + 3a + 1)</sup>&frasl;<sub>a</sub> &times; <sup>(b<sup>2</sup> + 3b + 1)</sup>&frasl;<sub>b</sub> for a, b &gt; 0 ?",
+        "options": [
+            "1",
+            "9",
+            "16",
+            "25"
+        ],
+        "answer": "25"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next ten (10) items that follow:<br/>Each item contains a Question followed by two Statements. Answer each item using the following instructions:<br/><br/>Let a, b, c and d be positive integers.<br/><br/><i>Question :</i> Which one of a, b, c, d is closest to the product abcd ?<br/><br/><i>Statement-I :</i> a &gt; b &gt; c<br/><i>Statement-II :</i> c is not the smallest.",
+        "options": [
+            "If the Question can be answered by one of the Statements alone, but not by the other.",
+            "If the Question can be answered by either Statement alone.",
+            "If the Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone.",
+            "If the Question cannot be answered even by using both Statements together."
+        ],
+        "answer": "If the Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone."
+    },
+    {
+        "question": "Let mn = k, where m and n are prime numbers and k is an even number.<br/><br/><i>Question :</i> What is the value of mn - n + 1?<br/><br/><i>Statement-I :</i> m &gt; n<br/><i>Statement-II :</i> One of the numbers is 2.",
+        "options": [
+            "If the Question can be answered by one of the Statements alone, but not by the other.",
+            "If the Question can be answered by either Statement alone.",
+            "If the Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone.",
+            "If the Question cannot be answered even by using both Statements together."
+        ],
+        "answer": "If the Question cannot be answered even by using both Statements together."
+    },
+    {
+        "question": "<i>Question :</i> If p is a positive integer, then what is the remainder when p<sup>n</sup> is divided by p + 1 ?<br/><br/><i>Statement-I :</i> n is even.<br/><i>Statement-II :</i> p is even.",
+        "options": [
+            "If the Question can be answered by one of the Statements alone, but not by the other.",
+            "If the Question can be answered by either Statement alone.",
+            "If the Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone.",
+            "If the Question cannot be answered even by using both Statements together."
+        ],
+        "answer": "If the Question can be answered by one of the Statements alone, but not by the other."
+    },
+    {
+        "question": "<i>Question :</i> Is xy positive ?<br/><br/><i>Statement-I :</i> x = &radic;[3](- 0&middot;19683)<br/><i>Statement-II :</i> y = &radic;[3](x)",
+        "options": [
+            "If the Question can be answered by one of the Statements alone, but not by the other.",
+            "If the Question can be answered by either Statement alone.",
+            "If the Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone.",
+            "If the Question cannot be answered even by using both Statements together."
+        ],
+        "answer": "If the Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone."
+    },
+    {
+        "question": "Let a, b and c be the sides of a triangle ABC.<br/><br/><i>Question :</i> Is the triangle equilateral ?<br/><br/><i>Statement-I :</i> a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> = (ab + bc + ca)<br/><i>Statement-II :</i> 3a<sup>2</sup> + 3b<sup>2</sup> + 4c<sup>2</sup> = 2ab + 4bc + 4ca",
+        "options": [
+            "If the Question can be answered by one of the Statements alone, but not by the other.",
+            "If the Question can be answered by either Statement alone.",
+            "If the Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone.",
+            "If the Question cannot be answered even by using both Statements together."
+        ],
+        "answer": "If the Question can be answered by either Statement alone."
+    },
+    {
+        "question": "Area of a rectangle with length x and breadth y is P and area of a parallelogram (which is strictly not a rectangle) with adjacent sides of length x and y is Q.<br/><br/><i>Question :</i> Is P &gt; Q ?<br/><br/><i>Statement-I :</i> x : y = 2 : 1<br/><i>Statement-II :</i> The angle between the two adjacent sides of the parallelogram is 60&deg;.",
+        "options": [
+            "If the Question can be answered by one of the Statements alone, but not by the other.",
+            "If the Question can be answered by either Statement alone.",
+            "If the Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone.",
+            "If the Question cannot be answered even by using both Statements together."
+        ],
+        "answer": "If the Question can be answered by either Statement alone."
+    },
+    {
+        "question": "A circle touches all the four sides AB, BC, CD, DA of a quadrilateral ABCD.<br/><br/><i>Question :</i> What is the perimeter of the quadrilateral ?<br/><br/><i>Statement-I :</i> AB + DC = 10 cm<br/><i>Statement-II :</i> AD + BC = 10 cm",
+        "options": [
+            "If the Question can be answered by one of the Statements alone, but not by the other.",
+            "If the Question can be answered by either Statement alone.",
+            "If the Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone.",
+            "If the Question cannot be answered even by using both Statements together."
+        ],
+        "answer": "If the Question can be answered by either Statement alone."
+    }],
   "2026": [
     {
       question: "If <i>p</i> + <i>q</i> + <i>r</i> = 0, then what is <i>z</i><sup><i>p</i><sup>2</sup>/<i>qr</i></sup> &times; <i>z</i><sup><i>q</i><sup>2</sup>/<i>rp</i></sup> &times; <i>z</i><sup><i>r</i><sup>2</sup>/<i>pq</i></sup> equal to ?",
