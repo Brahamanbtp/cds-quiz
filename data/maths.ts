@@ -1,6 +1,338 @@
 import type { Question } from "@/types/Question";
 
 const mathsData: Record<string, Question[]> = {
+  "2024-I": [
+    {
+        "question": "If a : b : c : d = &radic;4 : &radic;3 : &radic;2 : &radic;1, then what is the value of <sup>(&minus; a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> + d<sup>2</sup>)</sup>&frasl;<sub>(a<sup>2</sup> &minus; b<sup>2</sup> + c<sup>2</sup> &minus; d<sup>2</sup>)</sub> ?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "The speeds of four cars are 2u, 3u, 4u and xu and the time taken by them to cover the same distance is xt, 4t, 3t and 2t respectively, where x, u, t are real numbers. What is the value of x ?",
+        "options": [
+            "8",
+            "6",
+            "5",
+            "2"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "If m : n = 1 : 2 and p : q = 3 : 4, then what is (2m + 4p) : (n + 3q) equal to ?",
+        "options": [
+            "1 : 1",
+            "1 : 3",
+            "2 : 1",
+            "2 : 3"
+        ],
+        "answer": "1 : 1"
+    },
+    {
+        "question": "If the rate of interest is 5%, then what would be the difference between compound interest and simple interest received on &#x20B9; 10,000 (each) after 3 years from now ?",
+        "options": [
+            "&#x20B9; 175&middot;25",
+            "&#x20B9; 152&middot;25",
+            "&#x20B9; 76&middot;25",
+            "&#x20B9; 24&middot;25"
+        ],
+        "answer": "&#x20B9; 76&middot;25"
+    },
+    {
+        "question": "A person bought a book at 3/4<sup>th</sup> of its listed price and sold it at 50% more than its listed price. What is the percentage of gain in the transaction ?",
+        "options": [
+            "20%",
+            "40%",
+            "75%",
+            "100%"
+        ],
+        "answer": "100%"
+    },
+    {
+        "question": "If the difference between the interior and exterior angles of a regular polygon is 144&deg;, then what is the number of sides of the polygon ?",
+        "options": [
+            "12",
+            "16",
+            "18",
+            "20"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "If the sum and product of the roots of a quadratic equation are 2 and &minus; 100 respectively, then which one of the following is correct ?",
+        "options": [
+            "There are infinitely many such equations having different roots.",
+            "There is only one such equation which is x<sup>2</sup> + 2x &minus; 100 = 0.",
+            "There is only one such equation which is x<sup>2</sup> &minus; 2x &minus; 100 = 0.",
+            "There is no such equation."
+        ],
+        "answer": "There is only one such equation which is x<sup>2</sup> &minus; 2x &minus; 100 = 0."
+    },
+    {
+        "question": "If 2 is a zero of the polynomial p(x) = x<sup>3</sup> + 3x<sup>2</sup> &minus; 6x &minus; a, then what is the sum of the squares of the other zeros of the polynomial ?",
+        "options": [
+            "10",
+            "17",
+            "21",
+            "37"
+        ],
+        "answer": "17"
+    },
+    {
+        "question": "If t = cos 79&deg;, then what is cosec 79&deg; (1 &minus; cos 79&deg;) equal to ?",
+        "options": [
+            "&radic;(1 + t) / &radic;(1 &minus; t)",
+            "t / &radic;(1 &minus; t<sup>2</sup>)",
+            "&radic;(1 &minus; t<sup>2</sup>) / t",
+            "&radic;(1 &minus; t) / &radic;(1 + t)"
+        ],
+        "answer": "&radic;(1 &minus; t) / &radic;(1 + t)"
+    },
+    {
+        "question": "Suppose p(x) = x<sup>4</sup> + a<sub>3</sub>x<sup>3</sup> + a<sub>2</sub>x<sup>2</sup> + a<sub>1</sub>x + a<sub>0</sub> and q(x) = x<sup>4</sup> + b<sub>3</sub>x<sup>3</sup> + b<sub>2</sub>x<sup>2</sup> + b<sub>1</sub>x + b<sub>0</sub> are the polynomials. If &alpha;, &beta;, &gamma;, &delta; are zeros of p(x) and &alpha;, &beta;, &gamma;, &lambda; are zeros of q(x), then what is <sup>(p(x) &minus; q(x))</sup>&frasl;<sub>((x &minus; &alpha;)(x &minus; &beta;)(x &minus; &gamma;))</sub> equal to ?",
+        "options": [
+            "&minus; &lambda; + &delta;",
+            "&lambda; &minus; &delta;",
+            "&lambda; + &delta;",
+            "&minus; &lambda; &minus; &delta;"
+        ],
+        "answer": "&lambda; &minus; &delta;"
+    },
+    {
+        "question": "If the equation x cos &theta; = x<sup>2</sup> + p has a real solution for every &theta; where 0 &le; &theta; &le; &pi;/4, then which one of the following is correct ?",
+        "options": [
+            "p = 1/8",
+            "p &le; 1/8",
+            "p &ge; 1/8",
+            "p &le; 1/4"
+        ],
+        "answer": "p &le; 1/8"
+    },
+    {
+        "question": "What is the difference between the greatest value and the least value of cos<sup>2</sup> &theta; + 3 sin<sup>2</sup> &theta; + 2 ?",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "ABC is a right-angled triangle, right-angled at B such that AB = 6 cm and BC = 8 cm. What is the perimeter of the square inscribed in the triangle ABC with maximum area ?",
+        "options": [
+            "24/7 cm",
+            "96/7 cm",
+            "24 cm",
+            "32 cm"
+        ],
+        "answer": "96/7 cm"
+    },
+    {
+        "question": "What is the greatest value of k for which 2x<sup>2</sup> &minus; 4x + k = 0 has real roots ?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Consider the following data :<br/>110, 41, 43, 95, 127, 99, 61, 92, 71, 93, 110, 36.<br/>If 93 is replaced by 94, then consider the following statements :<br/><br/>1. The difference between new median and old median is 1.<br/>2. The difference between new mean and old mean is less than 0&middot;1.<br/>3. The difference between new mode and old mode is zero.<br/><br/>Which of the statements given above are correct ?",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "What is the digit at the 100<sup>th</sup> place of number (225)<sup>40</sup> ?",
+        "options": [
+            "6",
+            "5",
+            "4",
+            "2"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "If a, b, c, d are natural numbers, then how many possible remainders are there when 1<sup>a</sup> + 2<sup>b</sup> + 3<sup>c</sup> + 4<sup>d</sup> is divided by 10 ?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "If n is a natural number, then what is the sum of all distinct remainders of 4<sup>n</sup> + 6<sup>n</sup> + 9<sup>n</sup> + 11<sup>n</sup> when divided by 10 for various values of n ?",
+        "options": [
+            "3",
+            "4",
+            "6",
+            "7"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "When the number (12345678910111213 ... 99100) is divided by 16, what will be the remainder ?",
+        "options": [
+            "15",
+            "12",
+            "4",
+            "3"
+        ],
+        "answer": "12"
+    },
+    {
+        "question": "A, B, C, D can complete a work in 3, 6, 9, 12 hours respectively. Further, only one person can work at a time in each hour and nobody can work for two consecutive hours. It is not necessary to engage all. What is the minimum number of hours that they will take to finish the work ?",
+        "options": [
+            "36/25",
+            "12/5",
+            "4",
+            "2"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "If p = &radic;[3](a + &radic;(a<sup>2</sup> + b<sup>3</sup>)) + &radic;[3](a &minus; &radic;(a<sup>2</sup> + b<sup>3</sup>)), then what is p<sup>3</sup> + 3bp equal to ?",
+        "options": [
+            "&minus; 2a",
+            "a",
+            "2a",
+            "3a"
+        ],
+        "answer": "2a"
+    },
+    {
+        "question": "A plank of wood 4&middot;25 m long and 3&middot;4 m wide is to be cut into square pieces of equal size. How many square pieces of largest size can be cut from the plank, if no wastage is allowed ?",
+        "options": [
+            "45",
+            "90",
+            "400",
+            "500"
+        ],
+        "answer": "500"
+    },
+    {
+        "question": "What is the HCF of x<sup>4</sup> &minus; 13x<sup>2</sup>y<sup>2</sup> &minus; 300y<sup>4</sup>, x<sup>3</sup> &minus; 4x<sup>2</sup>y &minus; 4xy<sup>2</sup> &minus; 5y<sup>3</sup> and x<sup>3</sup> &minus; 125y<sup>3</sup> ?",
+        "options": [
+            "x &minus; 5y",
+            "x + 5y",
+            "x<sup>2</sup> + 5xy + 25y<sup>2</sup>",
+            "1"
+        ],
+        "answer": "x &minus; 5y"
+    },
+    {
+        "question": "If HCF of 768 and x<sup>6</sup>y<sup>2</sup> is 32xy for natural numbers x &ge; 2, y &ge; 2, then what is the value of (x + y) ?",
+        "options": [
+            "5",
+            "7",
+            "9",
+            "11"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "What is the smallest natural number n such that (n + 1) &times; n &times; (n &minus; 1) &times; (n &minus; 2) &times; ... 3 &times; 2 &times; 1 is divisible by 910 ?",
+        "options": [
+            "91",
+            "90",
+            "13",
+            "12"
+        ],
+        "answer": "12"
+    },
+    {
+        "question": "The expression 555<sup>777</sup> + 777<sup>555</sup> is divisible by which of the following ?<br/><br/>1. 2<br/>2. 3<br/>3. 37<br/><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Consider the following statements :<br/><br/>1. If (3m<sup>3</sup> + 2m<sup>2</sup> + 5m + n)/m is not an integer, where m and n are integers, then n is not divisible by m.<br/>2. 5(8<sup>m</sup>) + 2<sup>3m</sup> is divisible by 48 for all whole numbers m.<br/><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "The sum of two positive numbers is 40. If the GM of these two numbers is lower than their AM by 20%, then what is the difference between the two numbers ?",
+        "options": [
+            "12",
+            "18",
+            "24",
+            "28"
+        ],
+        "answer": "24"
+    },
+    {
+        "question": "50 men can complete a work in 40 days. They begin the work together but a batch of 5 men left after each period of 10 days. What is the time to complete the work ?",
+        "options": [
+            "45 days",
+            "50 days",
+            "55 days",
+            "60 days"
+        ],
+        "answer": "50 days"
+    },
+    {
+        "question": "If x = 1 / (2 + 3 / (4 + 5 / (6 + 7 / (8 + 9 / 10)))), then which one of the following is correct ?",
+        "options": [
+            "0 &lt; x &lt; 0&middot;5",
+            "x = 0&middot;5",
+            "0&middot;5 &lt; x &lt; 1&middot;0",
+            "x &gt; 1&middot;0"
+        ],
+        "answer": "0 &lt; x &lt; 0&middot;5"
+    },
+    {
+        "question": "A bottle contains spirit and water in the ratio 1 : 4 and another identical bottle contains spirit and water in the ratio 4 : 1. In what ratio should the mixtures in the two bottles be mixed to get a new mixture in which the ratio of spirit to water is 1 : 3 ?",
+        "options": [
+            "5 : 1",
+            "6 : 1",
+            "10 : 1",
+            "11 : 1"
+        ],
+        "answer": "11 : 1"
+    },
+    {
+        "question": "If 3 sin &theta; + 5 cos &theta; = 5, then what is the value of 5 sin &theta; &minus; 3 cos &theta; ?",
+        "options": [
+            "&minus; 3",
+            "&minus; 2",
+            "5",
+            "8"
+        ],
+        "answer": "&minus; 3"
+    },
+    {
+        "question": "Consider the following in respect of the polynomial x<sup>4k</sup> + x<sup>4k+2</sup> + x<sup>4k+4</sup> + x<sup>4k+6</sup> :<br/><br/>1. The remainder is zero when the polynomial is divided by x<sup>2</sup> + 1.<br/>2. The remainder is zero when the polynomial is divided by x<sup>4</sup> + 1.<br/><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    }
+  ],
   "2026": [
     {
       question: "If <i>p</i> + <i>q</i> + <i>r</i> = 0, then what is <i>z</i><sup><i>p</i><sup>2</sup>/<i>qr</i></sup> &times; <i>z</i><sup><i>q</i><sup>2</sup>/<i>rp</i></sup> &times; <i>z</i><sup><i>r</i><sup>2</sup>/<i>pq</i></sup> equal to ?",
