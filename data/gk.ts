@@ -1105,6 +1105,107 @@ const gkData: Record<string, Question[]> = {
         ],
         "answer": "Shooting"
     }
+,
+    {
+        "question": "Renowned classical singer Prabha Atre, who passed away recently, was an exponent of which one of the following Gharanas?",
+        "options": [
+            "Kirana Gharana",
+            "Patiala Gharana",
+            "Gwalior Gharana",
+            "Agra Gharana"
+        ],
+        "answer": "Kirana Gharana"
+    },
+    {
+        "question": "Who among the following was the first Indian Commander-in-Chief of the Indian Army of independent India?",
+        "options": [
+            "S. M. Srinagesh",
+            "K. M. Cariappa",
+            "K. S. Thimayya",
+            "K. S. Rajendrasinhji"
+        ],
+        "answer": "K. M. Cariappa"
+    },
+    {
+        "question": "Which one of the following is an 'end-to-end secure mobile ecosystem' developed recently by the Indian Army?",
+        "options": [
+            "SANCHAR",
+            "VAIBHAV",
+            "SAMPARK",
+            "SAMBHAV"
+        ],
+        "answer": "SAMBHAV"
+    },
+    {
+        "question": "Consider the following statements about the Regional Comprehensive Economic Partnership (RCEP) :<br/><br/>1. It is a comprehensive free trade agreement between the ASEAN member States and ASEAN's free trade agreement partners.<br/>2. India opted out of RCEP.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Recently the Government of India entered into an agreement for a lithium exploration and mining project with which one among the following countries?",
+        "options": [
+            "Brazil",
+            "Australia",
+            "Argentina",
+            "Chile"
+        ],
+        "answer": "Argentina"
+    },
+    {
+        "question": "Consider the following statements about the Shanghai Cooperation Organisation (SCO) :<br/><br/>1. One of the goals of SCO is to promote a new democratic, fair and rational international political and economic order.<br/>2. Iran is a permanent member of SCO.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which of the following statements about the ICC under-19 Men's Cricket World Cup, 2024 is/are correct?<br/><br/>1. Australia won this title for the 4th time.<br/>2. It was organised in South Africa.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which of the following statements with regard to Bharat Ratna Award is/are correct?<br/><br/>1. It was instituted in the year 1972.<br/>2. The award does not carry any monetary grant.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Which of the following statements about India's rank in the Global Innovation Index-2023, published by the World Intellectual Property Organisation, is/are correct?<br/><br/>1. India has been placed at 40th rank.<br/>2. India has been on a rising trajectory over the period 2015&ndash;2023.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which of the following statements about 'Green Credit Initiative' is/are correct?<br/><br/>1. It is a response to the challenge of climate change.<br/>2. It promotes plantations on wasteland and river catchment areas.<br/>3. It is a scheme of the Government of India to replace the kerosene oil with solar power used by the rural poor.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 only",
+            "1 and 3 only"
+        ],
+        "answer": "1 and 2 only"
+    }
   ],
   "2026": [
     {
