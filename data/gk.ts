@@ -262,6 +262,307 @@ const gkData: Record<string, Question[]> = {
         ],
         "answer": "enzymes"
     }
+,
+    {
+        "question": "An antibacterial enzyme present in saliva and tears is called",
+        "options": [
+            "ribozyme",
+            "lipase",
+            "lysozyme",
+            "isomerase"
+        ],
+        "answer": "lysozyme"
+    },
+    {
+        "question": "Which set of vegetables is underground stem or modified stem of a plant?",
+        "options": [
+            "Potato, artichoke, round gourd",
+            "Onion, garlic, carrot",
+            "Potato, onion, garlic",
+            "Potato, garlic, turnip"
+        ],
+        "answer": "Potato, onion, garlic"
+    },
+    {
+        "question": "Which of the following indicators is/are used to observe the monetary transmission mechanism in the economy?<br/><br/>1. Weighted average lending rate<br/>2. Weighted average domestic term deposit rate<br/>3. 1-year median MCLR<br/>4. SDF rate<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "3 and 4",
+            "4 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Consider the following statements regarding instruments of monetary policy :<br/><br/>1. Standing deposit facility (SDF) rate was introduced in April 2022.<br/>2. SDF rate replaced fixed reverse repo rate as the floor of the LAF corridor.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Consider the following statements regarding weightage of different articles in Wholesale Price Index (WPI) :<br/><br/>1. Fuel and power have higher weightage in WPI than that of primary articles.<br/>2. Weightage of manufactured products in WPI is higher than that of fuel and power.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "If India enters into Free Trade Agreements (FTAs) with other nations, then the growth of exports of India would depend upon which of the following?<br/><br/>1. Extent of tariff reduction vis-&agrave;-vis MFN tariffs<br/>2. Extent of relaxation in terms of rules of origin<br/>3. Extent of relaxation in sanitary and phytosanitary measures<br/>4. Level of infrastructure in India<br/>5. Income in nations with which India enters into FTAs<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 3 and 4 only",
+            "1, 2 and 4 only",
+            "2, 3 and 5 only",
+            "1, 2, 3, 4 and 5"
+        ],
+        "answer": "1, 2, 3, 4 and 5"
+    },
+    {
+        "question": "Which one of the following is an amphoteric oxide?",
+        "options": [
+            "MgO",
+            "P<sub>4</sub>O<sub>10</sub>",
+            "Na<sub>2</sub>O",
+            "Al<sub>2</sub>O<sub>3</sub>"
+        ],
+        "answer": "Al<sub>2</sub>O<sub>3</sub>"
+    },
+    {
+        "question": "The correct order of octane number of butane, pentane, hexane and cyclohexane is",
+        "options": [
+            "butane &gt; pentane &gt; hexane &gt; cyclohexane",
+            "butane &gt; pentane &gt; cyclohexane &gt; hexane",
+            "butane &gt; cyclohexane &gt; pentane &gt; hexane",
+            "cyclohexane &gt; butane &gt; pentane &gt; hexane"
+        ],
+        "answer": "butane &gt; cyclohexane &gt; pentane &gt; hexane"
+    },
+    {
+        "question": "Which one of the following is the correct order of reactivity of Mg, Al, Zn and Fe with HCl?",
+        "options": [
+            "Mg &gt; Al &gt; Zn &gt; Fe",
+            "Mg &gt; Al &gt; Fe &gt; Zn",
+            "Zn &gt; Fe &gt; Mg &gt; Al",
+            "Fe &gt; Al &gt; Zn &gt; Mg"
+        ],
+        "answer": "Mg &gt; Al &gt; Zn &gt; Fe"
+    },
+    {
+        "question": "Methanol is toxic because",
+        "options": [
+            "methanol coagulates the protoplasm",
+            "methanol gets oxidised to methanal in liver which coagulates the protoplasm",
+            "methanol gets oxidised to acetic acid in liver which coagulates the protoplasm",
+            "methanol gets oxidised to CO in liver which coagulates the protoplasm"
+        ],
+        "answer": "methanol gets oxidised to methanal in liver which coagulates the protoplasm"
+    },
+    {
+        "question": "Vinegar is",
+        "options": [
+            "5&ndash;8% solution of acetic acid in water",
+            "5&ndash;8% solution of carbonic acid in water",
+            "5&ndash;8% solution of ethanol in water",
+            "10&ndash;15% solution of propionic acid in water"
+        ],
+        "answer": "5&ndash;8% solution of acetic acid in water"
+    },
+    {
+        "question": "Which one of the following is related to global dimming?",
+        "options": [
+            "Fall of atmospheric pressure due to increased particulates",
+            "Raise of atmospheric pressure due to increased particulates",
+            "Raise of temperature due to increased particulates",
+            "Fall of temperature due to increased particulates"
+        ],
+        "answer": "Fall of temperature due to increased particulates"
+    },
+    {
+        "question": "Which one of the following is known as cetane?",
+        "options": [
+            "Hexadecane",
+            "Heptadecane",
+            "Octadecane",
+            "Nonadecane"
+        ],
+        "answer": "Hexadecane"
+    },
+    {
+        "question": "Which one among the following countries is <i>not</i> part of the Arabian Peninsula?",
+        "options": [
+            "Kuwait",
+            "Oman",
+            "Jordan",
+            "Yemen"
+        ],
+        "answer": "Jordan"
+    },
+    {
+        "question": "Which of the following statements regarding continent of Antarctica is/are correct?<br/><br/>1. It has the highest average elevation as compared to all other continents.<br/>2. Mount Vinson is the highest peak of this continent.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which one of the following biosphere reserves is spread over three States in India?",
+        "options": [
+            "Nilgiri",
+            "Achanakmar-Amarkantak",
+            "Seshachalam",
+            "Agasthyamalai"
+        ],
+        "answer": "Nilgiri"
+    },
+    {
+        "question": "Which one of the following pairs is <i>not</i> correctly matched?",
+        "options": [
+            "Ramnagar Wildlife Sanctuary : Uttarakhand",
+            "Chakrashila Wildlife Sanctuary : Assam",
+            "Nahar Wildlife Sanctuary : Haryana",
+            "Kane Wildlife Sanctuary : Arunachal Pradesh"
+        ],
+        "answer": "Ramnagar Wildlife Sanctuary : Uttarakhand"
+    },
+    {
+        "question": "Which of the following statements regarding coconut production in Lakshadweep is/are correct?<br/><br/>1. Productivity per hectare is highest in India.<br/>2. Oil content in nuts is highest in the world.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which of the following statements regarding barrier islands is/are correct?<br/><br/>1. These are small chain of sand islands that form offshore, far from the coast.<br/>2. Lagoons or shallower marshes separate the barrier islands from the mainland.<br/>3. Such locations are hazardous for settlements because they are easily swept away by storms and hurricanes.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "Identify the type of cloud on the basis of the given characteristics :<br/><br/>1. High, thin, puffy white clouds of ice crystals that look like ripples<br/>2. They appear between 20000 feet and 40000 feet above the Earth's surface<br/>3. One of its types is called a 'mackerel sky' because the clouds resemble large fish scales, especially when they are coloured pink at sunset<br/><br/>Select the correct answer.",
+        "options": [
+            "Altostratus",
+            "Cirrostratus",
+            "Altocumulus",
+            "Cirrocumulus"
+        ],
+        "answer": "Cirrocumulus"
+    },
+    {
+        "question": "Identify the type of drainage pattern on the basis of the given characteristics :<br/><br/>1. It represents the most common pattern of streams and their tributaries<br/>2. It occurs in areas of uniform rock type and regular slope<br/>3. A map, or aerial photograph, shows a pattern like the veins on a leaf&mdash;smaller streams join the main stream at an acute angle<br/><br/>Select the correct answer.",
+        "options": [
+            "Dendritic",
+            "Radial",
+            "Trellis",
+            "Centripetal"
+        ],
+        "answer": "Dendritic"
+    },
+    {
+        "question": "Which of the following regarding gateway city is/are correct?<br/><br/>1. City whose physical location makes it a link between one country and others, or between one region and others<br/>2. A gateway city exercises control over a large area because it commands the entry and exit rights and powers for a particular country or region<br/>3. Most gateway cities are ports, many of which were formerly administrative centres for a colonial government<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which one of the following has been an important early Chola painting discovered at the Brihadisvara Temple, Thanjavur in 1931?",
+        "options": [
+            "Buddha with Chauri-bearers on either side",
+            "Shiva as Yoga-Dakshinamurti",
+            "Yakshi Kali",
+            "Parshvanatha with snake-hood on a lion-throne"
+        ],
+        "answer": "Shiva as Yoga-Dakshinamurti"
+    },
+    {
+        "question": "Consider the following statements about the initial development of railways in India by the British :<br/><br/>1. Private financial investors for railways would get land free from the British Government in India.<br/>2. The investors would get a return of 5 percent on their capital from the government if they ran at a loss or secured inadequate profit.<br/>3. The railways would be jointly managed with the government.<br/><br/>How many of the above statements is/are correct?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "None"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which of the following industries was most affected by the 'deindustrialisation' of India in the 19th century?",
+        "options": [
+            "Silk manufacture",
+            "Cotton textiles",
+            "Iron and steel",
+            "Woolen manufacture"
+        ],
+        "answer": "Cotton textiles"
+    },
+    {
+        "question": "Consider the following statements about the early phase of the National Movement in India :<br/><br/>1. Ferozeshah Mehta, Badruddin Tyabji and others formed the Bombay Presidency Association.<br/>2. Surendranath Banerjee and his group planned an Indian National Conference at Calcutta.<br/>3. Allan Octavian Hume decided to create an all-India body as a rival to the above organisations to give vent to the grievances of the poor and marginalised Indians.<br/><br/>How many of the above statements is/are correct?",
+        "options": [
+            "1",
+            "2",
+            "All",
+            "None"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "The Giant Metrewave Radio Telescope consists of",
+        "options": [
+            "a single parabolic antenna",
+            "multiple parabolic antennas",
+            "multiple circular antennas",
+            "a combination of circular and parabolic antennas"
+        ],
+        "answer": "multiple parabolic antennas"
+    },
+    {
+        "question": "Which one of the following is the first commercial space station?",
+        "options": [
+            "Axiom Station",
+            "International Space Station",
+            "Galileo",
+            "Voyager 1"
+        ],
+        "answer": "Axiom Station"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a ferromagnetic material?",
+        "options": [
+            "Cobalt",
+            "Iron",
+            "Silver",
+            "Ferric chloride"
+        ],
+        "answer": "Silver"
+    },
+    {
+        "question": "On a day when I am in hurry to go to office, I have a fixed quantity of rice which was just cooked and kept in a bowl. In order to cool it quickly, which one of the following is the best option?",
+        "options": [
+            "Let it be kept on the table in a room where there is no fan, no air conditioner",
+            "Let it be kept in a room with AC set at a temperature around 23 &deg;C and a ceiling fan (or table fan) operating at slow speed",
+            "Let it be kept in a bowl of water (at room temperature) and operating a ceiling fan (or table fan) at full speed",
+            "Let it be kept in a bowl of water at room temperature only"
+        ],
+        "answer": "Let it be kept in a bowl of water (at room temperature) and operating a ceiling fan (or table fan) at full speed"
+    }
   ],
   "2026": [
     {
