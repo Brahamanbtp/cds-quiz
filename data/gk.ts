@@ -804,6 +804,307 @@ const gkData: Record<string, Question[]> = {
         ],
         "answer": "1 and 2 only"
     }
+,
+    {
+        "question": "Which of the following statements regarding the Industrial Revolution is/are correct?<br/><br/>1. It was change of a society from a rural and agricultural lifestyle to one in which most people earned their living in the industrial or secondary sector of the economy.<br/>2. The first Industrial Revolution began in Germany in the early eighteenth century.<br/>3. During Industrial Revolution, technological advances in iron smelting, and later steel production, were accompanied by the invention of steam engine.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 3 only"
+    },
+    {
+        "question": "Which of the following statements regarding insolation is/are correct?<br/><br/>1. Insolation is predominantly short-wave radiation, with wavelengths in the range of 0&middot;39 micrometre to 0&middot;76 micrometre.<br/>2. Insolation is evenly distributed across the Earth because of the Earth's curved surface.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which of the following statements regarding river meanders is/are correct?<br/><br/>1. It is a U-shaped bend in a river.<br/>2. An extremely tight meander is called a gooseneck; it is likely to become a cutoff, or oxbow lake, after a flood.<br/>3. Tectonic uplift can cause a river to continue downcutting along its meandering course, producing incised or entrenched meanders.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "How can one determine the relative humidity on a particular day at a given place?",
+        "options": [
+            "If temperature is given",
+            "If absolute humidity is given",
+            "If both temperature and absolute humidity are given",
+            "If percentage of absolute humidity is given"
+        ],
+        "answer": "If both temperature and absolute humidity are given"
+    },
+    {
+        "question": "Which greenhouse gas has maximum average residence time in the atmosphere?",
+        "options": [
+            "CFC",
+            "CH<sub>4</sub>",
+            "N<sub>2</sub>O",
+            "Water vapour"
+        ],
+        "answer": "CFC"
+    },
+    {
+        "question": "What does BW stand for as per the Koeppen climate classification?",
+        "options": [
+            "Steppe climate",
+            "Desert climate",
+            "Tundra climate",
+            "Mesothermal climate"
+        ],
+        "answer": "Desert climate"
+    },
+    {
+        "question": "Which organisation publishes worldwide list of endangered species?",
+        "options": [
+            "The International Union for Conservation of Nature (IUCN)",
+            "The World Wide Fund for Nature (WWF)",
+            "The United Nations Environment Programme (UNEP)",
+            "The United Nations Development Programme (UNDP)"
+        ],
+        "answer": "The International Union for Conservation of Nature (IUCN)"
+    },
+    {
+        "question": "On which among the following is National Waterway No. 2 situated?",
+        "options": [
+            "The Ganga, Haldia-Prayagraj",
+            "West Coast Canal, Kottapuram-Kollam",
+            "The Brahmaputra, Sadiya-Dhubri",
+            "Godavari and Krishna, Kakinada-Puducherry"
+        ],
+        "answer": "The Brahmaputra, Sadiya-Dhubri"
+    },
+    {
+        "question": "What is culturable wasteland?",
+        "options": [
+            "Land that has been left fallow in last four years",
+            "Land that has been left fallow between one and two years",
+            "Land that has been left fallow for less than one year",
+            "Land that has been left fallow for more than five years"
+        ],
+        "answer": "Land that has been left fallow for more than five years"
+    },
+    {
+        "question": "Which of the following statements is/are correct?<br/><br/>1. Angular velocity for all locations on the Earth's surface is the same while linear velocity varies.<br/>2. Linear velocity is maximum at the equator and minimum at the poles.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Consider the following statements about Rana Kumbha of Mewar :<br/><br/>1. He wrote a commentary on Jayadeva's <i>Gitagovinda</i>.<br/>2. He wrote four dramas in which he is said to have made use of four provincial languages.<br/>3. He erected Kirtistambha in Chitor in commemoration of his victory over Gujarat.<br/><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 and 2 only",
+            "3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Who among the following Chola kings encouraged the Sailendra ruler of Sri Vijaya to build a Buddhist Vihara in Negapatnam?",
+        "options": [
+            "Parantaka I",
+            "Rajaraja I",
+            "Rajendra I",
+            "Kulottunga I"
+        ],
+        "answer": "Rajaraja I"
+    },
+    {
+        "question": "Who among the following was <i>not</i> a court poet of king Krishnadevaraya?",
+        "options": [
+            "Timmana",
+            "Dhurjati",
+            "Mallana",
+            "Siddheshvara"
+        ],
+        "answer": "Siddheshvara"
+    },
+    {
+        "question": "The royal portraits of Simhavishnu and Mahendravarman are found in which cave temple at Mamallapuram?",
+        "options": [
+            "Varaha Cave",
+            "Ramanuja Cave",
+            "Adivaraha Cave",
+            "Trimurti Cave"
+        ],
+        "answer": "Adivaraha Cave"
+    },
+    {
+        "question": "How many of the following statements about Bhakti poet Namdev is/are correct?<br/><br/>1. He seems to have played a part in transmitting the southern Bhakti to northern India.<br/>2. He was a rigorous monotheist and opposed caste distinctions.<br/>3. He was a devout follower of Kabir.<br/><br/>Select the correct answer.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "None"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "How many of the following statements regarding medicine and related practices in medieval India is/are correct?<br/><br/>1. Indian medicine of the Graeco-Arabic tradition (Tibb-i-Yunani) was almost identical in its practice with contemporary Persian medicine.<br/>2. Harvey's discovery of the circulation of blood was explained to a scholarly noble by European traveller Francois Bernier.<br/>3. The practice of smallpox inoculation was described in contemporary Yunani and Ayurvedic texts.<br/><br/>Select the correct answer.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "None"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which of the following statements about Virashaivism is/are correct?<br/><br/>1. The Virashaivism traces its origin to the five great religious teachers&mdash;Renuka, Daruka, Ghantakarna, Dhenukarna and Vishvakarna.<br/>2. The Virashaiva philosophy is called Shaktivishishtadvaita&mdash;the non-duality of God.<br/>3. Ashtavarana are the eight rules of the Virashaivism to be observed by the followers.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "1 and 3 only",
+            "3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Who propounded Kashmir Shaivism?",
+        "options": [
+            "Vasugupta",
+            "Abhinavagupta",
+            "Ramakantha",
+            "Ranganathacharya"
+        ],
+        "answer": "Vasugupta"
+    },
+    {
+        "question": "Which one among the following is <i>not</i> under the jurisdiction of the Protection of Human Rights Act, 1993?",
+        "options": [
+            "The National Human Rights Commission",
+            "The State Human Rights Commission",
+            "The Human Rights Courts",
+            "The Human Rights Council"
+        ],
+        "answer": "The Human Rights Council"
+    },
+    {
+        "question": "According to B. R. Ambedkar, which one among the following Articles is the 'heart and soul' of the Constitution of India?",
+        "options": [
+            "Article 15",
+            "Article 21",
+            "Article 23",
+            "Article 32"
+        ],
+        "answer": "Article 32"
+    },
+    {
+        "question": "Who among the following filed the Writ Petition that led to the famous verdict of the Supreme Court of India recognising the Right to Privacy as a Fundamental Right?",
+        "options": [
+            "Justice P. N. Bhagwati",
+            "Justice Rohinton Fali Nariman",
+            "Justice K. S. Puttaswamy",
+            "Justice Anil R. Dave"
+        ],
+        "answer": "Justice K. S. Puttaswamy"
+    },
+    {
+        "question": "Through the Forty Second Amendment to the Constitution of India, which of the following was/were inserted into its Preamble?<br/><br/>1. 'Liberty of thought, expression and belief' was substituted by 'Liberty of thought, expression, belief, faith and worship'.<br/>2. The expression 'Unity of the Nation' was substituted by 'Unity and Integrity of the Nation'.<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "As per the State List under the Seventh Schedule of the Constitution of India, the States have jurisdiction over agricultural land in connection with which of the following subjects?<br/><br/>1. Taxes on agricultural income<br/>2. Duties in respect of succession of agricultural land<br/>3. Estate duty in respect of agricultural land<br/><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "The 7th edition of the Indian Ocean Conference was held at",
+        "options": [
+            "Dhaka",
+            "New Delhi",
+            "Mal&eacute;",
+            "Perth"
+        ],
+        "answer": "Perth"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/>List-I (Political idea)<br/>A. Human beings, unlike all other objects, possess dignity<br/>B. It is Swaraj when we learn to rule ourselves<br/>C. Freedom implies not only emancipation from political bondage but also equal distribution of wealth<br/>D. For me real freedom is freedom from fear<br/><br/>List-II (Thinker)<br/>1. Aung San Suu Kyi<br/>2. Subhas Chandra Bose<br/>3. Immanuel Kant<br/>4. Mahatma Gandhi",
+        "options": [
+            "A-3, B-2, C-4, D-1",
+            "A-1, B-4, C-2, D-3",
+            "A-3, B-4, C-2, D-1",
+            "A-1, B-2, C-4, D-3"
+        ],
+        "answer": "A-3, B-4, C-2, D-1"
+    },
+    {
+        "question": "Who among the following is the author of the book <i>Four Stars of Destiny : An Autobiography</i>?",
+        "options": [
+            "Sam Manekshaw",
+            "K. J. S. Dhillon",
+            "Bipin Rawat",
+            "Manoj Mukund Naravane"
+        ],
+        "answer": "Manoj Mukund Naravane"
+    },
+    {
+        "question": "The Indian Army launched 'Operation Sarvashakti' to flush out terrorists in",
+        "options": [
+            "Myanmar",
+            "Manipur",
+            "Jammu and Kashmir",
+            "Chhattisgarh"
+        ],
+        "answer": "Jammu and Kashmir"
+    },
+    {
+        "question": "Which of the following cities were conferred with the cleanest city award under Swachh Survekshan Awards, 2023?",
+        "options": [
+            "Varanasi and Prayagraj",
+            "Indore and Surat",
+            "Prayagraj and Indore",
+            "Surat and Varanasi"
+        ],
+        "answer": "Indore and Surat"
+    },
+    {
+        "question": "Which one of the following is an indigenous assault rifle developed by DRDO?",
+        "options": [
+            "Heckler",
+            "T91",
+            "Tikka",
+            "Ugram"
+        ],
+        "answer": "Ugram"
+    },
+    {
+        "question": "With which one among the following sports is Yogesh Singh, who won a Gold Medal in an Asian Championship in 2024, associated?",
+        "options": [
+            "Badminton",
+            "Shooting",
+            "Archery",
+            "Wrestling"
+        ],
+        "answer": "Shooting"
+    }
   ],
   "2026": [
     {
