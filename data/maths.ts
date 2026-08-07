@@ -672,6 +672,266 @@ const mathsData: Record<string, Question[]> = {
             "If the Question cannot be answered even by using both Statements together."
         ],
         "answer": "If the Question can be answered by either Statement alone."
+    },
+    {
+        "question": "<i>Question :</i> What is the ratio of the lengths of diagonals of a rhombus ?<br/><br/><i>Statement-I :</i> One diagonal of the rhombus is equal to its side.<br/><i>Statement-II :</i> The longer diagonal of the rhombus is equal to &radic;3 times its side.",
+        "options": [
+            "If the Question can be answered by one of the Statements alone, but not by the other.",
+            "If the Question can be answered by either Statement alone.",
+            "If the Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone.",
+            "If the Question cannot be answered even by using both Statements together."
+        ],
+        "answer": "If the Question can be answered by either Statement alone."
+    },
+    {
+        "question": "The chord of a circle of radius R touches at a point on the circumference of a concentric circle of radius r. The length of the chord is 24 units.<br/><br/><i>Question :</i> What are the values of r and R ?<br/><br/><i>Statement-I :</i> r is an integer.<br/><i>Statement-II :</i> R is an integer.",
+        "options": [
+            "If the Question can be answered by one of the Statements alone, but not by the other.",
+            "If the Question can be answered by either Statement alone.",
+            "If the Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone.",
+            "If the Question cannot be answered even by using both Statements together."
+        ],
+        "answer": "If the Question cannot be answered even by using both Statements together."
+    },
+    {
+        "question": "P, Q, R, S are the mid-points of sides AB, BC, CD, DA respectively of a quadrilateral ABCD.<br/><br/><i>Question :</i> What is the difference in the area of the quadrilateral ABCD and the area of the quadrilateral PQRS ?<br/><br/><i>Statement-I :</i> Area of the quadrilateral ABCD is 100 square unit.<br/><i>Statement-II :</i> Area of the quadrilateral PQRS is 50 square unit.",
+        "options": [
+            "If the Question can be answered by one of the Statements alone, but not by the other.",
+            "If the Question can be answered by either Statement alone.",
+            "If the Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone.",
+            "If the Question cannot be answered even by using both Statements together."
+        ],
+        "answer": "If the Question can be answered by either Statement alone."
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>In a pie-diagram (with radius 7 cm), the central angles of the sectors are in the ratio 2 : 3 : 7 : 5 : 1.<br/>(Take &pi; = 22/7)<br/><br/>If P is the area of the smallest sector and Q is the area of the largest sector, then what is P + Q equal to ?",
+        "options": [
+            "88/3 square cm",
+            "77/3 square cm",
+            "149/6 square cm",
+            "616/9 square cm"
+        ],
+        "answer": "616/9 square cm"
+    },
+    {
+        "question": "If p is the perimeter of the smallest sector, then what is the value of 9p ?",
+        "options": [
+            "142 cm",
+            "148 cm",
+            "156 cm",
+            "221 cm"
+        ],
+        "answer": "148 cm"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next three (03) items that follow:<br/>Two trains A and B started from stations P and Q respectively towards each other. Train A started at 7 p.m. at a speed of 60 km/hr and train B started at 4 a.m. (next day) at a speed of 90 km/hr. The distance between the two stations P and Q is 800 km.<br/><br/>How far from station Q will the two trains meet ?",
+        "options": [
+            "104 km",
+            "144 km",
+            "156 km",
+            "504 km"
+        ],
+        "answer": "156 km"
+    },
+    {
+        "question": "At what time will the two trains meet ?",
+        "options": [
+            "5:28 a.m.",
+            "5:44 a.m.",
+            "4:56 a.m.",
+            "6:24 a.m."
+        ],
+        "answer": "5:44 a.m."
+    },
+    {
+        "question": "If the lengths of the two trains A and B are 400 m and 500 m respectively, then what is the time taken by them to cross each other ?",
+        "options": [
+            "21&middot;6 seconds",
+            "18&middot;2 seconds",
+            "17&middot;4 seconds",
+            "15&middot;4 seconds"
+        ],
+        "answer": "21&middot;6 seconds"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next three (03) items that follow:<br/>A triangle CEF is drawn inside a square ABCD. Given : CF = 8 cm, EF = 6 cm and CE = 10 cm. Angle &alpha; is &ang;FCB and angle &beta; is &ang;AEF.<br/><br/>What is the area of the square ?",
+        "options": [
+            "512/17 square cm",
+            "625/13 square cm",
+            "1024/17 square cm",
+            "1296/13 square cm"
+        ],
+        "answer": "1024/17 square cm"
+    },
+    {
+        "question": "What is tan &alpha; + tan &beta; equal to ?",
+        "options": [
+            "13/16",
+            "15/16",
+            "17/16",
+            "17/4"
+        ],
+        "answer": "17/4"
+    },
+    {
+        "question": "What is the area of triangle CDE ?",
+        "options": [
+            "416/17 square cm",
+            "312/13 square cm",
+            "208/17 square cm",
+            "156/13 square cm"
+        ],
+        "answer": "416/17 square cm"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>ABCD is a circle with centre O and taking OC as a diameter, a smaller circle is drawn. Let OB = 7 cm. (Use &pi; = 22/7)<br/><br/>What is the area of the shaded region (comprising the smaller circle on OC and the segments bounded by chords AB, AD and arcs AB, AD) ?",
+        "options": [
+            "38&middot;5 square cm",
+            "48 square cm",
+            "52&middot;5 square cm",
+            "66&middot;5 square cm"
+        ],
+        "answer": "66&middot;5 square cm"
+    },
+    {
+        "question": "What is the ratio of the area of the shaded region to the area of the non-shaded region ?",
+        "options": [
+            "19/25",
+            "18/25",
+            "17/25",
+            "16/25"
+        ],
+        "answer": "19/25"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>Let two parallel line segments PQ = 5 cm and RS = 3 cm be perpendicular to a horizontal line AB. The point of intersection of PS and QR is M and MN is perpendicular to QS.<br/><br/>What is the length of MN ?",
+        "options": [
+            "3/8 cm",
+            "5/8 cm",
+            "9/8 cm",
+            "15/8 cm"
+        ],
+        "answer": "15/8 cm"
+    },
+    {
+        "question": "What is the ratio of the area of the quadrilateral PQNM to the area of the quadrilateral RSNM ?",
+        "options": [
+            "200/117",
+            "212/117",
+            "275/117",
+            "250/117"
+        ],
+        "answer": "275/117"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next three (03) items that follow:<br/>The Pie-Chart-I shows the people migrating to Delhi from different Indian States (P=40%, Q=30%, R=10%, S=20%). Pie-Chart-II indicates the different age groups A=50%, B=15%, C=15%, D=20% of these migrating people for each State.<br/><br/>If the people coming from a particular State belonging to S are 15% (of total migrating people) and 24,000 in number, then what is the total number of migrating people belonging to the age group B ?",
+        "options": [
+            "1&middot;2 lac",
+            "1&middot;25 lac",
+            "1&middot;30 lac",
+            "1&middot;50 lac"
+        ],
+        "answer": "1&middot;2 lac"
+    },
+    {
+        "question": "What is the maximum of differences between the number of people coming from different groups P, Q, R and S ?",
+        "options": [
+            "1&middot;6 lac",
+            "1&middot;8 lac",
+            "2&middot;4 lac",
+            "2&middot;6 lac"
+        ],
+        "answer": "2&middot;4 lac"
+    },
+    {
+        "question": "What is the difference between number of people coming from R having age group A and those coming from Q having age group D ?",
+        "options": [
+            "6,000",
+            "8,000",
+            "12,000",
+            "18,000"
+        ],
+        "answer": "8,000"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>Consider two identical rectangles ABCD and BEDF. Let AB = 1 cm and BC = 2 cm. They share the diagonal BD.<br/><br/>What is the area of the overlapping region ?",
+        "options": [
+            "8/5 square cm",
+            "5/4 square cm",
+            "4/5 square cm",
+            "3/4 square cm"
+        ],
+        "answer": "5/4 square cm"
+    },
+    {
+        "question": "What is the area of the non-overlapping region ?",
+        "options": [
+            "3/4 square cm",
+            "11/4 square cm",
+            "3/2 square cm",
+            "5/4 square cm"
+        ],
+        "answer": "3/2 square cm"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next three (03) items that follow:<br/>ABC is a right-angled triangle with &ang;ABC = 90&deg;. The centre of the incircle of the given triangle is at O, whose radius is 2 cm. Two more circles with centres at O<sub>1</sub> and O<sub>2</sub>, touch this circle and the two sides. Further, MA : MC = 2 : 3 (where M is the point of contact on AC).<br/><br/>What is AB + BC equal to ?",
+        "options": [
+            "10 cm",
+            "12 cm",
+            "13 cm",
+            "14 cm"
+        ],
+        "answer": "14 cm"
+    },
+    {
+        "question": "What is the radius of the circle with centre at O<sub>1</sub> ?",
+        "options": [
+            "4 - &radic;5",
+            "1 + &radic;5",
+            "2 + &radic;5",
+            "3 - &radic;5"
+        ],
+        "answer": "3 - &radic;5"
+    },
+    {
+        "question": "What is the radius of the circle with centre at O<sub>2</sub> ?",
+        "options": [
+            "5 - &radic;10",
+            "1 + 2&radic;5",
+            "(22 - 4&radic;10) / 9",
+            "(22 - 2&radic;10) / 9"
+        ],
+        "answer": "(22 - 4&radic;10) / 9"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next three (03) items that follow:<br/>Consider two identical semicircles and one circle inscribed in a rectangle of length 10 cm. The semicircles are on the left and right sides. (Take &pi; = 3&middot;14 and &radic;2 = 1&middot;4).<br/><br/>What is the area of triangle EOF (where O is the top center and E, F are intersection points) ?",
+        "options": [
+            "12&middot;5 &radic;3 square cm",
+            "6&middot;25 &radic;3 square cm",
+            "12&middot;5 square cm",
+            "6&middot;25 square cm"
+        ],
+        "answer": "12&middot;5 square cm"
+    },
+    {
+        "question": "What is the area of trapezium AEFB ?",
+        "options": [
+            "30 square cm",
+            "25 square cm",
+            "20 square cm",
+            "18&middot;75 square cm"
+        ],
+        "answer": "30 square cm"
+    },
+    {
+        "question": "What is the area of the shaded region (lens formed by intersection of semicircles) ?",
+        "options": [
+            "14&middot;75 square cm",
+            "14&middot;25 square cm",
+            "7&middot;225 square cm",
+            "7&middot;625 square cm"
+        ],
+        "answer": "14&middot;25 square cm"
     }],
   "2026": [
     {
