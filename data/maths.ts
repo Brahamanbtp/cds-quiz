@@ -759,7 +759,7 @@ const mathsData: Record<string, Question[]> = {
             "512/17 square cm",
             "625/13 square cm",
             "1024/17 square cm",
-            "1296/13 square cm"
+            "1296/13 square cm<br/><br/><img src=\"/images/maths_2024_I_q76_78.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "1024/17 square cm"
     },
@@ -769,7 +769,7 @@ const mathsData: Record<string, Question[]> = {
             "13/16",
             "15/16",
             "17/16",
-            "17/4"
+            "17/4<br/><br/><img src=\"/images/maths_2024_I_q76_78.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "17/4"
     },
@@ -779,7 +779,7 @@ const mathsData: Record<string, Question[]> = {
             "416/17 square cm",
             "312/13 square cm",
             "208/17 square cm",
-            "156/13 square cm"
+            "156/13 square cm<br/><br/><img src=\"/images/maths_2024_I_q76_78.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "416/17 square cm"
     },
@@ -789,7 +789,7 @@ const mathsData: Record<string, Question[]> = {
             "38&middot;5 square cm",
             "48 square cm",
             "52&middot;5 square cm",
-            "66&middot;5 square cm"
+            "66&middot;5 square cm<br/><br/><img src=\"/images/maths_2024_I_q79_80.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "66&middot;5 square cm"
     },
@@ -799,7 +799,7 @@ const mathsData: Record<string, Question[]> = {
             "19/25",
             "18/25",
             "17/25",
-            "16/25"
+            "16/25<br/><br/><img src=\"/images/maths_2024_I_q79_80.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "19/25"
     },
@@ -809,7 +809,7 @@ const mathsData: Record<string, Question[]> = {
             "3/8 cm",
             "5/8 cm",
             "9/8 cm",
-            "15/8 cm"
+            "15/8 cm<br/><br/><img src=\"/images/maths_2024_I_q81_82.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "15/8 cm"
     },
@@ -819,7 +819,7 @@ const mathsData: Record<string, Question[]> = {
             "200/117",
             "212/117",
             "275/117",
-            "250/117"
+            "250/117<br/><br/><img src=\"/images/maths_2024_I_q81_82.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "275/117"
     },
@@ -829,7 +829,7 @@ const mathsData: Record<string, Question[]> = {
             "1&middot;2 lac",
             "1&middot;25 lac",
             "1&middot;30 lac",
-            "1&middot;50 lac"
+            "1&middot;50 lac<br/><br/><img src=\"/images/maths_2024_I_q83_85.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "1&middot;2 lac"
     },
@@ -839,7 +839,7 @@ const mathsData: Record<string, Question[]> = {
             "1&middot;6 lac",
             "1&middot;8 lac",
             "2&middot;4 lac",
-            "2&middot;6 lac"
+            "2&middot;6 lac<br/><br/><img src=\"/images/maths_2024_I_q83_85.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "2&middot;4 lac"
     },
@@ -849,7 +849,7 @@ const mathsData: Record<string, Question[]> = {
             "6,000",
             "8,000",
             "12,000",
-            "18,000"
+            "18,000<br/><br/><img src=\"/images/maths_2024_I_q83_85.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "8,000"
     },
@@ -859,7 +859,7 @@ const mathsData: Record<string, Question[]> = {
             "8/5 square cm",
             "5/4 square cm",
             "4/5 square cm",
-            "3/4 square cm"
+            "3/4 square cm<br/><br/><img src=\"/images/maths_2024_I_q86_87.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "5/4 square cm"
     },
@@ -869,7 +869,7 @@ const mathsData: Record<string, Question[]> = {
             "3/4 square cm",
             "11/4 square cm",
             "3/2 square cm",
-            "5/4 square cm"
+            "5/4 square cm<br/><br/><img src=\"/images/maths_2024_I_q86_87.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "3/2 square cm"
     },
@@ -879,7 +879,7 @@ const mathsData: Record<string, Question[]> = {
             "10 cm",
             "12 cm",
             "13 cm",
-            "14 cm"
+            "14 cm<br/><br/><img src=\"/images/maths_2024_I_q88_90.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "14 cm"
     },
@@ -889,7 +889,7 @@ const mathsData: Record<string, Question[]> = {
             "4 - &radic;5",
             "1 + &radic;5",
             "2 + &radic;5",
-            "3 - &radic;5"
+            "3 - &radic;5<br/><br/><img src=\"/images/maths_2024_I_q88_90.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "3 - &radic;5"
     },
@@ -899,7 +899,7 @@ const mathsData: Record<string, Question[]> = {
             "5 - &radic;10",
             "1 + 2&radic;5",
             "(22 - 4&radic;10) / 9",
-            "(22 - 2&radic;10) / 9"
+            "(22 - 2&radic;10) / 9<br/><br/><img src=\"/images/maths_2024_I_q88_90.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "(22 - 4&radic;10) / 9"
     },
@@ -909,7 +909,7 @@ const mathsData: Record<string, Question[]> = {
             "12&middot;5 &radic;3 square cm",
             "6&middot;25 &radic;3 square cm",
             "12&middot;5 square cm",
-            "6&middot;25 square cm"
+            "6&middot;25 square cm<br/><br/><img src=\"/images/maths_2024_I_q91_93.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "12&middot;5 square cm"
     },
@@ -919,7 +919,7 @@ const mathsData: Record<string, Question[]> = {
             "30 square cm",
             "25 square cm",
             "20 square cm",
-            "18&middot;75 square cm"
+            "18&middot;75 square cm<br/><br/><img src=\"/images/maths_2024_I_q91_93.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "30 square cm"
     },
@@ -929,7 +929,7 @@ const mathsData: Record<string, Question[]> = {
             "14&middot;75 square cm",
             "14&middot;25 square cm",
             "7&middot;225 square cm",
-            "7&middot;625 square cm"
+            "7&middot;625 square cm<br/><br/><img src=\"/images/maths_2024_I_q91_93.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "14&middot;25 square cm"
     },
@@ -939,7 +939,7 @@ const mathsData: Record<string, Question[]> = {
             "2&radic;3 unit",
             "4&radic;3 unit",
             "6&radic;3 unit",
-            "8&radic;3 unit"
+            "8&radic;3 unit<br/><br/><img src=\"/images/maths_2024_I_q94_95.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "4&radic;3 unit"
     },
@@ -949,7 +949,7 @@ const mathsData: Record<string, Question[]> = {
             "6(&pi; + &radic;3 ) square unit",
             "3(&pi; + 2&radic;3 ) square unit",
             "1&middot;5(3&pi; + 8&radic;3 ) square unit",
-            "6(&pi; + 2&radic;3 ) square unit"
+            "6(&pi; + 2&radic;3 ) square unit<br/><br/><img src=\"/images/maths_2024_I_q94_95.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "3(&pi; + 2&radic;3 ) square unit"
     },
@@ -959,7 +959,7 @@ const mathsData: Record<string, Question[]> = {
             "17&pi; square unit",
             "16&middot;75&pi; square unit",
             "16&middot;5&pi; square unit",
-            "16&middot;25&pi; square unit"
+            "16&middot;25&pi; square unit<br/><br/><img src=\"/images/maths_2024_I_q96_97.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "17&pi; square unit"
     },
@@ -969,7 +969,7 @@ const mathsData: Record<string, Question[]> = {
             "0 &lt; &theta; &lt; 30&deg;",
             "30&deg; &lt; &theta; &lt; 45&deg;",
             "45&deg; &lt; &theta; &lt; 60&deg;",
-            "60&deg; &lt; &theta; &lt; 90&deg;"
+            "60&deg; &lt; &theta; &lt; 90&deg;<br/><br/><img src=\"/images/maths_2024_I_q96_97.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "45&deg; &lt; &theta; &lt; 60&deg;"
     },
@@ -979,7 +979,7 @@ const mathsData: Record<string, Question[]> = {
             "<sup>(240 &minus; 10&pi; &minus; &pi;&theta;)</sup>&frasl;<sub>24</sub> square unit",
             "<sup>(240 &minus; 6&pi; &minus; &pi;&theta;)</sup>&frasl;<sub>24</sub> square unit",
             "<sup>(120 &minus; 12&pi; &minus; &pi;&theta;)</sup>&frasl;<sub>24</sub> square unit",
-            "<sup>(240 &minus; 12&pi; &minus; &pi;&theta;)</sup>&frasl;<sub>24</sub> square unit"
+            "<sup>(240 &minus; 12&pi; &minus; &pi;&theta;)</sup>&frasl;<sub>24</sub> square unit<br/><br/><img src=\"/images/maths_2024_I_q96_97.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "<sup>(240 &minus; 12&pi; &minus; &pi;&theta;)</sup>&frasl;<sub>24</sub> square unit"
     },
@@ -989,7 +989,7 @@ const mathsData: Record<string, Question[]> = {
             "2 : 7",
             "2 : 5",
             "3 : 5",
-            "5 : 8"
+            "5 : 8<br/><br/><img src=\"/images/maths_2024_I_q99_100.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "2 : 7"
     },
@@ -999,7 +999,7 @@ const mathsData: Record<string, Question[]> = {
             "24&pi; cm",
             "18&pi; cm",
             "15&pi; cm",
-            "12&pi; cm"
+            "12&pi; cm<br/><br/><img src=\"/images/maths_2024_I_q99_100.png\" alt=\"Diagram\" style=\"max-width: 100%; height: auto; margin: 1rem auto; display: block;\" />"
         ],
         "answer": "12&pi; cm"
     }],
