@@ -3097,6 +3097,182 @@ const englishData: Record<string, Question[]> = {
                 "composite"
             ],
             "answer": "ineffectual"
+        },
+        {
+            "direction": "<b>SYNONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "He first <u>convulsed</u> and then collapsed on the floor.",
+            "options": [
+                "shivered",
+                "crouched",
+                "shouted",
+                "cried"
+            ],
+            "answer": "shivered"
+        },
+        {
+            "direction": "<b>SYNONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "We must not become <u>complacent</u> about the progress of the technology.",
+            "options": [
+                "discontented",
+                "contented",
+                "ignorant",
+                "unsure"
+            ],
+            "answer": "contented"
+        },
+        {
+            "direction": "<b>SYNONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "The employees rejected the <u>derisory</u> pay offer.",
+            "options": [
+                "partial",
+                "full",
+                "derogatory",
+                "inadequate"
+            ],
+            "answer": "inadequate"
+        },
+        {
+            "direction": "<b>SYNONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "They successfully <u>defused</u> the situation.",
+            "options": [
+                "mitigated",
+                "mediated",
+                "activated",
+                "narrated"
+            ],
+            "answer": "mitigated"
+        },
+        {
+            "direction": "<b>SYNONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "The business <u>floundered</u> during the pandemic.",
+            "options": [
+                "faced many problems",
+                "glided through",
+                "floated through",
+                "succeeded"
+            ],
+            "answer": "faced many problems"
+        },
+        {
+            "direction": "<b>SYNONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "His speeches were models of <u>brevity</u>.",
+            "options": [
+                "lengthiness",
+                "concision",
+                "permanence",
+                "exemplary"
+            ],
+            "answer": "concision"
+        },
+        {
+            "direction": "<b>SYNONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "He was too <u>obtuse</u> to understand the merits of the case.",
+            "options": [
+                "sensitive",
+                "careful",
+                "quick witted",
+                "dull"
+            ],
+            "answer": "dull"
+        },
+        {
+            "direction": "<b>SYNONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "No one knew what <u>transpired</u> during the meeting.",
+            "options": [
+                "emerged",
+                "exchanged",
+                "was spoken",
+                "merged"
+            ],
+            "answer": "emerged"
+        },
+        {
+            "direction": "<b>ORDERING OF SENTENCES</b><br/><br/><b>Directions :</b> In this section each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.",
+            "question": "<b>S1:</b> Mutations are random changes to the base sequence of genes.<br/><b>S6:</b> Several mutations must occur in the same cell for it to become a tumour cell.<br/><br/><b>P :</b> This is why mutations in them can result in uncontrolled cell division and therefore tumour formation.<br/><b>Q :</b> The few genes that can become cancer-causing after mutating are known as oncogenes.<br/><b>R :</b> Most genes do not cause cancer if they mutate.<br/><b>S :</b> In a normal cell oncogenes are involved in the control of cell cycle and cell division.",
+            "options": [
+                "R Q S P",
+                "Q R S P",
+                "Q S R P",
+                "R P Q S"
+            ],
+            "answer": "R Q S P"
+        },
+        {
+            "direction": "<b>ORDERING OF SENTENCES</b><br/><br/><b>Directions :</b> In this section each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.",
+            "question": "<b>S1:</b> For most people, writing is an everyday occurrence.<br/><b>S6:</b> Nearly all the document types that we use in our daily lives can be created in a word processor.<br/><br/><b>P :</b> A word processing software provides a general set of tools for entering, editing and formatting text.<br/><b>Q :</b> Many application programs have been developed to make writing easier and smooth operation.<br/><b>R :</b> One such most popular program is Word Processor.<br/><b>S :</b> When computers have affected our life styles and work patterns, this activity is also not left out.",
+            "options": [
+                "S R Q P",
+                "S P Q R",
+                "S Q R P",
+                "S P R Q"
+            ],
+            "answer": "S Q R P"
+        },
+        {
+            "direction": "<b>ORDERING OF SENTENCES</b><br/><br/><b>Directions :</b> In this section each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.",
+            "question": "<b>S1:</b> Social networking is the grouping of individuals into specific groups, like small rural communities or a neighbourhood subdivision etc.<br/><b>S6:</b> Depending on the social networking website, many of these online community members share a common interest such as hobbies, religion, or politics.<br/><br/><b>P :</b> Although social networking is possible in person, especially in universities, high schools or in the workplace, it is most popular online.<br/><b>Q :</b> When it comes to online social networking, websites are commonly used.<br/><b>R :</b> These websites are known as social sites.<br/><b>S :</b> Social networking websites function like an online community of Internet users.",
+            "options": [
+                "P Q R S",
+                "P R Q S",
+                "P R S Q",
+                "S P Q R"
+            ],
+            "answer": "P Q R S"
+        },
+        {
+            "direction": "<b>ORDERING OF SENTENCES</b><br/><br/><b>Directions :</b> In this section each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.",
+            "question": "<b>S1:</b> The principles of enterprise capitalism have been extended far beyond the USA through the impact of economic globalisation.<br/><b>S6:</b> Such pressures have helped to shape what is sometimes called the 'new' political economy.<br/><br/><b>P :</b> Strong downward pressure has also been exerted on public spending, and particularly welfare budgets.<br/><b>Q :</b> Moreover the need to promote product and labour flexibility has often led to trade union activity.<br/><b>R :</b> Globalisation has promoted marketisation in a variety of ways.<br/><b>S :</b> Governments reduce tax levels in the hope of attracting 'inward' investment.",
+            "options": [
+                "P Q S R",
+                "S P Q R",
+                "R P Q S",
+                "R S P Q"
+            ],
+            "answer": "R S P Q"
+        },
+        {
+            "direction": "<b>ORDERING OF SENTENCES</b><br/><br/><b>Directions :</b> In this section each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.",
+            "question": "<b>S1:</b> Traditional songs and music form the identity of the tribal culture.<br/><b>S6:</b> These tribal songs, on one hand, glorified their hero and on the other, inspired their fellow tribesman to participate in the freedom struggle.<br/><br/><b>P :</b> The tribal area of Chhatisgarh always resonated with the sound of traditional tribal songs and music.<br/><b>Q :</b> They reflect tribals' natural spirit, unconditional love, and innate energy at every stage of their life.<br/><b>R :</b> Initially, the tribal songs in their dialects, reverberated with the rebellion of their area, and then with the movement that was prevalent in the country.<br/><b>S :</b> The forest areas and tribal settlements of Chhatisgarh, began the revolt against the British at the very beginning of the freedom struggle, much before the urban areas.",
+            "options": [
+                "Q P S R",
+                "Q R S P",
+                "S P R Q",
+                "S P Q R"
+            ],
+            "answer": "Q P S R"
+        },
+        {
+            "direction": "<b>ORDERING OF SENTENCES</b><br/><br/><b>Directions :</b> In this section each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.",
+            "question": "<b>S1:</b> The social group wider than the family in the social structure of the Gond community is the clan.<br/><b>S6:</b> It is only the male who automatically takes the patronymic on birth, preserves it till death and it is carried forward by his children.<br/><br/><b>P :</b> The members of the clan believed that they have been descended from a common ancestor.<br/><b>Q :</b> The clan among the Gonds is a unilateral group consisted of family members of which bear the same clan-name.<br/><b>R :</b> The clan being patrilineal &ndash; a man passes on his clan name to his children<br/><b>S :</b> The Gonds use the term 'Pari' to express their group.",
+            "options": [
+                "R P Q S",
+                "S Q P R",
+                "S P Q R",
+                "R Q S P"
+            ],
+            "answer": "S Q P R"
+        },
+        {
+            "direction": "<b>ORDERING OF SENTENCES</b><br/><br/><b>Directions :</b> In this section each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.",
+            "question": "<b>S1:</b> The equatorial zone is generally an area of abundant precipitation (over 200 centimetres annually).<br/><b>S6:</b> It is to be noted that a larger part of the precipitation in this region falls as heavy intermittent convective showers accompanied by thunder and lightning.<br/><br/><b>P :</b> The ascending air currents become intensified locally in the tropical storms that produce abundant precipitation in the Caribbean, the southwest Pacific Ocean, the Indian Ocean and the China Sea.<br/><b>Q :</b> Over the land areas, most of the precipitation occurs from the thunderstorms that are very frequent and active in the equatorial regions.<br/><b>R :</b> This high level of precipitation is due to the equatorial belt's high temperature, high humidity and highly unstable air.<br/><b>S :</b> The trade winds from both the hemispheres converge and give rise to a general upward motion of air.",
+            "options": [
+                "R Q P S",
+                "R S P Q",
+                "S P Q R",
+                "P S R Q"
+            ],
+            "answer": "R S P Q"
+        },
+        {
+            "direction": "<b>ORDERING OF SENTENCES</b><br/><br/><b>Directions :</b> In this section each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.",
+            "question": "<b>S1:</b> The period branded as the era of the Industrial Revolution was essentially a period of transformation.<br/><b>S6:</b> This wage was however, not enough to keep the worker properly clothed or fed and thus, the Industrial Revolution could not solve the problem of distribution.<br/><br/><b>P :</b> A definite polarisation of industrial society between two main classes &ndash; capitalists and workers &ndash; was visible.<br/><b>Q :</b> It marked the beginning of the final phase of the broader transformation from feudalism to capitalism and capitalism made its presence felt all over the Europe.<br/><b>R :</b> Actual production in the factories was done by the workers but the workers had very little and so for survival, they were required to continuously sell this labour power for wages.<br/><b>S :</b> In the capitalist mode of production the factories and heavy machineries were owned and controlled by the capitalist class.",
+            "options": [
+                "Q R S P",
+                "P R S Q",
+                "Q S P R",
+                "P S Q R"
+            ],
+            "answer": "Q S P R"
         }
     ],
     "2025-I": [
