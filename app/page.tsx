@@ -85,7 +85,7 @@ export default function Home() {
               <Link
                 key={category.id}
                 href={`/quiz/${category.id}`}
-                className="block bg-gray-900/50 border border-gray-700 p-6 text-left group hover:border-blue-500 hover:bg-gray-900 transition-all duration-200 ease-in-out transform hover:-translate-y-1" // Added hover bg, adjusted border/hover colors, added subtle lift
+                className="block bg-gray-800 border border-gray-600 p-6 text-left group hover:border-blue-400 hover:bg-gray-700 transition-all duration-200 ease-in-out transform hover:-translate-y-1"
               >
                 <div className="mb-4">{category.icon}</div>
                 <h2 className="text-lg font-semibold mb-2 text-white group-hover:text-blue-400 transition-colors duration-200">

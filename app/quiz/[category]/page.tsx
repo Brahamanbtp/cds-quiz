@@ -167,7 +167,7 @@ export default function CategoryPage() {
                 <Link
                   key={topic}
                   href={`/quiz/${category}/${topic}`}
-                  className="bg-gray-900/50 border-2 border-gray-700 p-4 hover:bg-gray-800 hover:border-blue-600 transition-colors duration-300 flex items-center justify-between"
+                  className="bg-gray-800 border-2 border-gray-600 p-4 hover:bg-gray-700 hover:border-blue-400 transition-colors duration-300 flex items-center justify-between shadow-sm"
                 >
                   <span className="flex items-center">
                     <BookOpen className="mr-2 text-gray-400" size={20} />

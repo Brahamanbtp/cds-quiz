@@ -106,9 +106,9 @@ export default function QuizPage({
             {questions.map((question, index) => (
               <div
                 key={index}
-                className="mb-10 bg-transparent border-2 border-gray-700"
+                className="mb-10 bg-gray-900/40 border-2 border-gray-600 rounded-lg overflow-hidden"
               >
-                <div className="bg-gray-900/50 p-4 border-b-2 border-gray-700">
+                <div className="bg-gray-800/80 p-4 border-b-2 border-gray-600">
                   <h2 className="text-lg text-white">
                     <span className="text-xl font-bold ml-2 mr-3">
                       {index + 1}.
@@ -126,9 +126,9 @@ export default function QuizPage({
                     {question.options.map((option, optionIndex) => (
                       <button
                         key={optionIndex}
-                        className={`w-full p-3 text-left transition-colors ${userAnswers[index] === option && !quizCompleted
-                            ? "bg-blue-900 border-2 border-blue-600"
-                            : "border-2 border-gray-700 hover:bg-gray-800"
+                        className={`w-full p-3 text-left transition-colors rounded-md ${userAnswers[index] === option && !quizCompleted
+                            ? "bg-blue-900 border-2 border-blue-500"
+                            : "bg-gray-800 border-2 border-gray-600 hover:bg-gray-700"
                           } ${quizCompleted
                             ? option === question.answer
                               ? "bg-green-900 border-2 border-green-600"
