@@ -6671,6 +6671,296 @@ const gkData: Record<string, Question[]> = {
                 "Money demand will decrease"
             ],
             "answer": "Money multiplier will decrease"
+        },
+        {
+            "question": "SDG India Index, developed by NITI Aayog, includes 17 SDGs for each State. Which one of the following is <b>not</b> included in that index ?",
+            "options": [
+                "Zero hunger",
+                "Reduced unemployment",
+                "Life below water",
+                "Responsible consumption and production"
+            ],
+            "answer": "Reduced unemployment"
+        },
+        {
+            "question": "Other things remaining constant, the market supply for a good increases if :\n<ol><li>its price increases.</li><li>price of its factors of production decreases.</li><li>price of other goods decreases.</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1 and 2 only",
+                "1 and 3 only",
+                "2 and 3 only",
+                "1, 2 and 3"
+            ],
+            "answer": "2 and 3 only"
+        },
+        {
+            "question": "Consider the following statements regarding poverty in India :\n<ol><li>While determining poverty line in India, a minimum level of food requirement, clothing, footwear, fuel and light, educational and medical requirements, etc. are determined for subsistence.</li><li>The accepted average calorie requirement in India is 2400 calories per person per day in rural areas and 2100 calories per person per day in urban areas.</li></ol>\nWhich of the statements given above is/are correct ?",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Both 1 and 2"
+        },
+        {
+            "question": "Which of the following statements is/are correct ?\n<ol><li>Shivaji sent an ambassador to Bombay to negotiate an agreement with the English.</li><li>His chief motive was to secure English aid against the Siddis of Danda-Rajpuri.</li><li>He wanted a supply of grenades, mortars and other ammunition.</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1 only",
+                "1 and 3 only",
+                "2 and 3 only",
+                "1, 2 and 3"
+            ],
+            "answer": "1, 2 and 3"
+        },
+        {
+            "question": "The famous Hathigumpha inscription of Kharavela mentions that in the eleventh year of his reign, Kharavela destroyed a confederacy of Tamil States, \"Tramiradesa Sanghatam\", which had long been a source of danger. How old was this confederacy of Tamil States at that time ?",
+            "options": [
+                "110 years old",
+                "111 years old",
+                "112 years old",
+                "113 years old"
+            ],
+            "answer": "113 years old"
+        },
+        {
+            "question": "Which of the following statements about the Vaishnava saint of Assam, Shankardeva, is/are correct ?\n<ol><li>His teachings are often known as the Bhagavati dharma.</li><li>He encouraged the establishment of satras or monasteries and namghars or prayer halls for the transmission of spiritual knowledge.</li><li>His major compositions include the Kirtana-ghosha.</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1 and 2 only",
+                "2 and 3 only",
+                "1, 2 and 3",
+                "3 only"
+            ],
+            "answer": "1, 2 and 3"
+        },
+        {
+            "question": "Abdur Razzaq, an ambassador of the ruler of Persia, was sent to Calicut in the fifteenth century. He was greatly impressed by the :",
+            "options": [
+                "Fortifications of Calicut",
+                "Climatic conditions of the coastal town",
+                "High quality spices of the place",
+                "Musical traditions of the place"
+            ],
+            "answer": "Fortifications of Calicut"
+        },
+        {
+            "question": "Which of the following statements about the 'Race to Zero Campaign' is/are correct ?\n<ol><li>One of the main objectives of the Race to Zero Campaign is to build momentum around the shift to a decarbonized economy.</li><li>It is related to the theory of Zero-Sum Game.</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "1 only"
+        },
+        {
+            "question": "Which of the following statements about National Action Plan on Climate Change (NAPCC) with reference to India is/are correct ?\n<ol><li>It emphasises that maintaining a high growth rate is essential for raising the living standards of the vast majority of the people of India and reducing their vulnerability to the impact of climate change.</li><li>It was released in 2014.</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "1 only"
+        },
+        {
+            "question": "What does India's \"Blue growth\" refer to ?",
+            "options": [
+                "Upgradation of Indian Air Force",
+                "Discouraging farmers from using pesticides",
+                "A long-term strategy to support sustainable growth in the marine and maritime sectors",
+                "Socio-economic empowerment of India's blue collar workers in the unorganized sector"
+            ],
+            "answer": "A long-term strategy to support sustainable growth in the marine and maritime sectors"
+        },
+        {
+            "question": "Which of the following statements about 'Operation Sadbhavana' in Ladakh is/are correct ?\n<ol><li>Indian Army undertakes welfare activities, such as running of Army Goodwill Schools in remote areas of Ladakh.</li><li>It aims at building harmonious relationships between religious communities in Ladakh.</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "1 only"
+        },
+        {
+            "question": "Which one of the following is <b>not</b> a permanent member of the UN Security Council ?",
+            "options": [
+                "France",
+                "China",
+                "Japan",
+                "United Kingdom"
+            ],
+            "answer": "Japan"
+        },
+        {
+            "question": "Consider the following statements about some planets in the solar system :\n<ol><li>Mercury has no atmosphere.</li><li>Venus has two moons.</li><li>There is no land on Jupiter.</li><li>Rings of Saturn are composed of lumps of ice and dust.</li></ol>\nWhich of the statements given above are correct ?",
+            "options": [
+                "1 and 2 only",
+                "3 and 4 only",
+                "1, 2 and 3",
+                "1, 3 and 4"
+            ],
+            "answer": "1, 3 and 4"
+        },
+        {
+            "question": "Which one of the following passes is <b>not</b> located in Indian Himalayan region ?",
+            "options": [
+                "Zojila",
+                "Bolan",
+                "Shipkila",
+                "Lipulekh"
+            ],
+            "answer": "Bolan"
+        },
+        {
+            "question": "Which one of the following set of trees does <b>not</b> belong to Temperate Floral Zone of Himalaya ?",
+            "options": [
+                "Cashewnut and Magnolia",
+                "Oak and Maple",
+                "Rhododendrons",
+                "Birch and Laurels"
+            ],
+            "answer": "Cashewnut and Magnolia"
+        },
+        {
+            "question": "Which one of the following statements about plantation agriculture is <b>not</b> correct ?",
+            "options": [
+                "Plantation farm estates are scientifically managed.",
+                "Plantation farming requires heavy capital outlay.",
+                "Plantation farm lands have mainly foreign ownership and local labour.",
+                "Plantation farmers rear the animals for sale."
+            ],
+            "answer": "Plantation farmers rear the animals for sale."
+        },
+        {
+            "question": "Match List I with List II and select the correct answer using the code given below the Lists :\n<div class=\"flex justify-between my-2\"><div><b>List I</b><br/>(Name of Shifting Cultivation)<br/>A. Roca<br/>B. Chena<br/>C. Masole<br/>D. Tamarai</div><div><b>List II</b><br/>(Country)<br/>1. Sri Lanka<br/>2. Thailand<br/>3. Brazil<br/>4. Zaire</div></div>",
+            "options": [
+                "A-2, B-4, C-1, D-3",
+                "A-2, B-1, C-4, D-3",
+                "A-3, B-4, C-1, D-2",
+                "A-3, B-1, C-4, D-2"
+            ],
+            "answer": "A-3, B-1, C-4, D-2"
+        },
+        {
+            "question": "Consider the following statements with reference to Paleolithic tools :\n<ol><li>Isampur was a well-known center of stone tool manufacture located in Gulbarga district of Karnataka and was situated along a small seasonal stream known as Kamta Halla.</li><li>A Paleolithic blade is a flake tool, the length of which is more than twice its width.</li></ol>\nWhich of the statements given above is/are correct ?",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Both 1 and 2"
+        },
+        {
+            "question": "Consider the following statements about science in medieval South India :\n<ol><li>The Katapayadi system of numerals, which was invented by Vararuchi of Kerala, the author of Chandra Vakyas, was used for calculating the position of Moon on any day of the year.</li><li>Achyuta Pisharati (1550 &ndash; 1621) wrote Uparagakriyakrama, a text on eclipses.</li><li>Ravi Varma of Mahodayapuram set up an observatory and is also said to have inaugurated the Kollam era.</li></ol>\nWhich of the statements given above is/are correct ?",
+            "options": [
+                "1 and 3 only",
+                "3 only",
+                "1 and 2 only",
+                "1, 2 and 3"
+            ],
+            "answer": "1, 2 and 3"
+        },
+        {
+            "question": "Which of the following dynasties of South India issued their documents first in Prakrit and later in Sanskrit ?",
+            "options": [
+                "The Cholas of Tamil Nadu",
+                "The Pandyas of the post-Sangam Age",
+                "The Pallavas of Tondaimandalam",
+                "The Gangas of Kalinganagara"
+            ],
+            "answer": "The Pallavas of Tondaimandalam"
+        },
+        {
+            "question": "Who was the author of the Gwalior Prashasti of Mihira Bhoja ?",
+            "options": [
+                "Nagabhata",
+                "Vatsaraja",
+                "Baladitya",
+                "Kakkuka"
+            ],
+            "answer": "Baladitya"
+        },
+        {
+            "question": "The Sahajiya Cult, which can be traced back to 10th and 11th centuries, is usually associated with :",
+            "options": [
+                "early Bhakti traditions",
+                "a kind of early Sufism",
+                "early Upanishadic philosophy",
+                "Buddhism"
+            ],
+            "answer": "Buddhism"
+        },
+        {
+            "question": "The landmark Supreme Court judgment in the case <i>Subhash Sharma v. Union of India</i> (1991) refers to which one of the following basic features of the Constitution of India ?",
+            "options": [
+                "Judicial Review",
+                "Rule of Law",
+                "Free and fair elections",
+                "Fundamental Rights"
+            ],
+            "answer": "Judicial Review"
+        },
+        {
+            "question": "Which of the following statements about the Panchayats in India, as per the Constitution of India is/are correct ?\n<ol><li>There is a provision for reservation of seats for the Scheduled Castes and Scheduled Tribes.</li><li>Panchayats are not authorised to collect taxes.</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "1 only"
+        },
+        {
+            "question": "Which one of the following statements about Mission Indradhanush, launched by the Government of India in 2014, is correct ?",
+            "options": [
+                "It relates to provisions for Child Health Screening and Early Intervention Services.",
+                "It meets the diverse health needs of adolescents.",
+                "It aims to increase the full immunisation coverage for children.",
+                "Its objective is to achieve universal access to equitable, affordable, and quality healthcare services."
+            ],
+            "answer": "It aims to increase the full immunisation coverage for children."
+        },
+        {
+            "question": "Which one of the following amendments to the Constitution of India has introduced reservations in education and in public employment for people from the Economically Weaker Sections (EWS) of society ?",
+            "options": [
+                "The Constitution (101st Amendment) Act",
+                "The Constitution (102nd Amendment) Act",
+                "The Constitution (122nd Amendment) Act",
+                "The Constitution (103rd Amendment) Act"
+            ],
+            "answer": "The Constitution (103rd Amendment) Act"
+        },
+        {
+            "question": "Which among the following Fundamental Rights is <b>not</b> suspended when an Emergency is declared ?",
+            "options": [
+                "Protection in respect of conviction for offences",
+                "Right to constitutional remedies",
+                "Right to move freely throughout the territory of India",
+                "Equality before law"
+            ],
+            "answer": "Protection in respect of conviction for offences"
+        },
+        {
+            "question": "Any question pertaining to the disqualification of a member of the Lok Sabha on the ground of defection is decided by :",
+            "options": [
+                "The President of India",
+                "The Speaker of the Lok Sabha",
+                "The Supreme Court of India",
+                "The concerned Political Party"
+            ],
+            "answer": "The Speaker of the Lok Sabha"
+        },
+        {
+            "question": "Which one of the following statements about Indian Maritime University (IMU) is <b>not</b> correct ?",
+            "options": [
+                "It was established through an Act of Parliament as a Central University.",
+                "It was established primarily to support the Indian Navy.",
+                "It is located in Chennai.",
+                "It was established to extend the benefits of knowledge and skill for development of individuals and society by associating closely with local, regional and national issues of development."
+            ],
+            "answer": "It was established primarily to support the Indian Navy."
         }
     ]
 };
