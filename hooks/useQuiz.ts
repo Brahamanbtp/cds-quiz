@@ -7,6 +7,7 @@ export function useQuiz(category: string, topic: string) {
   const [userAnswers, setUserAnswers] = useState<{ [key: number]: string }>({});
   const [quizCompleted, setQuizCompleted] = useState(false);
   const [score, setScore] = useState(0);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -20,6 +21,9 @@ export function useQuiz(category: string, topic: string) {
         setUserAnswers(parsed.userAnswers);
         setQuizCompleted(parsed.quizCompleted);
         setScore(parsed.score);
+        if (parsed.currentQuestionIndex !== undefined) {
+          setCurrentQuestionIndex(parsed.currentQuestionIndex);
+        }
         setLoading(false);
         return;
       } catch (e) {
@@ -37,11 +41,12 @@ export function useQuiz(category: string, topic: string) {
         questions,
         userAnswers,
         quizCompleted,
-        score
+        score,
+        currentQuestionIndex
       };
       localStorage.setItem(`quiz_${category}_${topic}`, JSON.stringify(stateToSave));
     }
-  }, [questions, userAnswers, quizCompleted, score, category, topic]);
+  }, [questions, userAnswers, quizCompleted, score, currentQuestionIndex, category, topic]);
 
   const shuffleQuestions = async () => {
     setLoading(true);
@@ -108,6 +113,7 @@ export function useQuiz(category: string, topic: string) {
     setUserAnswers({});
     setQuizCompleted(false);
     setScore(0);
+    setCurrentQuestionIndex(0);
     localStorage.removeItem(`quiz_${category}_${topic}`);
     shuffleQuestions();
     window.scrollTo(0, 0);
@@ -118,6 +124,8 @@ export function useQuiz(category: string, topic: string) {
     userAnswers,
     quizCompleted,
     score,
+    currentQuestionIndex,
+    setCurrentQuestionIndex,
     loading,
     error,
     handleAnswerSelect,
