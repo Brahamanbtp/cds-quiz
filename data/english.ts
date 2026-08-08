@@ -3273,6 +3273,314 @@ const englishData: Record<string, Question[]> = {
                 "P S Q R"
             ],
             "answer": "Q S P R"
+        },
+        {
+            "direction": "<b>ORDERING OF SENTENCES</b><br/><br/><b>Directions :</b> In this section each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.",
+            "question": "<b>S1:</b> There exists a close relationship between meteorology and climatology.<br/><b>S6:</b> First, the meteorological aspect of this discipline examines the process of gain and loss of heat energy by the air layer near the ground, keeping in view the fact that the basic principles apply at any place on the globe. Second, climatological aspect of the discipline examines the global pattern of thermal environment.<br/><br/><b>P :</b> In other words, it is concerned with the study of the characteristics and behaviour of the atmosphere.<br/><b>Q :</b> The function of climatology is two-fold.<br/><b>R :</b> Climatology, on the other hand, is concerned with the discussion of the component elements of climate as well as the factors which determine and control its distribution.<br/><b>S :</b> Meteorology, the physics of the lower atmosphere, studies the individual phenomenon of the atmosphere.",
+            "options": [
+                "S P R Q",
+                "S Q P R",
+                "R S Q P",
+                "R S P Q"
+            ],
+            "answer": "S P R Q"
+        },
+        {
+            "direction": "<b>ORDERING OF SENTENCES</b><br/><br/><b>Directions :</b> In this section each item consists of six sentences of a passage. The first and sixth sentences are given in the beginning as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the answer sheet.",
+            "question": "<b>S1:</b> Europe was going through a political, social, economic, and cultural transformation in the eighteenth century.<br/><b>S6:</b> Great Britain emerged victorious in the contest for colonial supremacy in Europe and from that moment Britain concentrated more on her colonial possessions.<br/><br/><b>P :</b> Thereafter, the European continent had been free from bloody conflicts for about three decades.<br/><b>Q :</b> This century saw far reaching changes which were to leave behind an enduring legacy.<br/><b>R :</b> However, the Treaty of Paris could not bring peace to Europe forever.<br/><b>S :</b> The Treaty of Paris (1763) brought an end to the Seven Years War.",
+            "options": [
+                "Q R S P",
+                "Q S P R",
+                "S P Q R",
+                "S Q P R"
+            ],
+            "answer": "Q S P R"
+        },
+        {
+            "direction": "<b>ANTONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of sentences with an underlined word followed by four words or group of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "American Independence was a great blow to the <u>invincible</u> image of Great Britain.",
+            "options": [
+                "vulnerable",
+                "impregnable",
+                "unbeatable",
+                "insurmountable"
+            ],
+            "answer": "vulnerable"
+        },
+        {
+            "direction": "<b>ANTONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of sentences with an underlined word followed by four words or group of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "The first step in precipitation is <u>condensation</u>.",
+            "options": [
+                "constriction",
+                "abridgement",
+                "recapitulation",
+                "evaporation"
+            ],
+            "answer": "evaporation"
+        },
+        {
+            "direction": "<b>ANTONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of sentences with an underlined word followed by four words or group of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "This <u>ushered in</u> a large-scale social, economic, and political transformation.",
+            "options": [
+                "led",
+                "conducted",
+                "obstructed",
+                "directed"
+            ],
+            "answer": "obstructed"
+        },
+        {
+            "direction": "<b>ANTONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of sentences with an underlined word followed by four words or group of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "The writer <u>obfuscated</u> the real issue with small details.",
+            "options": [
+                "mystified",
+                "obscured",
+                "illuminated",
+                "muddled"
+            ],
+            "answer": "illuminated"
+        },
+        {
+            "direction": "<b>ANTONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of sentences with an underlined word followed by four words or group of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "The horror and <u>abomination</u> of the system of Sati in India was condemned thoroughly.",
+            "options": [
+                "abhorrence",
+                "termination",
+                "adoration",
+                "detestation"
+            ],
+            "answer": "adoration"
+        },
+        {
+            "direction": "<b>ANTONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of sentences with an underlined word followed by four words or group of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "He was rebuked for his <u>infraction</u> of the discipline.",
+            "options": [
+                "transgression",
+                "observance",
+                "breach",
+                "acceptance"
+            ],
+            "answer": "observance"
+        },
+        {
+            "direction": "<b>ANTONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of sentences with an underlined word followed by four words or group of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "It is the general reaction of some people to <u>denounce</u> any new proposal by enthusiastic professionals.",
+            "options": [
+                "criticise",
+                "censure",
+                "comment",
+                "appreciate"
+            ],
+            "answer": "appreciate"
+        },
+        {
+            "direction": "<b>ANTONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of sentences with an underlined word followed by four words or group of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "The emperor as a centralised entity indisputably went beyond regional conflicts and <u>fostered</u> a certain mode of elite culture.",
+            "options": [
+                "cultivated",
+                "endorsed",
+                "suppressed",
+                "incubated"
+            ],
+            "answer": "suppressed"
+        },
+        {
+            "direction": "<b>ANTONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of sentences with an underlined word followed by four words or group of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "For the aspiring East India Company that looked at every opportunity for expansion and <u>self-aggrandisement</u>, the century had to be projected as one of instability.",
+            "options": [
+                "humility",
+                "exaggeration",
+                "upliftment",
+                "elevation"
+            ],
+            "answer": "humility"
+        },
+        {
+            "direction": "<b>ANTONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of sentences with an underlined word followed by four words or group of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "There was a combination of agrarian colonising tendencies with the <u>assertion</u> of local landlord power that was able to assimilate pioneer peasants.",
+            "options": [
+                "insistence",
+                "averment",
+                "statement",
+                "denial"
+            ],
+            "answer": "denial"
+        },
+        {
+            "direction": "<b>CLOZE COMPOSITION</b><br/><br/><b>Directions :</b> Each of the following sentences in this section has a blank space with four words or group of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the answer sheet accordingly.<br/><br/>Objectives, ideology, programmes, leadership, and organisation are important ___________ 81. of social movements. They are interdependent, ___________ 82. each other. The objectives of the movement change from ___________ 83. articular local issues to broad aims ___________ 84. social transformation. Sometimes a movement which begins with broad objectives may in the process get ___________ 85. with one or two particular issues. Ideology also ___________ 86. change. It provides direction for evolving strategies and programmes; and also keeps the participants together by developing feelings of 'we-ness'. Various strategies and programmes are evolved to ___________ 87. the people. They ___________ 88. the movement for a long period. Leadership ___________ 89. initiates or emerges in the course of the growth of the movement plays a crucial role in ___________ 90. ideology and objectives, evolving strategies and programmes and maintaining the spirit of the participant.",
+            "question": "Blank 81",
+            "options": [
+                "constituent",
+                "components",
+                "pieces",
+                "ingredient"
+            ],
+            "answer": "components"
+        },
+        {
+            "direction": "<b>CLOZE COMPOSITION</b><br/><br/><b>Directions :</b> Each of the following sentences in this section has a blank space with four words or group of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the answer sheet accordingly.<br/><br/>Objectives, ideology, programmes, leadership, and organisation are important ___________ 81. of social movements. They are interdependent, ___________ 82. each other. The objectives of the movement change from ___________ 83. articular local issues to broad aims ___________ 84. social transformation. Sometimes a movement which begins with broad objectives may in the process get ___________ 85. with one or two particular issues. Ideology also ___________ 86. change. It provides direction for evolving strategies and programmes; and also keeps the participants together by developing feelings of 'we-ness'. Various strategies and programmes are evolved to ___________ 87. the people. They ___________ 88. the movement for a long period. Leadership ___________ 89. initiates or emerges in the course of the growth of the movement plays a crucial role in ___________ 90. ideology and objectives, evolving strategies and programmes and maintaining the spirit of the participant.",
+            "question": "Blank 82",
+            "options": [
+                "opposing",
+                "effecting",
+                "familiarising",
+                "influencing"
+            ],
+            "answer": "influencing"
+        },
+        {
+            "direction": "<b>CLOZE COMPOSITION</b><br/><br/><b>Directions :</b> Each of the following sentences in this section has a blank space with four words or group of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the answer sheet accordingly.<br/><br/>Objectives, ideology, programmes, leadership, and organisation are important ___________ 81. of social movements. They are interdependent, ___________ 82. each other. The objectives of the movement change from ___________ 83. articular local issues to broad aims ___________ 84. social transformation. Sometimes a movement which begins with broad objectives may in the process get ___________ 85. with one or two particular issues. Ideology also ___________ 86. change. It provides direction for evolving strategies and programmes; and also keeps the participants together by developing feelings of 'we-ness'. Various strategies and programmes are evolved to ___________ 87. the people. They ___________ 88. the movement for a long period. Leadership ___________ 89. initiates or emerges in the course of the growth of the movement plays a crucial role in ___________ 90. ideology and objectives, evolving strategies and programmes and maintaining the spirit of the participant.",
+            "question": "Blank 83",
+            "options": [
+                "wide",
+                "scanty",
+                "narrow",
+                "confine"
+            ],
+            "answer": "narrow"
+        },
+        {
+            "direction": "<b>CLOZE COMPOSITION</b><br/><br/><b>Directions :</b> Each of the following sentences in this section has a blank space with four words or group of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the answer sheet accordingly.<br/><br/>Objectives, ideology, programmes, leadership, and organisation are important ___________ 81. of social movements. They are interdependent, ___________ 82. each other. The objectives of the movement change from ___________ 83. articular local issues to broad aims ___________ 84. social transformation. Sometimes a movement which begins with broad objectives may in the process get ___________ 85. with one or two particular issues. Ideology also ___________ 86. change. It provides direction for evolving strategies and programmes; and also keeps the participants together by developing feelings of 'we-ness'. Various strategies and programmes are evolved to ___________ 87. the people. They ___________ 88. the movement for a long period. Leadership ___________ 89. initiates or emerges in the course of the growth of the movement plays a crucial role in ___________ 90. ideology and objectives, evolving strategies and programmes and maintaining the spirit of the participant.",
+            "question": "Blank 84",
+            "options": [
+                "for",
+                "by",
+                "with",
+                "and"
+            ],
+            "answer": "for"
+        },
+        {
+            "direction": "<b>CLOZE COMPOSITION</b><br/><br/><b>Directions :</b> Each of the following sentences in this section has a blank space with four words or group of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the answer sheet accordingly.<br/><br/>Objectives, ideology, programmes, leadership, and organisation are important ___________ 81. of social movements. They are interdependent, ___________ 82. each other. The objectives of the movement change from ___________ 83. articular local issues to broad aims ___________ 84. social transformation. Sometimes a movement which begins with broad objectives may in the process get ___________ 85. with one or two particular issues. Ideology also ___________ 86. change. It provides direction for evolving strategies and programmes; and also keeps the participants together by developing feelings of 'we-ness'. Various strategies and programmes are evolved to ___________ 87. the people. They ___________ 88. the movement for a long period. Leadership ___________ 89. initiates or emerges in the course of the growth of the movement plays a crucial role in ___________ 90. ideology and objectives, evolving strategies and programmes and maintaining the spirit of the participant.",
+            "question": "Blank 85",
+            "options": [
+                "turns into",
+                "turn out",
+                "bogged down",
+                "bogged out"
+            ],
+            "answer": "bogged down"
+        },
+        {
+            "direction": "<b>CLOZE COMPOSITION</b><br/><br/><b>Directions :</b> Each of the following sentences in this section has a blank space with four words or group of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the answer sheet accordingly.<br/><br/>Objectives, ideology, programmes, leadership, and organisation are important ___________ 81. of social movements. They are interdependent, ___________ 82. each other. The objectives of the movement change from ___________ 83. articular local issues to broad aims ___________ 84. social transformation. Sometimes a movement which begins with broad objectives may in the process get ___________ 85. with one or two particular issues. Ideology also ___________ 86. change. It provides direction for evolving strategies and programmes; and also keeps the participants together by developing feelings of 'we-ness'. Various strategies and programmes are evolved to ___________ 87. the people. They ___________ 88. the movement for a long period. Leadership ___________ 89. initiates or emerges in the course of the growth of the movement plays a crucial role in ___________ 90. ideology and objectives, evolving strategies and programmes and maintaining the spirit of the participant.",
+            "question": "Blank 86",
+            "options": [
+                "went",
+                "proceeds",
+                "precedes",
+                "undergoes"
+            ],
+            "answer": "undergoes"
+        },
+        {
+            "direction": "<b>CLOZE COMPOSITION</b><br/><br/><b>Directions :</b> Each of the following sentences in this section has a blank space with four words or group of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the answer sheet accordingly.<br/><br/>Objectives, ideology, programmes, leadership, and organisation are important ___________ 81. of social movements. They are interdependent, ___________ 82. each other. The objectives of the movement change from ___________ 83. articular local issues to broad aims ___________ 84. social transformation. Sometimes a movement which begins with broad objectives may in the process get ___________ 85. with one or two particular issues. Ideology also ___________ 86. change. It provides direction for evolving strategies and programmes; and also keeps the participants together by developing feelings of 'we-ness'. Various strategies and programmes are evolved to ___________ 87. the people. They ___________ 88. the movement for a long period. Leadership ___________ 89. initiates or emerges in the course of the growth of the movement plays a crucial role in ___________ 90. ideology and objectives, evolving strategies and programmes and maintaining the spirit of the participant.",
+            "question": "Blank 87",
+            "options": [
+                "mobilised",
+                "mobilise",
+                "make",
+                "matured"
+            ],
+            "answer": "mobilise"
+        },
+        {
+            "direction": "<b>CLOZE COMPOSITION</b><br/><br/><b>Directions :</b> Each of the following sentences in this section has a blank space with four words or group of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the answer sheet accordingly.<br/><br/>Objectives, ideology, programmes, leadership, and organisation are important ___________ 81. of social movements. They are interdependent, ___________ 82. each other. The objectives of the movement change from ___________ 83. articular local issues to broad aims ___________ 84. social transformation. Sometimes a movement which begins with broad objectives may in the process get ___________ 85. with one or two particular issues. Ideology also ___________ 86. change. It provides direction for evolving strategies and programmes; and also keeps the participants together by developing feelings of 'we-ness'. Various strategies and programmes are evolved to ___________ 87. the people. They ___________ 88. the movement for a long period. Leadership ___________ 89. initiates or emerges in the course of the growth of the movement plays a crucial role in ___________ 90. ideology and objectives, evolving strategies and programmes and maintaining the spirit of the participant.",
+            "question": "Blank 88",
+            "options": [
+                "threaten",
+                "bluster",
+                "blow",
+                "sustain"
+            ],
+            "answer": "sustain"
+        },
+        {
+            "direction": "<b>CLOZE COMPOSITION</b><br/><br/><b>Directions :</b> Each of the following sentences in this section has a blank space with four words or group of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the answer sheet accordingly.<br/><br/>Objectives, ideology, programmes, leadership, and organisation are important ___________ 81. of social movements. They are interdependent, ___________ 82. each other. The objectives of the movement change from ___________ 83. articular local issues to broad aims ___________ 84. social transformation. Sometimes a movement which begins with broad objectives may in the process get ___________ 85. with one or two particular issues. Ideology also ___________ 86. change. It provides direction for evolving strategies and programmes; and also keeps the participants together by developing feelings of 'we-ness'. Various strategies and programmes are evolved to ___________ 87. the people. They ___________ 88. the movement for a long period. Leadership ___________ 89. initiates or emerges in the course of the growth of the movement plays a crucial role in ___________ 90. ideology and objectives, evolving strategies and programmes and maintaining the spirit of the participant.",
+            "question": "Blank 89",
+            "options": [
+                "where",
+                "which",
+                "how",
+                "more"
+            ],
+            "answer": "which"
+        },
+        {
+            "direction": "<b>CLOZE COMPOSITION</b><br/><br/><b>Directions :</b> Each of the following sentences in this section has a blank space with four words or group of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the answer sheet accordingly.<br/><br/>Objectives, ideology, programmes, leadership, and organisation are important ___________ 81. of social movements. They are interdependent, ___________ 82. each other. The objectives of the movement change from ___________ 83. articular local issues to broad aims ___________ 84. social transformation. Sometimes a movement which begins with broad objectives may in the process get ___________ 85. with one or two particular issues. Ideology also ___________ 86. change. It provides direction for evolving strategies and programmes; and also keeps the participants together by developing feelings of 'we-ness'. Various strategies and programmes are evolved to ___________ 87. the people. They ___________ 88. the movement for a long period. Leadership ___________ 89. initiates or emerges in the course of the growth of the movement plays a crucial role in ___________ 90. ideology and objectives, evolving strategies and programmes and maintaining the spirit of the participant.",
+            "question": "Blank 90",
+            "options": [
+                "supersedes",
+                "assumption",
+                "articulating",
+                "supposition"
+            ],
+            "answer": "articulating"
+        },
+        {
+            "direction": "<b>PREPOSITIONS</b><br/><br/><b>Directions :</b> In this section, each of the following sentences has a blank space followed by four options. Select the most appropriate option to fill in the blank.",
+            "question": "He persevered ___________ difficulties.",
+            "options": [
+                "despite of",
+                "because of",
+                "although",
+                "in spite of"
+            ],
+            "answer": "in spite of"
+        },
+        {
+            "direction": "<b>PREPOSITIONS</b><br/><br/><b>Directions :</b> In this section, each of the following sentences has a blank space followed by four options. Select the most appropriate option to fill in the blank.",
+            "question": "He walked slowly ___________ his bandaged leg.",
+            "options": [
+                "though",
+                "because of",
+                "although",
+                "in spite of"
+            ],
+            "answer": "because of"
+        },
+        {
+            "direction": "<b>PREPOSITIONS</b><br/><br/><b>Directions :</b> In this section, each of the following sentences has a blank space followed by four options. Select the most appropriate option to fill in the blank.",
+            "question": "He accepted the car ___________ his claim for ₹50,000.",
+            "options": [
+                "in spite of",
+                "in lieu of",
+                "despite of",
+                "in front of"
+            ],
+            "answer": "in lieu of"
+        },
+        {
+            "direction": "<b>PREPOSITIONS</b><br/><br/><b>Directions :</b> In this section, each of the following sentences has a blank space followed by four options. Select the most appropriate option to fill in the blank.",
+            "question": "I'll phone you sometime ___________ the afternoon.",
+            "options": [
+                "on",
+                "at",
+                "in",
+                "into"
+            ],
+            "answer": "in"
+        },
+        {
+            "direction": "<b>PREPOSITIONS</b><br/><br/><b>Directions :</b> In this section, each of the following sentences has a blank space followed by four options. Select the most appropriate option to fill in the blank.",
+            "question": "He raised several questions ___________ the future of the organisation.",
+            "options": [
+                "concern to",
+                "concerned for",
+                "concerning",
+                "concerned with"
+            ],
+            "answer": "concerning"
+        },
+        {
+            "direction": "<b>PREPOSITIONS</b><br/><br/><b>Directions :</b> In this section, each of the following sentences has a blank space followed by four options. Select the most appropriate option to fill in the blank.",
+            "question": "He is the gentleman whose name is written ___________ the board.",
+            "options": [
+                "that",
+                "with",
+                "in",
+                "on"
+            ],
+            "answer": "on"
         }
     ],
     "2025-I": [
