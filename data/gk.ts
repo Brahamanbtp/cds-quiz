@@ -6351,6 +6351,326 @@ const gkData: Record<string, Question[]> = {
                 "The pendulum has same potential energy at all positions."
             ],
             "answer": "The pendulum has minimum potential energy at position R."
+        },
+        {
+            "question": "In which of the following media is the speed of sound the maximum ?",
+            "options": [
+                "Glass",
+                "Stainless steel",
+                "Water",
+                "Oxygen"
+            ],
+            "answer": "Stainless steel"
+        },
+        {
+            "question": "A charged particle moves through a magnetic field <b>B</b> with a velocity <b>v</b>. Which one of the following statements is true for the force (<b>F</b>) experienced by the particle ?",
+            "options": [
+                "<b>F</b> is maximum when <b>v</b> and <b>B</b> are parallel to each other.",
+                "<b>F</b> is maximum when <b>v</b> and <b>B</b> are anti-parallel to each other.",
+                "<b>F</b> is maximum when <b>v</b> and <b>B</b> are perpendicular to each other.",
+                "The force <b>F</b> is independent of the angle between <b>v</b> and <b>B</b>."
+            ],
+            "answer": "<b>F</b> is maximum when <b>v</b> and <b>B</b> are perpendicular to each other."
+        },
+        {
+            "question": "Which one of the following is the correct relation between Celsius and Fahrenheit temperature scales ?\n(Symbols carry their usual meanings)",
+            "options": [
+                "T<sub>F</sub> = 10/3 T<sub>C</sub> + 32",
+                "T<sub>F</sub> = 5/9 T<sub>C</sub> + 36",
+                "T<sub>F</sub> = 9/5 T<sub>C</sub> + 36",
+                "T<sub>F</sub> = 9/5 T<sub>C</sub> + 32"
+            ],
+            "answer": "T<sub>F</sub> = 9/5 T<sub>C</sub> + 32"
+        },
+        {
+            "question": "Which one of the following statements is correct regarding the travel of a light beam from a rare to a dense medium ?",
+            "options": [
+                "A light beam travelling from a rare medium to a dense medium slows down and bends towards the normal.",
+                "A light beam travelling from a rare medium to a dense medium speeds up and bends towards the normal.",
+                "A light beam travelling from a rare medium to a dense medium slows down and bends away from the normal.",
+                "A light beam travelling from a rare medium to a dense medium speeds up and bends away from the normal."
+            ],
+            "answer": "A light beam travelling from a rare medium to a dense medium slows down and bends towards the normal."
+        },
+        {
+            "question": "In which one of the following cases do both physical and chemical changes take place ?",
+            "options": [
+                "Burning of candle",
+                "Freezing of water",
+                "Cooking of food",
+                "Rusting of iron"
+            ],
+            "answer": "Burning of candle"
+        },
+        {
+            "question": "Which one of the following statements is correct about diamond and graphite ?",
+            "options": [
+                "Diamond and graphite have similar physical and chemical properties.",
+                "Diamond is hard but graphite is smooth and slippery.",
+                "Diamond and graphite are both non-conductors of electricity.",
+                "Both diamond and graphite have similar structures."
+            ],
+            "answer": "Diamond is hard but graphite is smooth and slippery."
+        },
+        {
+            "question": "Which one among the following substances is a compound ?",
+            "options": [
+                "Sugar",
+                "Air",
+                "Milk",
+                "Tea"
+            ],
+            "answer": "Sugar"
+        },
+        {
+            "question": "What is the total number of naturally occurring elements ?",
+            "options": [
+                "114",
+                "94",
+                "86",
+                "82"
+            ],
+            "answer": "94"
+        },
+        {
+            "question": "Which one of the following statements regarding acids is <b>not</b> correct ?",
+            "options": [
+                "Hydrochloric acid is present in the gastric juice secreted by the stomach.",
+                "Acetic acid is the main constituent of vinegar.",
+                "Oxalic acid is found in tamarind paste.",
+                "Lemon and orange juices contain citric acid and ascorbic acid respectively."
+            ],
+            "answer": "Oxalic acid is found in tamarind paste."
+        },
+        {
+            "question": "Which one of the following is the correct combination of organelles and their functions ?",
+            "options": [
+                "Mitochondria &ndash; Respiration; Chloroplast &ndash; Photosynthesis; Ribosome &ndash; Protein Synthesis; Rough endoplasmic reticulum &ndash; Transport of proteins",
+                "Mitochondria &ndash; Respiration; Chloroplast &ndash; Photosynthesis; Ribosome &ndash; Transport of proteins; Rough endoplasmic reticulum &ndash; Protein synthesis",
+                "Mitochondria &ndash; Respiration; Chloroplast &ndash; Protein synthesis; Ribosome &ndash; Photosynthesis; Rough endoplasmic reticulum &ndash; Transport of proteins",
+                "Mitochondria &ndash; Photosynthesis; Chloroplast &ndash; Respiration; Ribosome &ndash; Protein synthesis; Rough endoplasmic reticulum &ndash; Transport of proteins"
+            ],
+            "answer": "Mitochondria &ndash; Respiration; Chloroplast &ndash; Photosynthesis; Ribosome &ndash; Protein Synthesis; Rough endoplasmic reticulum &ndash; Transport of proteins"
+        },
+        {
+            "question": "Cell wall is absent in which one of the following organisms ?",
+            "options": [
+                "Bacteria",
+                "Diatom",
+                "Mushroom",
+                "Tapeworm"
+            ],
+            "answer": "Tapeworm"
+        },
+        {
+            "question": "Water goes up through xylem vessels in tall trees. The process in plants and properties of water that help in upward movement are :",
+            "options": [
+                "Respiration and cohesion",
+                "Transpiration pull, cohesion and adhesion",
+                "Root pressure, cohesion and adhesion",
+                "Transpiration and adhesion"
+            ],
+            "answer": "Transpiration pull, cohesion and adhesion"
+        },
+        {
+            "question": "Energy and nutrients flow from one trophic level to another in an ecosystem. Which one of the following statements correctly describes the direction of flow of energy and nutrients in an ecosystem ?",
+            "options": [
+                "Energy flow is cyclic and nutrient flow is unidirectional.",
+                "Energy flow is unidirectional and nutrient flow is cyclic.",
+                "Both energy and nutrient flow are unidirectional.",
+                "Both energy and nutrient flow are cyclic."
+            ],
+            "answer": "Energy flow is unidirectional and nutrient flow is cyclic."
+        },
+        {
+            "question": "Which one of the following is a saprophyte ?",
+            "options": [
+                "Cuscuta",
+                "Rhizopus",
+                "Spirogyra",
+                "Grass"
+            ],
+            "answer": "Rhizopus"
+        },
+        {
+            "question": "In ovules of Angiosperms, which one of the following is <b>not</b> a haploid cell ?",
+            "options": [
+                "Nucellus",
+                "Synergid",
+                "Egg",
+                "Antipodal"
+            ],
+            "answer": "Nucellus"
+        },
+        {
+            "question": "Arrange the following events associated with Shivaji in chronological order :\n<ol><li>Attack on Afzal Khan</li><li>Capture of Torna</li><li>Attack on Shaista Khan</li><li>Annexation of Javli</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "2, 4, 1, 3",
+                "4, 2, 1, 3",
+                "1, 2, 3, 4",
+                "3, 1, 2, 4"
+            ],
+            "answer": "2, 4, 1, 3"
+        },
+        {
+            "question": "Who among the following is the author of the book <i>The Indian Struggle 1920 &ndash; 1942</i> ?",
+            "options": [
+                "Vinayak Damodar Savarkar",
+                "Subhas Chandra Bose",
+                "Vallabhbhai Patel",
+                "Sarat Chandra Bose"
+            ],
+            "answer": "Subhas Chandra Bose"
+        },
+        {
+            "question": "Who among the following is <b>not</b> a woman Nayanar saint ?",
+            "options": [
+                "Karaikkal Ammaiyar",
+                "Mangayarkkarasiyar",
+                "Andal",
+                "Isaignaniyar"
+            ],
+            "answer": "Andal"
+        },
+        {
+            "question": "Which one of the following pairs of terms and their meanings is <b>not</b> correctly matched ?",
+            "options": [
+                "Nagarakkani : Land owned by the nagaram",
+                "Nattar : Male serpent deity",
+                "Yupa : Sacrificial post",
+                "Viragal : 'Hero stone' in the Tamil Nadu area"
+            ],
+            "answer": "Nattar : Male serpent deity"
+        },
+        {
+            "question": "Where is the famous Gupta period Deogarh Temple situated ?",
+            "options": [
+                "Uttar Pradesh",
+                "Madhya Pradesh",
+                "Chhattisgarh",
+                "Rajasthan"
+            ],
+            "answer": "Uttar Pradesh"
+        },
+        {
+            "question": "Consider the following statements with reference to the Nataraj bronze sculpture of Chola period :\n<ol><li>Shiva is shown balancing himself on his right leg representing <i>tirobhava</i>.</li><li>Shiva is shown raising his left leg in <i>bhujangatrasita</i> stance, representing kicking away the illusion from the devotee's mind.</li><li>The main right hand holds the <i>damaru</i>, Shiva's favourite musical instrument.</li></ol>\nWhich of the statements given above is/are correct ?",
+            "options": [
+                "1 only",
+                "2 only",
+                "2 and 3 only",
+                "1, 2 and 3"
+            ],
+            "answer": "2 only"
+        },
+        {
+            "question": "Which of the following statements about ASEAN are correct ?\n<ol><li>The Chairmanship of ASEAN rotates annually based on the alphabetical order of the English names of Member States.</li><li>The Chairmanship is decided by voting among the Member States.</li><li>\"One Vision, One Identity, One Community\" is the ASEAN motto.</li><li>12th August is celebrated as ASEAN Day.</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1 and 2 only",
+                "1 and 3 only",
+                "3 and 4 only",
+                "1, 2, 3 and 4"
+            ],
+            "answer": "1 and 3 only"
+        },
+        {
+            "question": "Consider the following statements about the Public Distribution System :\n<ol><li>The Public Distribution System is operated under the joint responsibility of Centre and State/Union Territories.</li><li>Food Corporation of India has assumed the responsibility for procurement, storage and transportation of food grains to the State Governments.</li><li>Both Centre and State have the joint responsibility to identify eligible beneficiaries.</li><li>Some States also distribute additional items of mass consumption through the PDS outlets such as pulses, edible oil, etc.</li></ol>\nWhich of the statements given above are correct ?",
+            "options": [
+                "2 and 3 only",
+                "1, 2 and 4",
+                "1 and 2 only",
+                "3 and 4 only"
+            ],
+            "answer": "1, 2 and 4"
+        },
+        {
+            "question": "Which of the following concepts are considered as pillars of Human Development ?\n<ol><li>Equity</li><li>Sustainability</li><li>Productivity</li><li>Security</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1 and 2 only",
+                "3 and 4 only",
+                "1, 2 and 3 only",
+                "1, 2, 3 and 4"
+            ],
+            "answer": "1, 2 and 3 only"
+        },
+        {
+            "question": "Which one of the following pairs of events and years is <b>not</b> correctly matched ?",
+            "options": [
+                "Launch of the first communications satellite : 1962",
+                "Completion of a continuous around the world fibre-optic cable link : 1997",
+                "Creation of the SWIFT system for worldwide electronic interbank fund transfer : 1977",
+                "Introduction of the World Wide Web (www) : 1995"
+            ],
+            "answer": "Introduction of the World Wide Web (www) : 1995"
+        },
+        {
+            "question": "Identify the type of soil on the basis of given characteristics :\n<ol><li>They contain a large proportion of sodium, potassium and magnesium, and thus, they are infertile.</li><li>Their structure ranges from sandy to loamy.</li><li>They are more widespread in western Gujarat, deltas of the eastern coast and in Sunderban areas of West Bengal.</li></ol>",
+            "options": [
+                "Peaty soil",
+                "Laterite soil",
+                "Arid soil",
+                "Saline soil"
+            ],
+            "answer": "Saline soil"
+        },
+        {
+            "question": "Which one among the following State capitals is closest to the Equator ?",
+            "options": [
+                "Hyderabad",
+                "Bhubaneswar",
+                "Panaji",
+                "Mumbai"
+            ],
+            "answer": "Panaji"
+        },
+        {
+            "question": "Which is the only country in the world to officially proclaim the Gross National Happiness (GNH) as the measure of the country's progress ?",
+            "options": [
+                "Finland",
+                "Bhutan",
+                "Nepal",
+                "Switzerland"
+            ],
+            "answer": "Bhutan"
+        },
+        {
+            "question": "Consider the following statements about clouds :\n<ol><li>Two major forms of clouds are stratiform and cumuliform.</li><li>According to the altitude, clouds are classified as high clouds, middle clouds and low clouds.</li><li>Stratus, nimbostratus and stratocumulus are types of high clouds.</li><li>Clouds having nimbo attached to their name produce precipitation.</li></ol>\nWhich of the statements given above are correct ?",
+            "options": [
+                "1 and 2 only",
+                "1, 2 and 4",
+                "2 and 4 only",
+                "1, 3 and 4"
+            ],
+            "answer": "1, 2 and 4"
+        },
+        {
+            "question": "Which one of the following expenditures is subtracted from Fiscal Deficit to arrive at Primary Deficit ?",
+            "options": [
+                "Defence expenditure",
+                "Expenditure on subsidies",
+                "Interest payments",
+                "Pension"
+            ],
+            "answer": "Interest payments"
+        },
+        {
+            "question": "The Wholesale Price Inflation has increased in India during 2021 &ndash; 2022 due to which of the following factors ?\n<ol><li>Sharp increase in international prices of crude oil</li><li>Decrease in economic activity post-Covid</li><li>Disruption of global supply chain</li><li>High freight cost</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "2 and 3 only",
+                "1, 3 and 4",
+                "1 and 2 only",
+                "1 and 4 only"
+            ],
+            "answer": "1, 3 and 4"
+        },
+        {
+            "question": "What would be the impact on the economy if people start holding more currency in hand and less in deposits ?",
+            "options": [
+                "Money demand will increase",
+                "Money multiplier will decrease",
+                "Money multiplier will increase",
+                "Money demand will decrease"
+            ],
+            "answer": "Money multiplier will decrease"
         }
     ]
 };
