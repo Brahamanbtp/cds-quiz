@@ -571,6 +571,336 @@ const mathsData: Record<string, Question[]> = {
             "12&middot;2 cm"
         ],
         "answer": "11&middot;2 cm"
+    },
+    {
+        "question": "The circumference of a circle exceeds the diameter by 16&middot;8 cm. What is the diameter of the circle ? (Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>)",
+        "options": [
+            "6&middot;24 cm",
+            "6&middot;42 cm",
+            "7&middot;64 cm",
+            "7&middot;84 cm"
+        ],
+        "answer": "7&middot;84 cm"
+    },
+    {
+        "question": "The hypotenuse AC of a right-angled ABC is 3&radic;5 cm. If AB is doubled and BC is tripled such that ABC remains a right-angled triangle, the hypotenuse becomes 15 cm. What is AB + BC equal to ?",
+        "options": [
+            "10 cm",
+            "9 cm",
+            "2&radic;5 cm",
+            "8 cm"
+        ],
+        "answer": "9 cm"
+    },
+    {
+        "question": "What is the area of the region between two concentric circles if the chord of the outer circle of length 14 cm is a tangent of the inner circle ? (Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>)",
+        "options": [
+            "125 square cm",
+            "132 square cm",
+            "144 square cm",
+            "154 square cm"
+        ],
+        "answer": "154 square cm"
+    },
+    {
+        "question": "A pendulum swings through an angle of 9&deg; and its end describes an arc of length 14&middot;3 cm. What is the length of the pendulum ? (Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>)",
+        "options": [
+            "88 cm",
+            "91 cm",
+            "95 cm",
+            "98 cm"
+        ],
+        "answer": "91 cm"
+    },
+    {
+        "question": "The arch of a bridge is in the form of an arc of a circle. If the span of the bridge is 40 m and height in the middle is 8 m, then what is the radius of curvature of the bridge ?",
+        "options": [
+            "25 m",
+            "27 m",
+            "29 m",
+            "31 m"
+        ],
+        "answer": "29 m"
+    },
+    {
+        "question": "If a, b and c are the sides of a right-angled triangle, where a &gt; b &gt; c, then what is the value of the expression<br/>(a + b + c) (a + b &minus; c) (a &minus; b + c) (a &minus; b &minus; c) ?",
+        "options": [
+            "4b<sup>2</sup>c<sup>2</sup>",
+            "&minus; 4b<sup>2</sup>c<sup>2</sup>",
+            "&minus; 2a<sup>2</sup>b<sup>2</sup>",
+            "&minus; 4a<sup>2</sup>b<sup>2</sup>"
+        ],
+        "answer": "&minus; 4b<sup>2</sup>c<sup>2</sup>"
+    },
+    {
+        "question": "The cube root of x varies inversely as the square root of y. x = 8 when y = 3. What is the value of x when y = &radic;[3](3) ?",
+        "options": [
+            "18",
+            "21",
+            "24",
+            "27"
+        ],
+        "answer": "24"
+    },
+    {
+        "question": "Three solid lead spheres of diameters 6 cm, 8 cm and 10 cm are melted together and recast as a solid sphere. What is the percentage diminution of the surface area as compared to the sum of the surface areas of the three spheres ?",
+        "options": [
+            "25%",
+            "26%",
+            "27%",
+            "28%"
+        ],
+        "answer": "28%"
+    },
+    {
+        "question": "A solid sphere of radius 3 cm is melted to form a hollow cylinder of height 4 cm and external diameter 10 cm. What is the thickness of the cylinder ?",
+        "options": [
+            "0&middot;42 cm",
+            "0&middot;46 cm",
+            "0&middot;50 cm",
+            "1&middot;00 cm"
+        ],
+        "answer": "1&middot;00 cm"
+    },
+    {
+        "question": "Three glasses P, Q and R have capacities in the ratio 1 : 2 : 3. All these glasses are completely filled with mixtures of milk and water. The ratio of milk to water in P is 1 : 2, in Q it is 2 : 3 and in R it is 3 : 1. If the content of all three glasses are put into a bigger container, what will be the ratio of milk to water in the container ?",
+        "options": [
+            "203 : 117",
+            "203 : 157",
+            "172 : 91",
+            "165 : 88"
+        ],
+        "answer": "203 : 157"
+    },
+    {
+        "question": "What is the LCM of x<sup>4</sup> + x<sup>2</sup>y<sup>2</sup> + y<sup>4</sup>, x<sup>3</sup> + y<sup>3</sup>, x<sup>3</sup> &minus; y<sup>3</sup> ?",
+        "options": [
+            "(x<sup>2</sup> &minus; y<sup>2</sup>) (x<sup>4</sup> + x<sup>2</sup>y<sup>2</sup> + y<sup>4</sup>)<sup>2</sup>",
+            "(x<sup>2</sup> &minus; y<sup>2</sup>) (x<sup>4</sup> + 2x<sup>2</sup>y<sup>2</sup> + y<sup>4</sup>)",
+            "(x<sup>6</sup> &minus; y<sup>6</sup>)",
+            "(x<sup>6</sup> + y<sup>6</sup>)"
+        ],
+        "answer": "(x<sup>6</sup> &minus; y<sup>6</sup>)"
+    },
+    {
+        "question": "What is<br/><sup>(x<sup>2</sup> &minus; y<sup>2</sup> &minus; z<sup>2</sup> &minus; 2yz)</sup>&frasl;<sub>(x<sup>2</sup> + y<sup>2</sup> &minus; z<sup>2</sup> + 2xy)</sub> + <sup>(x<sup>2</sup> &minus; y<sup>2</sup> &minus; z<sup>2</sup> &minus; 2yz)</sup>&frasl;<sub>(x<sup>2</sup> &minus; y<sup>2</sup> + z<sup>2</sup> &minus; 2xz)</sub><br/>equal to ?",
+        "options": [
+            "<sup>x</sup>&frasl;<sub>(x + y &minus; z)</sub>",
+            "<sup>(y + z)</sup>&frasl;<sub>(x + y &minus; z)</sub>",
+            "<sup>2x</sup>&frasl;<sub>(x + y &minus; z)</sub>",
+            "<sup>(2y + 2z)</sup>&frasl;<sub>(x + y &minus; z)</sub>"
+        ],
+        "answer": "<sup>2x</sup>&frasl;<sub>(x + y &minus; z)</sub>"
+    },
+    {
+        "question": "If tan A + cot A = 2, where 0 &lt; A &lt; 90&deg;, then what is the value of<br/>tan<sup>2</sup> A + tan<sup>3</sup> A + tan<sup>4</sup> A + .... + tan<sup>n</sup> A ?",
+        "options": [
+            "1",
+            "n &minus; 2",
+            "n &minus; 1",
+            "n"
+        ],
+        "answer": "n &minus; 1"
+    },
+    {
+        "question": "Which of the following is/are identity/identities ?<br/><br/>1. <sup>(sin<sup>3</sup> &theta; + cos<sup>3</sup> &theta;)</sup>&frasl;<sub>(sin &theta; + cos &theta;)</sub> + sin &theta; cos &theta; = 1 ; 0 &lt; &theta; &lt; <sup>&pi;</sup>&frasl;<sub>2</sub><br/>2. 1 &minus; sin<sup>6</sup> &theta; = cos<sup>2</sup> &theta; (cos<sup>4</sup> &theta; + 3 sin<sup>2</sup> &theta;)<br/><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "If 7 sin<sup>4</sup> &theta; + 9 cos<sup>4</sup> &theta; + 42 sin<sup>2</sup> &theta; = 16, 0 &lt; &theta; &lt; <sup>&pi;</sup>&frasl;<sub>2</sub>, then what is tan &theta; equal to ?",
+        "options": [
+            "1",
+            "&radic;2",
+            "&radic;3",
+            "<sup>1</sup>&frasl;<sub>&radic;3</sub>"
+        ],
+        "answer": "<sup>1</sup>&frasl;<sub>&radic;3</sub>"
+    },
+    {
+        "question": "An isosceles triangle has its base length 2a and its height is h. On each side of the triangle a square is drawn external to the triangle. What is the area of the figure thus formed ?",
+        "options": [
+            "6a<sup>2</sup> + 2h<sup>2</sup> + 2ah",
+            "6a<sup>2</sup> + 2h<sup>2</sup> + ah",
+            "4a<sup>2</sup> + 2h<sup>2</sup> + ah",
+            "6a<sup>2</sup> + h<sup>2</sup> + ah"
+        ],
+        "answer": "6a<sup>2</sup> + 2h<sup>2</sup> + ah"
+    },
+    {
+        "question": "If p = <sup>a<sup>2</sup></sup>&frasl;<sub>((b &minus; a)(c &minus; a))</sub> , q = <sup>b<sup>2</sup></sup>&frasl;<sub>((c &minus; b)(a &minus; b))</sub> , r = <sup>c<sup>2</sup></sup>&frasl;<sub>((a &minus; c)(b &minus; c))</sub> , then what is (p + q + r)<sup>2</sup> equal to ?",
+        "options": [
+            "9",
+            "4",
+            "1",
+            "0"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which one of the following is a factor of<br/>a<sup>2</sup> &minus; b<sup>2</sup> &minus; c<sup>2</sup> + 2bc + a + b &minus; c ?",
+        "options": [
+            "a + b + c + 1",
+            "a &minus; b &minus; c + 1",
+            "a + b + c &minus; 1",
+            "a &minus; b + c + 1"
+        ],
+        "answer": "a &minus; b + c + 1"
+    },
+    {
+        "question": "Let &alpha; and &beta; be the roots of the equation<br/><sup>1</sup>&frasl;<sub>(x + a + b)</sub> = <sup>1</sup>&frasl;<sub>x</sub> + <sup>1</sup>&frasl;<sub>a</sub> + <sup>1</sup>&frasl;<sub>b</sub> ; a &ne; 0, b &ne; 0, x &ne; 0.<br/>Which one of the following is a quadratic equation whose roots are &alpha;<sup>2</sup> and &beta;<sup>2</sup> ?",
+        "options": [
+            "x<sup>2</sup> + (a<sup>2</sup> + b<sup>2</sup>) x + a<sup>2</sup>b<sup>2</sup> = 0",
+            "x<sup>2</sup> &minus; (a<sup>2</sup> + b<sup>2</sup>) x + a<sup>2</sup>b<sup>2</sup> = 0",
+            "x<sup>2</sup> &minus; (a<sup>2</sup> + b<sup>2</sup>) x &minus; a<sup>2</sup>b<sup>2</sup> = 0",
+            "x<sup>2</sup> + (a<sup>2</sup> + b<sup>2</sup>) x &minus; a<sup>2</sup>b<sup>2</sup> = 0"
+        ],
+        "answer": "x<sup>2</sup> &minus; (a<sup>2</sup> + b<sup>2</sup>) x + a<sup>2</sup>b<sup>2</sup> = 0"
+    },
+    {
+        "question": "If x = <sup>6</sup>&frasl;<sub>(7 &minus; <sup>6</sup>&frasl;<sub>(7 &minus; <sup>6</sup>&frasl;<sub>(7 &minus; <sup>6</sup>&frasl;<sub>(7 &minus; x)</sub>)</sub>)</sub>)</sub> ; x &gt; 1, then what is the value of x<sup>2</sup> &minus; 3x + 2 equal to ?",
+        "options": [
+            "0",
+            "1",
+            "18",
+            "20"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "A train completely overtakes two persons, walking in the same direction with speeds 3 km/hr and 4 km/hr in 9 seconds and <sup>75</sup>&frasl;<sub>8</sub> seconds respectively. What is the length of the train ?",
+        "options": [
+            "60 m",
+            "62&middot;5 m",
+            "55 m",
+            "67&middot;5 m"
+        ],
+        "answer": "62&middot;5 m"
+    },
+    {
+        "question": "A person bought an article and sold it at a profit of 20%. Had he bought it at 20% less, what would have been the profit percentage if the selling price had been the same ?",
+        "options": [
+            "25%",
+            "40%",
+            "50%",
+            "60%"
+        ],
+        "answer": "50%"
+    },
+    {
+        "question": "If 2s = a + b + c, then what is<br/>s<sup>2</sup> + (s &minus; a)(s &minus; b) + (s &minus; b)(s &minus; c) + (s &minus; c)(s &minus; a)<br/>equal to ?",
+        "options": [
+            "(a + b + c)<sup>2</sup>",
+            "ab + bc + ca",
+            "2 (ab + bc + ca)",
+            "3 (ab + bc + ca)"
+        ],
+        "answer": "ab + bc + ca"
+    },
+    {
+        "question": "A sphere of radius 5 cm is dropped in a right circular cylindrical vessel partly filled with water. The radius of the cylindrical vessel is 10 cm. If the sphere is completely submerged in water, by how much will the level of water rise in the cylindrical vessel ?",
+        "options": [
+            "<sup>5</sup>&frasl;<sub>3</sub> cm",
+            "<sup>5</sup>&frasl;<sub>2</sub> cm",
+            "1 cm",
+            "<sup>5</sup>&frasl;<sub>6</sub> cm"
+        ],
+        "answer": "<sup>5</sup>&frasl;<sub>3</sub> cm"
+    },
+    {
+        "question": "Consider the following statements :<br/><br/>1. The angle in a sector greater than a semi-circle is less than a right angle.<br/>2. If two sides of a pair of opposite sides of a cyclic quadrilateral are equal, then its diagonals are also equal.<br/><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "If a, b, c, x, y, z are real numbers such that<br/>(a + b + c)<sup>2</sup> &minus; 3 (ab + bc + ca) + 3 (x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup>) = 0,<br/>then which one of the following is correct ?",
+        "options": [
+            "a = b = c, x = y = z &ne; 0",
+            "a = b = c = 0, x = y = z = 1",
+            "a = b = c, x = y = z = 0",
+            "a &ne; b &ne; c, x = y = z = 0"
+        ],
+        "answer": "a = b = c, x = y = z = 0"
+    },
+    {
+        "question": "In a triangle ABC, angle B = 90&deg; and p is the length of the perpendicular from B to AC. If BC = 10 cm and AC = 12 cm, then what is the value of p ?",
+        "options": [
+            "<sup>5&radic;11</sup>&frasl;<sub>3</sub>",
+            "<sup>10&radic;11</sup>&frasl;<sub>3</sub>",
+            "<sup>40</sup>&frasl;<sub>&radic;61</sub>",
+            "<sup>12</sup>&frasl;<sub>25</sub>"
+        ],
+        "answer": "<sup>5&radic;11</sup>&frasl;<sub>3</sub>"
+    },
+    {
+        "question": "The mean of p, q, r, s and t is 280. If the mean of p, r and t is 240, what is the mean of q and s ?",
+        "options": [
+            "310",
+            "320",
+            "330",
+            "340"
+        ],
+        "answer": "340"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next (05) items that follow:<br/>A, B, C, D, E, F and G are cousins. D is thrice as old as A. Further, C is as many years younger to B, as G to E and E to D. The average age of D and G is 16 years; the average age of A and E is 11 years; the average age of B and C is also 11 years. B and C have equal weight. A's weight is 10 kg less than that of B; D is 4 kg heavier than E; E is 4 kg heavier than F; F is 4 kg heavier than G. Further, D has age-weight ratio of 9 : 20, where age is in years and weight in kg; A has age-weight ratio of 2 : 5. Moreover, none of them is more than 40 kg.<br/><br/>What is D's age (in years) ?",
+        "options": [
+            "15",
+            "16",
+            "17",
+            "18"
+        ],
+        "answer": "18"
+    },
+    {
+        "question": "What is the average age (in years) of B, C, D, E and G ?",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "answer": "14"
+    },
+    {
+        "question": "What is the difference between the weights (in kg) of G and C ?",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "What is the average weight (in kg) of A, B, C, D, E, F and G ?",
+        "options": [
+            "<sup>201</sup>&frasl;<sub>7</sub>",
+            "<sup>197</sup>&frasl;<sub>7</sub>",
+            "30",
+            "32"
+        ],
+        "answer": "<sup>201</sup>&frasl;<sub>7</sub>"
+    },
+    {
+        "question": "Consider the following statements :<br/><br/>1. The age of F cannot be determined due to insufficient data.<br/>2. The average weight of D and F is equal to weight of E.<br/>3. The weight difference is maximum for D and A.<br/><br/>Which of the statements given above are correct ?",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
     }
   ],
   "2024-I": [
