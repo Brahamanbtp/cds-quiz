@@ -2800,6 +2800,303 @@ const englishData: Record<string, Question[]> = {
             ],
             "answer": "Q R S P",
             "direction": "<b>ORDERING OF WORDS IN A SENTENCE</b><br/><br/><b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence has four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.<br/><br/>"
+        },
+        {
+            "direction": "<b>ORDERING OF WORDS IN A SENTENCE</b><br/><br/><b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence has four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.",
+            "question": "<u>moderation and compromise may mean that multiparty</u> (P)<br/><u>a final problem is that the tendency towards</u> (Q)<br/><u>are unable to offer clear ideological alternatives</u> (R)<br/><u>systems are so dominated by the political centre that they</u> (S)",
+            "options": [
+                "P Q R S",
+                "Q P S R",
+                "S P Q R",
+                "S Q R P"
+            ],
+            "answer": "Q P S R"
+        },
+        {
+            "direction": "<b>ORDERING OF WORDS IN A SENTENCE</b><br/><br/><b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence has four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.",
+            "question": "<u>even after an offence has been committed</u> (P)<br/><u>provisions for women still is dependent on the observations</u> (Q)<br/><u>of the rules of procedure and evidence by the implementing agencies</u> (R)<br/><u>the criminal justice administration with all its favourable</u> (S)",
+            "options": [
+                "P S Q R",
+                "P Q S R",
+                "P R S Q",
+                "S Q R P"
+            ],
+            "answer": "S Q R P"
+        },
+        {
+            "direction": "<b>ORDERING OF WORDS IN A SENTENCE</b><br/><br/><b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence has four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.",
+            "question": "<u>similar contents to earn more revenues</u> (P)<br/><u>the theatre management appreciated</u> (Q)<br/><u>the popularity of such themes</u> (R)<br/><u>and emphasised staging plays with</u> (S)",
+            "options": [
+                "Q R S P",
+                "Q R P S",
+                "P Q R S",
+                "P S Q R"
+            ],
+            "answer": "Q R S P"
+        },
+        {
+            "direction": "<b>ORDERING OF WORDS IN A SENTENCE</b><br/><br/><b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence has four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.",
+            "question": "<u>the supreme court in its majesty</u> (P)<br/><u>Article 21 which deals with the right to life</u> (Q)<br/><u>and magnanimity has expounded</u> (R)<br/><u>profoundly the semantic sweep of</u> (S)",
+            "options": [
+                "P S R Q",
+                "S P Q R",
+                "S Q R P",
+                "P R S Q"
+            ],
+            "answer": "P R S Q"
+        },
+        {
+            "direction": "<b>ORDERING OF WORDS IN A SENTENCE</b><br/><br/><b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence has four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.",
+            "question": "<u>of unpopular policies or a discredited leader or government</u> (P)<br/><u>one of these is that in focussing on the legitimacy of a political</u> (Q)<br/><u>in which political authority is challenged as a result</u> (R)<br/><u>regime or system of rule tells us little about the circumstances</u> (S)",
+            "options": [
+                "P Q R S",
+                "S P Q R",
+                "Q R P S",
+                "Q S R P"
+            ],
+            "answer": "Q S R P"
+        },
+        {
+            "direction": "<b>IDIOMS AND PHRASES</b><br/><br/><b>Directions :</b> Each of the following questions has underlined idioms/phrases. Each sentence is followed by four options. Choose the option that best describes the meaning of the underlined idiom/phrase.",
+            "question": "I always preferred to study Physics and Mathematics, now choosing Economics and Literature for further studies is another <u>kettle of fish</u>.",
+            "options": [
+                "Completely different matter",
+                "Slightly different matter",
+                "Completely difficult matter",
+                "Doing things in a hurry"
+            ],
+            "answer": "Completely different matter"
+        },
+        {
+            "direction": "<b>IDIOMS AND PHRASES</b><br/><br/><b>Directions :</b> Each of the following questions has underlined idioms/phrases. Each sentence is followed by four options. Choose the option that best describes the meaning of the underlined idiom/phrase.",
+            "question": "He criticised the participants for <u>sitting on the fence</u> and not contributing in finalising the report.",
+            "options": [
+                "Not following the rules",
+                "Taking sides",
+                "Not taking a decision",
+                "Showing no respect to the Chair"
+            ],
+            "answer": "Not taking a decision"
+        },
+        {
+            "direction": "<b>IDIOMS AND PHRASES</b><br/><br/><b>Directions :</b> Each of the following questions has underlined idioms/phrases. Each sentence is followed by four options. Choose the option that best describes the meaning of the underlined idiom/phrase.",
+            "question": "He <u>strained every nerve</u> to understand the discourse on Philosophy.",
+            "options": [
+                "Tried hard",
+                "Criticized",
+                "Tried half heartedly",
+                "Raised questions"
+            ],
+            "answer": "Tried hard"
+        },
+        {
+            "direction": "<b>IDIOMS AND PHRASES</b><br/><br/><b>Directions :</b> Each of the following questions has underlined idioms/phrases. Each sentence is followed by four options. Choose the option that best describes the meaning of the underlined idiom/phrase.",
+            "question": "When it comes to using technology, she is completely <u>at sea</u>.",
+            "options": [
+                "Relaxed",
+                "Confused",
+                "Comfortable",
+                "Prepared"
+            ],
+            "answer": "Confused"
+        },
+        {
+            "direction": "<b>IDIOMS AND PHRASES</b><br/><br/><b>Directions :</b> Each of the following questions has underlined idioms/phrases. Each sentence is followed by four options. Choose the option that best describes the meaning of the underlined idiom/phrase.",
+            "question": "He is not a great scholar but he has the <u>gift of the gab</u>.",
+            "options": [
+                "Ability to write creatively",
+                "Ability to read fluently",
+                "Ability to convince",
+                "Ability to speak confidently"
+            ],
+            "answer": "Ability to speak confidently"
+        },
+        {
+            "direction": "<b>IDIOMS AND PHRASES</b><br/><br/><b>Directions :</b> Each of the following questions has underlined idioms/phrases. Each sentence is followed by four options. Choose the option that best describes the meaning of the underlined idiom/phrase.",
+            "question": "This car belonged to Ravi, but recently it <u>changed hands</u>.",
+            "options": [
+                "Change of ownership",
+                "Change of driver",
+                "Change of mechanic",
+                "Change of machinery"
+            ],
+            "answer": "Change of ownership"
+        },
+        {
+            "direction": "<b>IDIOMS AND PHRASES</b><br/><br/><b>Directions :</b> Each of the following questions has underlined idioms/phrases. Each sentence is followed by four options. Choose the option that best describes the meaning of the underlined idiom/phrase.",
+            "question": "He turned down the new assignment; he felt that he already had too many <u>irons in the fire</u>.",
+            "options": [
+                "Having involvement in illegal activities",
+                "Having problems in completing tasks",
+                "Having financial hurdles",
+                "Having multiple tasks to complete"
+            ],
+            "answer": "Having multiple tasks to complete"
+        },
+        {
+            "direction": "<b>IDIOMS AND PHRASES</b><br/><br/><b>Directions :</b> Each of the following questions has underlined idioms/phrases. Each sentence is followed by four options. Choose the option that best describes the meaning of the underlined idiom/phrase.",
+            "question": "Something should be done to stop the <u>brain drain</u> of Indian scientists to other countries.",
+            "options": [
+                "Movement of professionals to another country for higher studies",
+                "Movement of professionals to another country for better prospect",
+                "Movement of professionals to another country for security",
+                "Movement of professionals to another country for excursion"
+            ],
+            "answer": "Movement of professionals to another country for better prospect"
+        },
+        {
+            "direction": "<b>IDIOMS AND PHRASES</b><br/><br/><b>Directions :</b> Each of the following questions has underlined idioms/phrases. Each sentence is followed by four options. Choose the option that best describes the meaning of the underlined idiom/phrase.",
+            "question": "I just need to take rest and then I'll be <u>as right as rain</u>.",
+            "options": [
+                "To be in good mental and physical state",
+                "To be physically active",
+                "To be able to recall the past events",
+                "To be able to work for long-hours"
+            ],
+            "answer": "To be in good mental and physical state"
+        },
+        {
+            "direction": "<b>IDIOMS AND PHRASES</b><br/><br/><b>Directions :</b> Each of the following questions has underlined idioms/phrases. Each sentence is followed by four options. Choose the option that best describes the meaning of the underlined idiom/phrase.",
+            "question": "<u>It is all Greek to me</u>.",
+            "options": [
+                "Something which I don't believe",
+                "Something which I don't accept",
+                "Something which I don't recognize",
+                "Something which I don't understand"
+            ],
+            "answer": "Something which I don't understand"
+        },
+        {
+            "direction": "<b>SPOTTING ERRORS</b><br/><br/><b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the answer sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>You should</u> <u>read the newspaper regularly</u> <u>to be update with current affairs.</u> <u>No error</u><br/>(a) (b) (c) (d)",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(c)"
+        },
+        {
+            "direction": "<b>SPOTTING ERRORS</b><br/><br/><b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the answer sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>Our grandparents</u> <u>will be visited</u> <u>by us this weekend.</u> <u>No error</u><br/>(a) (b) (c) (d)",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(d)"
+        },
+        {
+            "direction": "<b>SPOTTING ERRORS</b><br/><br/><b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the answer sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>However, the task is from done,</u> <u>particularly in ensuring equity in</u><br/>(a) (b)<br/><u>the distribution of quality education.</u> <u>No error</u><br/>(c) (d)",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(a)"
+        },
+        {
+            "direction": "<b>SPOTTING ERRORS</b><br/><br/><b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the answer sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>Looking ahead, the university</u> <u>is expunging revenue generation</u><br/>(a) (b)<br/><u>opportunities to add more facilities for students and staff.</u> <u>No error</u><br/>(c) (d)",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(b)"
+        },
+        {
+            "direction": "<b>SPOTTING ERRORS</b><br/><br/><b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the answer sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>If you are interested in</u> <u>applying for the job, your application</u><br/>(a) (b)<br/><u>must received by Friday.</u> <u>No error</u><br/>(c) (d)",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(c)"
+        },
+        {
+            "direction": "<b>SPOTTING ERRORS</b><br/><br/><b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the answer sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>Perhaps the biggest threat today</u> <u>is the impact of climate change on food</u><br/>(a) (b)<br/><u>systems and livelihoods of poor farmers.</u> <u>No error</u><br/>(c) (d)",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(d)"
+        },
+        {
+            "direction": "<b>SPOTTING ERRORS</b><br/><br/><b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the answer sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>In such a volatile global environment,</u> <u>it is heartening that India</u><br/>(a) (b)<br/><u>demonstrated admirable resilence and achieved robust recovery.</u> <u>No error</u><br/>(c) (d)",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(c)"
+        },
+        {
+            "direction": "<b>SPOTTING ERRORS</b><br/><br/><b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the answer sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>Write an email to your friend</u> <u>expressing you regret for not being able</u><br/>(a) (b)<br/><u>to attend his birthday party.</u> <u>No error</u><br/>(c) (d)",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(b)"
+        },
+        {
+            "direction": "<b>SPOTTING ERRORS</b><br/><br/><b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the answer sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>Migrating elephant herds appear like</u> <u>West Bengal so much that they spend more</u><br/>(a) (b)<br/><u>time here than in the neighbouring states from where they cross over.</u> <u>No error</u><br/>(c) (d)",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(a)"
+        },
+        {
+            "direction": "<b>SPOTTING ERRORS</b><br/><br/><b>Directions :</b> Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the answer sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>Trucked neatly under the pile of clothes</u> <u>in the cupboard are the letters written</u><br/>(a) (b)<br/><u>by my mother to my father thirty years ago.</u> <u>No error</u><br/>(c) (d)",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(a)"
+        },
+        {
+            "direction": "<b>SYNONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "His views on the matter are <u>utopian</u>.",
+            "options": [
+                "realistic",
+                "ideal",
+                "practicable",
+                "materialistic"
+            ],
+            "answer": "ideal"
+        },
+        {
+            "direction": "<b>SYNONYMS</b><br/><br/><b>Directions :</b> Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the answer sheet accordingly.",
+            "question": "The shortage of funds will render <u>nugatory</u> the implementation of reform policies.",
+            "options": [
+                "explicit",
+                "implicit",
+                "ineffectual",
+                "composite"
+            ],
+            "answer": "ineffectual"
         }
     ],
     "2025-I": [
