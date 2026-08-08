@@ -3581,6 +3581,270 @@ const englishData: Record<string, Question[]> = {
                 "on"
             ],
             "answer": "on"
+        },
+        {
+            "direction": "<b>PREPOSITIONS</b><br/><br/><b>Directions :</b> In this section, each of the following sentences has a blank space followed by four options. Select the most appropriate option to fill in the blank.",
+            "question": "___________ his negligence the company suffered a heavy loss.",
+            "options": [
+                "In accordance with",
+                "Instead of",
+                "On account of",
+                "In front of"
+            ],
+            "answer": "On account of"
+        },
+        {
+            "direction": "<b>PREPOSITIONS</b><br/><br/><b>Directions :</b> In this section, each of the following sentences has a blank space followed by four options. Select the most appropriate option to fill in the blank.",
+            "question": "___________ the resistance offered by the culprit, he was arrested by the police.",
+            "options": [
+                "Regarding",
+                "Respecting",
+                "Notwithstanding",
+                "Considering"
+            ],
+            "answer": "Notwithstanding"
+        },
+        {
+            "direction": "<b>PREPOSITIONS</b><br/><br/><b>Directions :</b> In this section, each of the following sentences has a blank space followed by four options. Select the most appropriate option to fill in the blank.",
+            "question": "___________ his illness, he could not finish the work on time.",
+            "options": [
+                "Subsequent for",
+                "As a consequence of",
+                "In consequence to",
+                "On account"
+            ],
+            "answer": "As a consequence of"
+        },
+        {
+            "direction": "<b>PREPOSITIONS</b><br/><br/><b>Directions :</b> In this section, each of the following sentences has a blank space followed by four options. Select the most appropriate option to fill in the blank.",
+            "question": "___________ rope ladders they scaled the wall.",
+            "options": [
+                "By means of",
+                "Throughout the",
+                "For the sake of",
+                "By way"
+            ],
+            "answer": "By means of"
+        },
+        {
+            "direction": "<b>COMPLETION OF SENTENCE</b><br/><br/><b>Directions :</b> In this section, each sentence is incomplete and is followed by four options. Select one of the four options to complete the sentence.",
+            "question": "He is diligent; therefore ___________",
+            "options": [
+                "he will not succeed",
+                "he can't succeed",
+                "he will succeed",
+                "he succeed"
+            ],
+            "answer": "he will succeed"
+        },
+        {
+            "direction": "<b>COMPLETION OF SENTENCE</b><br/><br/><b>Directions :</b> In this section, each sentence is incomplete and is followed by four options. Select one of the four options to complete the sentence.",
+            "question": "A bomb went off in the city centre, but fortunately ___________",
+            "options": [
+                "only few hurt",
+                "somebody was hurt",
+                "nobody was hurt",
+                "everybody was hurt"
+            ],
+            "answer": "nobody was hurt"
+        },
+        {
+            "direction": "<b>COMPLETION OF SENTENCE</b><br/><br/><b>Directions :</b> In this section, each sentence is incomplete and is followed by four options. Select one of the four options to complete the sentence.",
+            "question": "Each of the scholars ___________",
+            "options": [
+                "have done well",
+                "has done well",
+                "shall done well",
+                "will done well"
+            ],
+            "answer": "has done well"
+        },
+        {
+            "direction": "<b>COMPLETION OF SENTENCE</b><br/><br/><b>Directions :</b> In this section, each sentence is incomplete and is followed by four options. Select one of the four options to complete the sentence.",
+            "question": "He asked whether either of the brothers ___________",
+            "options": [
+                "were at home",
+                "are at home",
+                "was at home",
+                "have come home"
+            ],
+            "answer": "was at home"
+        },
+        {
+            "direction": "<b>COMPLETION OF SENTENCE</b><br/><br/><b>Directions :</b> In this section, each sentence is incomplete and is followed by four options. Select one of the four options to complete the sentence.",
+            "question": "One cannot be too careful of ___________",
+            "options": [
+                "his good name",
+                "their good name",
+                "whether good name",
+                "one's good name"
+            ],
+            "answer": "one's good name"
+        },
+        {
+            "direction": "<b>COMPLETION OF SENTENCE</b><br/><br/><b>Directions :</b> In this section, each sentence is incomplete and is followed by four options. Select one of the four options to complete the sentence.",
+            "question": "The applicant is the native of this country, so he has the right ___________",
+            "options": [
+                "to have vote",
+                "to vote",
+                "of vote",
+                "at vote"
+            ],
+            "answer": "to vote"
+        },
+        {
+            "direction": "<b>COMPLETION OF SENTENCE</b><br/><br/><b>Directions :</b> In this section, each sentence is incomplete and is followed by four options. Select one of the four options to complete the sentence.",
+            "question": "No sooner had he returned ___________",
+            "options": [
+                "than he was off again",
+                "but he was off again",
+                "therefore went away",
+                "thence went away"
+            ],
+            "answer": "than he was off again"
+        },
+        {
+            "direction": "<b>COMPLETION OF SENTENCE</b><br/><br/><b>Directions :</b> In this section, each sentence is incomplete and is followed by four options. Select one of the four options to complete the sentence.",
+            "question": "Fortunately the news ___________",
+            "options": [
+                "wasn't as bad as we expected",
+                "weren't as bad as we expected",
+                "couldn't as bad as we expected",
+                "happened with as bad as we expected"
+            ],
+            "answer": "wasn't as bad as we expected"
+        },
+        {
+            "direction": "<b>COMPLETION OF SENTENCE</b><br/><br/><b>Directions :</b> In this section, each sentence is incomplete and is followed by four options. Select one of the four options to complete the sentence.",
+            "question": "When I was on holiday, ___________",
+            "options": [
+                "my whole luggage were stolen",
+                "my part luggage was stolen",
+                "all my luggage was stolen",
+                "my some luggage was stolen"
+            ],
+            "answer": "all my luggage was stolen"
+        },
+        {
+            "direction": "<b>COMPLETION OF SENTENCE</b><br/><br/><b>Directions :</b> In this section, each sentence is incomplete and is followed by four options. Select one of the four options to complete the sentence.",
+            "question": "I got up very early, ___________",
+            "options": [
+                "but Jack got up much before",
+                "but Jack got up even before",
+                "but Jack got up earlier to me",
+                "but Jack got up even earlier"
+            ],
+            "answer": "but Jack got up even earlier"
+        },
+        {
+            "direction": "<b>COMPREHENSION</b><br/><br/><b>Directions :</b> In this section you have TWO short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage &ndash; I</b><br/><br/>What is truth ? said jesting Pilate, and would not stay for an answer. Certainly there be, that delight in giddiness, and count it a bondage to fix a belief; affecting free-will in thinking, as well as in acting. And though the sects of philosophers of that kind be gone, yet there remain certain discoursing wits, which are of the same veins, though there be not so much blood in them, as was in those of the ancients. But it is not only the difficulty and labour, which men take in finding out of truth, nor again, that when it is found, it imposeth upon man's thoughts, that doth bring lies in favour; but a natural though corrupt love of the lie itself. One of the later school of the Grecians, examineth matter, and is at a stand to think what should be in it, that men should love lies; where neither they make for pleasure as with poets, nor for advantage, as with the merchants; but for the lie's sake. But I cannot tell; this same truth, is a naked, and open day-light, that doth not show the masks, and mummeries, and triumphs, of the world, half so stately and daintily as candle-lights. Truth may perhaps come to the price of a pearl, that showeth best by day; but it will not rise to the price of a diamond, or carbuncle, that showeth best in varied lights. A mixture of a lie doth ever add pleasure. Doth any man doubt, that if there were taken out of men's minds, vain opinions, flattering hopes, false valuations, imaginations as one would, and the like, but it would leave the minds, of a number of men, poor shrunken things, full of melancholy and indisposition, and unpleasing to themselves ?",
+            "question": "What is the writers' idea of 'truth' in the paragraph ?",
+            "options": [
+                "Truth and divinity go hand-in-hand",
+                "Truth can be told and avoided conveniently",
+                "Truth is a compulsion sometimes",
+                "Truth may be a choice of ancient Grecians"
+            ],
+            "answer": "Truth is a compulsion sometimes"
+        },
+        {
+            "direction": "<b>COMPREHENSION</b><br/><br/><b>Directions :</b> In this section you have TWO short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage &ndash; I</b><br/><br/>What is truth ? said jesting Pilate, and would not stay for an answer. Certainly there be, that delight in giddiness, and count it a bondage to fix a belief; affecting free-will in thinking, as well as in acting. And though the sects of philosophers of that kind be gone, yet there remain certain discoursing wits, which are of the same veins, though there be not so much blood in them, as was in those of the ancients. But it is not only the difficulty and labour, which men take in finding out of truth, nor again, that when it is found, it imposeth upon man's thoughts, that doth bring lies in favour; but a natural though corrupt love of the lie itself. One of the later school of the Grecians, examineth matter, and is at a stand to think what should be in it, that men should love lies; where neither they make for pleasure as with poets, nor for advantage, as with the merchants; but for the lie's sake. But I cannot tell; this same truth, is a naked, and open day-light, that doth not show the masks, and mummeries, and triumphs, of the world, half so stately and daintily as candle-lights. Truth may perhaps come to the price of a pearl, that showeth best by day; but it will not rise to the price of a diamond, or carbuncle, that showeth best in varied lights. A mixture of a lie doth ever add pleasure. Doth any man doubt, that if there were taken out of men's minds, vain opinions, flattering hopes, false valuations, imaginations as one would, and the like, but it would leave the minds, of a number of men, poor shrunken things, full of melancholy and indisposition, and unpleasing to themselves ?",
+            "question": "Why do men love lies ?",
+            "options": [
+                "For advantage",
+                "For the love of lying",
+                "For the sake of lies",
+                "A lie is imaginative"
+            ],
+            "answer": "For the sake of lies"
+        },
+        {
+            "direction": "<b>COMPREHENSION</b><br/><br/><b>Directions :</b> In this section you have TWO short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage &ndash; I</b><br/><br/>What is truth ? said jesting Pilate, and would not stay for an answer. Certainly there be, that delight in giddiness, and count it a bondage to fix a belief; affecting free-will in thinking, as well as in acting. And though the sects of philosophers of that kind be gone, yet there remain certain discoursing wits, which are of the same veins, though there be not so much blood in them, as was in those of the ancients. But it is not only the difficulty and labour, which men take in finding out of truth, nor again, that when it is found, it imposeth upon man's thoughts, that doth bring lies in favour; but a natural though corrupt love of the lie itself. One of the later school of the Grecians, examineth matter, and is at a stand to think what should be in it, that men should love lies; where neither they make for pleasure as with poets, nor for advantage, as with the merchants; but for the lie's sake. But I cannot tell; this same truth, is a naked, and open day-light, that doth not show the masks, and mummeries, and triumphs, of the world, half so stately and daintily as candle-lights. Truth may perhaps come to the price of a pearl, that showeth best by day; but it will not rise to the price of a diamond, or carbuncle, that showeth best in varied lights. A mixture of a lie doth ever add pleasure. Doth any man doubt, that if there were taken out of men's minds, vain opinions, flattering hopes, false valuations, imaginations as one would, and the like, but it would leave the minds, of a number of men, poor shrunken things, full of melancholy and indisposition, and unpleasing to themselves ?",
+            "question": "Which metaphor is used in the passage to compare the value of truth and lies ?",
+            "options": [
+                "Pearls versus diamonds",
+                "Beauty versus plain unadorned truth",
+                "Ease versus difficulty",
+                "Deception versus sincerity"
+            ],
+            "answer": "Pearls versus diamonds"
+        },
+        {
+            "direction": "<b>COMPREHENSION</b><br/><br/><b>Directions :</b> In this section you have TWO short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage &ndash; I</b><br/><br/>What is truth ? said jesting Pilate, and would not stay for an answer. Certainly there be, that delight in giddiness, and count it a bondage to fix a belief; affecting free-will in thinking, as well as in acting. And though the sects of philosophers of that kind be gone, yet there remain certain discoursing wits, which are of the same veins, though there be not so much blood in them, as was in those of the ancients. But it is not only the difficulty and labour, which men take in finding out of truth, nor again, that when it is found, it imposeth upon man's thoughts, that doth bring lies in favour; but a natural though corrupt love of the lie itself. One of the later school of the Grecians, examineth matter, and is at a stand to think what should be in it, that men should love lies; where neither they make for pleasure as with poets, nor for advantage, as with the merchants; but for the lie's sake. But I cannot tell; this same truth, is a naked, and open day-light, that doth not show the masks, and mummeries, and triumphs, of the world, half so stately and daintily as candle-lights. Truth may perhaps come to the price of a pearl, that showeth best by day; but it will not rise to the price of a diamond, or carbuncle, that showeth best in varied lights. A mixture of a lie doth ever add pleasure. Doth any man doubt, that if there were taken out of men's minds, vain opinions, flattering hopes, false valuations, imaginations as one would, and the like, but it would leave the minds, of a number of men, poor shrunken things, full of melancholy and indisposition, and unpleasing to themselves ?",
+            "question": "What literary device does the author use when he says, \"truth is naked\" ?",
+            "options": [
+                "symbolism",
+                "personification",
+                "allegory",
+                "paradox"
+            ],
+            "answer": "personification"
+        },
+        {
+            "direction": "<b>COMPREHENSION</b><br/><br/><b>Directions :</b> In this section you have TWO short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage &ndash; I</b><br/><br/>What is truth ? said jesting Pilate, and would not stay for an answer. Certainly there be, that delight in giddiness, and count it a bondage to fix a belief; affecting free-will in thinking, as well as in acting. And though the sects of philosophers of that kind be gone, yet there remain certain discoursing wits, which are of the same veins, though there be not so much blood in them, as was in those of the ancients. But it is not only the difficulty and labour, which men take in finding out of truth, nor again, that when it is found, it imposeth upon man's thoughts, that doth bring lies in favour; but a natural though corrupt love of the lie itself. One of the later school of the Grecians, examineth matter, and is at a stand to think what should be in it, that men should love lies; where neither they make for pleasure as with poets, nor for advantage, as with the merchants; but for the lie's sake. But I cannot tell; this same truth, is a naked, and open day-light, that doth not show the masks, and mummeries, and triumphs, of the world, half so stately and daintily as candle-lights. Truth may perhaps come to the price of a pearl, that showeth best by day; but it will not rise to the price of a diamond, or carbuncle, that showeth best in varied lights. A mixture of a lie doth ever add pleasure. Doth any man doubt, that if there were taken out of men's minds, vain opinions, flattering hopes, false valuations, imaginations as one would, and the like, but it would leave the minds, of a number of men, poor shrunken things, full of melancholy and indisposition, and unpleasing to themselves ?",
+            "question": "What would happen if truths were not mixed with lies ?",
+            "options": [
+                "There would not be any pleasure in the pursuit of truth",
+                "Truth would be clear and undiluted",
+                "Lies would no longer be necessary",
+                "The beauty of truth would shine forth"
+            ],
+            "answer": "There would not be any pleasure in the pursuit of truth"
+        },
+        {
+            "direction": "<b>COMPREHENSION</b><br/><br/><b>Directions :</b> In this section you have TWO short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage &ndash; II</b><br/><br/>The 'law' is an enterprise that seeks to rule us all from cradle to the grave, whether as constitution confronting custom, or as custom confronting constitution, and often indeed as the diverse combinatory prowess of both. The very notion of enterprise suggests risk-taking i.e., risk as a site for both opportunity as well as failure for regulation or felicitation of approved social conduct. At the same moment, this coupling of the constitutional and custom is at the outset designed to pluralise the notion of legal literacy, a message yet to be fully constructed and conveyed co-equally to those who govern us and those who would resist domination. As citizens, we are supposed to know the law made by the state, whether we intend to obey it or break it. As members of cultural and religious communities, we also need to know the norms that define our membership of these collectives. Often, our identity and obligations as members of a political society and of diverse memberships within cultural and religious communities constitute spheres of peaceful coexistence. Often, too these collide. To decide what obligations ought to have precedence, each one of us in collision situations has to know a great deal about the law of the state and that constituting community and identity other than the political. Literacy in state law is important but never enough for an understanding of multiple sources of obligations that constantly press upon us. This invites engagement with many difficult questions including what we may want to mean by literacy, law, domination, and resistance. Further, the question always is : how far do resources of legal literacy endow us with resources of justice for all and care of self and care for others ?",
+            "question": "According to the author, legal literacy",
+            "options": [
+                "needs to be interpreted and understood in consonance with elements of social custom and justice",
+                "needs to be interpreted and understood in consonance with elements of economic and psycho-logical factors and law",
+                "needs to be interpreted and understood in terms of unjust existence of human being and justice",
+                "needs to be interpreted and understood in consonance with elements of environmental conservation and law"
+            ],
+            "answer": "needs to be interpreted and understood in consonance with elements of social custom and justice"
+        },
+        {
+            "direction": "<b>COMPREHENSION</b><br/><br/><b>Directions :</b> In this section you have TWO short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage &ndash; II</b><br/><br/>The 'law' is an enterprise that seeks to rule us all from cradle to the grave, whether as constitution confronting custom, or as custom confronting constitution, and often indeed as the diverse combinatory prowess of both. The very notion of enterprise suggests risk-taking i.e., risk as a site for both opportunity as well as failure for regulation or felicitation of approved social conduct. At the same moment, this coupling of the constitutional and custom is at the outset designed to pluralise the notion of legal literacy, a message yet to be fully constructed and conveyed co-equally to those who govern us and those who would resist domination. As citizens, we are supposed to know the law made by the state, whether we intend to obey it or break it. As members of cultural and religious communities, we also need to know the norms that define our membership of these collectives. Often, our identity and obligations as members of a political society and of diverse memberships within cultural and religious communities constitute spheres of peaceful coexistence. Often, too these collide. To decide what obligations ought to have precedence, each one of us in collision situations has to know a great deal about the law of the state and that constituting community and identity other than the political. Literacy in state law is important but never enough for an understanding of multiple sources of obligations that constantly press upon us. This invites engagement with many difficult questions including what we may want to mean by literacy, law, domination, and resistance. Further, the question always is : how far do resources of legal literacy endow us with resources of justice for all and care of self and care for others ?",
+            "question": "As a citizen one is supposed to",
+            "options": [
+                "make a balance between the legal aspects and cultural existence",
+                "give a priority to our cultural existence.",
+                "give a priority to constitutional provisions.",
+                "know that knowledge about constitutional regulation is an impediment to cultural existence."
+            ],
+            "answer": "make a balance between the legal aspects and cultural existence"
+        },
+        {
+            "direction": "<b>COMPREHENSION</b><br/><br/><b>Directions :</b> In this section you have TWO short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage &ndash; II</b><br/><br/>The 'law' is an enterprise that seeks to rule us all from cradle to the grave, whether as constitution confronting custom, or as custom confronting constitution, and often indeed as the diverse combinatory prowess of both. The very notion of enterprise suggests risk-taking i.e., risk as a site for both opportunity as well as failure for regulation or felicitation of approved social conduct. At the same moment, this coupling of the constitutional and custom is at the outset designed to pluralise the notion of legal literacy, a message yet to be fully constructed and conveyed co-equally to those who govern us and those who would resist domination. As citizens, we are supposed to know the law made by the state, whether we intend to obey it or break it. As members of cultural and religious communities, we also need to know the norms that define our membership of these collectives. Often, our identity and obligations as members of a political society and of diverse memberships within cultural and religious communities constitute spheres of peaceful coexistence. Often, too these collide. To decide what obligations ought to have precedence, each one of us in collision situations has to know a great deal about the law of the state and that constituting community and identity other than the political. Literacy in state law is important but never enough for an understanding of multiple sources of obligations that constantly press upon us. This invites engagement with many difficult questions including what we may want to mean by literacy, law, domination, and resistance. Further, the question always is : how far do resources of legal literacy endow us with resources of justice for all and care of self and care for others ?",
+            "question": "The above passage deals in",
+            "options": [
+                "Law and Justice",
+                "Legal Literacy",
+                "Literacy and Education",
+                "Constitutional Law"
+            ],
+            "answer": "Legal Literacy"
+        },
+        {
+            "direction": "<b>COMPREHENSION</b><br/><br/><b>Directions :</b> In this section you have TWO short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage &ndash; II</b><br/><br/>The 'law' is an enterprise that seeks to rule us all from cradle to the grave, whether as constitution confronting custom, or as custom confronting constitution, and often indeed as the diverse combinatory prowess of both. The very notion of enterprise suggests risk-taking i.e., risk as a site for both opportunity as well as failure for regulation or felicitation of approved social conduct. At the same moment, this coupling of the constitutional and custom is at the outset designed to pluralise the notion of legal literacy, a message yet to be fully constructed and conveyed co-equally to those who govern us and those who would resist domination. As citizens, we are supposed to know the law made by the state, whether we intend to obey it or break it. As members of cultural and religious communities, we also need to know the norms that define our membership of these collectives. Often, our identity and obligations as members of a political society and of diverse memberships within cultural and religious communities constitute spheres of peaceful coexistence. Often, too these collide. To decide what obligations ought to have precedence, each one of us in collision situations has to know a great deal about the law of the state and that constituting community and identity other than the political. Literacy in state law is important but never enough for an understanding of multiple sources of obligations that constantly press upon us. This invites engagement with many difficult questions including what we may want to mean by literacy, law, domination, and resistance. Further, the question always is : how far do resources of legal literacy endow us with resources of justice for all and care of self and care for others ?",
+            "question": "According to the writer 'diverse combinatory prowess' means",
+            "options": [
+                "A process of evolving a legal and constitutional system of cohesive elements.",
+                "A provision of evolving a law of customary practices by avoiding constitutional provisions",
+                "A provision of evolving constitutional laws by neglecting customary practices",
+                "A process of combining contrasting elements into a competent legal mechanism"
+            ],
+            "answer": "A process of combining contrasting elements into a competent legal mechanism"
+        },
+        {
+            "direction": "<b>COMPREHENSION</b><br/><br/><b>Directions :</b> In this section you have TWO short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage &ndash; II</b><br/><br/>The 'law' is an enterprise that seeks to rule us all from cradle to the grave, whether as constitution confronting custom, or as custom confronting constitution, and often indeed as the diverse combinatory prowess of both. The very notion of enterprise suggests risk-taking i.e., risk as a site for both opportunity as well as failure for regulation or felicitation of approved social conduct. At the same moment, this coupling of the constitutional and custom is at the outset designed to pluralise the notion of legal literacy, a message yet to be fully constructed and conveyed co-equally to those who govern us and those who would resist domination. As citizens, we are supposed to know the law made by the state, whether we intend to obey it or break it. As members of cultural and religious communities, we also need to know the norms that define our membership of these collectives. Often, our identity and obligations as members of a political society and of diverse memberships within cultural and religious communities constitute spheres of peaceful coexistence. Often, too these collide. To decide what obligations ought to have precedence, each one of us in collision situations has to know a great deal about the law of the state and that constituting community and identity other than the political. Literacy in state law is important but never enough for an understanding of multiple sources of obligations that constantly press upon us. This invites engagement with many difficult questions including what we may want to mean by literacy, law, domination, and resistance. Further, the question always is : how far do resources of legal literacy endow us with resources of justice for all and care of self and care for others ?",
+            "question": "Which among the following is closest in meaning to the word 'resistance' ?",
+            "options": [
+                "conforming",
+                "promotion",
+                "defiance",
+                "liberating"
+            ],
+            "answer": "defiance"
         }
     ],
     "2025-I": [
