@@ -1,6 +1,258 @@
 import type { Question } from "@/types/Question";
 
 const englishData: Record<string, Question[]> = {
+  "2023-II": [
+    {
+        "question": "<b>Directions :</b> Match the underlined word in each of the following sentences with the correct parts of speech and indicate your response on the answer sheet accordingly.<br/><br/>The artist <u>pranced</u> around the stage singing enthusiastically.",
+        "options": [
+            "Noun",
+            "Adjective",
+            "Adverb",
+            "Verb"
+        ],
+        "answer": "Verb"
+    },
+    {
+        "question": "Put the fork and knife <u>in</u> the cutlery box.",
+        "options": [
+            "Preposition",
+            "Verb",
+            "Conjunction",
+            "Determiner"
+        ],
+        "answer": "Preposition"
+    },
+    {
+        "question": "She came <u>slowly</u> up to the main door.",
+        "options": [
+            "Adjective",
+            "Adverb",
+            "Verb",
+            "Pronoun"
+        ],
+        "answer": "Adverb"
+    },
+    {
+        "question": "<u>Oh no!</u> I am getting late for the function.",
+        "options": [
+            "Preposition",
+            "Article",
+            "Noun",
+            "Interjection"
+        ],
+        "answer": "Interjection"
+    },
+    {
+        "question": "<u>They</u> are all going to attend the function.",
+        "options": [
+            "Noun",
+            "Adverb",
+            "Pronoun",
+            "Conjunction"
+        ],
+        "answer": "Pronoun"
+    },
+    {
+        "question": "The sun shone through the <u>dull</u> grey clouds.",
+        "options": [
+            "Noun",
+            "Adverb",
+            "Verb",
+            "Adjective"
+        ],
+        "answer": "Adjective"
+    },
+    {
+        "question": "The Principal is presiding <u>over</u> the meeting.",
+        "options": [
+            "Verb",
+            "Noun",
+            "Adjective",
+            "Preposition"
+        ],
+        "answer": "Preposition"
+    },
+    {
+        "question": "Cash machines <u>permit</u> people to withdraw money at any time.",
+        "options": [
+            "Verb",
+            "Noun",
+            "Pronoun",
+            "Adverb"
+        ],
+        "answer": "Verb"
+    },
+    {
+        "question": "The novel is <u>loosely</u> based on his childhood in England.",
+        "options": [
+            "Verb",
+            "Adverb",
+            "Noun",
+            "Adjective"
+        ],
+        "answer": "Adverb"
+    },
+    {
+        "question": "Since children have so much homework to do their <u>playtime</u> is very limited.",
+        "options": [
+            "Verb",
+            "Adjective",
+            "Pronoun",
+            "Noun"
+        ],
+        "answer": "Noun"
+    },
+    {
+        "question": "<b>FILL IN THE BLANKS</b><br/><br/><b>Directions :</b> In this section each of the following sentences has a blank space and each sentence is followed by four options. Select the most appropriate option to fill the blank space.<br/><br/>Another version of the play based on the text was re-enacted successfully after the prosecution and eventual ________ of enacting the play in public theatre by the Government.",
+        "options": [
+            "prescription",
+            "proscription",
+            "proscribing",
+            "screening"
+        ],
+        "answer": "proscription"
+    },
+    {
+        "question": "Ravi remembers the year when there was a ________ flood.",
+        "options": [
+            "ravage",
+            "devastating",
+            "salubrious",
+            "ameliorative"
+        ],
+        "answer": "devastating"
+    },
+    {
+        "question": "Davis is not sure whether he should ________ the forest guest house after dark.",
+        "options": [
+            "stay",
+            "leave",
+            "left",
+            "leaves"
+        ],
+        "answer": "leave"
+    },
+    {
+        "question": "They ________ as responsible people do during the difficult situation.",
+        "options": [
+            "behaves",
+            "behaved",
+            "behaving",
+            "belief"
+        ],
+        "answer": "behaved"
+    },
+    {
+        "question": "Criminal law has taken long ________ in facilitating access to justice for women by making various provisions.",
+        "options": [
+            "stand",
+            "strides",
+            "aside",
+            "walk"
+        ],
+        "answer": "strides"
+    },
+    {
+        "question": "Many laws have been made to deal with the problems of ________ against women.",
+        "options": [
+            "offences",
+            "terror",
+            "criminals",
+            "difficulties"
+        ],
+        "answer": "offences"
+    },
+    {
+        "question": "A person purchasing goods and services for commercial purposes will also not come under the ________ of this act.",
+        "options": [
+            "review",
+            "view",
+            "limits",
+            "purview"
+        ],
+        "answer": "purview"
+    },
+    {
+        "question": "The emergence of a sovereign Indian nation was ________ on the notion of equality.",
+        "options": [
+            "promised",
+            "looked",
+            "premised",
+            "depend"
+        ],
+        "answer": "premised"
+    },
+    {
+        "question": "In Manipur, the most important piece of literary work that continues to ________ a sense of patriotism is 'Khongjom Parva'.",
+        "options": [
+            "instil",
+            "install",
+            "installs",
+            "installed"
+        ],
+        "answer": "instil"
+    },
+    {
+        "question": "Women's autobiographies in the post-Independence period can be seen as ________ of their literary interest.",
+        "options": [
+            "subsistence",
+            "insistence",
+            "evidence",
+            "dependence"
+        ],
+        "answer": "evidence"
+    },
+    {
+        "question": "<b>ORDERING OF WORDS IN A SENTENCE</b><br/><br/><b>Directions :</b> Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence has four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly.<br/><br/><u>was gradually engulfing the society with its concomitant</u> (P)<br/><u>one could not overlook the diminishing religiosity which</u> (Q)<br/><u>while plays with mythological content continued to be in vogue</u> (R)<br/><u>implication for the stage from the third decade of the twentieth century</u> (S)",
+        "options": [
+            "P Q R S",
+            "R Q P S",
+            "Q P S R",
+            "Q R P S"
+        ],
+        "answer": "R Q P S"
+    },
+    {
+        "question": "<u>defends private property, emphasizes the virtues of competition</u> (P)<br/><u>but also as an ideology in its own right, specifically one that</u> (Q)<br/><u>and suggests that general prosperity will result from the pursuit of self-interest</u> (R)<br/><u>capitalism, for instance, is sometimes treated not merely as an economic system</u> (S)",
+        "options": [
+            "P Q R S",
+            "S R Q P",
+            "S Q P R",
+            "Q R S P"
+        ],
+        "answer": "S Q P R"
+    },
+    {
+        "question": "<u>the equality provisions in the Constitution</u> (P)<br/><u>nor are they confined to individuals as bearers of rights</u> (Q)<br/><u>are not merely anti-discriminatory, based on the assumption of neutrality</u> (R)<br/><u>of the state towards all citizens</u> (S)",
+        "options": [
+            "P R S Q",
+            "S Q R P",
+            "P R Q S",
+            "R Q S P"
+        ],
+        "answer": "P R S Q"
+    },
+    {
+        "question": "<u>learning-teaching process continued seamlessly</u> (P)<br/><u>but it took it in its stride, pulling through enough</u> (Q)<br/><u>innovations to ensure that the</u> (R)<br/><u>the pandemic year was a challenge for the university</u> (S)",
+        "options": [
+            "P Q R S",
+            "Q P R S",
+            "S Q R P",
+            "S P Q R"
+        ],
+        "answer": "S Q R P"
+    },
+    {
+        "question": "<u>proscribed at the slightest hint of any seditious intent</u> (P)<br/><u>the Dramatic Performances Act effectively marked the end of direct</u> (Q)<br/><u>political activism what little had been demonstrated</u> (R)<br/><u>in the Bengali public theatre although some plays continued to be</u> (S)",
+        "options": [
+            "S P R Q",
+            "S R Q P",
+            "Q S P R",
+            "Q R S P"
+        ],
+        "answer": "Q R S P"
+    }
+  ],
   "2025-I": [
     {
           "question": "<b>Directions :</b> Each of the sentences in the following items has an underlined word, followed by four choices. Select the most appropriate option that is an improvement of the underlined word in the context of the sentence, and mark your response on the Answer Sheet accordingly.<br/><br/>The officer under suspension felt <u>intimated</u> by the committee members during his interrogation regarding the allegations against him.",
