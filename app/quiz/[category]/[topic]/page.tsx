@@ -154,6 +154,11 @@ export default function QuizPage({
                   </div>
                   
                   <div className="p-6 border-b-2 border-gray-600">
+                    {currentQuestion.direction && (
+                      <div className="mb-4 p-4 bg-blue-900/30 border-l-4 border-blue-500 rounded-r-md">
+                        <p className="text-blue-200 text-sm italic" dangerouslySetInnerHTML={{ __html: currentQuestion.direction }} />
+                      </div>
+                    )}
                     <p className="text-xl text-white leading-relaxed">
                       <span
                         dangerouslySetInnerHTML={{
