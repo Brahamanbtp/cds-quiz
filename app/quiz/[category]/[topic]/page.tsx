@@ -28,8 +28,38 @@ export default function QuizPage({
 
   useEffect(() => {
     setCategoryTitle(categoryTitles[category] || category);
+    
+    // Check localStorage first
+    const savedState = localStorage.getItem(`quiz_${category}_${topic}`);
+    if (savedState) {
+      try {
+        const parsed = JSON.parse(savedState);
+        setQuestions(parsed.questions);
+        setUserAnswers(parsed.userAnswers);
+        setQuizCompleted(parsed.quizCompleted);
+        setScore(parsed.score);
+        setLoading(false);
+        return;
+      } catch (e) {
+        console.error("Failed to parse saved state", e);
+      }
+    }
+    
     shuffleQuestions();
   }, [category, topic]);
+
+  // Save state to localStorage whenever it changes
+  useEffect(() => {
+    if (questions.length > 0) {
+      const stateToSave = {
+        questions,
+        userAnswers,
+        quizCompleted,
+        score
+      };
+      localStorage.setItem(`quiz_${category}_${topic}`, JSON.stringify(stateToSave));
+    }
+  }, [questions, userAnswers, quizCompleted, score, category, topic]);
 
   const shuffleQuestions = async () => {
     setLoading(true);
@@ -96,6 +126,7 @@ export default function QuizPage({
     setUserAnswers({});
     setQuizCompleted(false);
     setScore(0);
+    localStorage.removeItem(`quiz_${category}_${topic}`);
     shuffleQuestions();
     window.scrollTo(0, 0);
   };
@@ -191,7 +222,7 @@ export default function QuizPage({
                     {question.options.map((option, optionIndex) => (
                       <button
                         key={optionIndex}
-                        className={`p-3 text-left transition-colors ${userAnswers[index] === option && !quizCompleted
+                        className={`w-full p-3 text-left transition-colors ${userAnswers[index] === option && !quizCompleted
                             ? "bg-blue-900 border-2 border-blue-600"
                             : "border-2 border-gray-700 hover:bg-gray-800"
                           } ${quizCompleted
