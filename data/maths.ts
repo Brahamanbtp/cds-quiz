@@ -901,6 +901,106 @@ const mathsData: Record<string, Question[]> = {
             "1, 2 and 3"
         ],
         "answer": "1, 2 and 3"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next ten (10) items that follow :<br/><br/><i>Question :</i> Is m &gt; n if m, n are real numbers ?<br/><br/><i>Statement-I :</i><br/>m = (1 &minus; p) (p<sup>2</sup> + p + 1) and<br/>n = (p + 1) (p<sup>2</sup> &minus; p + 1)<br/><br/><i>Statement-II :</i><br/>m = pn",
+        "options": [
+            "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+            "The question can be answered by using either statement alone.",
+            "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+            "The question cannot be answered even by using both the statements together."
+        ],
+        "answer": "The question cannot be answered even by using both the statements together."
+    },
+    {
+        "question": "<i>Question :</i> What is the other root of the quadratic equation with real coefficients if one of the roots is <sup>(&minus; 4 &minus; &radic;10)</sup>&frasl;<sub>2</sub> ?<br/><br/><i>Statement-I :</i><br/>The product of the roots is &minus; <sup>3</sup>&frasl;<sub>2</sub> (3 + &radic;10).<br/><br/><i>Statement-II :</i><br/>The sum of roots of quadratic equation is &minus; 1.",
+        "options": [
+            "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+            "The question can be answered by using either statement alone.",
+            "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+            "The question cannot be answered even by using both the statements together."
+        ],
+        "answer": "The question can be answered by using either statement alone."
+    },
+    {
+        "question": "<i>Question :</i> What is the 3-digit number which is divisible by 10 ?<br/><br/><i>Statement-I :</i><br/>If the digits in hundred's place and ten's place of the number are interchanged, the resulting number is diminished by 180.<br/><br/><i>Statement-II :</i><br/>If the digit in hundred's place is halved and digit in ten's place and unit place of the number are interchanged, the resulting number is diminished by 336.",
+        "options": [
+            "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+            "The question can be answered by using either statement alone.",
+            "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+            "The question cannot be answered even by using both the statements together."
+        ],
+        "answer": "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone."
+    },
+    {
+        "question": "<i>Question :</i> Are x, y, z equal, where x, y, z are real numbers ?<br/><br/><i>Statement-I :</i><br/>x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> &minus; xy &minus; yz &minus; zx = 0<br/><br/><i>Statement-II :</i><br/>x<sup>3</sup> + y<sup>3</sup> + z<sup>3</sup> &minus; 3xyz = 0",
+        "options": [
+            "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+            "The question can be answered by using either statement alone.",
+            "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+            "The question cannot be answered even by using both the statements together."
+        ],
+        "answer": "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone."
+    },
+    {
+        "question": "<i>Question :</i> What is the ratio x : y : z equal to if x, y, z &ne; 0 ?<br/><br/><i>Statement-I :</i><br/><sup>(x + z)</sup>&frasl;<sub>y</sub> = <sup>z</sup>&frasl;<sub>x</sub><br/><br/><i>Statement-II :</i><br/><sup>(z &minus; y)</sup>&frasl;<sub>x</sub> = <sup>x</sup>&frasl;<sub>z</sub>",
+        "options": [
+            "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+            "The question can be answered by using either statement alone.",
+            "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+            "The question cannot be answered even by using both the statements together."
+        ],
+        "answer": "The question can be answered by using both the statements together, but cannot be answered using either statement alone."
+    },
+    {
+        "question": "<i>Question :</i> What is the sum of two natural numbers ?<br/><br/><i>Statement-I :</i><br/>LCM of the two numbers is 144.<br/><br/><i>Statement-II :</i><br/>One of the numbers is 72.",
+        "options": [
+            "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+            "The question can be answered by using either statement alone.",
+            "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+            "The question cannot be answered even by using both the statements together."
+        ],
+        "answer": "The question cannot be answered even by using both the statements together."
+    },
+    {
+        "question": "<i>Question :</i> Is average of the largest and the smallest of 4 given numbers greater than the average of the 4 numbers ?<br/><br/><i>Statement-I :</i><br/>The difference between the largest and the second largest numbers is less than the difference between the second smallest and the smallest of the numbers.<br/><br/><i>Statement-II :</i><br/>The difference between the largest and the smallest numbers is greater than the difference between the second largest and the second smallest of the numbers.",
+        "options": [
+            "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+            "The question can be answered by using either statement alone.",
+            "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+            "The question cannot be answered even by using both the statements together."
+        ],
+        "answer": "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone."
+    },
+    {
+        "question": "<i>Question :</i> Is (a &minus; b + c) &gt; (a + b &minus; c), where a, b and c are real numbers ?<br/><br/><i>Statement-I :</i><br/>b is negative.<br/><br/><i>Statement-II :</i><br/>c is negative.",
+        "options": [
+            "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+            "The question can be answered by using either statement alone.",
+            "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+            "The question cannot be answered even by using both the statements together."
+        ],
+        "answer": "The question cannot be answered even by using both the statements together."
+    },
+    {
+        "question": "<i>Question :</i> What is the cost of 15 pens, 21 pencils and 18 note books ?<br/><br/><i>Statement-I :</i><br/>The cost of 7 pens, 6 pencils and 5 note books is &#x20B9; 200.<br/><br/><i>Statement-II :</i><br/>The cost of 3 pens, 8 pencils and 7 note books is &#x20B9; 210.",
+        "options": [
+            "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+            "The question can be answered by using either statement alone.",
+            "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+            "The question cannot be answered even by using both the statements together."
+        ],
+        "answer": "The question can be answered by using both the statements together, but cannot be answered using either statement alone."
+    },
+    {
+        "question": "<i>Question :</i> What is the area of the triangle inscribed in a semi-circle with the diameter as the base ?<br/><br/><i>Statement-I :</i><br/>The diameter of semi-circle is 20 cm.<br/><br/><i>Statement-II :</i><br/>Two shorter sides of the triangle are 12 cm and 16 cm.",
+        "options": [
+            "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+            "The question can be answered by using either statement alone.",
+            "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+            "The question cannot be answered even by using both the statements together."
+        ],
+        "answer": "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone."
     }
   ],
   "2024-I": [
