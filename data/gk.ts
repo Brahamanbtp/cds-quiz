@@ -6961,6 +6961,256 @@ const gkData: Record<string, Question[]> = {
                 "It was established to extend the benefits of knowledge and skill for development of individuals and society by associating closely with local, regional and national issues of development."
             ],
             "answer": "It was established primarily to support the Indian Navy."
+        },
+        {
+            "question": "Which of the following pairs is/are correctly matched ?\n<div class=\"flex justify-between my-2\"><div><b>Plateau</b><br/>1. Abyssinian<br/>2. Patagonian<br/>3. Anatolian<br/>4. Iberian</div><div><b>Continent</b><br/>: Africa<br/>: Australia<br/>: Asia<br/>: North America</div></div>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1 only",
+                "1 and 3 only",
+                "2, 3 and 4 only",
+                "1, 2, 3 and 4"
+            ],
+            "answer": "1 and 3 only"
+        },
+        {
+            "question": "Which of the following pairs of Isolines and its properties are correctly matched ?\n<div class=\"flex justify-between my-2\"><div>1. Isonif<br/>2. Isohel<br/>3. Isohaline<br/>4. Isohypse</div><div>: Snowfall<br/>: Sunshine<br/>: Salinity<br/>: Cloudiness</div></div>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1, 2 and 3",
+                "2, 3 and 4",
+                "1 and 3 only",
+                "1, 2 and 4"
+            ],
+            "answer": "1, 2 and 3"
+        },
+        {
+            "question": "Which of the following is the correct order of clouds in ascending order (lowest to highest) of height from surface ?\n<ol><li>Cirrocumulus</li><li>Nimbostratus</li><li>Cirrus</li><li>Altostratus</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1, 2, 4, 3",
+                "2, 4, 3, 1",
+                "3, 2, 1, 4",
+                "2, 4, 1, 3"
+            ],
+            "answer": "2, 4, 1, 3"
+        },
+        {
+            "question": "Which of the following pairs of revolution in agriculture sector and its production are correctly matched?\n<div class=\"flex justify-between my-2\"><div>1. Pink revolution<br/>2. Yellow revolution<br/>3. Black revolution<br/>4. Golden revolution</div><div>: Shrimp production<br/>: Oilseeds production<br/>: Biodiesel production<br/>: Egg production</div></div>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1, 2 and 3",
+                "2 and 3 only",
+                "1 and 3 only",
+                "2 and 4 only"
+            ],
+            "answer": "1, 2 and 3"
+        },
+        {
+            "question": "Which one among the following statements about National Highways Authority of India (NHAI) is <b>not</b> correct ?",
+            "options": [
+                "NHAI collects fees on the National Highway.",
+                "NHAI conducts training of Highway Engineers at entry level and in-service.",
+                "NHAI provides consultancy and construction services in India and abroad.",
+                "NHAI regulates and controls the plying of vehicles for its proper management."
+            ],
+            "answer": "NHAI regulates and controls the plying of vehicles for its proper management."
+        },
+        {
+            "question": "Which of the following statements about the National Centre for Good Governance (NCGG) are correct ?\n<ol><li>NCGG was set up by the Sardar Vallabhbhai Patel National Police Academy.</li><li>The National Institute of Administrative Research (NIAR) has been rechristened and subsumed into NCGG.</li><li>NCGG is an apex-level autonomous body under the Ministry of Home Affairs.</li><li>The Chairperson of the Governing Body of the NCGG is the Cabinet Secretary to the Government of India.</li></ol>\nSelect the correct answer using the code given below :",
+            "options": [
+                "1, 2 and 4",
+                "2 and 4 only",
+                "1 and 3 only",
+                "3 and 4 only"
+            ],
+            "answer": "2 and 4 only"
+        },
+        {
+            "question": "Match List I with List II and select the correct answer using the code given below the Lists :\n<div class=\"flex justify-between my-2\"><div><b>List I</b><br/>(International Yoga Day)<br/>A. 6th Edition<br/>B. 7th Edition<br/>C. 8th Edition<br/>D. 9th Edition</div><div><b>List II</b><br/>(Theme)<br/>1. Yoga for well-being<br/>2. Yoga for health &ndash; Yoga at home<br/>3. Yoga for Vasudhaiva Kutumbakam<br/>4. Yoga for Humanity</div></div>",
+            "options": [
+                "A-2, B-4, C-1, D-3",
+                "A-2, B-1, C-4, D-3",
+                "A-3, B-1, C-4, D-2",
+                "A-3, B-4, C-1, D-2"
+            ],
+            "answer": "A-2, B-1, C-4, D-3"
+        },
+        {
+            "question": "The joint multinational maritime exercise named IBSAMAR is conducted by the Navies of which of the following countries ?",
+            "options": [
+                "India, Bangladesh, Sri Lanka and Maldives",
+                "India, Bangladesh and South Africa",
+                "India, Bangladesh, Sri Lanka and Mauritius",
+                "India, Brazil and South Africa"
+            ],
+            "answer": "India, Brazil and South Africa"
+        },
+        {
+            "question": "In which one of the following cities is the Heliopolis Commonwealth War Grave Cemetery located ?",
+            "options": [
+                "Marseille",
+                "Washington D.C.",
+                "Cairo",
+                "Athens"
+            ],
+            "answer": "Cairo"
+        },
+        {
+            "question": "Under which one of the following rivers has India's first underwater metro rail tunnel been constructed ?",
+            "options": [
+                "Yamuna",
+                "Ganga",
+                "Hooghly",
+                "Gomti"
+            ],
+            "answer": "Hooghly"
+        },
+        {
+            "question": "Which among the following set of national teams participated in the South Asian Football Federation Championship &ndash; 2023 ?",
+            "options": [
+                "Sri Lanka, India, Bangladesh",
+                "Lebanon, Kuwait, Pakistan",
+                "India, Pakistan, Myanmar",
+                "Nepal, Sri Lanka, Bhutan"
+            ],
+            "answer": "Lebanon, Kuwait, Pakistan"
+        },
+        {
+            "question": "Which butterfly species was recently named the official butterfly of Jammu and Kashmir ?",
+            "options": [
+                "Noble's Helen",
+                "Kaisar-i-Hind",
+                "Blue Duke",
+                "Blue Pansy"
+            ],
+            "answer": "Blue Pansy"
+        },
+        {
+            "question": "Which company operated the ill-fated Titan submersible which recently imploded killing all five passengers while on a dive to visit the Titanic shipwreck under the waters of the North Atlantic ?",
+            "options": [
+                "Odyssey Marine Exploration",
+                "M.A.R.E. (Marine Adventure for Research and Education)",
+                "OceanGate Expeditions",
+                "Seafarer Exploration Corporation"
+            ],
+            "answer": "OceanGate Expeditions"
+        },
+        {
+            "question": "Which among the following is India's longest road tunnel ?",
+            "options": [
+                "Atal Tunnel",
+                "Kuthiran Tunnel",
+                "Dr. Syama Prasad Mookerjee Tunnel",
+                "Banihal Qazigund Road Tunnel"
+            ],
+            "answer": "Dr. Syama Prasad Mookerjee Tunnel"
+        },
+        {
+            "question": "Match List I with List II and select the correct answer using the code given below the Lists :\n<div class=\"flex justify-between my-2\"><div><b>List I</b><br/>(Padma Vibhushan / Padma Bhushan Awardee, 2023)<br/>A. Dilip Mahalanabis (posthumous)<br/>B. Sudha Murthy<br/>C. S.M. Krishna<br/>D. S.L. Bhyrappa</div><div><b>List II</b><br/>(Category)<br/>1. Literature & Education<br/>2. Public Affairs<br/>3. Social Work<br/>4. Medicine</div></div>",
+            "options": [
+                "A-4, B-3, C-2, D-1",
+                "A-4, B-2, C-3, D-1",
+                "A-1, B-2, C-3, D-4",
+                "A-1, B-3, C-2, D-4"
+            ],
+            "answer": "A-4, B-3, C-2, D-1"
+        },
+        {
+            "question": "Match List I with List II and select the correct answer using the code given below the Lists :\n<div class=\"flex justify-between my-2\"><div><b>List I</b><br/>(Festivals of North East India)<br/>A. Hornbill Festival<br/>B. Chapchar Kut<br/>C. Nongkrem Dance Festival<br/>D. Saga Dawa</div><div><b>List II</b><br/>(State)<br/>1. Meghalaya<br/>2. Sikkim<br/>3. Nagaland<br/>4. Mizoram</div></div>",
+            "options": [
+                "A-2, B-4, C-1, D-3",
+                "A-3, B-1, C-4, D-2",
+                "A-3, B-4, C-1, D-2",
+                "A-2, B-1, C-4, D-3"
+            ],
+            "answer": "A-3, B-4, C-1, D-2"
+        },
+        {
+            "question": "From which one of the following countries has India procured the S-400 Triumf air defence missile system ?",
+            "options": [
+                "United Kingdom",
+                "U.S.A.",
+                "France",
+                "Russia"
+            ],
+            "answer": "Russia"
+        },
+        {
+            "question": "Abhinav Bindra is the winner of the first ever individual Olympic gold medal for India. He won gold in which shooting event and in which Olympic Games ?",
+            "options": [
+                "10 meter air pistol, London",
+                "10 meter air rifle, London",
+                "10 meter air rifle, Beijing",
+                "10 meter air pistol, Beijing"
+            ],
+            "answer": "10 meter air rifle, Beijing"
+        },
+        {
+            "question": "Cheetahs were recently re-introduced to India from Africa. From which language is the name 'Cheetah' derived ?",
+            "options": [
+                "Swahili",
+                "Afrikaans",
+                "Somali",
+                "Sanskrit"
+            ],
+            "answer": "Sanskrit"
+        },
+        {
+            "question": "A new species of pit-viper was discovered in 2019 and named after the State in which it was found. Identify the State from among the following :",
+            "options": [
+                "Kerala",
+                "Arunachal Pradesh",
+                "Andaman and Nicobar Islands",
+                "Assam"
+            ],
+            "answer": "Arunachal Pradesh"
+        },
+        {
+            "question": "Who among the following set of players from India have either won or secured the runner-up position in the All England Badminton Tournament ?",
+            "options": [
+                "Prakash Padukone, P.V. Sindhu, Parupalli Kashyap",
+                "Pullela Gopichand, Saina Nehwal, Lakshya Sen",
+                "Prakash Padukone, Pullela Gopichand, Srikanth Kidambi",
+                "Lakshya Sen, Saina Nehwal, P.V. Sindhu"
+            ],
+            "answer": "Pullela Gopichand, Saina Nehwal, Lakshya Sen"
+        },
+        {
+            "question": "Who among the following leaders recently won the election to the office of the President of Turkey ?",
+            "options": [
+                "Recep Tayyip Erdo&#287;an",
+                "Kemal K&#305;l&#305;&#231;daro&#287;lu",
+                "Ahmet Necdet Sezer",
+                "Abdullah G&uuml;l"
+            ],
+            "answer": "Recep Tayyip Erdo&#287;an"
+        },
+        {
+            "question": "Georgi Gospodinov Georgiev won the International Booker Prize, 2023 for the darkly comic novel by the name :",
+            "options": [
+                "The Promise",
+                "Shuggie Bain",
+                "Time Shelter",
+                "Girl, Woman, Other"
+            ],
+            "answer": "Time Shelter"
+        },
+        {
+            "question": "The <i>Grand Order of the Chain of the Yellow Star</i> is the highest civilian honour of which among the following countries ?",
+            "options": [
+                "Fiji",
+                "Papua New Guinea",
+                "Egypt",
+                "Suriname"
+            ],
+            "answer": "Suriname"
+        },
+        {
+            "question": "Which one among the following correctly represents the theme on which the interiors of the new Parliament Building is based ?",
+            "options": [
+                "Lok Sabha: Lotus, Rajya Sabha: Banyan",
+                "Lok Sabha: Peacock, Rajya Sabha: Lotus",
+                "Lok Sabha: Peacock, Rajya Sabha: Banyan",
+                "Lok Sabha: Lotus, Rajya Sabha: Peacock"
+            ],
+            "answer": "Lok Sabha: Peacock, Rajya Sabha: Lotus"
         }
     ]
 };
