@@ -1,6 +1,578 @@
 import type { Question } from "@/types/Question";
 
 const mathsData: Record<string, Question[]> = {
+  "2023-II": [
+    {
+        "question": "If a<sup>2</sup> &minus; bc = &alpha;, b<sup>2</sup> &minus; ac = &beta;, c<sup>2</sup> &minus; ab = &gamma;, then what is <sup>(a&alpha; + b&beta; + c&gamma;)</sup>&frasl;<sub>((a + b + c)(&alpha; + &beta; + &gamma;))</sub> equal to ?",
+        "options": [
+            "a + b &minus; c",
+            "a &minus; b + c",
+            "&minus; a + b + c",
+            "1"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "If (x &minus; 1)<sup>3</sup> is a factor of x<sup>4</sup> + &alpha;x<sup>3</sup> + &beta;x<sup>2</sup> + &gamma;x &minus; 1, then the other factor will be :",
+        "options": [
+            "x + 1",
+            "x &minus; 3",
+            "x + 2",
+            "x"
+        ],
+        "answer": "x + 1"
+    },
+    {
+        "question": "A 2-digit number is such that the sum of the number and the number obtained by reversing the order of the digits of the number is 55. Further, the difference of the given number and the number obtained by reversing the order of the digits of the number is 45. What is the product of the digits ?",
+        "options": [
+            "5",
+            "2",
+            "1",
+            "0"
+        ],
+        "answer": "0"
+    },
+    {
+        "question": "If A and B can finish a work in 10 days, B and C can finish the same work in 12 days, C and A can finish the same work in 15 days; then in how many days can A, B and C together finish half of the work ?",
+        "options": [
+            "8 days",
+            "5 days",
+            "4 days",
+            "3 days"
+        ],
+        "answer": "4 days"
+    },
+    {
+        "question": "A person borrowed &#x20B9; 10,000 at 12% rate of interest per annum compounded quarterly for a period of 9 months. What is the interest paid by him to settle his account after 9 months ?",
+        "options": [
+            "&#x20B9; 927&middot;27",
+            "&#x20B9; 947&middot;47",
+            "&#x20B9; 967&middot;67",
+            "&#x20B9; 987&middot;87"
+        ],
+        "answer": "&#x20B9; 927&middot;27"
+    },
+    {
+        "question": "For what relation between a and b is the equation sin &theta; = <sup>(a + b)</sup>&frasl;<sub>(2&radic;ab)</sub> possible ?",
+        "options": [
+            "a = b",
+            "a &le; b",
+            "a &ge; b",
+            "a &gt; b"
+        ],
+        "answer": "a = b"
+    },
+    {
+        "question": "Three persons A, B and C together can do a piece of work in 36 days. A and B together can do five times as much work as C alone; B and C together can do as much work as A alone. If A and C together can do n times as much work as B alone, then what is the value of n ?",
+        "options": [
+            "1&middot;5",
+            "2",
+            "2&middot;5",
+            "3"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "If <sup>2a</sup>&frasl;<sub>3</sub> = <sup>4b</sup>&frasl;<sub>5</sub> = <sup>3c</sup>&frasl;<sub>4</sub>, then what is the value of <sup>18</sup>&frasl;<sub>a</sub> &radic;(a<sup>2</sup> + c<sup>2</sup> &minus; b<sup>2</sup>) ?",
+        "options": [
+            "3&radic;5",
+            "&radic;355",
+            "&radic;375",
+            "3&radic;15"
+        ],
+        "answer": "&radic;355"
+    },
+    {
+        "question": "The sum of deviations of n numbers from 10 and 20 are a, b respectively. If <sup>b</sup>&frasl;<sub>a</sub> = &minus; 4, then what is the mean of these n numbers ?",
+        "options": [
+            "12",
+            "14",
+            "16",
+            "18"
+        ],
+        "answer": "12"
+    },
+    {
+        "question": "If the median of observations<br/><br/>12, 1, 8, 54, 61, 28, 45, 35, 21, 17<br/><br/>is M, then what is the value of 2M + 5 ?",
+        "options": [
+            "12",
+            "28",
+            "52",
+            "54"
+        ],
+        "answer": "54"
+    },
+    {
+        "question": "How many real roots does the equation &radic;(x + 9) = x &minus; 3 have ?",
+        "options": [
+            "Only one",
+            "Only two",
+            "Only three",
+            "None"
+        ],
+        "answer": "Only one"
+    },
+    {
+        "question": "If x = 97 + 56&radic;3, then what is the value of &radic;[4](x) + <sup>1</sup>&frasl;<sub>&radic;[4](x)</sub> ?",
+        "options": [
+            "7",
+            "6",
+            "5",
+            "4"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Let L be the LCM and H be the HCF of two given numbers. L and H are in the ratio 3 : 2. If the sum of the two numbers is 45, then what is the product of the numbers ?",
+        "options": [
+            "243",
+            "486",
+            "504",
+            "Cannot be determined due to insufficient data"
+        ],
+        "answer": "Cannot be determined due to insufficient data"
+    },
+    {
+        "question": "A man walks at an average speed of 3 km/hr from his home and reaches office 40 minutes early. If he walks at an average speed of 2 km/hr, he would reach office 40 minutes late. What is the distance between his home and office ?",
+        "options": [
+            "6 km",
+            "8 km",
+            "10 km",
+            "12 km"
+        ],
+        "answer": "8 km"
+    },
+    {
+        "question": "If 3<sup>x &minus; 1</sup> + 3<sup>3 &minus; x</sup> = 6, then what is 2<sup>x &minus; 1</sup> + 2<sup>3 &minus; x</sup> equal to ?",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "If x(a &minus; b + <sup>ab</sup>&frasl;<sub>(a &minus; b)</sub>) = y(a + b &minus; <sup>ab</sup>&frasl;<sub>(a + b)</sub>) and x + y = 2a<sup>3</sup>, then what is x &minus; y equal to ?",
+        "options": [
+            "&minus; 2b<sup>3</sup>",
+            "&minus; 2ab<sup>3</sup>",
+            "2b<sup>3</sup>",
+            "2ab<sup>3</sup>"
+        ],
+        "answer": "&minus; 2b<sup>3</sup>"
+    },
+    {
+        "question": "Which one of the following is a factor of 3&radic;3x<sup>3</sup> + 2&radic;2y<sup>3</sup> &minus; 18xy + 6&radic;6 ?",
+        "options": [
+            "&radic;3x + &radic;2y &minus; &radic;3",
+            "&radic;3x + &radic;2y &minus; &radic;6",
+            "3x<sup>2</sup> + 2y<sup>2</sup> &minus; &radic;18x &minus; &radic;12y &minus; &radic;6xy + 6",
+            "3x<sup>2</sup> + 2y<sup>2</sup> + &radic;18x + &radic;12y &minus; &radic;6xy + 6"
+        ],
+        "answer": "3x<sup>2</sup> + 2y<sup>2</sup> &minus; &radic;18x &minus; &radic;12y &minus; &radic;6xy + 6"
+    },
+    {
+        "question": "What is number of digits in the expansion of 125<sup>100</sup> ? (Given log<sub>10</sub> 2 = 0&middot;301)",
+        "options": [
+            "69",
+            "70",
+            "209",
+            "210"
+        ],
+        "answer": "210"
+    },
+    {
+        "question": "What is the HCF of<br/><br/>acx<sup>3</sup> + bcx<sup>2</sup> + adx<sup>2</sup> + acdx + bdx + bcd and<br/><br/>adx<sup>3</sup> + acx<sup>2</sup> + bdx<sup>2</sup> + bcx + acdx + bcd<br/><br/>if HCF (c, d) = 1, c &ne; d ?",
+        "options": [
+            "bx + c",
+            "cx + d",
+            "ax + d",
+            "ax + b"
+        ],
+        "answer": "ax + b"
+    },
+    {
+        "question": "If x<sup>n</sup> &minus; py<sup>n</sup> + qz<sup>n</sup> is divisible by x<sup>2</sup> + abyz &minus; bzx &minus; axy, then what is <sup>p</sup>&frasl;<sub>a<sup>n</sup></sub> &minus; <sup>q</sup>&frasl;<sub>b<sup>n</sup></sub> equal to ?",
+        "options": [
+            "&minus; 1",
+            "0",
+            "1",
+            "2"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Consider the following statements :<br/><br/>1. If (a + b) is directly proportional to (a &minus; b), then (a<sup>2</sup> + b<sup>2</sup>) is directly proportional to ab.<br/>2. If a is directly proportional to b, then (a<sup>2</sup> &minus; b<sup>2</sup>) is directly proportional to ab.<br/><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "If (3a + 6b + c + 2d) &times; (3a &minus; 6b &minus; c + 2d) = (3a &minus; 6b + c &minus; 2d) &times; (3a + 6b &minus; c &minus; 2d), then which one of the following is correct ?",
+        "options": [
+            "ab = cd",
+            "ac = bd",
+            "ad = bc",
+            "ad + bc = 0"
+        ],
+        "answer": "ad = bc"
+    },
+    {
+        "question": "If 3 sin &theta; + 5 cos &theta; = 5, then what is the value of 5 sin &theta; &minus; 3 cos &theta; equal to ?",
+        "options": [
+            "5",
+            "3",
+            "&minus; 2",
+            "0"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "The combined age of a man and his wife is 6 times the combined age of their children. Two years ago their combined age was 10 times the combined age of their children; and six years later their combined age will be 3 times the combined age of their children. How many children do they have if each child is at least 2 years old ?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "What is 3 (sin x &minus; cos x)<sup>4</sup> + 6 (sin x + cos x)<sup>2</sup> + 4 (sin x)<sup>6</sup> + 4 (cos x)<sup>6</sup> equal to ?",
+        "options": [
+            "9",
+            "11",
+            "13",
+            "15"
+        ],
+        "answer": "13"
+    },
+    {
+        "question": "What is the value of sin &theta; + cos &theta;, if &theta; satisfies the equation cot<sup>2</sup> &theta; &minus; (&radic;3 + 1) cot &theta; + &radic;3 = 0; 0 &lt; &theta; &lt; <sup>&pi;</sup>&frasl;<sub>4</sub> ?",
+        "options": [
+            "&radic;2",
+            "2",
+            "<sup>(&radic;3 + 1)</sup>&frasl;<sub>2</sub>",
+            "<sup>(&radic;3 &minus; 1)</sup>&frasl;<sub>2</sub>"
+        ],
+        "answer": "<sup>(&radic;3 + 1)</sup>&frasl;<sub>2</sub>"
+    },
+    {
+        "question": "Which one of the following is a value of &theta;, if &theta; satisfies the equation tan 2&theta; tan 4&theta; &minus; 1 = 0; 0 &lt; &theta; &lt; <sup>&pi;</sup>&frasl;<sub>2</sub> ?",
+        "options": [
+            "<sup>&pi;</sup>&frasl;<sub>12</sub>",
+            "<sup>&pi;</sup>&frasl;<sub>15</sub>",
+            "<sup>&pi;</sup>&frasl;<sub>6</sub>",
+            "<sup>&pi;</sup>&frasl;<sub>5</sub>"
+        ],
+        "answer": "<sup>&pi;</sup>&frasl;<sub>12</sub>"
+    },
+    {
+        "question": "If tan x = <sup>(sin &theta; + cos &theta;)</sup>&frasl;<sub>(sin &theta; &minus; cos &theta;)</sub>, <sup>&pi;</sup>&frasl;<sub>4</sub> &lt; &theta; &lt; <sup>&pi;</sup>&frasl;<sub>2</sub>, then what is &radic;2 sin x equal to ?",
+        "options": [
+            "sin &theta; + cos &theta;",
+            "sin &theta; &minus; cos &theta;",
+            "<sup>(sin &theta; + cos &theta;)</sup>&frasl;<sub>2</sub>",
+            "<sup>(sin &theta; &minus; cos &theta;)</sup>&frasl;<sub>2</sub>"
+        ],
+        "answer": "sin &theta; + cos &theta;"
+    },
+    {
+        "question": "How many values of &theta; will satisfy the equation<br/>(sin<sup>2</sup> &theta; &minus; 4 sin &theta; + 3) (4 &minus; cos<sup>2</sup> &theta; + 4 sin &theta;) = 0,<br/>where 0 &lt; &theta; &lt; <sup>&pi;</sup>&frasl;<sub>2</sub> ?",
+        "options": [
+            "None",
+            "Only one",
+            "Only two",
+            "Only three"
+        ],
+        "answer": "None"
+    },
+    {
+        "question": "If x sin<sup>3</sup> &theta; + y cos<sup>3</sup> &theta; = sin &theta; cos &theta; and x sin &theta; &minus; y cos &theta; = 0, for every &theta; &isin; (0, <sup>&pi;</sup>&frasl;<sub>2</sub>), then what is x<sup>2</sup> + y<sup>2</sup> equal to ?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>A flagstaff stands on the top of a vertical tower. The angle of elevation of the top of the flagstaff from a certain place on the same horizontal level with the base of the tower is found to be &alpha;. Advancing a distance d towards the tower in the same horizontal plane, the angle of elevation of the top of the flagstaff is observed to be &beta; and that of the top of the tower is observed to be &gamma;. Let H be the height of the top of the flagstaff from the base of the tower and h be the height of the tower.<br/><br/>Which one of the following is correct ?",
+        "options": [
+            "H tan &gamma; &minus; h tan &beta; = 0",
+            "h tan &gamma; &minus; H tan &beta; = 0",
+            "H tan &gamma; &minus; h tan &alpha; = 0",
+            "h tan &gamma; &minus; H tan &alpha; = 0"
+        ],
+        "answer": "H tan &gamma; &minus; h tan &beta; = 0"
+    },
+    {
+        "question": "Which one of the following is correct ?",
+        "options": [
+            "d = <sup>H(cot &alpha; &minus; cot &beta;)</sup>&frasl;<sub>2</sub>",
+            "d = <sup>H(tan &alpha; &minus; tan &beta;)</sup>&frasl;<sub>2</sub>",
+            "d = H (cot &alpha; &minus; cot &beta;)",
+            "d = H (tan &alpha; &minus; tan &beta;)"
+        ],
+        "answer": "d = H (cot &alpha; &minus; cot &beta;)"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>AB is a straight road leading to the foot P of a tower of height h. Q is at distance x from P and R is at a distance y from Q (R is farther from P than Q; R, Q are on the same side). The angle of elevation of the top of the tower at Q is twice of that at R. (Use the formula tan 2&theta; = <sup>2 tan &theta;</sup>&frasl;<sub>(1 &minus; tan<sup>2</sup> &theta;)</sub>)<br/><br/>Which one of the following is correct ?",
+        "options": [
+            "x = y",
+            "x &lt; y",
+            "x &gt; y",
+            "Cannot be concluded due to insufficient data"
+        ],
+        "answer": "x &lt; y"
+    },
+    {
+        "question": "Which one of the following is correct ?",
+        "options": [
+            "h<sup>2</sup> = x<sup>2</sup> &minus; y<sup>2</sup>",
+            "h<sup>2</sup> = x<sup>2</sup> + y<sup>2</sup>",
+            "h<sup>2</sup> = 2 (y<sup>2</sup> &minus; x<sup>2</sup>)",
+            "h<sup>2</sup> = y<sup>2</sup> &minus; x<sup>2</sup>"
+        ],
+        "answer": "h<sup>2</sup> = y<sup>2</sup> &minus; x<sup>2</sup>"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>Two parallel chords AB and CD of a circle are of lengths 60 cm and 80 cm respectively. They are on the same side of the centre O and 10 cm apart.<br/><br/>What is the diameter of the circle ?",
+        "options": [
+            "120 cm",
+            "110 cm",
+            "100 cm",
+            "90 cm"
+        ],
+        "answer": "100 cm"
+    },
+    {
+        "question": "If the chord AB subtends an angle &alpha; and chord CD subtends an angle &beta; at the centre O, then what is the value of tan <sup>&beta;</sup>&frasl;<sub>2</sub> &minus; tan <sup>&alpha;</sup>&frasl;<sub>2</sub> ?",
+        "options": [
+            "<sup>3</sup>&frasl;<sub>4</sub>",
+            "<sup>5</sup>&frasl;<sub>12</sub>",
+            "<sup>1</sup>&frasl;<sub>2</sub>",
+            "<sup>7</sup>&frasl;<sub>12</sub>"
+        ],
+        "answer": "<sup>7</sup>&frasl;<sub>12</sub>"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>Let p = x<sup>4</sup> &minus; y<sup>2</sup>z<sup>2</sup>, q = y<sup>4</sup> &minus; z<sup>2</sup>x<sup>2</sup>, r = z<sup>4</sup> &minus; x<sup>2</sup>y<sup>2</sup>.<br/><br/>What is px<sup>2</sup> + qy<sup>2</sup> + rz<sup>2</sup> equal to ?",
+        "options": [
+            "(x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup>) (p + q + r)",
+            "&minus; (x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup>) (p + q + r)",
+            "(y<sup>2</sup> + z<sup>2</sup> &minus; x<sup>2</sup>) (r &minus; q &minus; p)",
+            "(x<sup>2</sup> + y<sup>2</sup> &minus; z<sup>2</sup>) (p &minus; q &minus; r)"
+        ],
+        "answer": "(x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup>) (p + q + r)"
+    },
+    {
+        "question": "What is x<sup>2</sup> (px<sup>2</sup> + qy<sup>2</sup> + rz<sup>2</sup>) + qr &minus; p<sup>2</sup> equal to ?",
+        "options": [
+            "0",
+            "1",
+            "p + q + r",
+            "x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup>"
+        ],
+        "answer": "0"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>A right conical cap just covers two spheres placed one above the other on a table such that it touches both the spheres. Let r be the radius of the smaller sphere and R be the radius of the bigger sphere. Let 2&theta; be the vertical angle of the cone.<br/><br/>What is the height of the cone ?",
+        "options": [
+            "<sup>2r<sup>2</sup></sup>&frasl;<sub>(R &minus; r)</sub>",
+            "<sup>2R<sup>2</sup></sup>&frasl;<sub>(R &minus; r)</sub>",
+            "<sup>2(r<sup>2</sup> + R<sup>2</sup>)</sup>&frasl;<sub>(R &minus; r)</sub>",
+            "<sup>(r<sup>2</sup> + R<sup>2</sup>)</sup>&frasl;<sub>(R &minus; r)</sub>"
+        ],
+        "answer": "<sup>2R<sup>2</sup></sup>&frasl;<sub>(R &minus; r)</sub>"
+    },
+    {
+        "question": "What is the radius of the base of the cone ?",
+        "options": [
+            "<sup>2r<sup>2</sup> tan &theta;</sup>&frasl;<sub>(R &minus; r)</sub>",
+            "<sup>2R<sup>2</sup> tan &theta;</sup>&frasl;<sub>(R &minus; r)</sub>",
+            "<sup>2(r<sup>2</sup> + R<sup>2</sup>) tan &theta;</sup>&frasl;<sub>(R &minus; r)</sub>",
+            "<sup>(r<sup>2</sup> + R<sup>2</sup>) tan &theta;</sup>&frasl;<sub>(R &minus; r)</sub>"
+        ],
+        "answer": "<sup>2R<sup>2</sup> tan &theta;</sup>&frasl;<sub>(R &minus; r)</sub>"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>A line segment AB is bisected at C and semi-circles S<sub>1</sub>, S<sub>2</sub> and S<sub>3</sub> are drawn respectively on AB, AC and CB as diameters such that they all lie on same side of AB. A circle S is drawn touching internally S<sub>1</sub> and externally S<sub>2</sub> and S<sub>3</sub>.<br/><br/>If r is the radius of S and R is the radius of S<sub>2</sub>, then which one of the following is correct ?",
+        "options": [
+            "R = 3r",
+            "R = 2r",
+            "3R = 4r",
+            "2R = 3r"
+        ],
+        "answer": "2R = 3r"
+    },
+    {
+        "question": "If m is the area of the circle S and n is the area of semi-circle S<sub>1</sub>, then which one of the following is correct ?",
+        "options": [
+            "9m = 2n",
+            "9m = 4n",
+            "3m = 2n",
+            "7m = 3n"
+        ],
+        "answer": "9m = 2n"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>Let <sup>(x &minus; a)(x &minus; b)</sup>&frasl;<sub>(x &minus; ma)(x &minus; mb)</sub> = <sup>(x + a)(x + b)</sup>&frasl;<sub>(x + ma)(x + mb)</sub> ; m, a, b &gt; 0.<br/><br/>What is <sup>(x<sup>2</sup> + ab)</sup>&frasl;<sub>(x<sup>2</sup> + m<sup>2</sup>ab)</sub> equal to ?",
+        "options": [
+            "&minus; <sup>1</sup>&frasl;<sub>m<sup>2</sup></sub>",
+            "<sup>1</sup>&frasl;<sub>m<sup>2</sup></sub>",
+            "<sup>2</sup>&frasl;<sub>m</sub>",
+            "<sup>1</sup>&frasl;<sub>m</sub>"
+        ],
+        "answer": "<sup>1</sup>&frasl;<sub>m</sub>"
+    },
+    {
+        "question": "What is x equal to ?",
+        "options": [
+            "&plusmn; &radic;mab",
+            "&plusmn; &radic;ab",
+            "&plusmn; &radic;2mab",
+            "&plusmn; &radic;2ab"
+        ],
+        "answer": "&plusmn; &radic;mab"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>The total monthly electricity bill for a house consists of the sum of two parts, one part is proportional to number of rooms and the other part is proportional to number of units consumed. &#x20B9; 400 is the monthly electricity bill for a house with 8 rooms and consuming 240 units and &#x20B9; 320 is the monthly electricity bill for a house with 6 rooms and consuming 200 units.<br/><br/>What is the monthly electricity bill for a house with m rooms and consuming n units ?",
+        "options": [
+            "&#x20B9; (40m + n)",
+            "&#x20B9; (20m + n)",
+            "&#x20B9; <sup>(40m + n)</sup>&frasl;<sub>2</sub>",
+            "&#x20B9; <sup>(30m + n)</sup>&frasl;<sub>2</sub>"
+        ],
+        "answer": "&#x20B9; (20m + n)"
+    },
+    {
+        "question": "What is the monthly electricity bill for a house with 7 rooms consuming 300 units ?",
+        "options": [
+            "&#x20B9; 500",
+            "&#x20B9; 440",
+            "&#x20B9; 340",
+            "&#x20B9; 300"
+        ],
+        "answer": "&#x20B9; 440"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>A grouped frequency distribution is given below :<br/><br/>Weekly wages in Rupees (&#x20B9;) | Numbers of workers<br/>2050 - 2550 | 5<br/>2550 - 3050 | 10<br/>3050 - 3550 | k<br/>3550 - 4050 | 8<br/>4050 - 4550 | 2<br/>4550 - 5050 | 10<br/><br/>If average weekly wages earned by a worker is &#x20B9; 3,520, then what is the value of k ?",
+        "options": [
+            "10",
+            "12",
+            "15",
+            "20"
+        ],
+        "answer": "15"
+    },
+    {
+        "question": "What is the median (approximate value) of the distribution ?",
+        "options": [
+            "&#x20B9; 3,263",
+            "&#x20B9; 3,383",
+            "&#x20B9; 3,413",
+            "&#x20B9; 3,483"
+        ],
+        "answer": "&#x20B9; 3,383"
+    },
+    {
+        "question": "<b>Directions:</b> Consider the following for the next two (02) items that follow:<br/>A quadratic equation is given by<br/>(a + b + c) x<sup>2</sup> &minus; (2a + 2b) x + (a + b &minus; c) = 0;<br/>where a, b and c are real and distinct.<br/><br/>What are the roots of the equation ?",
+        "options": [
+            "1, <sup>(a + b &minus; c)</sup>&frasl;<sub>(a + b + c)</sub>",
+            "1, <sup>(a &minus; b + c)</sup>&frasl;<sub>(a + b + c)</sub>",
+            "&minus; 1, <sup>(&minus; a &minus; b + c)</sup>&frasl;<sub>(a + b + c)</sub>",
+            "&minus; 1, <sup>(a + b &minus; c)</sup>&frasl;<sub>(a + b + c)</sub>"
+        ],
+        "answer": "1, <sup>(a + b &minus; c)</sup>&frasl;<sub>(a + b + c)</sub>"
+    },
+    {
+        "question": "Consider the following statements :<br/><br/>1. One of the roots of the equation is always less than 1 if a, b and c are all positive.<br/>2. One of the roots of the equation is always negative if a, b and c are all negative.<br/><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "What is the radius of the sphere passing through the corners of the cuboid with edges 8 cm, 12 cm and 24 cm ?",
+        "options": [
+            "10&middot;5 cm",
+            "14 cm",
+            "21 cm",
+            "28 cm"
+        ],
+        "answer": "14 cm"
+    },
+    {
+        "question": "A lamp shade is in the shape of a part of a cone and its top and bottom ends are circles whose circumferences are respectively 30 cm and 40 cm. The perpendicular distance between the ends is 6 cm. If the cone were to be completed, then how far would its vertex be from the top end ?",
+        "options": [
+            "20 cm",
+            "18 cm",
+            "12 cm",
+            "9 cm"
+        ],
+        "answer": "18 cm"
+    },
+    {
+        "question": "A sum of money at 20% rate of compound interest per annum becomes more than 100 times in n years. What is the least value of n ? (Use log<sub>10</sub> 2 = 0&middot;301, log<sub>10</sub> 3 = 0&middot;477)",
+        "options": [
+            "23",
+            "24",
+            "25",
+            "26"
+        ],
+        "answer": "26"
+    },
+    {
+        "question": "The corners of an equilateral triangular plate were cut in such a manner that it forms a regular hexagonal plate. What is the ratio of the area of the triangular plate to the area of the hexagonal plate ?",
+        "options": [
+            "2 : 1",
+            "3 : 2",
+            "4 : 3",
+            "5 : 3"
+        ],
+        "answer": "3 : 2"
+    },
+    {
+        "question": "Two equal arcs of different circles C<sub>1</sub> and C<sub>2</sub> subtend angles of 60&deg; and 75&deg; respectively, at the centres. What is the ratio of the radius of C<sub>1</sub> to the radius of C<sub>2</sub> ?",
+        "options": [
+            "4 : 5",
+            "5 : 4",
+            "1 : 1",
+            "3 : 2"
+        ],
+        "answer": "5 : 4"
+    },
+    {
+        "question": "ABC is a triangle with sides AB = 41 cm, BC = 28 cm and CA = 15 cm. If D, E and F are the mid-points of AB, BC and CA respectively, then what is the area of the triangle DEF ?",
+        "options": [
+            "63 square cm",
+            "45 square cm",
+            "31&middot;5 square cm",
+            "22&middot;5 square cm"
+        ],
+        "answer": "31&middot;5 square cm"
+    },
+    {
+        "question": "A triangle has sides 13 cm, 14 cm and 15 cm long. What is the length of the smallest altitude of the triangle ?",
+        "options": [
+            "11 cm",
+            "11&middot;2 cm",
+            "12 cm",
+            "12&middot;2 cm"
+        ],
+        "answer": "11&middot;2 cm"
+    }
+  ],
   "2024-I": [
     {
         "question": "If a : b : c : d = &radic;4 : &radic;3 : &radic;2 : &radic;1, then what is the value of <sup>(&minus; a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> + d<sup>2</sup>)</sup>&frasl;<sub>(a<sup>2</sup> &minus; b<sup>2</sup> + c<sup>2</sup> &minus; d<sup>2</sup>)</sub> ?",
