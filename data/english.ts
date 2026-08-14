@@ -8628,6 +8628,336 @@ const englishData: Record<string, Question[]> = {
                 "had been withheld"
             ],
             "answer": "is held"
+        },
+        {
+            "direction": "In this section, there is a passage having some blank spaces with four words or groups of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/><b>Passage:</b><br/>It is necessary, <b>(81)</b> any war, to consider, not its proper justification in past agreements, <b>(82)</b> its real justification in the balance of good which it is to bring to mankind. At the beginning of a war, each nation, under the influence of what is called <b>(83)</b>, believes that its own victory is <b>(84)</b> certain and of great importance to mankind. The praiseworthiness of this belief has become an accepted maxim of common sense: even when war is actually in progress it <b>(85)</b> to be natural and right that a citizen of an enemy country should regard the victory of his side as assured and highly <b>(86)</b>. By concentrating attention upon the supposed advantages of the victory of our own side, we <b>(87)</b> more or less blind to the evils inseparable from war and equally certain whichever side may ultimately prove <b>(88)</b>. Yet so long as these are not fully realized, it is impossible <b>(89)</b> justly <b>(90)</b> a war is or is not likely to be beneficial to the human race. Although the theme is trite, it is necessary therefore briefly to remind ourselves what the evils of war really are.",
+            "question": "Blank (86)",
+            "options": [
+                "unpleasant",
+                "unlikely",
+                "desirable",
+                "malignant"
+            ],
+            "answer": "desirable"
+        },
+        {
+            "direction": "In this section, there is a passage having some blank spaces with four words or groups of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/><b>Passage:</b><br/>It is necessary, <b>(81)</b> any war, to consider, not its proper justification in past agreements, <b>(82)</b> its real justification in the balance of good which it is to bring to mankind. At the beginning of a war, each nation, under the influence of what is called <b>(83)</b>, believes that its own victory is <b>(84)</b> certain and of great importance to mankind. The praiseworthiness of this belief has become an accepted maxim of common sense: even when war is actually in progress it <b>(85)</b> to be natural and right that a citizen of an enemy country should regard the victory of his side as assured and highly <b>(86)</b>. By concentrating attention upon the supposed advantages of the victory of our own side, we <b>(87)</b> more or less blind to the evils inseparable from war and equally certain whichever side may ultimately prove <b>(88)</b>. Yet so long as these are not fully realized, it is impossible <b>(89)</b> justly <b>(90)</b> a war is or is not likely to be beneficial to the human race. Although the theme is trite, it is necessary therefore briefly to remind ourselves what the evils of war really are.",
+            "question": "Blank (87)",
+            "options": [
+                "becoming",
+                "become",
+                "had become",
+                "have been becoming"
+            ],
+            "answer": "become"
+        },
+        {
+            "direction": "In this section, there is a passage having some blank spaces with four words or groups of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/><b>Passage:</b><br/>It is necessary, <b>(81)</b> any war, to consider, not its proper justification in past agreements, <b>(82)</b> its real justification in the balance of good which it is to bring to mankind. At the beginning of a war, each nation, under the influence of what is called <b>(83)</b>, believes that its own victory is <b>(84)</b> certain and of great importance to mankind. The praiseworthiness of this belief has become an accepted maxim of common sense: even when war is actually in progress it <b>(85)</b> to be natural and right that a citizen of an enemy country should regard the victory of his side as assured and highly <b>(86)</b>. By concentrating attention upon the supposed advantages of the victory of our own side, we <b>(87)</b> more or less blind to the evils inseparable from war and equally certain whichever side may ultimately prove <b>(88)</b>. Yet so long as these are not fully realized, it is impossible <b>(89)</b> justly <b>(90)</b> a war is or is not likely to be beneficial to the human race. Although the theme is trite, it is necessary therefore briefly to remind ourselves what the evils of war really are.",
+            "question": "Blank (88)",
+            "options": [
+                "successful",
+                "thriving",
+                "victorious",
+                "failing"
+            ],
+            "answer": "victorious"
+        },
+        {
+            "direction": "In this section, there is a passage having some blank spaces with four words or groups of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/><b>Passage:</b><br/>It is necessary, <b>(81)</b> any war, to consider, not its proper justification in past agreements, <b>(82)</b> its real justification in the balance of good which it is to bring to mankind. At the beginning of a war, each nation, under the influence of what is called <b>(83)</b>, believes that its own victory is <b>(84)</b> certain and of great importance to mankind. The praiseworthiness of this belief has become an accepted maxim of common sense: even when war is actually in progress it <b>(85)</b> to be natural and right that a citizen of an enemy country should regard the victory of his side as assured and highly <b>(86)</b>. By concentrating attention upon the supposed advantages of the victory of our own side, we <b>(87)</b> more or less blind to the evils inseparable from war and equally certain whichever side may ultimately prove <b>(88)</b>. Yet so long as these are not fully realized, it is impossible <b>(89)</b> justly <b>(90)</b> a war is or is not likely to be beneficial to the human race. Although the theme is trite, it is necessary therefore briefly to remind ourselves what the evils of war really are.",
+            "question": "Blank (89)",
+            "options": [
+                "to judge",
+                "to be judged",
+                "to judging",
+                "having judged"
+            ],
+            "answer": "to judge"
+        },
+        {
+            "direction": "In this section, there is a passage having some blank spaces with four words or groups of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/><b>Passage:</b><br/>It is necessary, <b>(81)</b> any war, to consider, not its proper justification in past agreements, <b>(82)</b> its real justification in the balance of good which it is to bring to mankind. At the beginning of a war, each nation, under the influence of what is called <b>(83)</b>, believes that its own victory is <b>(84)</b> certain and of great importance to mankind. The praiseworthiness of this belief has become an accepted maxim of common sense: even when war is actually in progress it <b>(85)</b> to be natural and right that a citizen of an enemy country should regard the victory of his side as assured and highly <b>(86)</b>. By concentrating attention upon the supposed advantages of the victory of our own side, we <b>(87)</b> more or less blind to the evils inseparable from war and equally certain whichever side may ultimately prove <b>(88)</b>. Yet so long as these are not fully realized, it is impossible <b>(89)</b> justly <b>(90)</b> a war is or is not likely to be beneficial to the human race. Although the theme is trite, it is necessary therefore briefly to remind ourselves what the evils of war really are.",
+            "question": "Blank (90)",
+            "options": [
+                "whether",
+                "therefore",
+                "however",
+                "since"
+            ],
+            "answer": "whether"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.",
+            "question": "Steve has gone away. He will be away ______ Monday.",
+            "options": [
+                "on",
+                "by",
+                "until",
+                "from"
+            ],
+            "answer": "until"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.",
+            "question": "I'll see you ______ Friday morning.",
+            "options": [
+                "in",
+                "on",
+                "along",
+                "at"
+            ],
+            "answer": "on"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.",
+            "question": "Write your name ______ the top of the page.",
+            "options": [
+                "at",
+                "in",
+                "by",
+                "with"
+            ],
+            "answer": "at"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.",
+            "question": "Sohan is studying ______ the university.",
+            "options": [
+                "in",
+                "at",
+                "on",
+                "from"
+            ],
+            "answer": "at"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.",
+            "question": "He is indebted ______ his friend.",
+            "options": [
+                "from",
+                "with",
+                "by",
+                "to"
+            ],
+            "answer": "to"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.",
+            "question": "Can I be held responsible ______ my spouse's debts?",
+            "options": [
+                "for",
+                "to",
+                "by",
+                "with"
+            ],
+            "answer": "for"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.",
+            "question": "It was fun to hang out ______ the pier.",
+            "options": [
+                "down",
+                "with",
+                "in",
+                "beneath"
+            ],
+            "answer": "down"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.",
+            "question": "Can you pass ______ sugar, please?",
+            "options": [
+                "a",
+                "an",
+                "the",
+                "No article"
+            ],
+            "answer": "the"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.",
+            "question": "Our train leaves from ______ platform number 5.",
+            "options": [
+                "a",
+                "an",
+                "the",
+                "No article"
+            ],
+            "answer": "No article"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.",
+            "question": "______ children learn very quickly.",
+            "options": [
+                "Some",
+                "A",
+                "Any",
+                "Much"
+            ],
+            "answer": "Some"
+        },
+        {
+            "direction": "Each of the following items features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+            "question": "They were informed that the inaugural version of the scheme",
+            "options": [
+                "had three parts.",
+                "was three parts.",
+                "have three parts.",
+                "had has three parts."
+            ],
+            "answer": "had three parts."
+        },
+        {
+            "direction": "Each of the following items features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+            "question": "What would you do",
+            "options": [
+                "if you would won a lot of money?",
+                "if you have won a lot of money?",
+                "if you will win a lot of moneys?",
+                "if you won a lot of money?"
+            ],
+            "answer": "if you won a lot of money?"
+        },
+        {
+            "direction": "Each of the following items features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+            "question": "If it stopped raining",
+            "options": [
+                "we had gone out.",
+                "we could go out.",
+                "we should go out.",
+                "we ought to go out."
+            ],
+            "answer": "we could go out."
+        },
+        {
+            "direction": "Each of the following items features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+            "question": "Let me know",
+            "options": [
+                "if you have any further news.",
+                "if you had any further news.",
+                "if you has any further news.",
+                "if you had have any further news."
+            ],
+            "answer": "if you have any further news."
+        },
+        {
+            "direction": "Each of the following items features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+            "question": "We stayed",
+            "options": [
+                "at the cheap hotel in the town.",
+                "at the cheaper hotel in the town.",
+                "at the cheapest hotel in the town.",
+                "at a cheapest hotel in the town."
+            ],
+            "answer": "at the cheapest hotel in the town."
+        },
+        {
+            "direction": "Each of the following items features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+            "question": "Julia got married",
+            "options": [
+                "as she was 22.",
+                "when she was 22.",
+                "because she was 22.",
+                "since she was 22."
+            ],
+            "answer": "when she was 22."
+        },
+        {
+            "direction": "Each of the following items features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+            "question": "What time",
+            "options": [
+                "does this train get at London?",
+                "does this train get in London?",
+                "does this train get into London?",
+                "does this train get to London?"
+            ],
+            "answer": "does this train get to London?"
+        },
+        {
+            "direction": "Each of the following items features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+            "question": "How are you",
+            "options": [
+                "getting on in your new job?",
+                "getting of in your new job?",
+                "getting along your new job?",
+                "getting off in your new job?"
+            ],
+            "answer": "getting on in your new job?"
+        },
+        {
+            "direction": "Each of the following items features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+            "question": "I am trying to",
+            "options": [
+                "shut down on coffee.",
+                "cut down on coffee.",
+                "break down on coffee.",
+                "turn down on coffee."
+            ],
+            "answer": "cut down on coffee."
+        },
+        {
+            "direction": "Each of the following items features one part of a sentence followed by four alternatives. Complete the sentence by choosing the correct alternative.",
+            "question": "Many accidents",
+            "options": [
+                "cause careless driving.",
+                "have caused careless driving.",
+                "are caused by careless driving.",
+                "will cause careless driving."
+            ],
+            "answer": "are caused by careless driving."
+        },
+        {
+            "direction": "In this section, you have two short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage-I</b><br/>The third great defect of our civilization is that it does not know what to do with its knowledge. Science has given us powers fit for the gods, yet we use them as small children. For example, we do not know how to manage our machines. Machines were made to be humanity's servants, yet man has grown so dependent on them that they are in a fair way to become his masters. Already most people spend most of their lives looking after and waiting upon machines. And the machines are very stern masters. They must be kept at the right temperature. And if they do not get their meals when they expect them, they grow sulky and refuse to work or burst with rage and blow up and spread ruin and destruction all around. So we have to wait upon them very attentively and do all that we can to keep them in a good temper. Already we find it difficult either to work or play without the machines, and a time may come when they will rule us altogether, just as we rule the animals.<br/><br/>And this brings me to the point at which I asked, \"What do we do with all the time which the machines have saved for us, and the new energy they have given us?\" On the whole, it must be admitted, we do very little. For the most part, we use our time and energy to make more and better machines which will give us still more time and still more energy, and what are we to do with them? The answer, I think, is that we should try to become more civilized. For the machines themselves, and the power which the machines have given us, are not civilization but aids to civilization. But you will remember that we agreed at the beginning that being civilized meant making and linking beautiful things, thinking freely and living rightly and maintaining justice equally among people. A person has a better chance today to do these things than he/she ever had before; he/she has more time, more energy, less to fear and less to fight against. If he/she will give his/her time and energy which his/her machines have won for him/her to make more beautiful things, to find out more and more about the universe, to remove the cause of quarrels between nations, to discover how to prevent poverty, then I think our civilization would undoubtedly be the greater as it would be more lasting than it has ever been.",
+            "question": "The general tone of the passage is",
+            "options": [
+                "critical",
+                "descriptive",
+                "demonstrative",
+                "informational"
+            ],
+            "answer": "critical"
+        },
+        {
+            "direction": "In this section, you have two short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage-I</b><br/>The third great defect of our civilization is that it does not know what to do with its knowledge. Science has given us powers fit for the gods, yet we use them as small children. For example, we do not know how to manage our machines. Machines were made to be humanity's servants, yet man has grown so dependent on them that they are in a fair way to become his masters. Already most people spend most of their lives looking after and waiting upon machines. And the machines are very stern masters. They must be kept at the right temperature. And if they do not get their meals when they expect them, they grow sulky and refuse to work or burst with rage and blow up and spread ruin and destruction all around. So we have to wait upon them very attentively and do all that we can to keep them in a good temper. Already we find it difficult either to work or play without the machines, and a time may come when they will rule us altogether, just as we rule the animals.<br/><br/>And this brings me to the point at which I asked, \"What do we do with all the time which the machines have saved for us, and the new energy they have given us?\" On the whole, it must be admitted, we do very little. For the most part, we use our time and energy to make more and better machines which will give us still more time and still more energy, and what are we to do with them? The answer, I think, is that we should try to become more civilized. For the machines themselves, and the power which the machines have given us, are not civilization but aids to civilization. But you will remember that we agreed at the beginning that being civilized meant making and linking beautiful things, thinking freely and living rightly and maintaining justice equally among people. A person has a better chance today to do these things than he/she ever had before; he/she has more time, more energy, less to fear and less to fight against. If he/she will give his/her time and energy which his/her machines have won for him/her to make more beautiful things, to find out more and more about the universe, to remove the cause of quarrels between nations, to discover how to prevent poverty, then I think our civilization would undoubtedly be the greater as it would be more lasting than it has ever been.",
+            "question": "The use of machines has failed to bring us",
+            "options": [
+                "spiritual freedom",
+                "more leisure and more energy",
+                "slavery and destruction",
+                "culture and civilization"
+            ],
+            "answer": "culture and civilization"
+        },
+        {
+            "direction": "In this section, you have two short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage-I</b><br/>The third great defect of our civilization is that it does not know what to do with its knowledge. Science has given us powers fit for the gods, yet we use them as small children. For example, we do not know how to manage our machines. Machines were made to be humanity's servants, yet man has grown so dependent on them that they are in a fair way to become his masters. Already most people spend most of their lives looking after and waiting upon machines. And the machines are very stern masters. They must be kept at the right temperature. And if they do not get their meals when they expect them, they grow sulky and refuse to work or burst with rage and blow up and spread ruin and destruction all around. So we have to wait upon them very attentively and do all that we can to keep them in a good temper. Already we find it difficult either to work or play without the machines, and a time may come when they will rule us altogether, just as we rule the animals.<br/><br/>And this brings me to the point at which I asked, \"What do we do with all the time which the machines have saved for us, and the new energy they have given us?\" On the whole, it must be admitted, we do very little. For the most part, we use our time and energy to make more and better machines which will give us still more time and still more energy, and what are we to do with them? The answer, I think, is that we should try to become more civilized. For the machines themselves, and the power which the machines have given us, are not civilization but aids to civilization. But you will remember that we agreed at the beginning that being civilized meant making and linking beautiful things, thinking freely and living rightly and maintaining justice equally among people. A person has a better chance today to do these things than he/she ever had before; he/she has more time, more energy, less to fear and less to fight against. If he/she will give his/her time and energy which his/her machines have won for him/her to make more beautiful things, to find out more and more about the universe, to remove the cause of quarrels between nations, to discover how to prevent poverty, then I think our civilization would undoubtedly be the greater as it would be more lasting than it has ever been.",
+            "question": "According to the passage, our civilization would be made greater",
+            "options": [
+                "if man devotes his time to make more beautiful things",
+                "if man looks after and waits upon machines",
+                "if machines are made man's servants",
+                "if man discovers how to prevent poverty"
+            ],
+            "answer": "if man devotes his time to make more beautiful things"
+        },
+        {
+            "direction": "In this section, you have two short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage-I</b><br/>The third great defect of our civilization is that it does not know what to do with its knowledge. Science has given us powers fit for the gods, yet we use them as small children. For example, we do not know how to manage our machines. Machines were made to be humanity's servants, yet man has grown so dependent on them that they are in a fair way to become his masters. Already most people spend most of their lives looking after and waiting upon machines. And the machines are very stern masters. They must be kept at the right temperature. And if they do not get their meals when they expect them, they grow sulky and refuse to work or burst with rage and blow up and spread ruin and destruction all around. So we have to wait upon them very attentively and do all that we can to keep them in a good temper. Already we find it difficult either to work or play without the machines, and a time may come when they will rule us altogether, just as we rule the animals.<br/><br/>And this brings me to the point at which I asked, \"What do we do with all the time which the machines have saved for us, and the new energy they have given us?\" On the whole, it must be admitted, we do very little. For the most part, we use our time and energy to make more and better machines which will give us still more time and still more energy, and what are we to do with them? The answer, I think, is that we should try to become more civilized. For the machines themselves, and the power which the machines have given us, are not civilization but aids to civilization. But you will remember that we agreed at the beginning that being civilized meant making and linking beautiful things, thinking freely and living rightly and maintaining justice equally among people. A person has a better chance today to do these things than he/she ever had before; he/she has more time, more energy, less to fear and less to fight against. If he/she will give his/her time and energy which his/her machines have won for him/her to make more beautiful things, to find out more and more about the universe, to remove the cause of quarrels between nations, to discover how to prevent poverty, then I think our civilization would undoubtedly be the greater as it would be more lasting than it has ever been.",
+            "question": "According to the passage, which one of the following descriptions about machines is true?",
+            "options": [
+                "They already rule us like we rule animals.",
+                "They wait upon us attentively.",
+                "They are inexorable masters.",
+                "They have made man more civilized."
+            ],
+            "answer": "They are inexorable masters."
+        },
+        {
+            "direction": "In this section, you have two short passages. After each passage, you will find some items based on the passage. First, read a passage and answer the items based on it. You are required to select your answers based on the contents of the passage and the opinion of the author only.<br/><br/><b>Passage-I</b><br/>The third great defect of our civilization is that it does not know what to do with its knowledge. Science has given us powers fit for the gods, yet we use them as small children. For example, we do not know how to manage our machines. Machines were made to be humanity's servants, yet man has grown so dependent on them that they are in a fair way to become his masters. Already most people spend most of their lives looking after and waiting upon machines. And the machines are very stern masters. They must be kept at the right temperature. And if they do not get their meals when they expect them, they grow sulky and refuse to work or burst with rage and blow up and spread ruin and destruction all around. So we have to wait upon them very attentively and do all that we can to keep them in a good temper. Already we find it difficult either to work or play without the machines, and a time may come when they will rule us altogether, just as we rule the animals.<br/><br/>And this brings me to the point at which I asked, \"What do we do with all the time which the machines have saved for us, and the new energy they have given us?\" On the whole, it must be admitted, we do very little. For the most part, we use our time and energy to make more and better machines which will give us still more time and still more energy, and what are we to do with them? The answer, I think, is that we should try to become more civilized. For the machines themselves, and the power which the machines have given us, are not civilization but aids to civilization. But you will remember that we agreed at the beginning that being civilized meant making and linking beautiful things, thinking freely and living rightly and maintaining justice equally among people. A person has a better chance today to do these things than he/she ever had before; he/she has more time, more energy, less to fear and less to fight against. If he/she will give his/her time and energy which his/her machines have won for him/her to make more beautiful things, to find out more and more about the universe, to remove the cause of quarrels between nations, to discover how to prevent poverty, then I think our civilization would undoubtedly be the greater as it would be more lasting than it has ever been.",
+            "question": "According to the passage, how do we use the powers bestowed upon us by science?",
+            "options": [
+                "Judiciously",
+                "Temperamentally",
+                "Divinely",
+                "Irrationally"
+            ],
+            "answer": "Irrationally"
         }
     ]
 };
