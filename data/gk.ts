@@ -7813,6 +7813,296 @@ const gkData: Record<string, Question[]> = {
                 "Chandigarh"
             ],
             "answer": "NCT of Delhi"
+        },
+        {
+            "question": "Consider the following statements and identify the actress :<br/><br/><i>She is a renowned film actress, director and producer, and an accomplished Indian classical dancer. She was conferred the Padma Shri in 1992 and has served as the Head of Central Board for Film Certification from 1998 to 2001. In recognition to her exemplary lifetime contribution to Indian Cinema, she was honoured with the prestigious Dadasaheb Phalke Award.</i>",
+            "options": [
+                "Vyjayanthimala",
+                "Waheeda Rehman",
+                "Mala Sinha",
+                "Asha Parekh"
+            ],
+            "answer": "Asha Parekh"
+        },
+        {
+            "question": "Which one of the following is the venue of the UN 2023 Water Conference?",
+            "options": [
+                "Washington, DC",
+                "New York",
+                "San Diego",
+                "New Delhi"
+            ],
+            "answer": "New York"
+        },
+        {
+            "question": "Which of the following statements is/are correct?<br/><ol><li><i>Tomb of Sand</i>, written by Geetanjali Shree, is the first book originally written in any Indian language to win the International Booker Prize.</li><li><i>Tomb of Sand</i> is the first novel translated from Hindi to be given the International Booker Prize.</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Both 1 and 2"
+        },
+        {
+            "question": "The eighth edition of the Exercise Garuda Shakti, a bilateral military-to-military exercise, was conducted recently between the special forces of India and",
+            "options": [
+                "Japan",
+                "Indonesia",
+                "Bhutan",
+                "Myanmar"
+            ],
+            "answer": "Indonesia"
+        },
+        {
+            "question": "Which one of the following is a measure that can be used by the Government for combatting inflation?",
+            "options": [
+                "Increasing the non-planned expenditure on defence, police, etc.",
+                "Providing more subsidies on exports",
+                "Increasing the rate of interest on savings and fixed deposits",
+                "Reduction in the cash reserve ratio (CRR)"
+            ],
+            "answer": "Increasing the rate of interest on savings and fixed deposits"
+        },
+        {
+            "question": "The sustained decrease in the general price level is called as",
+            "options": [
+                "deflation",
+                "stagflation",
+                "devaluation",
+                "recession"
+            ],
+            "answer": "deflation"
+        },
+        {
+            "question": "Which one of the following indicators is included in the National Multidimensional Poverty Index (MPI)?",
+            "options": [
+                "Years of schooling",
+                "Literacy rate",
+                "Life expectancy",
+                "Per capita income"
+            ],
+            "answer": "Years of schooling"
+        },
+        {
+            "question": "The unemployment that occurs due to changes in the technology or in the demand for particular products is called",
+            "options": [
+                "frictional unemployment",
+                "structural unemployment",
+                "cyclical unemployment",
+                "disguised unemployment"
+            ],
+            "answer": "structural unemployment"
+        },
+        {
+            "question": "Which of the following is/are the objective/objectives of the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY)?<br/><ol><li>Correcting regional imbalances in the availability of tertiary health care services</li><li>Providing universal access to public health services and universal immunization</li><li>Augmenting facilities for quality medical education in the country</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 and 3 only",
+                "2 and 3 only",
+                "1 only",
+                "1, 2 and 3"
+            ],
+            "answer": "1 and 3 only"
+        },
+        {
+            "question": "Who among the following political leaders suggested the dissolution of the Indian National Congress as a political organization and its replacement by a Lok Sevak Sangh?",
+            "options": [
+                "Vallabhbhai Patel",
+                "Dr. B. R. Ambedkar",
+                "M. K. Gandhi",
+                "Jawaharlal Nehru"
+            ],
+            "answer": "M. K. Gandhi"
+        },
+        {
+            "question": "India is the first country in the world to deploy an all-woman contingent to a UN Peacekeeping Mission. In which country did this mission operate?",
+            "options": [
+                "Liberia",
+                "Sudan",
+                "Burundi",
+                "Croatia"
+            ],
+            "answer": "Liberia"
+        },
+        {
+            "question": "Which one among the following is <i>not</i> a part of the SWAYAM programme?",
+            "options": [
+                "Video lectures",
+                "Classroom lectures",
+                "Online discussion forum for clearing doubts",
+                "Specially prepared material that can be downloaded/printed"
+            ],
+            "answer": "Classroom lectures"
+        },
+        {
+            "question": "Which one among the following Departments/Authorities is <i>not</i> under the Ministry of Home Affairs?",
+            "options": [
+                "The Department of States",
+                "The Department of Official Language",
+                "The National Authority Chemical Weapons Convention",
+                "The Department of Jammu, Kashmir and Ladakh Affairs"
+            ],
+            "answer": "The National Authority Chemical Weapons Convention"
+        },
+        {
+            "question": "Who among the following is given discretionary powers under the Fifth Schedule of the Constitution of India to set up a Tribes Advisory Council in a State which has Scheduled Tribes but not Scheduled Areas?",
+            "options": [
+                "The Governor of the concerned State",
+                "The President of India",
+                "The Inter-State Council",
+                "The Parliament of India"
+            ],
+            "answer": "The President of India"
+        },
+        {
+            "question": "Which of the following States/UTs are included in the Northern Zonal Council?",
+            "options": [
+                "Uttarakhand, Uttar Pradesh, Haryana, Punjab, Jammu and Kashmir",
+                "Haryana, Punjab, Himachal Pradesh, Rajasthan and NCT of Delhi",
+                "Uttar Pradesh, Uttarakhand, Punjab, Haryana and Rajasthan",
+                "Uttarakhand, Uttar Pradesh, Himachal Pradesh, Punjab and Haryana"
+            ],
+            "answer": "Haryana, Punjab, Himachal Pradesh, Rajasthan and NCT of Delhi"
+        },
+        {
+            "question": "The notion of kinship projected by the Kushana rulers is best evidenced through which of the following?",
+            "options": [
+                "Their identification with deities",
+                "Grants to religious institutions",
+                "Inscriptional panegyrics",
+                "Coins and sculpture"
+            ],
+            "answer": "Coins and sculpture"
+        },
+        {
+            "question": "Who among the following were referred to as the 'Theris' in ancient India?",
+            "options": [
+                "Respected women",
+                "Elder nuns in Buddhism",
+                "Women denied the Bhikkhuni status",
+                "Women expelled from the Buddhist Sangha"
+            ],
+            "answer": "Elder nuns in Buddhism"
+        },
+        {
+            "question": "Which member of the Servants of India Society founded the Seva Samiti at Allahabad in 1914?",
+            "options": [
+                "Shri Ram Bajpai",
+                "Hriday Nath Kunzru",
+                "S. G. Vaze",
+                "Srinivas Shastri"
+            ],
+            "answer": "Hriday Nath Kunzru"
+        },
+        {
+            "question": "The First Anglo-Maratha War was concluded by which one of the following?",
+            "options": [
+                "The Treaty of Surat",
+                "The Treaty of Purandar",
+                "The Convention of Wadgaon",
+                "The Treaty of Salbai"
+            ],
+            "answer": "The Treaty of Salbai"
+        },
+        {
+            "question": "Name the battle in which the Travancore King defeated the Dutch in 1741.",
+            "options": [
+                "The Battle of Porto Novo",
+                "The Battle of Colachel",
+                "The Battle of Pollilore",
+                "The Battle of Changanassery"
+            ],
+            "answer": "The Battle of Colachel"
+        },
+        {
+            "question": "In which one of the following revolts did the Koya and Konda tribal chiefs rise against the local overlord from a Mansabdar family?",
+            "options": [
+                "The Rampa Rebellion, 1879-1880",
+                "The Gudem Uprising, 1886",
+                "The Rampa Rebellion, 1922-1924",
+                "The Telangana Armed Struggle, 1946-1951"
+            ],
+            "answer": "The Rampa Rebellion, 1879-1880"
+        },
+        {
+            "question": "Which country won the FIFA World Cup (Men) for maximum number of times?",
+            "options": [
+                "Argentina",
+                "Brazil",
+                "France",
+                "Spain"
+            ],
+            "answer": "Brazil"
+        },
+        {
+            "question": "Who among the following is the author of the famous novel, <i>City of Joy</i>?",
+            "options": [
+                "Larry Collins",
+                "Dominique Lapierre",
+                "Rudyard Kipling",
+                "Mark Tully"
+            ],
+            "answer": "Dominique Lapierre"
+        },
+        {
+            "question": "Who among the following is honoured with the UN Environment Programme's 2022 Champions of the Earth Award in the Entrepreneurial Vision category?",
+            "options": [
+                "Ela Bhatt",
+                "Amit Dasgupta",
+                "Purnima Devi Barman",
+                "Vanshika Parmar"
+            ],
+            "answer": "Purnima Devi Barman"
+        },
+        {
+            "question": "The theme of India's G20 Presidency 'Vasudhaiva Kutumbakam' or 'One Earth-One Family-One Future' is drawn from the",
+            "options": [
+                "Maha Purana",
+                "Maha Upanishad",
+                "Rig Veda",
+                "Smriti"
+            ],
+            "answer": "Maha Upanishad"
+        },
+        {
+            "question": "The 16th edition of Indo-Nepal annual joint training exercise in jungle warfare and counterterrorism operations was held in December 2022 at Nepal Army Battle School, Saljhandi. What is the name of this exercise?",
+            "options": [
+                "Sampriti",
+                "Mitra Shakti",
+                "Yudh Abhyas",
+                "Surya Kiran"
+            ],
+            "answer": "Surya Kiran"
+        },
+        {
+            "question": "If it is 10:00 a.m. at Greenwich Mean Time (GMT), then what will be the time at 90&deg; E longitude?",
+            "options": [
+                "5:00 a.m.",
+                "4:00 a.m.",
+                "3:00 p.m.",
+                "4:00 p.m."
+            ],
+            "answer": "4:00 p.m."
+        },
+        {
+            "question": "Which of the following groups of planets is termed as 'gas planets' as they are composed primarily of lighter ices, liquids and gases?",
+            "options": [
+                "Mars, Jupiter, Neptune, Uranus",
+                "Jupiter, Uranus, Neptune, Saturn",
+                "Saturn, Mars, Jupiter, Neptune",
+                "Neptune, Saturn, Mars, Uranus"
+            ],
+            "answer": "Jupiter, Uranus, Neptune, Saturn"
+        },
+        {
+            "question": "Consider the following characteristics of a soil type :<br/><ol><li>These soils consist of various proportions of sand, silt and clay.</li><li>These soils contain adequate proportions of potash, phosphoric acid and lime.</li><li>These soils can be further classified on the basis of their age.</li></ol><br/>Identify the type of soil on the basis of the given characteristics.",
+            "options": [
+                "Alluvial",
+                "Laterite",
+                "Arid",
+                "Black"
+            ],
+            "answer": "Alluvial"
         }
     ]
 };
