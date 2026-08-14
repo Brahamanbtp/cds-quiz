@@ -8103,6 +8103,256 @@ const gkData: Record<string, Question[]> = {
                 "Black"
             ],
             "answer": "Alluvial"
+        },
+        {
+            "question": "Consider the following statements and identify the correct answer using the code given below :<br/><ol><li>In a thermal power station, fuels such as oil, coal or natural gas are used to generate electricity.</li><li>Fuels are burned to heat water and turn it into steam, which goes through a turbine, which spins and turns, generating electricity.</li></ol><br/>Code :",
+            "options": [
+                "Statement 1 is correct but statement 2 is not correct",
+                "Statement 2 is correct but statement 1 is not correct",
+                "Both the statements are correct and statement 2 explains statement 1",
+                "Both the statements are correct but statement 2 does not explain statement 1"
+            ],
+            "answer": "Both the statements are correct and statement 2 explains statement 1"
+        },
+        {
+            "question": "Indus river basin is extended up to",
+            "options": [
+                "Ladakh, Jammu and Kashmir, Himachal Pradesh, Punjab",
+                "Ladakh, Jammu and Kashmir, Punjab, Haryana",
+                "Ladakh, Jammu and Kashmir, Punjab, Haryana, Rajasthan",
+                "Ladakh, Jammu and Kashmir, Himachal Pradesh, Punjab, Haryana, Rajasthan"
+            ],
+            "answer": "Ladakh, Jammu and Kashmir, Himachal Pradesh, Punjab, Haryana, Rajasthan"
+        },
+        {
+            "question": "Which one of the following statements about the Solicitor General of India (SGI) is <i>not</i> correct?",
+            "options": [
+                "The SGI is the Government's chief legal advisor.",
+                "The SGI is the secondary law officer of the country.",
+                "The post of the SGI is a constitutional post.",
+                "The SGI is appointed by the Appointments Committee of the Cabinet."
+            ],
+            "answer": "The post of the SGI is a constitutional post."
+        },
+        {
+            "question": "Which one of the following committees does <i>not</i> have members from the Rajya Sabha?",
+            "options": [
+                "The Public Accounts Committee",
+                "The Committee on Public Undertakings",
+                "The Estimates Committee",
+                "The Committee on the Welfare of Scheduled Castes and Scheduled Tribes"
+            ],
+            "answer": "The Estimates Committee"
+        },
+        {
+            "question": "Which one of the following statements about the election of the President of India is <i>not</i> correct?",
+            "options": [
+                "A Union Minister shall not be eligible for election as the President.",
+                "The President is elected by the elected members of the Parliament and the Legislative Assemblies of States and Union Territories.",
+                "The Electoral College does not include elected members of the Legislative Councils.",
+                "The system of proportional representation by means of single transferable vote is followed."
+            ],
+            "answer": "A Union Minister shall not be eligible for election as the President."
+        },
+        {
+            "question": "The Citizenship Act, 1955 deals with the determination of citizenship on or after",
+            "options": [
+                "26th January, 1950",
+                "26th November, 1949",
+                "15th August, 1947",
+                "14th August, 1947"
+            ],
+            "answer": "26th January, 1950"
+        },
+        {
+            "question": "According to the National Multi-dimensional Poverty Index (MPI) constructed by the NITI Aayog, a household is considered deprived if<br/><ol><li>a single member of the household is identified as under-nourished</li><li>the body mass index of a woman member, between 15 years and 49 years of age, is below 18.5 kg/m<sup>2</sup></li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Both 1 and 2"
+        },
+        {
+            "question": "The titles of 'Rayagajakesari' and 'Dayagajakesari' were associated with which one of the following dynasties?",
+            "options": [
+                "Kakatiya",
+                "Vijayanagara",
+                "Gajapati",
+                "Rashtrakuta"
+            ],
+            "answer": "Kakatiya"
+        },
+        {
+            "question": "Name the location of the musical inscription containing groups of musical notes arranged for the benefit of his pupils by a king in the seventh or eighth century CE.",
+            "options": [
+                "Ennayiram",
+                "Uttaramerur",
+                "Siyyamangalam",
+                "Kudumiyamalai"
+            ],
+            "answer": "Kudumiyamalai"
+        },
+        {
+            "question": "In the context of eighteenth century India, what was 'Dastak'?",
+            "options": [
+                "Signature",
+                "Land document",
+                "Trade permit",
+                "Tax on textiles"
+            ],
+            "answer": "Trade permit"
+        },
+        {
+            "question": "Which one of the following was primarily associated with 'Dadni' system?",
+            "options": [
+                "Textile production",
+                "Warfare",
+                "Payment to officials",
+                "Revenue collection"
+            ],
+            "answer": "Textile production"
+        },
+        {
+            "question": "Consider the following statements about Kanaganahalli archaeological site :<br/><ol><li>It is situated on the bank of Bhima river.</li><li>The remains of the Kanaganahalli Stupa can be dated between 1st and 3rd centuries CE.</li><li>Emperor Ashoka's image was found at the site.</li></ol><br/>Which of the statements given above are correct?",
+            "options": [
+                "1 and 2 only",
+                "2 and 3 only",
+                "1 and 3 only",
+                "1, 2 and 3"
+            ],
+            "answer": "1, 2 and 3"
+        },
+        {
+            "question": "Which of the following statements about volcanoes are correct?<br/><ol><li>The strength of a volcano is measured by the Volcanic Explosive Index.</li><li>Iceland and Philippines were created by volcanic activity.</li><li>Volcanic soils are rich, deep and fertile and allow intensive agriculture to take place.</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 and 2 only",
+                "2 and 3 only",
+                "1 and 3 only",
+                "1, 2 and 3"
+            ],
+            "answer": "1, 2 and 3"
+        },
+        {
+            "question": "Consider the following characteristics of a cloud type :<br/><ol><li>They are born through convection.</li><li>Only cloud type that can produce hail, thunder and lightning.</li><li>They are large cauliflower-shaped towers, often 'anvil tops'.</li></ol><br/>Identify the type of cloud on the basis of the given characteristics.",
+            "options": [
+                "Stratocumulus",
+                "Cumulonimbus",
+                "Cirrocumulus",
+                "Nimbostratus"
+            ],
+            "answer": "Cumulonimbus"
+        },
+        {
+            "question": "Meena wants to show diagrammatically how two sets of data, namely, population size and number of services are related to each other. Which one of the following will be the most suitable for the presentation?",
+            "options": [
+                "Pie chart",
+                "Scatter graph",
+                "Bar chart",
+                "Triangular graph"
+            ],
+            "answer": "Scatter graph"
+        },
+        {
+            "question": "Which one of the following Indian States has the longest coastline?",
+            "options": [
+                "Tamil Nadu",
+                "Gujarat",
+                "Maharashtra",
+                "Andhra Pradesh"
+            ],
+            "answer": "Gujarat"
+        },
+        {
+            "question": "Which of the following statements is/are correct?<br/><ol><li>Visakhapatnam Port is a land-locked harbour.</li><li>Deendayal Port is a tidal port.</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Both 1 and 2"
+        },
+        {
+            "question": "There is an increase in forest cover area of India between 2011 and 2021. However, there is a decrease in forest cover area of India during the same period in",
+            "options": [
+                "very dense forest (canopy density of more than 70 percent)",
+                "moderately dense forest (canopy density between 40-70 percent)",
+                "open forest (canopy density between 10-20 percent)",
+                "Both (b) and (c)"
+            ],
+            "answer": "moderately dense forest (canopy density between 40-70 percent)"
+        },
+        {
+            "question": "Consider the following statements concerning the National Education Policy, 2020 :<br/><ol><li>At least 50 percent of the learners through school and higher education system to get exposure to vocational education by 2025.</li><li>Secondary schools should collaborate with ITIs, Polytechnics and local industries.</li><li>Vocational education to be exclusively provided by NGOs.</li></ol><br/>Which of the statements given above is/are correct?",
+            "options": [
+                "1 only",
+                "1 and 2 only",
+                "2 and 3 only",
+                "1, 2 and 3"
+            ],
+            "answer": "1 and 2 only"
+        },
+        {
+            "question": "Which of the following sets of States is at the bottom of the Composite SDG India Index, 2020-2021 as per the NITI Aayog?",
+            "options": [
+                "Assam, Jharkhand, Bihar",
+                "Uttar Pradesh, Jharkhand, Bihar",
+                "Uttar Pradesh, Bihar, Assam",
+                "Odisha, Bihar, Jharkhand"
+            ],
+            "answer": "Uttar Pradesh, Jharkhand, Bihar"
+        },
+        {
+            "question": "Which one of the following is <i>not</i> a part of Article 51 of the Constitution of India?",
+            "options": [
+                "Promote international peace and security",
+                "Maintain just and honourable relations between nations",
+                "Use of UN peacekeeping force for resolution of international disputes",
+                "Encourage settlement of inter-national disputes by arbitration"
+            ],
+            "answer": "Use of UN peacekeeping force for resolution of international disputes"
+        },
+        {
+            "question": "Who among the following was <i>not</i> in the core leadership of the Non-Aligned Movement (NAM) in its formative phase?",
+            "options": [
+                "Kwame Nkrumah",
+                "Gamal Abdel Nasser",
+                "Jawaharlal Nehru",
+                "Fidel Castro"
+            ],
+            "answer": "Fidel Castro"
+        },
+        {
+            "question": "In respect to Balutedars, which of the statements given below are correct?<br/><ol><li>They were village servants and artisans.</li><li>They were employed by individual peasant family.</li><li>They existed in the Medieval Deccan and Maharashtra.</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 and 2 only",
+                "2 and 3 only",
+                "1 and 3 only",
+                "1, 2 and 3"
+            ],
+            "answer": "1 and 3 only"
+        },
+        {
+            "question": "Which one of the following Viceroys was the first to officially shift his Council to Simla in summer season?",
+            "options": [
+                "John Lawrence",
+                "Lord Dalhousie",
+                "Lord Mayo",
+                "William Bentinck"
+            ],
+            "answer": "John Lawrence"
+        },
+        {
+            "question": "Who among the following is the author of <i>Maze Vidyapeeth</i>, the famous poem about the life of working class of Bombay?",
+            "options": [
+                "Narayan Surve",
+                "Amol Palekar",
+                "Bhalchandra Nemade",
+                "Narendra Jadhav"
+            ],
+            "answer": "Narayan Surve"
         }
     ]
 };
