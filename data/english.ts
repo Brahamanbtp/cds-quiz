@@ -8375,6 +8375,259 @@ const englishData: Record<string, Question[]> = {
                 "QRSP"
             ],
             "answer": "SQPR"
+        },
+        {
+            "direction": "In this section, each item consists of six sentences of a passage. The first and sixth sentences are marked as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. This is followed by four options each suggesting a sequence of the sentences. Identify the most appropriate option.",
+            "question": "S1: In the ancient times, the kings and the royal families had their own banner and seal.<br/>S6: So the high officials commanded great respect because of the descent, ability and character.<br/>P: All the members of the royal family shared in the administration as far as possible.<br/>Q: The royal palace was maintained in a great state.<br/>R: The king was in theory an autocrat.<br/>S: There were opportunities to influence the king in the formulation of policies.",
+            "options": [
+                "RSPQ",
+                "QRPS",
+                "PQSR",
+                "QPSR"
+            ],
+            "answer": "RSPQ"
+        },
+        {
+            "direction": "In this section, each item consists of six sentences of a passage. The first and sixth sentences are marked as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. This is followed by four options each suggesting a sequence of the sentences. Identify the most appropriate option.",
+            "question": "S1: The rise of East Asia in the late twentieth century may ultimately prove to be a more important world-historical event than the collapse of communism.<br/>S6: Translated into political terms, this means that industrial capitalism is always accompanied by liberal democracy.<br/>P: In the final two decades of the twentieth century, economic growth rates on the western rim of the Pacific Basin were between two and four times higher than those in the 'developed' economies of Europe and North America.<br/>Q: The widespread assumption has been that modernization means westernization.<br/>R: Certainly, the balance of the world's economy shifted markedly from the West to the East in this period.<br/>S: However, the notion that there is distinctively East Asian political form is less familiar one.",
+            "options": [
+                "RSPQ",
+                "PRSQ",
+                "RSQP",
+                "QPRS"
+            ],
+            "answer": "PRSQ"
+        },
+        {
+            "direction": "In this section, each item consists of six sentences of a passage. The first and sixth sentences are marked as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. This is followed by four options each suggesting a sequence of the sentences. Identify the most appropriate option.",
+            "question": "S1: Manipur has a long and glorious history from before the beginning of the Christian Era.<br/>S6: Manipur regained its independence in 1947 and merged into Indian Union in 1949.<br/>P: Then, Manipur came under the British rule in 1891.<br/>Q: The independence and sovereignty remained uninterrupted until the Burmese invasion and occupation for around seven years in the first quarter of the 19th century (1819-1826).<br/>R: The political history of Manipur could be traced back to 33 AD with the coronation of Nongda Lairen Pakhangba.<br/>S: After Pakhangba, a number of kings ruled over the Kingdom of Manipur.",
+            "options": [
+                "RSPQ",
+                "PQRS",
+                "RSQP",
+                "QPRS"
+            ],
+            "answer": "RSQP"
+        },
+        {
+            "direction": "In this section, each item consists of six sentences of a passage. The first and sixth sentences are marked as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. This is followed by four options each suggesting a sequence of the sentences. Identify the most appropriate option.",
+            "question": "S1: In agriculture, water is mainly used for irrigation.<br/>S6: Hence, it is difficult to practice agriculture without assured irrigation during dry seasons.<br/>P: The large tracts of the country are deficient in rainfall and are drought prone.<br/>Q: Winter and summer seasons are more or less dry in most part of the country.<br/>R: Irrigation is needed because of spatio-temporal variability in rainfall in the country.<br/>S: North-Western India and Deccan Plateau constitute such areas.",
+            "options": [
+                "RPSQ",
+                "RQSP",
+                "SPQR",
+                "QPRS"
+            ],
+            "answer": "RPSQ"
+        },
+        {
+            "direction": "In this section, each item consists of six sentences of a passage. The first and sixth sentences are marked as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. This is followed by four options each suggesting a sequence of the sentences. Identify the most appropriate option.",
+            "question": "S1: Vijayanagara or 'city of victory' was the name of both a city and an empire.<br/>S6: They remembered it as Hampi, a name derived from that of the local Mother Goddess, Pampadevi.<br/>P: In its heyday, it stretched from the river Krishna in the North to the extreme South of the peninsula.<br/>Q: The empire was founded in the fourteenth century.<br/>R: In 1565, the city was destroyed and subsequently deserted.<br/>S: Although it fell into ruin in the seventeenth-eighteenth centuries, it lived on in the memories of people living in the Krishna-Tungabhadra Doab.",
+            "options": [
+                "PQRS",
+                "RSPQ",
+                "SRQP",
+                "QPRS"
+            ],
+            "answer": "QPRS"
+        },
+        {
+            "direction": "In this section, each item consists of six sentences of a passage. The first and sixth sentences are marked as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. This is followed by four options each suggesting a sequence of the sentences. Identify the most appropriate option.",
+            "question": "S1: During the past two decades, many organizations in both the manufacturing and service sectors have faced dramatic changes in their business environment.<br/>S6: These changes have had a significant influence on management accounting systems.<br/>P: To succeed in today's highly competitive environment, companies have made customer satisfaction an overriding priority.<br/>Q: They have also adopted new management approaches and manufacturing companies have changed their manufacturing systems and invested in new technologies.<br/>R: Deregulation and extensive competition from overseas companies in domestic markets have resulted in a situation in which most companies now operate in a highly competitive global market.<br/>S: At the same time there has been a significant reduction in product life cycles arising from technological innovations and the need to meet increasingly discriminating customer demands.",
+            "options": [
+                "PQRS",
+                "RSPQ",
+                "SRQP",
+                "QPRS"
+            ],
+            "answer": "RSPQ"
+        },
+        {
+            "direction": "In this section, each item consists of six sentences of a passage. The first and sixth sentences are marked as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. This is followed by four options each suggesting a sequence of the sentences. Identify the most appropriate option.",
+            "question": "S1: Gregor Johann Mendel was born on July 22, 1822 in Austria.<br/>S6: Based on his experiments on a total of seven characteristics in garden pea, he established Law of Segregation and Law of Independent Assortment.<br/>P: His pioneering work laid the foundation of science of genetics and therefore, he is known as the 'Father of Genetics'.<br/>Q: There he was exposed to the lab facilities and got interested in research and teaching.<br/>R: In 1843, Mendel began studying even while being a monk at St. Thomas Monastery in Brno.<br/>S: His experiments focussed on cross-breeding of pea plants and gathering data on the variations of several generations.",
+            "options": [
+                "RSPQ",
+                "PQSR",
+                "PRQS",
+                "SPQR"
+            ],
+            "answer": "PRQS"
+        },
+        {
+            "direction": "In this section, each item consists of six sentences of a passage. The first and sixth sentences are marked as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. This is followed by four options each suggesting a sequence of the sentences. Identify the most appropriate option.",
+            "question": "S1: Mahatma Gandhi found in salt a powerful symbol that could unite the nation.<br/>S6: The tax on salt and the government monopoly over its production, Mahatma Gandhi declared, revealed the most oppressive face of the British rule.<br/>P: On 31 January, 1930, he sent a letter to Viceroy Irwin stating eleven demands.<br/>Q: The idea was to make the demands wide-ranging, so that all classes within Indian society could identify with them and everyone could be brought together in a united campaign.<br/>R: Salt was something consumed by the rich and the poor alike, and it was one of the most essential items of food.<br/>S: The most stirring of all was the demand to abolish the salt tax.",
+            "options": [
+                "PQSR",
+                "SRQP",
+                "RPQS",
+                "QPRS"
+            ],
+            "answer": "RPQS"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is <b>opposite in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "<u>Brevity</u> is the soul of wit.",
+            "options": [
+                "concision",
+                "economy",
+                "terseness",
+                "verbosity"
+            ],
+            "answer": "verbosity"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is <b>opposite in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "<u>Blend</u> the grains to make a smooth paste.",
+            "options": [
+                "separate",
+                "mingle",
+                "coalesce",
+                "amalgamate"
+            ],
+            "answer": "separate"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is <b>opposite in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "The project wasted a <u>considerable</u> amount of time and money.",
+            "options": [
+                "substantial",
+                "trifling",
+                "plentiful",
+                "abundant"
+            ],
+            "answer": "trifling"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is <b>opposite in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "She has always been <u>disdainful</u> of people who haven't been to college.",
+            "options": [
+                "contemptuous",
+                "dismissive",
+                "scornful",
+                "respectful"
+            ],
+            "answer": "respectful"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is <b>opposite in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "He had a <u>frugal</u> lunch.",
+            "options": [
+                "sparing",
+                "extravagant",
+                "meagre",
+                "delicious"
+            ],
+            "answer": "extravagant"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is <b>opposite in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "He is forced to lead an <u>itinerant</u> life.",
+            "options": [
+                "vagrant",
+                "roving",
+                "settled",
+                "nomadic"
+            ],
+            "answer": "settled"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is <b>opposite in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "His <u>malicious</u> intentions were aborted.",
+            "options": [
+                "pernicious",
+                "spiteful",
+                "benevolent",
+                "vindictive"
+            ],
+            "answer": "benevolent"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is <b>opposite in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "Comics tend to <u>perpetuate</u> several myths.",
+            "options": [
+                "cease",
+                "conserve",
+                "sustain",
+                "maintain"
+            ],
+            "answer": "cease"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is <b>opposite in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "Krishna is a <u>redoubtable</u> person.",
+            "options": [
+                "formidable",
+                "fearsome",
+                "awe inspiring",
+                "unimpressive"
+            ],
+            "answer": "unimpressive"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is <b>opposite in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "The movie is about <u>fusion</u> of old and contemporary ideas.",
+            "options": [
+                "joining",
+                "bonding",
+                "separation",
+                "blending"
+            ],
+            "answer": "separation"
+        },
+        {
+            "direction": "In this section, there is a passage having some blank spaces with four words or groups of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/><b>Passage:</b><br/>It is necessary, <b>(81)</b> any war, to consider, not its proper justification in past agreements, <b>(82)</b> its real justification in the balance of good which it is to bring to mankind. At the beginning of a war, each nation, under the influence of what is called <b>(83)</b>, believes that its own victory is <b>(84)</b> certain and of great importance to mankind. The praiseworthiness of this belief has become an accepted maxim of common sense: even when war is actually in progress it <b>(85)</b> to be natural and right that a citizen of an enemy country...",
+            "question": "Blank (81)",
+            "options": [
+                "in regard to",
+                "connecting",
+                "describing",
+                "linking"
+            ],
+            "answer": "in regard to"
+        },
+        {
+            "direction": "In this section, there is a passage having some blank spaces with four words or groups of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/><b>Passage:</b><br/>It is necessary, <b>(81)</b> any war, to consider, not its proper justification in past agreements, <b>(82)</b> its real justification in the balance of good which it is to bring to mankind. At the beginning of a war, each nation, under the influence of what is called <b>(83)</b>, believes that its own victory is <b>(84)</b> certain and of great importance to mankind. The praiseworthiness of this belief has become an accepted maxim of common sense: even when war is actually in progress it <b>(85)</b> to be natural and right that a citizen of an enemy country...",
+            "question": "Blank (82)",
+            "options": [
+                "and",
+                "until",
+                "but",
+                "unless"
+            ],
+            "answer": "but"
+        },
+        {
+            "direction": "In this section, there is a passage having some blank spaces with four words or groups of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/><b>Passage:</b><br/>It is necessary, <b>(81)</b> any war, to consider, not its proper justification in past agreements, <b>(82)</b> its real justification in the balance of good which it is to bring to mankind. At the beginning of a war, each nation, under the influence of what is called <b>(83)</b>, believes that its own victory is <b>(84)</b> certain and of great importance to mankind. The praiseworthiness of this belief has become an accepted maxim of common sense: even when war is actually in progress it <b>(85)</b> to be natural and right that a citizen of an enemy country...",
+            "question": "Blank (83)",
+            "options": [
+                "disloyalty",
+                "patriotism",
+                "infidelity",
+                "falseness"
+            ],
+            "answer": "patriotism"
+        },
+        {
+            "direction": "In this section, there is a passage having some blank spaces with four words or groups of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/><b>Passage:</b><br/>It is necessary, <b>(81)</b> any war, to consider, not its proper justification in past agreements, <b>(82)</b> its real justification in the balance of good which it is to bring to mankind. At the beginning of a war, each nation, under the influence of what is called <b>(83)</b>, believes that its own victory is <b>(84)</b> certain and of great importance to mankind. The praiseworthiness of this belief has become an accepted maxim of common sense: even when war is actually in progress it <b>(85)</b> to be natural and right that a citizen of an enemy country...",
+            "question": "Blank (84)",
+            "options": [
+                "nationally",
+                "individually",
+                "autonomously",
+                "both"
+            ],
+            "answer": "both"
+        },
+        {
+            "direction": "In this section, there is a passage having some blank spaces with four words or groups of words given. Select whichever word or group of words you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly.<br/><br/><b>Passage:</b><br/>It is necessary, <b>(81)</b> any war, to consider, not its proper justification in past agreements, <b>(82)</b> its real justification in the balance of good which it is to bring to mankind. At the beginning of a war, each nation, under the influence of what is called <b>(83)</b>, believes that its own victory is <b>(84)</b> certain and of great importance to mankind. The praiseworthiness of this belief has become an accepted maxim of common sense: even when war is actually in progress it <b>(85)</b> to be natural and right that a citizen of an enemy country...",
+            "question": "Blank (85)",
+            "options": [
+                "is held",
+                "has been withheld",
+                "was held",
+                "had been withheld"
+            ],
+            "answer": "is held"
         }
     ]
 };
