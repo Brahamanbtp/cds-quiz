@@ -7692,6 +7692,338 @@ const englishData: Record<string, Question[]> = {
             ],
             "answer": "S1 is right and S2 is wrong"
         }
+    ],
+    "2023-I": [
+        {
+            "direction": "Each of the following sentences has word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.",
+            "question": "I like <u>that</u> boy.",
+            "options": [
+                "Noun",
+                "Demonstrative Pronoun",
+                "Participle",
+                "Conjunction"
+            ],
+            "answer": "Demonstrative Pronoun"
+        },
+        {
+            "direction": "Each of the following sentences has word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.",
+            "question": "Without health there is no <u>happiness</u>.",
+            "options": [
+                "Noun",
+                "Pronoun",
+                "Adjective",
+                "Adverb"
+            ],
+            "answer": "Noun"
+        },
+        {
+            "direction": "Each of the following sentences has word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.",
+            "question": "You have <u>no</u> sense.",
+            "options": [
+                "Noun",
+                "Determiner",
+                "Adverb",
+                "Preposition"
+            ],
+            "answer": "Determiner"
+        },
+        {
+            "direction": "Each of the following sentences has word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.",
+            "question": "<u>None</u> of these cars is in use.",
+            "options": [
+                "Reflexive Pronoun",
+                "Demonstrative Pronoun",
+                "Distributive Pronoun",
+                "Indefinite Pronoun"
+            ],
+            "answer": "Indefinite Pronoun"
+        },
+        {
+            "direction": "Each of the following sentences has word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.",
+            "question": "We shall <u>now</u> begin to work.",
+            "options": [
+                "Adverb",
+                "Adjective",
+                "Conjunction",
+                "Pronoun"
+            ],
+            "answer": "Adverb"
+        },
+        {
+            "direction": "Each of the following sentences has word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.",
+            "question": "<u>Owing to</u> his ill health, he retired from business.",
+            "options": [
+                "Conjunction",
+                "Preposition",
+                "Participle",
+                "Determiner"
+            ],
+            "answer": "Preposition"
+        },
+        {
+            "direction": "Each of the following sentences has word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.",
+            "question": "My sister is just sixteen and <u>therefore</u> not eligible to vote.",
+            "options": [
+                "Gerund",
+                "Adverb",
+                "Adjective",
+                "Conjunction"
+            ],
+            "answer": "Adverb"
+        },
+        {
+            "direction": "Each of the following sentences has word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.",
+            "question": "They tried <u>to find</u> fault with us.",
+            "options": [
+                "Participle",
+                "Verb",
+                "Infinitive",
+                "Gerund"
+            ],
+            "answer": "Infinitive"
+        },
+        {
+            "direction": "Each of the following sentences has word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.",
+            "question": "<u>Which</u> way shall we go?",
+            "options": [
+                "Noun",
+                "Gerund",
+                "Conjunction",
+                "Adjective"
+            ],
+            "answer": "Adjective"
+        },
+        {
+            "direction": "Each of the following sentences has word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly.",
+            "question": "<u>Alas!</u> He is dead.",
+            "options": [
+                "Determiner",
+                "Conjunction",
+                "Preposition",
+                "Interjection"
+            ],
+            "answer": "Interjection"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank space.",
+            "question": "He was ______ speaker that I had ever heard.",
+            "options": [
+                "the most eloquent",
+                "the more eloquent",
+                "very eloquent",
+                "eloquent"
+            ],
+            "answer": "the most eloquent"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank space.",
+            "question": "What was the name of the person to ______ you spoke on the phone?",
+            "options": [
+                "who",
+                "whom",
+                "whose",
+                "which"
+            ],
+            "answer": "whom"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank space.",
+            "question": "Have you seen Mohan ______?",
+            "options": [
+                "lately",
+                "yesterday",
+                "lastly",
+                "late"
+            ],
+            "answer": "lately"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank space.",
+            "question": "We live in ______ an old house.",
+            "options": [
+                "rather",
+                "fairly",
+                "quite",
+                "pretty"
+            ],
+            "answer": "quite"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank space.",
+            "question": "I'm playing tennis tomorrow unless ______.",
+            "options": [
+                "it rains",
+                "it doesn't rain",
+                "it rained",
+                "it may rain"
+            ],
+            "answer": "it rains"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank space.",
+            "question": "The ______ of the car is unknown.",
+            "options": [
+                "make up",
+                "making",
+                "made up",
+                "make"
+            ],
+            "answer": "make"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank space.",
+            "question": "He paid his debts ______ to the last penny.",
+            "options": [
+                "down",
+                "over",
+                "full",
+                "fully"
+            ],
+            "answer": "down"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank space.",
+            "question": "Developing ______ in a diverse country requires detailed planning.",
+            "options": [
+                "growth",
+                "scarcity",
+                "poverty",
+                "infrastructure"
+            ],
+            "answer": "infrastructure"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank space.",
+            "question": "______ provisions have been made to support agriculture.",
+            "options": [
+                "Procurement",
+                "Subsidized",
+                "Adequate",
+                "Capital"
+            ],
+            "answer": "Adequate"
+        },
+        {
+            "direction": "Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank space.",
+            "question": "The ______ growth in the Indian financial markets can be attributed to a number of reforms.",
+            "options": [
+                "efficiency",
+                "phenomenal",
+                "catastrophe",
+                "meteor"
+            ],
+            "answer": "phenomenal"
+        },
+        {
+            "direction": "Each of the following items in this section consists of a sentence, chunks of which have been jumbled up. These chunks have been labelled as P, Q, R and S. Each sentence is followed by four sequences, namely (a), (b), (c) and (d) indicating the rearrangement of the chunks. You are required to select the most appropriate option.",
+            "question": "P: India has become<br/>Q: with time<br/>R: accounting for 25 per cent of the total available water<br/>S: the world's largest extractor of groundwater",
+            "options": [
+                "PQRS",
+                "PRSQ",
+                "QPSR",
+                "QRPS"
+            ],
+            "answer": "QPSR"
+        },
+        {
+            "direction": "Each of the following items in this section consists of a sentence, chunks of which have been jumbled up. These chunks have been labelled as P, Q, R and S. Each sentence is followed by four sequences, namely (a), (b), (c) and (d) indicating the rearrangement of the chunks. You are required to select the most appropriate option.",
+            "question": "P: present existential perils<br/>Q: all over the world<br/>R: the extremes<br/>S: of climate change",
+            "options": [
+                "RSPQ",
+                "PRSQ",
+                "QPSR",
+                "QRPS"
+            ],
+            "answer": "RSPQ"
+        },
+        {
+            "direction": "Each of the following items in this section consists of a sentence, chunks of which have been jumbled up. These chunks have been labelled as P, Q, R and S. Each sentence is followed by four sequences, namely (a), (b), (c) and (d) indicating the rearrangement of the chunks. You are required to select the most appropriate option.",
+            "question": "P: the company forecasts<br/>Q: aviation market amongst<br/>R: the G20 countries<br/>S: that India will be the fastest growing",
+            "options": [
+                "RSPQ",
+                "PSQR",
+                "SPQR",
+                "QRPS"
+            ],
+            "answer": "PSQR"
+        },
+        {
+            "direction": "Each of the following items in this section consists of a sentence, chunks of which have been jumbled up. These chunks have been labelled as P, Q, R and S. Each sentence is followed by four sequences, namely (a), (b), (c) and (d) indicating the rearrangement of the chunks. You are required to select the most appropriate option.",
+            "question": "P: near villages or herder camps<br/>Q: shangdongs are traditional<br/>R: stonewalls, usually built<br/>S: trapping pits with inverted funnel-shaped",
+            "options": [
+                "RSPQ",
+                "SPQR",
+                "PRSQ",
+                "QSRP"
+            ],
+            "answer": "QSRP"
+        },
+        {
+            "direction": "Each of the following items in this section consists of a sentence, chunks of which have been jumbled up. These chunks have been labelled as P, Q, R and S. Each sentence is followed by four sequences, namely (a), (b), (c) and (d) indicating the rearrangement of the chunks. You are required to select the most appropriate option.",
+            "question": "P: several antiquities from other<br/>Q: nations over the years<br/>R: India has<br/>S: brought back",
+            "options": [
+                "RSPQ",
+                "RQSP",
+                "QRSP",
+                "QSPR"
+            ],
+            "answer": "RSPQ"
+        },
+        {
+            "direction": "Each of the following items in this section consists of a sentence, chunks of which have been jumbled up. These chunks have been labelled as P, Q, R and S. Each sentence is followed by four sequences, namely (a), (b), (c) and (d) indicating the rearrangement of the chunks. You are required to select the most appropriate option.",
+            "question": "P: the Aravalli hill ranges<br/>Q: of the Yamuna river and<br/>R: are spread out over the natural landscapes<br/>S: the biodiversity parks",
+            "options": [
+                "PRSQ",
+                "QRSP",
+                "SRQP",
+                "QSPR"
+            ],
+            "answer": "SRQP"
+        },
+        {
+            "direction": "Each of the following items in this section consists of a sentence, chunks of which have been jumbled up. These chunks have been labelled as P, Q, R and S. Each sentence is followed by four sequences, namely (a), (b), (c) and (d) indicating the rearrangement of the chunks. You are required to select the most appropriate option.",
+            "question": "P: the family found out<br/>Q: their mother's friends were going to<br/>R: that some of<br/>S: Poland in a car",
+            "options": [
+                "PRQS",
+                "QSPR",
+                "SPRQ",
+                "RQSP"
+            ],
+            "answer": "PRQS"
+        },
+        {
+            "direction": "Each of the following items in this section consists of a sentence, chunks of which have been jumbled up. These chunks have been labelled as P, Q, R and S. Each sentence is followed by four sequences, namely (a), (b), (c) and (d) indicating the rearrangement of the chunks. You are required to select the most appropriate option.",
+            "question": "P: earth may seem immense<br/>Q: from the perspective of humans<br/>R: and almost limitless<br/>S: living on its surface",
+            "options": [
+                "PQRS",
+                "SPRQ",
+                "QSPR",
+                "RPSQ"
+            ],
+            "answer": "QSPR"
+        },
+        {
+            "direction": "Each of the following items in this section consists of a sentence, chunks of which have been jumbled up. These chunks have been labelled as P, Q, R and S. Each sentence is followed by four sequences, namely (a), (b), (c) and (d) indicating the rearrangement of the chunks. You are required to select the most appropriate option.",
+            "question": "P: in terms of trading volumes,<br/>Q: have grown substantially<br/>R: market capitalization and turnover<br/>S: the Indian financial markets",
+            "options": [
+                "PQRS",
+                "QRPS",
+                "RSPQ",
+                "SQPR"
+            ],
+            "answer": "SQPR"
+        },
+        {
+            "direction": "Each of the following items in this section consists of a sentence, chunks of which have been jumbled up. These chunks have been labelled as P, Q, R and S. Each sentence is followed by four sequences, namely (a), (b), (c) and (d) indicating the rearrangement of the chunks. You are required to select the most appropriate option.",
+            "question": "P: emerge at last into a<br/>Q: those who passed through<br/>R: country of unearthly beauty<br/>S: that valley of darkness",
+            "options": [
+                "PRQS",
+                "QSPR",
+                "RPQS",
+                "SQRP"
+            ],
+            "answer": "QSPR"
+        }
     ]
 };
 
