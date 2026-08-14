@@ -8353,6 +8353,66 @@ const gkData: Record<string, Question[]> = {
                 "Narendra Jadhav"
             ],
             "answer": "Narayan Surve"
+        },
+        {
+            "question": "Who among the following founded the Hindu Dharma Sabha in the 19th century?",
+            "options": [
+                "Radhakanta Deb",
+                "Ram Mohan Roy",
+                "Dwarkanath Tagore",
+                "Keshab Chandra Sen"
+            ],
+            "answer": "Radhakanta Deb"
+        },
+        {
+            "question": "The resolution adopted by the United Nations General Assembly on 3 March, 2021 decided to celebrate the year 2023 as the International Year of",
+            "options": [
+                "Basic Sciences for Sustainable Development",
+                "Glass",
+                "Millets",
+                "Camelids"
+            ],
+            "answer": "Millets"
+        },
+        {
+            "question": "Karthik Meiyappan, who secured hat-trick in the ICC Men's T20 World Cup, 2022, represents",
+            "options": [
+                "Zimbabwe",
+                "United Arab Emirates",
+                "Sri Lanka",
+                "Namibia"
+            ],
+            "answer": "United Arab Emirates"
+        },
+        {
+            "question": "Which one of the following statements about the Wassenaar Arrangement is <i>not</i> correct?",
+            "options": [
+                "There are 42 participating nations in the Arrangement.",
+                "It is formed primarily as a nuclear weapon overseer.",
+                "India is the current Chairman of the Arrangement.",
+                "India joined the Arrangement in the year 2017."
+            ],
+            "answer": "It is formed primarily as a nuclear weapon overseer."
+        },
+        {
+            "question": "Who among the following is known as 'Payyoli Express'?",
+            "options": [
+                "Hima Das",
+                "Dutee Chand",
+                "P. T. Usha",
+                "Shiny Abraham"
+            ],
+            "answer": "P. T. Usha"
+        },
+        {
+            "question": "Match List-I with List-II relating to Sahitya Akademi Award Winners, 2022 and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Title and Genre)</th><th>List-II (Author)</th></tr><tr><td>A. Bhool Satya (Short Stories)</td><td>1. Kamal Ranga</td></tr><tr><td>B. Tumadi Ke Shabd (Poetry)</td><td>2. Veena Gupta</td></tr><tr><td>C. Chhe Roopak (Drama)</td><td>3. Badri Narayan</td></tr><tr><td>D. Alekhun Amba (Play)</td><td>4. Manoj Kumar Goswami</td></tr></table><br/>Code :",
+            "options": [
+                "A-1, B-2, C-3, D-4",
+                "A-1, B-3, C-2, D-4",
+                "A-4, B-3, C-2, D-1",
+                "A-4, B-2, C-3, D-1"
+            ],
+            "answer": "A-4, B-3, C-2, D-1"
         }
     ]
 };
