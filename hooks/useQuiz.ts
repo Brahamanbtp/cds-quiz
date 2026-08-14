@@ -80,12 +80,38 @@ export function useQuiz(category: string, topic: string) {
         return;
       }
 
-      const shuffled = allQuestions
-        .sort(() => Math.random() - 0.5)
-        .map((q) => ({
-          ...q,
-          options: [...q.options].sort(() => Math.random() - 0.5),
-        }));
+      const groups = new Map<string, Question[]>();
+      let noDirCounter = 0;
+
+      allQuestions.forEach((q) => {
+        let key = `__no_dir_${noDirCounter++}`;
+        
+        if (q.direction) {
+          key = q.direction;
+        } else if (q.question && (q.question.startsWith("<b>Passage") || q.question.startsWith("<b>COMPREHENSION"))) {
+          key = q.question.substring(0, 200);
+        }
+
+        if (!groups.has(key)) {
+          groups.set(key, []);
+        }
+        groups.get(key)!.push(q);
+      });
+
+      const groupedQuestions = Array.from(groups.values());
+      
+      // Shuffle the blocks of questions
+      groupedQuestions.sort(() => Math.random() - 0.5);
+      
+      // Shuffle questions within each block, shuffle options, and flatten
+      const shuffled = groupedQuestions.flatMap(group => 
+        group
+          .sort(() => Math.random() - 0.5)
+          .map((q) => ({
+            ...q,
+            options: [...q.options].sort(() => Math.random() - 0.5),
+          }))
+      );
 
       setQuestions(shuffled);
     } catch (error) {

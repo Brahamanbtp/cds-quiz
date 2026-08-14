@@ -1,6 +1,1211 @@
 import type { Question } from "@/types/Question";
 
 const gkData: Record<string, Question[]> = {
+    "2022-II": [
+        {
+                "question": "The term 'Thermal High Altitude Area Defense', sometimes mentioned in news, refers to",
+                "options": [
+                        "Anti-Missile system.",
+                        "Air-launched cruise missile.",
+                        "Aircraft navigation system.",
+                        "Surface-to-air guided weapon."
+                ],
+                "answer": "Anti-Missile system."
+        },
+        {
+                "question": "With reference to BrahMos missile, consider the following statements :<br/><br/>1. It has a flight range of up to 290 km.<br/>2. It is capable of attaining a speed of 2.8 Mach.<br/>3. Its cruising altitude could be up to 30 km.<br/><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 and 2",
+                        "2 only",
+                        "1 and 3",
+                        "3 only"
+                ],
+                "answer": "1 and 2"
+        },
+        {
+                "question": "Which one of the following is <i>not</i> a category under which the President of India nominates Members of Parliament ?",
+                "options": [
+                        "Literature",
+                        "Science",
+                        "Art",
+                        "State Service"
+                ],
+                "answer": "State Service"
+        },
+        {
+                "question": "India is still a young country as the median age of its population is",
+                "options": [
+                        "Less than 25 years",
+                        "Between 25 to 30 years",
+                        "Between 30 to 35 years",
+                        "Between 35 to 40 years"
+                ],
+                "answer": "Between 25 to 30 years"
+        },
+        {
+                "question": "Blue Helmets are",
+                "options": [
+                        "United Nations Peacekeepers",
+                        "Violent Non-State Actors",
+                        "Civil Society Organisations",
+                        "Environmental Organisations"
+                ],
+                "answer": "United Nations Peacekeepers"
+        },
+        {
+                "question": "Which one of the following central features is <i>not</i> associated with Capitalist Economy ?",
+                "options": [
+                        "There is generalised commodity production - it has market value.",
+                        "Productive wealth is held predominantly in private hands.",
+                        "Economic life is organised according to market principles.",
+                        "Economic organisation is based on planning, a supposedly rational process of resource allocation."
+                ],
+                "answer": "Economic organisation is based on planning, a supposedly rational process of resource allocation."
+        },
+        {
+                "question": "Which among the following is <i>not</i> the strength or chief benefit of Bicameralism ?",
+                "options": [
+                        "Second chambers check the first chambers and prevent majoritarian rule.",
+                        "It checks the powers of the executive.",
+                        "The second chambers can act as a constitutional safeguard.",
+                        "It often acts as a check on democratic rule, particularly when their members are non-elected or indirectly elected."
+                ],
+                "answer": "It often acts as a check on democratic rule, particularly when their members are non-elected or indirectly elected."
+        },
+        {
+                "question": "The Insolvency and Bankruptcy Board of India (IBBI) was established in the year",
+                "options": [
+                        "2014",
+                        "2015",
+                        "2016",
+                        "2017"
+                ],
+                "answer": "2016"
+        },
+        {
+                "question": "Which one of the following is the other term used for 'Focus' in relation with an earthquake ?",
+                "options": [
+                        "Hypocentre",
+                        "Epicentre",
+                        "Isocentre",
+                        "Principal Point"
+                ],
+                "answer": "Hypocentre"
+        },
+        {
+                "question": "Which one of the following is <i>not</i> a mountain peak of the Andaman and Nicobar Islands ?",
+                "options": [
+                        "Saddle Peak",
+                        "Mount Thuillier",
+                        "Lhotse Peak",
+                        "Mount Diavolo"
+                ],
+                "answer": "Lhotse Peak"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><b>List I (Cloud Form)</b><br/>A. Cirrus<br/>B. Cumulus<br/>C. Nimbostratus<br/>D. Stratus<br/><br/><b>List II (Characteristic)</b><br/>1. Storm clouds<br/>2. High fog \"Low Ceiling\"<br/>3. Fair-weather clouds<br/>4. Entirely of ice particles",
+                "options": [
+                        "A-2, B-1, C-3, D-4",
+                        "A-2, B-3, C-1, D-4",
+                        "A-4, B-3, C-1, D-2",
+                        "A-4, B-1, C-3, D-2"
+                ],
+                "answer": "A-4, B-3, C-1, D-2"
+        },
+        {
+                "question": "Which one among the following planets has the largest number of known satellites ?",
+                "options": [
+                        "Mars",
+                        "Neptune",
+                        "Jupiter",
+                        "Saturn"
+                ],
+                "answer": "Saturn"
+        },
+        {
+                "question": "Who among the following usurped power in Kanyakubja after the death of Harshavardhana ?",
+                "options": [
+                        "Adityasena",
+                        "Arunashva",
+                        "Shashanka",
+                        "Lalitaditya"
+                ],
+                "answer": "Arunashva"
+        },
+        {
+                "question": "The legend of Prahlad and his father Hiranyakashyap was first set out in the",
+                "options": [
+                        "Bhagwat Purana",
+                        "Vishnu Purana",
+                        "Vamana Purana",
+                        "Agni Purana"
+                ],
+                "answer": "Vishnu Purana"
+        },
+        {
+                "question": "Which one of the following statements on the issue of ownership according to Smriti literature is <i>not</i> correct ?",
+                "options": [
+                        "The paternal estate was to be divided equally amongst sons.",
+                        "Women were allowed to retain the gifts they received on the occasion of their marriage.",
+                        "The gifts to women on the occasion of their marriage were known as Stridhana.",
+                        "Stridhana was not inherited by the children without the permission of the husband."
+                ],
+                "answer": "Stridhana was not inherited by the children without the permission of the husband."
+        },
+        {
+                "question": "Who among the following was <i>not</i> a woman labour leader who organised workers in the strikes in the 1920s ?",
+                "options": [
+                        "Sarala Devi Chaudhurani",
+                        "Ushabai Dange",
+                        "Prabhavati Devi",
+                        "Anasuya Behn"
+                ],
+                "answer": "Sarala Devi Chaudhurani"
+        },
+        {
+                "question": "Among the following countries, where did the idea of 'Social Market Economy' emerge in 1950s ?",
+                "options": [
+                        "Germany",
+                        "France",
+                        "United States of America",
+                        "United Kingdom"
+                ],
+                "answer": "Germany"
+        },
+        {
+                "question": "Who among the following Indian thinkers first spoke of food-for-work programmes to counteract the effects of famines ?",
+                "options": [
+                        "Kautilya",
+                        "Aryabhatta",
+                        "Chandragomin",
+                        "Prabhakara"
+                ],
+                "answer": "Kautilya"
+        },
+        {
+                "question": "The 'Ramsar Convention' relates to which one of the following areas ?",
+                "options": [
+                        "Wetland preservation",
+                        "Promote afforestation",
+                        "Action plan on climate change",
+                        "Combat desertification"
+                ],
+                "answer": "Wetland preservation"
+        },
+        {
+                "question": "Which one among the following reports defines Sustainable Development as development that meets the needs of the present generation without compromising the ability of future generations to meet their own needs ?",
+                "options": [
+                        "Brundtland Report",
+                        "United Nations Human Development Report",
+                        "Agenda-21 of the Rio Earth Summit",
+                        "OECD Policy Brief (2006)"
+                ],
+                "answer": "Brundtland Report"
+        }
+,
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><b>List I (Literary Work)</b><br/>A. Duta Ghatotkacha<br/>B. Mrichchhakatikam<br/>C. Kiratarjuniyam<br/>D. Ravanavadha<br/><br/><b>List II (Author)</b><br/>1. Bhatti<br/>2. Bhasa<br/>3. Shudraka<br/>4. Bharavi",
+                "options": [
+                        "A-1, B-3, C-4, D-2",
+                        "A-1, B-4, C-3, D-2",
+                        "A-2, B-3, C-4, D-1",
+                        "A-2, B-4, C-3, D-1"
+                ],
+                "answer": "A-2, B-3, C-4, D-1"
+        },
+        {
+                "question": "At the banks of which of the following rivers was the Battle of Ten Kings fought in the Early Vedic Period ?",
+                "options": [
+                        "Sarasvati",
+                        "Drishadvati",
+                        "Parushni",
+                        "Shutudri"
+                ],
+                "answer": "Parushni"
+        },
+        {
+                "question": "The Bengal Famine of 1769-70 was worsened by",
+                "options": [
+                        "Locust attacks",
+                        "Rat infestation",
+                        "High levels of taxation",
+                        "Smallpox epidemic"
+                ],
+                "answer": "Smallpox epidemic"
+        },
+        {
+                "question": "Which one of the following is <i>not</i> the work of Ashvaghosha ?",
+                "options": [
+                        "Sariputraprakarana",
+                        "Buddhacharita",
+                        "Saundarananda",
+                        "Manjushrimulakalpa"
+                ],
+                "answer": "Manjushrimulakalpa"
+        },
+        {
+                "question": "Fat in human body is stored in",
+                "options": [
+                        "Adipose tissue",
+                        "Red blood cells",
+                        "Muscle tissue",
+                        "Epithelial tissue"
+                ],
+                "answer": "Adipose tissue"
+        },
+        {
+                "question": "Which one of the following is a feature of Membrane ?",
+                "options": [
+                        "Bilayer of phospholipid molecule in which proteins and cholesterol are embedded",
+                        "Bilayer of proteins molecule in which lipid and cholesterol are embedded",
+                        "Bilayer of neutral lipid in which proteins and cholesterol are embedded",
+                        "Bilayer of neutral lipid lacking cholesterol and proteins"
+                ],
+                "answer": "Bilayer of phospholipid molecule in which proteins and cholesterol are embedded"
+        },
+        {
+                "question": "Which one of the following parts of human alimentary canal can be of maximum length ?",
+                "options": [
+                        "Stomach",
+                        "Small intestine",
+                        "Large intestine",
+                        "Rectum"
+                ],
+                "answer": "Small intestine"
+        },
+        {
+                "question": "While forming the 'Indo-Pacific Economic Framework for Prosperity', the member countries launched collective discussions towards future negotiations on four pillars. Which one of the following is <i>not</i> one of those pillars ?",
+                "options": [
+                        "Clean energy, decarbonisation and infrastructure",
+                        "Defence cooperation and intelligence sharing",
+                        "Supply chain",
+                        "Tax and anti-corruption"
+                ],
+                "answer": "Defence cooperation and intelligence sharing"
+        },
+        {
+                "question": "The regions known as Donetsk and Luhansk are sometimes mentioned in the news. They are the separatist regions of",
+                "options": [
+                        "Ethiopia",
+                        "Sudan",
+                        "Ukraine",
+                        "Yemen"
+                ],
+                "answer": "Ukraine"
+        },
+        {
+                "question": "Recently which of the following countries were placed in the 'Grey List' of Financial Action Task Force ?",
+                "options": [
+                        "Bolivia and Mozambique",
+                        "Colombia and Ecuador",
+                        "Iraq and Qatar",
+                        "Turkey and UAE"
+                ],
+                "answer": "Turkey and UAE"
+        },
+        {
+                "question": "Which one of the following assists a country through 'Extended Fund Facility', often talked about in news ?",
+                "options": [
+                        "International Fund for Agricultural Development",
+                        "International Monetary Fund",
+                        "International Bank for Reconstruction and Development",
+                        "United Nations Development Programme"
+                ],
+                "answer": "International Monetary Fund"
+        },
+        {
+                "question": "The terms 'Ethereum, Solana, Polkadot and Tether', sometimes mentioned in the news, refer to",
+                "options": [
+                        "Cryptocurrencies",
+                        "Earth Observation Satellites",
+                        "Hypersonic Cruise Missiles",
+                        "Virtual Private Network Service Providers"
+                ],
+                "answer": "Cryptocurrencies"
+        },
+        {
+                "question": "In which one of the following States has the President's Rule been imposed most number of times ?",
+                "options": [
+                        "Bihar",
+                        "Karnataka",
+                        "Manipur",
+                        "Punjab"
+                ],
+                "answer": "Manipur"
+        },
+        {
+                "question": "The use of 'Electors Photo Identity Cards (EPIC)' by the Election Commission of India was started in which one of the following years ?",
+                "options": [
+                        "1992",
+                        "1993",
+                        "1995",
+                        "2001"
+                ],
+                "answer": "1993"
+        },
+        {
+                "question": "Which one of the following best describes the electoral system to elect the President of India ?",
+                "options": [
+                        "Proportional Representation",
+                        "Proportional Representation and Single Transferable Vote System",
+                        "First-Past-the-Post System",
+                        "List System"
+                ],
+                "answer": "Proportional Representation and Single Transferable Vote System"
+        },
+        {
+                "question": "Which one of the following statements about Money Bill is <i>not</i> correct ?",
+                "options": [
+                        "Money Bill cannot be introduced in the Council of States.",
+                        "The Council of States has no power to reject or amend the Money Bill.",
+                        "The Speaker of the Lok Sabha has the sole and final power in deciding whether a Bill is a Money Bill or otherwise.",
+                        "The Council of States has no power to discuss the Money Bill."
+                ],
+                "answer": "The Council of States has no power to discuss the Money Bill."
+        },
+        {
+                "question": "Which of the following States has/have bicameral legislature ?<br/><br/>1. Andhra Pradesh<br/>2. Telangana<br/>3. Bihar<br/>4. Uttar Pradesh<br/><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "1, 2 and 3 only",
+                        "3 and 4 only",
+                        "1, 2, 3 and 4"
+                ],
+                "answer": "1, 2, 3 and 4"
+        },
+        {
+                "question": "By which one of the following Constitutional Amendment Acts, was the Article 21A (Right to Education) inserted into the Constitution of India ?",
+                "options": [
+                        "83rd Amendment Act",
+                        "84th Amendment Act",
+                        "85th Amendment Act",
+                        "86th Amendment Act"
+                ],
+                "answer": "86th Amendment Act"
+        },
+        {
+                "question": "An object is dropped from a height onto the floor. Which one of the following remains uniform as it falls ?",
+                "options": [
+                        "Its acceleration",
+                        "Its momentum",
+                        "Its kinetic energy",
+                        "Its potential energy"
+                ],
+                "answer": "Its acceleration"
+        },
+        {
+                "question": "If an object is placed at the focus of a convex lens, its image is",
+                "options": [
+                        "at the focus on the same side.",
+                        "at the focus on the opposite side.",
+                        "coincident with the lens.",
+                        "at infinity."
+                ],
+                "answer": "at infinity."
+        },
+        {
+                "question": "Which one of the following statements about the aperture of a convex lens is correct ?",
+                "options": [
+                        "It is equal to its radius of curvature.",
+                        "It is equal to its focal length.",
+                        "It is independent of its radius of curvature.",
+                        "It is equal to half of its focal length."
+                ],
+                "answer": "It is independent of its radius of curvature."
+        },
+        {
+                "question": "When water is heated from 0°C to 4°C, its density",
+                "options": [
+                        "remains constant.",
+                        "increases.",
+                        "decreases.",
+                        "first increases then decreases to its original value."
+                ],
+                "answer": "increases."
+        },
+        {
+                "question": "The acceleration due to gravity at the Earth's surface depends on",
+                "options": [
+                        "its mass only.",
+                        "its radius only.",
+                        "both its mass and radius.",
+                        "either its mass or its radius."
+                ],
+                "answer": "both its mass and radius."
+        },
+        {
+                "question": "In which one of the following highlands of India can you find temperate forests called 'Sholas' ?",
+                "options": [
+                        "Nilgiris",
+                        "Vindhyas",
+                        "Satpuras",
+                        "Himalayas"
+                ],
+                "answer": "Nilgiris"
+        },
+        {
+                "question": "'Pingos' are associated with which one of the following process ?",
+                "options": [
+                        "Glacial",
+                        "Peri-glacial",
+                        "Aeolian",
+                        "Fluvial"
+                ],
+                "answer": "Peri-glacial"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><b>List I (Drainage Pattern of River)</b><br/>A. Insequent<br/>B. Consequent<br/>C. Subsequent<br/>D. Resequent<br/><br/><b>List II (Feature)</b><br/>1. Whose direction of flow is controlled by the rock structure<br/>2. No apparent reason why it follows the path it takes<br/>3. Flow in the same direction as the consequent stream but at a lower level<br/>4. Whose course is determined by the original slope of the land",
+                "options": [
+                        "A-2, B-1, C-4, D-3",
+                        "A-2, B-4, C-1, D-3",
+                        "A-3, B-4, C-1, D-2",
+                        "A-3, B-1, C-4, D-2"
+                ],
+                "answer": "A-2, B-4, C-1, D-3"
+        },
+        {
+                "question": "Which one of the following processes leads to expansion of certain minerals as they take up water, causing additional stress in the rock ?",
+                "options": [
+                        "Hydrolysis",
+                        "Hydration",
+                        "Oxidation",
+                        "Carbonation"
+                ],
+                "answer": "Hydration"
+        },
+        {
+                "question": "The Indian desert also known as <i>Marusthali</i> is believed to be under the sea during which one of the following eras ?",
+                "options": [
+                        "Cenozoic era",
+                        "Palaeozoic era",
+                        "Mesozoic era",
+                        "Archaean and Pre-Cambrian era"
+                ],
+                "answer": "Mesozoic era"
+        },
+        {
+                "question": "Which among the following are Charvaka Schools of Philosophy ?<br/><br/>1. Dhurtta<br/>2. Nyaya<br/>3. Sushikshita<br/>4. Vaisheshika<br/><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "2 and 3 only",
+                        "2 and 4 only",
+                        "1 and 3 only"
+                ],
+                "answer": "1 and 3 only"
+        },
+        {
+                "question": "During the 8th - 14th centuries, in the Sanskrit texts and inscriptions, which of the following terms were used to denote Muslims ?<br/><br/>1. Turushka<br/>2. Tajika<br/>3. Parashika<br/>4. Kardamaka<br/><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1, 2 and 4",
+                        "2 and 3 only",
+                        "1, 3 and 4"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "In the citadel and lower-town areas of which one of the following Harappan cities, have several large cisterns and reservoirs been found ?",
+                "options": [
+                        "Banawali",
+                        "Mohenjodaro",
+                        "Dholavira",
+                        "Rakhigarhi"
+                ],
+                "answer": "Dholavira"
+        },
+        {
+                "question": "Consider the following statements about cavalry warfare in India :<br/><br/>1. The iron stirrup made it possible for the armoured warrior to sit firmly on a horse without falling off.<br/>2. The iron stirrup also allowed a cavalry charge with lances held tightly to the body, without the rider being thrown off by the shock of impact.<br/><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "The British policy towards Afghanistan in the first half of the 19th century aimed at",
+                "options": [
+                        "Strengthening Afghanistan as a buffer against Russia.",
+                        "Weakening Russian influence in Afghanistan but not promoting a strong Afghanistan either.",
+                        "Promoting Russian influence in Afghanistan to control insurgent tribal leaders.",
+                        "Annexing Afghanistan as a directly-controlled British Territory."
+                ],
+                "answer": "Strengthening Afghanistan as a buffer against Russia."
+        },
+        {
+                "question": "Recently, the United Nations agreed to change the name of which one of the following countries ?",
+                "options": [
+                        "Algeria",
+                        "Jordan",
+                        "Morocco",
+                        "Turkey"
+                ],
+                "answer": "Turkey"
+        },
+        {
+                "question": "The SWIFT (The Society for Worldwide Interbank Financial Telecommunication) frequently mentioned in news, is essentially a",
+                "options": [
+                        "Global financial intelligence agency",
+                        "Global terror finance detection system",
+                        "Global money transfer system",
+                        "Global stock-market information sharing system"
+                ],
+                "answer": "Global money transfer system"
+        },
+        {
+                "question": "P-75 I (or P-75 India) project refers to manufacture of",
+                "options": [
+                        "Diesel-electric submarines.",
+                        "Nuclear-powered submarines.",
+                        "Aircraft carrier warships.",
+                        "Field guns."
+                ],
+                "answer": "Diesel-electric submarines."
+        }
+,
+        {
+                "question": "The Dutch were defeated by Marthanda Varma of Travancore Kingdom in the battle of",
+                "options": [
+                        "Wandiwash",
+                        "Rakshasi - Tangadi",
+                        "Pullalur",
+                        "Colachel"
+                ],
+                "answer": "Colachel"
+        },
+        {
+                "question": "To which one of the following schools of philosophy did Kumarila Bhatta and Prabhakara belong ?",
+                "options": [
+                        "Lokayata",
+                        "Madhyamika",
+                        "Purva-Mimamsa",
+                        "Uttara-Mimamsa"
+                ],
+                "answer": "Purva-Mimamsa"
+        },
+        {
+                "question": "The <i>Tolkappiyam</i> is",
+                "options": [
+                        "A work of grammar.",
+                        "A Tamil poem in praise of Rajendra Chola.",
+                        "An ancient didactic work in Tamil.",
+                        "A drama composed by a Chera King."
+                ],
+                "answer": "A work of grammar."
+        },
+        {
+                "question": "On the banks of which one of the following rivers was the ancient Mahishmati located ?",
+                "options": [
+                        "Sarayu",
+                        "Son",
+                        "Narmada",
+                        "Godavari"
+                ],
+                "answer": "Narmada"
+        },
+        {
+                "question": "Which one of the following statements about the Public Accounts Committee (PAC) of the Parliament is <i>not</i> correct ?",
+                "options": [
+                        "It examines the Finance Accounts of the Government of India.",
+                        "Fifteen members of the Committee are elected by the Lok Sabha from amongst its members.",
+                        "The Chairperson of the Committee is elected by its members.",
+                        "In case a member of any other Committee constituted by the Government is elected to the PAC, the Speaker of the Lok Sabha decides whether he should continue to be a member of the former Committee."
+                ],
+                "answer": "The Chairperson of the Committee is elected by its members."
+        },
+        {
+                "question": "Consider the following :<br/><br/>1. M.A. Ayyangar<br/>2. G.S. Dhillon<br/>3. Balram Jakhar<br/>4. P.A. Sangma<br/><br/>How many of them were the Speaker of the Lok Sabha ?",
+                "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                ],
+                "answer": "4"
+        },
+        {
+                "question": "Consider the following pairs of Schedule and Content of the Constitution of India :<br/><br/>1. First Schedule : Forms of Oaths or Affirmations<br/>2. Third Schedule : Allocation of seats in the Council of States<br/>3. Fifth Schedule : Provisions related to the administration of Scheduled Areas and Scheduled Tribes<br/>4. Ninth Schedule : Provisions related to the administration of tribal areas in certain States<br/><br/>How many of the above pairs is/are correctly matched ?",
+                "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                ],
+                "answer": "1"
+        },
+        {
+                "question": "Which one of the following statements is correct ?",
+                "options": [
+                        "Under Article 21A of the Constitution of India, the State shall provide free and compulsory education to all children up to the age of eleven years.",
+                        "Every religious denomination has got absolute power under Article 26 of the Constitution of India to manage its own affairs in matters of religion.",
+                        "Only religious and linguistic minorities find mention in Article 30 of the Constitution of India in reference to the right to establish educational institutions of their choice.",
+                        "Parliament cannot empower, even by law, any court other than the Supreme Court of India the power to issue writs within local limits of its jurisdiction."
+                ],
+                "answer": "Only religious and linguistic minorities find mention in Article 30 of the Constitution of India in reference to the right to establish educational institutions of their choice."
+        },
+        {
+                "question": "Which one of the following do <i>not</i> influence the ocean currents ?",
+                "options": [
+                        "Heating by solar energy",
+                        "Wind",
+                        "Gravitational pull by Sun and Moon",
+                        "Coriolis force"
+                ],
+                "answer": "Gravitational pull by Sun and Moon"
+        },
+        {
+                "question": "Which one of the following sedimentary rocks has <i>not</i> been formed mechanically ?",
+                "options": [
+                        "Sandstone",
+                        "Conglomerate",
+                        "Loess",
+                        "Geyserites"
+                ],
+                "answer": "Geyserites"
+        },
+        {
+                "question": "Which of the following statements about inversion of temperature is/are correct ?<br/><br/>1. Temperature increases with increasing altitude.<br/>2. A long winter night with clear skies is an ideal situation.<br/>3. It is a short term phenomenon and is common all over the globe except at the poles.<br/><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1 and 2 only"
+        },
+        {
+                "question": "In which one of the following States/UT, is the Lake Tsomgo located ?",
+                "options": [
+                        "Ladakh",
+                        "Himachal Pradesh",
+                        "Sikkim",
+                        "Uttarakhand"
+                ],
+                "answer": "Sikkim"
+        },
+        {
+                "question": "Which of the following statements about the coasts of India is/are correct ?<br/><br/>1. The West Coast of India is a high rocky, retreating coast.<br/>2. The West Coast of India is dominated by erosional landforms.<br/>3. The East Coast of India, however, is a low sedimentary coast exhibiting depositional forms.<br/><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Which one of the following States/UTs has the largest area under Coral Reefs in India ?",
+                "options": [
+                        "Gujarat",
+                        "Tamil Nadu",
+                        "Andaman and Nicobar Islands",
+                        "Lakshadweep"
+                ],
+                "answer": "Andaman and Nicobar Islands"
+        },
+        {
+                "question": "Which one of the following is considered as an agency function of commercial banks in India ?",
+                "options": [
+                        "Acceptance of deposits",
+                        "Investment of surplus funds",
+                        "Acceptance of income tax payments",
+                        "Providing overdraft facilities"
+                ],
+                "answer": "Acceptance of income tax payments"
+        },
+        {
+                "question": "Which one of the following forms of money supply is considered as the most widely used in the Indian monetary system ?",
+                "options": [
+                        "M1",
+                        "M2",
+                        "M3",
+                        "M4"
+                ],
+                "answer": "M3"
+        },
+        {
+                "question": "Which one of the following is the first State in India to have 100 percent households with tap water connection ?",
+                "options": [
+                        "Gujarat",
+                        "Goa",
+                        "Delhi",
+                        "Andhra Pradesh"
+                ],
+                "answer": "Goa"
+        },
+        {
+                "question": "Which one of the following Labour Codes notified by the Government of India incorporated various provisions of the Central Labour Acts such as the Factories Act, 1948 and Plantations Labour Act, 1951 ?",
+                "options": [
+                        "The Occupational Safety, Health and Working Conditions Code, 2020",
+                        "The Industrial Relations Code, 2020",
+                        "The Code on Wages, 2019",
+                        "The Code on Social Security, 2020"
+                ],
+                "answer": "The Occupational Safety, Health and Working Conditions Code, 2020"
+        },
+        {
+                "question": "If you were to browse a table of a recent period showing life expectancy at birth for all categories of rural-urban and male-female divisions for all States of India, you are <i>not</i> likely to observe that<br/><br/>1. Urban life expectancy is higher than the rural one.<br/>2. Male life expectancy is higher than the female one.<br/><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "2 only"
+        },
+        {
+                "question": "Consider the following statements :<br/><br/>The Government is promoting the 'Kisan Drone' for<br/>1. Spraying weedicides.<br/>2. Digitisation of land records.<br/>3. Crop assessment.<br/><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Recently launched 'Jan Samarth' portal",
+                "options": [
+                        "provides single point access for authenticated health information to citizens.",
+                        "assists farmers to access links to useful farming-specific information.",
+                        "provides access to Pan India e-Government services.",
+                        "provides link to Government credit schemes."
+                ],
+                "answer": "provides link to Government credit schemes."
+        },
+        {
+                "question": "Recently India commissioned its first liquid mirror telescope at",
+                "options": [
+                        "Himachal Pradesh",
+                        "Uttarakhand",
+                        "Ladakh",
+                        "Arunachal Pradesh"
+                ],
+                "answer": "Uttarakhand"
+        },
+        {
+                "question": "National Tribal Research Institute is situated at",
+                "options": [
+                        "Bilaspur",
+                        "Raipur",
+                        "Ranchi",
+                        "New Delhi"
+                ],
+                "answer": "New Delhi"
+        },
+        {
+                "question": "Avani Lekhara excels in which one of the following sports ?",
+                "options": [
+                        "Table Tennis",
+                        "Cycling",
+                        "Shooting",
+                        "Boxing"
+                ],
+                "answer": "Shooting"
+        },
+        {
+                "question": "The atmosphere of Planet Venus is made up of thick and yellowish clouds of",
+                "options": [
+                        "Chlorine",
+                        "Sulphuric acid",
+                        "Nitric acid",
+                        "Bromine"
+                ],
+                "answer": "Sulphuric acid"
+        },
+        {
+                "question": "A patient's abdomen (alimentary canal) can be examined by X-ray after administering which one of the following metal salts in the patient's meal ?",
+                "options": [
+                        "Barium sulphate",
+                        "Barium chloride",
+                        "Strontium sulphate",
+                        "Magnesium chloride"
+                ],
+                "answer": "Barium sulphate"
+        },
+        {
+                "question": "Storage of biological tissues such as blood, organs, semen requires low temperature which is achieved upon the usage of",
+                "options": [
+                        "Liquid nitrogen",
+                        "Solid carbon dioxide",
+                        "Liquid air",
+                        "Helium"
+                ],
+                "answer": "Liquid nitrogen"
+        },
+        {
+                "question": "In the joining of railway tracks, iron oxide is made to react with",
+                "options": [
+                        "Aluminium",
+                        "Zinc",
+                        "Copper",
+                        "Tin"
+                ],
+                "answer": "Aluminium"
+        },
+        {
+                "question": "What was a <i>munjaniq</i> in medieval period ?",
+                "options": [
+                        "Cannon",
+                        "Catapult",
+                        "Gun carriage",
+                        "Portable armoury"
+                ],
+                "answer": "Catapult"
+        }
+,
+            {
+                    "question": "Which one of the following is the first and the oldest Government-owned coal mining company in India ?",
+                    "options": [
+                            "Neyveli Lignite Corporation",
+                            "Singareni Collieries Company Limited",
+                            "Coal India Limited",
+                            "Mahanadi Coalfields Limited"
+                    ],
+                    "answer": "Singareni Collieries Company Limited"
+            },
+            {
+                    "question": "Which one of the following is a tributary of Barak River in Manipur ?",
+                    "options": [
+                            "Dhaleswari",
+                            "Subansiri",
+                            "Dhansiri",
+                            "Manas"
+                    ],
+                    "answer": "Dhaleswari"
+            },
+            {
+                    "question": "Which types of vegetation will you find on the way as you travel from Bikaner to Konark by road by shortest distance ?",
+                    "options": [
+                            "Tropical thorny, Desert, Moist deciduous, Mangrove",
+                            "Desert, Tropical thorny, Moist deciduous, Mangrove",
+                            "Moist deciduous, Tropical thorny, Mangrove, Desert",
+                            "Desert, Tropical thorny, Mangrove, Moist deciduous"
+                    ],
+                    "answer": "Desert, Tropical thorny, Moist deciduous, Mangrove"
+            },
+            {
+                    "question": "Consider the following statements about Karewas :<br/><br/>1. These are the lacustrine deposits of Pleistocene period.<br/>2. These are found along the lower slopes of Pir Panjal.<br/>3. Karewas are well known for the cultivation of saffron, almond and walnut.<br/><br/>How many of the above statements is/are correct ?",
+                    "options": [
+                            "1",
+                            "2",
+                            "3",
+                            "None"
+                    ],
+                    "answer": "3"
+            },
+            {
+                    "question": "Consider the following statements about an Indian State :<br/><br/>1. It is well known globally for its variety of rocks and minerals.<br/>2. It has the largest deposits of Chrysotile Asbestos in the country.<br/>3. The Neelam Sanjiva Reddy Sagar Hydel Project is located in this State.<br/><br/>Identify the State from the following :",
+                    "options": [
+                            "Jharkhand",
+                            "Rajasthan",
+                            "Andhra Pradesh",
+                            "Chhattisgarh"
+                    ],
+                    "answer": "Andhra Pradesh"
+            },
+            {
+                    "question": "During 2020 - 21, when India was passing through the adverse effects of COVID-19, which one of the following sectors witnessed positive growth ?",
+                    "options": [
+                            "Mining and quarrying",
+                            "Electricity, gas, water supply and other utility services",
+                            "Financial, real estate and professional services",
+                            "Public administration, defence and other services"
+                    ],
+                    "answer": "Electricity, gas, water supply and other utility services"
+            },
+            {
+                    "question": "Which one of the following statements about a borrower from a Microfinance Company is <i>not</i> correct ?",
+                    "options": [
+                            "The borrower should not have annual income beyond a limit.",
+                            "The borrower should not seek loan amount beyond a limit.",
+                            "The borrower should not refuse to offer a collateral.",
+                            "The borrower should not refuse to pay any rate of interest offered."
+                    ],
+                    "answer": "The borrower should not refuse to offer a collateral."
+            },
+            {
+                    "question": "Which one of the following statements about Non-Banking Financial Companies (NBFCs) is <i>not</i> correct ?",
+                    "options": [
+                            "NBFCs cannot accept demand deposits.",
+                            "NBFCs cannot give loans.",
+                            "NBFCs cannot issue cheques drawn on themselves.",
+                            "NBFCs cannot offer deposit insurance facility of Deposit Insurance and Credit Guarantee Corporation."
+                    ],
+                    "answer": "NBFCs cannot give loans."
+            },
+            {
+                    "question": "The Department for Promotion of Industry and Internal Trade (DPIIT) has revised the base year index of Eight Core Industries having a combined weight of about 40.27 percent in the Index of Industrial Production. Which one of the following is <i>not</i> one of the Eight Core Industries ?",
+                    "options": [
+                            "Coal",
+                            "Refinery products",
+                            "Rubber products",
+                            "Cement"
+                    ],
+                    "answer": "Rubber products"
+            },
+            {
+                    "question": "Consider the following statements about the Micro, Small and Medium Enterprises (MSMEs) :<br/><br/>1. The MSMEs comprise a dynamic sector of the Indian economy providing large employment opportunities.<br/>2. MSMEs require low capital cost and help industrialization of backward regions.<br/>3. MSMEs contribute enormously to socio-economic development.<br/><br/>How many of the above statements is/are correct ?",
+                    "options": [
+                            "None",
+                            "1",
+                            "2",
+                            "3"
+                    ],
+                    "answer": "3"
+            },
+            {
+                    "question": "Stinging hair of nettle leaves inject fluid in the human body causing burning pain. The fluid is",
+                    "options": [
+                            "Methanoic acid",
+                            "Tartaric acid",
+                            "Hydrochloric acid",
+                            "Sulphuric acid"
+                    ],
+                    "answer": "Methanoic acid"
+            },
+            {
+                    "question": "Milk of Magnesia is used when people suffer from indigestion of food. It is a",
+                    "options": [
+                            "Strong base",
+                            "Mild base",
+                            "Strong acid",
+                            "Mild acid"
+                    ],
+                    "answer": "Mild base"
+            },
+            {
+                    "question": "Which one of the following pairs of metals are very good conductors of heat ?",
+                    "options": [
+                            "Silver and Copper",
+                            "Silver and Lead",
+                            "Copper and Mercury",
+                            "Lead and Mercury"
+                    ],
+                    "answer": "Silver and Copper"
+            },
+            {
+                    "question": "School bells are made of metals because metals are",
+                    "options": [
+                            "Malleable",
+                            "Sonorous",
+                            "Ductile",
+                            "Lustrous"
+                    ],
+                    "answer": "Sonorous"
+            },
+            {
+                    "question": "Consider the following statements about Tincture of Iodine :<br/><br/>1. It is an antiseptic solution.<br/>2. Iodine is kept in alcohol-water mixture.<br/>3. Concentration of iodine is very low.<br/><br/>How many of the above statements is/are correct ?",
+                    "options": [
+                            "1",
+                            "2",
+                            "3",
+                            "None"
+                    ],
+                    "answer": "3"
+            },
+            {
+                    "question": "Cl<sup>-</sup> is <i>not</i> isoelectronic with",
+                    "options": [
+                            "K<sup>+</sup>",
+                            "Mg<sup>2+</sup>",
+                            "S<sup>2-</sup>",
+                            "P<sup>3-</sup>"
+                    ],
+                    "answer": "Mg<sup>2+</sup>"
+            },
+            {
+                    "question": "In plant cells",
+                    "options": [
+                            "Nucleus does not need a membrane but chloroplasts are surrounded by their own membrane.",
+                            "Nucleus and chloroplasts are surrounded separately by their own membrane.",
+                            "Nucleus is surrounded by membrane but chloroplasts do not need membrane.",
+                            "Both nucleus and chloroplasts are not surrounded by any membrane."
+                    ],
+                    "answer": "Nucleus and chloroplasts are surrounded separately by their own membrane."
+            },
+            {
+                    "question": "Which one of the following statements about starch and glycogen is correct ?",
+                    "options": [
+                            "Both starch and glycogen are found in plant cells.",
+                            "Both starch and glycogen are found in animal cells.",
+                            "Starch is present in plant cells and glycogen is present in animal cells.",
+                            "Both starch and glycogen are present in plant cells as well as animal cells."
+                    ],
+                    "answer": "Starch is present in plant cells and glycogen is present in animal cells."
+            },
+            {
+                    "question": "Which one of the following statements about the process of photosynthesis is correct ?",
+                    "options": [
+                            "Light energy is directly converted to kinetic energy which oxidizes carbon dioxide.",
+                            "Light energy is directly converted to chemical energy which causes reduction of water.",
+                            "Chlorophyll absorbs the chemical energy of light which causes oxidation of carbon dioxide.",
+                            "Chlorophyll absorbs light energy which causes splitting of water molecules and reduction of carbon dioxide."
+                    ],
+                    "answer": "Chlorophyll absorbs light energy which causes splitting of water molecules and reduction of carbon dioxide."
+            },
+            {
+                    "question": "Kwashiorkor, a form of malnutrition, is caused by the deficiency of",
+                    "options": [
+                            "Minerals",
+                            "Vitamins",
+                            "Fats",
+                            "Proteins"
+                    ],
+                    "answer": "Proteins"
+            },
+            {
+                    "question": "Which one of the following pairs of enzymes do <i>not</i> work at acidic pH ?",
+                    "options": [
+                            "Trypsin and Pepsin",
+                            "Chymotrypsin and Pepsin",
+                            "Trypsin and Amylase",
+                            "Pepsin and Amylase"
+                    ],
+                    "answer": "Trypsin and Amylase"
+            },
+            {
+                    "question": "Urea is produced by metabolism of",
+                    "options": [
+                            "Proteins",
+                            "Carbohydrates",
+                            "Lipids",
+                            "Both Proteins and Carbohydrates"
+                    ],
+                    "answer": "Proteins"
+            },
+            {
+                    "question": "Deficiency of iron causes",
+                    "options": [
+                            "Anaemia",
+                            "Scurvy",
+                            "Rickets",
+                            "Cholera"
+                    ],
+                    "answer": "Anaemia"
+            },
+            {
+                    "question": "If an object of mass 10 kg is moving with a uniform speed of 10 m/s, then the linear momentum and the kinetic energy of the object, respectively, are",
+                    "options": [
+                            "100 N.s and 500 J",
+                            "100 N.s and 1000 J",
+                            "200 N.s and 500 J",
+                            "200 N.s and 1000 J"
+                    ],
+                    "answer": "100 N.s and 500 J"
+            },
+            {
+                    "question": "An electrical circuit having combinations of resistances and capacitance is given below. The current, flowing through the circuit will be<br/><br/><img src=\"/images/2022-II-gk-q25.jpg\" alt=\"Circuit diagram\" />",
+                    "options": [
+                            "1 A",
+                            "2 A",
+                            "1.5 A",
+                            "0.5 A"
+                    ],
+                    "answer": "0.5 A"
+            },
+            {
+                    "question": "The pitch of a sound wave depends upon which one of its following characteristics ?",
+                    "options": [
+                            "Speed",
+                            "Loudness",
+                            "Amplitude",
+                            "Frequency"
+                    ],
+                    "answer": "Frequency"
+            },
+            {
+                    "question": "The device used for measuring electric current in a circuit is called",
+                    "options": [
+                            "Ammeter",
+                            "Motor",
+                            "Voltmeter",
+                            "Generator"
+                    ],
+                    "answer": "Ammeter"
+            },
+            {
+                    "question": "A metal wire of length l and diameter d has a resistance R. What would be the resistance of another wire of the same metal and of same length but having double the diameter ?",
+                    "options": [
+                            "R",
+                            "R/4",
+                            "R/2",
+                            "2R"
+                    ],
+                    "answer": "R/4"
+            },
+            {
+                    "question": "In India, which one of the following is responsible for the implementation of the Government of India's policy in all matters concerning telecommunications ?",
+                    "options": [
+                            "Digital Communications Commission",
+                            "Telecom Regulatory Authority of India",
+                            "Telecom Advisory Committee",
+                            "Telecommunications Consultants India Limited"
+                    ],
+                    "answer": "Digital Communications Commission"
+            },
+            {
+                    "question": "Consider the following statements about James Webb Space Telescope (JWST) :<br/><br/>1. It is the largest observatory ever launched into space.<br/>2. It has been developed by NASA in partnership with the European Space Agency and the Canadian Space Agency.<br/><br/>Which of the statements given above is/are correct ?",
+                    "options": [
+                            "1 only",
+                            "2 only",
+                            "Both 1 and 2",
+                            "Neither 1 nor 2"
+                    ],
+                    "answer": "Both 1 and 2"
+            },
+            {
+                    "question": "India has achieved the 10 percent Ethanol blending much ahead of the targeted date. Which one among the following greatly benefits from this ?",
+                    "options": [
+                            "Cassava plantations",
+                            "Maize farming",
+                            "Sugar industry",
+                            "Wine industry"
+                    ],
+                    "answer": "Sugar industry"
+            },
+            {
+                    "question": "Consider the following statements regarding e-RUPI prepaid digital vouchers :<br/><br/>1. The maximum amount of e-RUPI is rupees one lakh.<br/>2. Beneficiaries can receive e-RUPI without having a bank account.<br/>3. To receive e-RUPI on mobile phones, beneficiaries need a smart phone with Internet connection.<br/><br/>Which of the statements given above is/are correct ?",
+                    "options": [
+                            "1 and 2",
+                            "3 only",
+                            "1 and 3",
+                            "2 only"
+                    ],
+                    "answer": "1 and 2"
+            },
+            {
+                    "question": "Recently, India's first green hydrogen-based advanced fuel cell electric vehicle (FCEV) was launched. It has no tailpipe emissions other than",
+                    "options": [
+                            "Hydrogen peroxide",
+                            "Nitrogen",
+                            "Oxygen",
+                            "Water"
+                    ],
+                    "answer": "Water"
+            },
+            {
+                    "question": "Which one of the following languages was added to the Eighth Schedule by a Constitutional Amendment in 1967 ?",
+                    "options": [
+                            "Khasi",
+                            "Kashmiri",
+                            "Sindhi",
+                            "Urdu"
+                    ],
+                    "answer": "Sindhi"
+            },
+            {
+                    "question": "What were Manigramam and Nanadesi in early medieval India ?",
+                    "options": [
+                            "Cluster of non-revenue paying villages",
+                            "Village-level community groups",
+                            "Guilds of Indian merchants",
+                            "Literary societies in the capital towns"
+                    ],
+                    "answer": "Guilds of Indian merchants"
+            }
+    ],
     "2025": [
         {
             "question": "Consider the following international events :<br/><br/>1. Signing of the Simla Agreement<br/>2. Agra Summit between India and Pakistan<br/>3. Signing of the SAARC Charter at the First SAARC Summit<br/>4. India's first nuclear test<br/><br/>Which one of the following is the correct chronological order of the above events ?",
