@@ -8023,6 +8023,358 @@ const englishData: Record<string, Question[]> = {
                 "SQRP"
             ],
             "answer": "QSPR"
+        },
+        {
+            "direction": "Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d) which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+            "question": "Have an axe to grind",
+            "options": [
+                "to have a selfish aim or motive",
+                "a thing that causes problems",
+                "an essential equipment for work",
+                "to behave arrogantly"
+            ],
+            "answer": "to have a selfish aim or motive"
+        },
+        {
+            "direction": "Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d) which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+            "question": "Bite the bullet",
+            "options": [
+                "to be angry and unhappy",
+                "to start doing something in a very keen way",
+                "to accept something unpleasant and difficult",
+                "to try to do more than you are able to do"
+            ],
+            "answer": "to accept something unpleasant and difficult"
+        },
+        {
+            "direction": "Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d) which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+            "question": "Laughing stock",
+            "options": [
+                "someone who does something very stupid and is made fun of",
+                "to avoid conflict",
+                "to laugh at someone secretly",
+                "a jovial and respected person"
+            ],
+            "answer": "someone who does something very stupid and is made fun of"
+        },
+        {
+            "direction": "Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d) which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+            "question": "Pay over the odds",
+            "options": [
+                "to get dividends for investments",
+                "to work hard to make payments",
+                "to treat someone in the bad way",
+                "to pay more for something than it is worth"
+            ],
+            "answer": "to pay more for something than it is worth"
+        },
+        {
+            "direction": "Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d) which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+            "question": "Play to the gallery",
+            "options": [
+                "to do something alone",
+                "to say things that will make people admire you",
+                "to behave in a very annoying way",
+                "to take big risks in business"
+            ],
+            "answer": "to say things that will make people admire you"
+        },
+        {
+            "direction": "Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d) which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+            "question": "Be in the soup",
+            "options": [
+                "to be in trouble",
+                "to be very healthy",
+                "to be good at the workplace",
+                "to be honest to people"
+            ],
+            "answer": "to be in trouble"
+        },
+        {
+            "direction": "Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d) which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+            "question": "A turn of the screw",
+            "options": [
+                "to begin to behave in a more positive way",
+                "to change people's opinions in your favour",
+                "to become unpopular",
+                "an action which makes a bad situation worse"
+            ],
+            "answer": "an action which makes a bad situation worse"
+        },
+        {
+            "direction": "Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d) which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+            "question": "A white elephant",
+            "options": [
+                "someone who is completely good and honest",
+                "something that has cost a lot of money but has no useful purpose",
+                "a situation where you waste time looking for something",
+                "to make someone feel anxious"
+            ],
+            "answer": "something that has cost a lot of money but has no useful purpose"
+        },
+        {
+            "direction": "Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d) which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+            "question": "A hot potato",
+            "options": [
+                "someone who is very angry",
+                "something that is difficult to deal with",
+                "someone who is holier than appears to be",
+                "to be unable to decide"
+            ],
+            "answer": "something that is difficult to deal with"
+        },
+        {
+            "direction": "Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d) which is the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+            "question": "Apples and oranges",
+            "options": [
+                "people who are close to each other",
+                "people who argue a lot",
+                "people who are different and thus incomparable",
+                "people who fight over minor issues"
+            ],
+            "answer": "people who are different and thus incomparable"
+        },
+        {
+            "direction": "Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>Guest is</u> (a) / <u>unwelcome</u> (b) / <u>when he stays too long.</u> (c) / <u>No error</u> (d)",
+            "options": [
+                "Guest is",
+                "unwelcome",
+                "when he stays too long.",
+                "No error"
+            ],
+            "answer": "Guest is"
+        },
+        {
+            "direction": "Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>My friend and benefactor</u> (a) / <u>has</u> (b) / <u>come.</u> (c) / <u>No error</u> (d)",
+            "options": [
+                "My friend and benefactor",
+                "has",
+                "come.",
+                "No error"
+            ],
+            "answer": "No error"
+        },
+        {
+            "direction": "Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>Either he</u> (a) / <u>or I</u> (b) / <u>am mistaken.</u> (c) / <u>No error</u> (d)",
+            "options": [
+                "Either he",
+                "or I",
+                "am mistaken.",
+                "No error"
+            ],
+            "answer": "No error"
+        },
+        {
+            "direction": "Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>Each of</u> (a) / <u>these substances</u> (b) / <u>are found in India.</u> (c) / <u>No error</u> (d)",
+            "options": [
+                "Each of",
+                "these substances",
+                "are found in India.",
+                "No error"
+            ],
+            "answer": "are found in India."
+        },
+        {
+            "direction": "Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>Who</u> (a) / <u>do you wish</u> (b) / <u>to see?</u> (c) / <u>No error</u> (d)",
+            "options": [
+                "Who",
+                "do you wish",
+                "to see?",
+                "No error"
+            ],
+            "answer": "Who"
+        },
+        {
+            "direction": "Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>It was one of the best speeches</u> (a) / <u>that has ever been</u> (b) / <u>made in the Parliament.</u> (c) / <u>No error</u> (d)",
+            "options": [
+                "It was one of the best speeches",
+                "that has ever been",
+                "made in the Parliament.",
+                "No error"
+            ],
+            "answer": "that has ever been"
+        },
+        {
+            "direction": "Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>I played with</u> (a) / <u>same bat</u> (b) / <u>that you used.</u> (c) / <u>No error</u> (d)",
+            "options": [
+                "I played with",
+                "same bat",
+                "that you used.",
+                "No error"
+            ],
+            "answer": "same bat"
+        },
+        {
+            "direction": "Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>His written statement</u> (a) / <u>defers in several important respects</u> (b) / <u>from his oral statement.</u> (c) / <u>No error</u> (d)",
+            "options": [
+                "His written statement",
+                "defers in several important respects",
+                "from his oral statement.",
+                "No error"
+            ],
+            "answer": "defers in several important respects"
+        },
+        {
+            "direction": "Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>I have ordered for</u> (a) / <u>three cups</u> (b) / <u>of coffee.</u> (c) / <u>No error</u> (d)",
+            "options": [
+                "I have ordered for",
+                "three cups",
+                "of coffee.",
+                "No error"
+            ],
+            "answer": "I have ordered for"
+        },
+        {
+            "direction": "Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d).",
+            "question": "<u>One must not</u> (a) / <u>boast of</u> (b) / <u>one's own success.</u> (c) / <u>No error</u> (d)",
+            "options": [
+                "One must not",
+                "boast of",
+                "one's own success.",
+                "No error"
+            ],
+            "answer": "No error"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words/groups of words. Select the option that is <b>nearest in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "There are plenty of graduates <u>anxious</u> for work.",
+            "options": [
+                "composed",
+                "eager",
+                "indifferent",
+                "prominent"
+            ],
+            "answer": "eager"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words/groups of words. Select the option that is <b>nearest in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "The power of the monarchy was <u>circumscribed</u> by the new law.",
+            "options": [
+                "constrained",
+                "naturalized",
+                "circumvented",
+                "notified"
+            ],
+            "answer": "constrained"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words/groups of words. Select the option that is <b>nearest in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "We caught him <u>eavesdropping</u> outside the window.",
+            "options": [
+                "wandering aimlessly",
+                "talking loudly",
+                "listening secretly",
+                "reflecting calmly"
+            ],
+            "answer": "listening secretly"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words/groups of words. Select the option that is <b>nearest in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "The party leader <u>exhorted</u> his members to start preparing for the formation of their government.",
+            "options": [
+                "expected",
+                "urged",
+                "facilitated",
+                "discouraged"
+            ],
+            "answer": "urged"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words/groups of words. Select the option that is <b>nearest in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "The local people are <u>hospitable</u> to strangers.",
+            "options": [
+                "surly",
+                "distant",
+                "frosty",
+                "cordial"
+            ],
+            "answer": "cordial"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words/groups of words. Select the option that is <b>nearest in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "Such traditional methods seem <u>incongruous</u> in our technical age.",
+            "options": [
+                "unswerving",
+                "constant",
+                "unvarying",
+                "inappropriate"
+            ],
+            "answer": "inappropriate"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words/groups of words. Select the option that is <b>nearest in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "Mohan has <u>mercurial</u> temperament.",
+            "options": [
+                "volatile",
+                "pleasant",
+                "agreeable",
+                "merciful"
+            ],
+            "answer": "volatile"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words/groups of words. Select the option that is <b>nearest in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "It is <u>obligatory</u> for all employees to wear protective clothing.",
+            "options": [
+                "voluntary",
+                "elective",
+                "optional",
+                "essential"
+            ],
+            "answer": "essential"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words/groups of words. Select the option that is <b>nearest in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "She has a genetic <u>predisposition</u> to liver disease.",
+            "options": [
+                "resistance",
+                "immunity",
+                "vulnerability",
+                "exemption"
+            ],
+            "answer": "vulnerability"
+        },
+        {
+            "direction": "Each item in this section consists of a sentence with an underlined word followed by four words/groups of words. Select the option that is <b>nearest in meaning</b> to the underlined word and mark your response on the Answer Sheet accordingly.",
+            "question": "She wore a <u>sardonic</u> smile on her face.",
+            "options": [
+                "mocking",
+                "respectful",
+                "reverential",
+                "deferential"
+            ],
+            "answer": "mocking"
+        },
+        {
+            "direction": "In this section, each item consists of six sentences of a passage. The first and sixth sentences are marked as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. This is followed by four options each suggesting a sequence of the sentences. Identify the most appropriate option.",
+            "question": "S1: Like many of its tropical counterparts, India was a colony of Britain, which ruled out any move to adjust the exchange rate.<br/>S6: Banks were left with unrecoverable assets.<br/>P: Indebted business failed.<br/>Q: With devaluation made politically impossible, fall in export demand led to sustained and deep deflation.<br/>R: Indebted households liquidated a variety of assets to repay loans when they could.<br/>S: Real interest rates rose.",
+            "options": [
+                "RSPQ",
+                "QSRP",
+                "SQPR",
+                "PSRQ"
+            ],
+            "answer": "QSRP"
+        },
+        {
+            "direction": "In this section, each item consists of six sentences of a passage. The first and sixth sentences are marked as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. This is followed by four options each suggesting a sequence of the sentences. Identify the most appropriate option.",
+            "question": "S1: Consider the potential effect of just a small increase in the earth's atmospheric temperature.<br/>S6: If the sea level rose only a few feet, dozens of coastal cities would be destroyed and life would change utterly.<br/>P: Some deserts might anyway bloom.<br/>Q: But lands now fertile might turn to deserts, and many hot climates could become uninhabitable.<br/>R: A rise of only a few degrees could melt the polar ice caps and submerge the planet in a short time.<br/>S: Rainfall patterns would change.",
+            "options": [
+                "SQPR",
+                "RQSP",
+                "RSPQ",
+                "QRSP"
+            ],
+            "answer": "SQPR"
         }
     ]
 };
