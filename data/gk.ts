@@ -7503,6 +7503,316 @@ const gkData: Record<string, Question[]> = {
                 "Sachindranath Sanyal"
             ],
             "answer": "Sachindranath Sanyal"
+        },
+        {
+            "question": "In the election held in 1937, in which two provinces was the Indian National Congress <i>not</i> able to emerge as the single largest party?",
+            "options": [
+                "Punjab and Sind",
+                "Assam and North-West Frontier Province",
+                "Punjab and Assam",
+                "Assam and Madras"
+            ],
+            "answer": "Punjab and Sind"
+        },
+        {
+            "question": "Consider the following statements :<br/>After forming the Indian National Army, Subhas Chandra Bose<br/><ol><li>recruited a large number of soldiers from the Indian Prisoners of War in Japanese camp</li><li>introduced a women's detachment named after the Rani of Jhansi</li></ol><br/>Which of the statements given above is/are correct?",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Both 1 and 2"
+        },
+        {
+            "question": "Which one of the following pairs denoting various forms of 'Bhakti' is <i>not</i> correctly matched?",
+            "options": [
+                "Saguna : Belief in Gods with attributes",
+                "Nirguna : Belief in Gods without attributes",
+                "Alvars : Believed in devotion of Shakti",
+                "Nayanars : Believed in devotion of Shiva"
+            ],
+            "answer": "Alvars : Believed in devotion of Shakti"
+        },
+        {
+            "question": "Which two rivers flow in the region between Gulbarga and Vijayanagara Hampi?",
+            "options": [
+                "Narmada and Godavari",
+                "Mahanadi and Godavari",
+                "Kaveri and Periyar",
+                "Krishna and Tungabhadra"
+            ],
+            "answer": "Krishna and Tungabhadra"
+        },
+        {
+            "question": "Which of the following is the only paramilitary force with a dual control structure?",
+            "options": [
+                "Central Reserve Police Force",
+                "Assam Rifles",
+                "Indo-Tibetan Border Police",
+                "Central Industrial Security Force"
+            ],
+            "answer": "Assam Rifles"
+        },
+        {
+            "question": "Which one of the following is an ethnic community of Assam?",
+            "options": [
+                "Bhil",
+                "Gond",
+                "Ahom",
+                "Adi"
+            ],
+            "answer": "Ahom"
+        },
+        {
+            "question": "The Chevrons is the name of the cricket team of which one of the following countries?",
+            "options": [
+                "Australia",
+                "The Netherlands",
+                "Ireland",
+                "Zimbabwe"
+            ],
+            "answer": "Zimbabwe"
+        },
+        {
+            "question": "Cheetahs, brought from Namibia, were introduced in India to which one of the following National Parks?",
+            "options": [
+                "Kaziranga National Park",
+                "Keoladeo Ghana National Park",
+                "Keibul Lamjao National Park",
+                "Kuno National Park"
+            ],
+            "answer": "Kuno National Park"
+        },
+        {
+            "question": "Who among the following is <i>not</i> a recipient of the Nobel Prize in Physics in 2022?",
+            "options": [
+                "Alain Aspect",
+                "John F. Clauser",
+                "Klaus Hasselmann",
+                "Anton Zeilinger"
+            ],
+            "answer": "Klaus Hasselmann"
+        },
+        {
+            "question": "Reflex arcs are evolved in animals for quick and efficient responses. Which one of the following sequences correctly represents a reflex arc?",
+            "options": [
+                "Receptor—Sensory neuron—Relay neuron in spinal cord—Motor neuron—Effector",
+                "Receptor—Sensory neuron—Brain—Relay neuron in spinal cord—Motor neuron—Effector",
+                "Receptor—Motor neuron—Relay neuron in spinal cord—Sensory neuron—Effector",
+                "Receptor—Motor neuron—Brain—Sensory neuron—Effector"
+            ],
+            "answer": "Receptor—Sensory neuron—Relay neuron in spinal cord—Motor neuron—Effector"
+        },
+        {
+            "question": "Which one of the following is essential for thyroid gland to make thyroxin?",
+            "options": [
+                "NaCl",
+                "KCl",
+                "Cholesterol",
+                "Iodine"
+            ],
+            "answer": "Iodine"
+        },
+        {
+            "question": "In plant cells, RNA is present in",
+            "options": [
+                "cytoplasm only",
+                "nuclei and cytoplasm only",
+                "nuclei, cytoplasm, mitochondria, chloroplast and endoplasmic reticulum",
+                "nuclei, cytoplasm, mitochondria, chloroplast and ribosomes"
+            ],
+            "answer": "nuclei, cytoplasm, mitochondria, chloroplast and ribosomes"
+        },
+        {
+            "question": "In grasses, intercalary meristem is usually located at",
+            "options": [
+                "root tip",
+                "lateral sides of stem",
+                "base of leaves",
+                "shoot tip"
+            ],
+            "answer": "base of leaves"
+        },
+        {
+            "question": "Xylem is a type of complex tissue in plants for upward conduction of water. Which one of the following xylem tissues consists of living cells?",
+            "options": [
+                "Tracheid",
+                "Vessel",
+                "Xylem parenchyma",
+                "Xylem fibre"
+            ],
+            "answer": "Xylem parenchyma"
+        },
+        {
+            "question": "Three resistors of resistances 11 &Omega;, 22 &Omega; and 33 &Omega; are connected in parallel. Their equivalent resistance is equal to",
+            "options": [
+                "66 &Omega;",
+                "22 &Omega;",
+                "12 &Omega;",
+                "6 &Omega;"
+            ],
+            "answer": "6 &Omega;"
+        },
+        {
+            "question": "The r.m.s. potential difference between the red live wire and black neutral wire in Indian domestic electric supply is",
+            "options": [
+                "160 V",
+                "220 V",
+                "300 V",
+                "410 V"
+            ],
+            "answer": "220 V"
+        },
+        {
+            "question": "The hydrogen bomb and the uranium bomb are based, respectively on",
+            "options": [
+                "nuclear fusion and fission",
+                "fission and thermonuclear fusion",
+                "geothermal fission and fusion",
+                "geothermal fusion and fission"
+            ],
+            "answer": "nuclear fusion and fission"
+        },
+        {
+            "question": "Sound and light waves are",
+            "options": [
+                "respectively longitudinal and transverse in air",
+                "respectively transverse and longitudinal in air",
+                "both longitudinal in air",
+                "both transverse in air"
+            ],
+            "answer": "respectively longitudinal and transverse in air"
+        },
+        {
+            "question": "A car moving with a speed of 12 m/s is subjected to brakes which produces a deceleration of 6 m/s<sup>2</sup>. The car takes 2 s to stop after the application of brakes. What is the distance covered by the car after the application of brakes?",
+            "options": [
+                "12 m",
+                "24 m",
+                "36 m",
+                "48 m"
+            ],
+            "answer": "12 m"
+        },
+        {
+            "question": "What is the chemical composition of a soda-acid type fire extinguisher?",
+            "options": [
+                "Solution of sodium hydrogen carbonate and sulfuric acid",
+                "Solution of sodium carbonate and sulfuric acid",
+                "Solution of carbon dioxide and sulfuric acid",
+                "Solution of sodium chloride and sulfuric acid"
+            ],
+            "answer": "Solution of sodium hydrogen carbonate and sulfuric acid"
+        },
+        {
+            "question": "Consider the following statements :<br/>While diluting concentrated nitric acid solution<br/><ol><li>the concentration of [H<sub>3</sub>O<sup>+</sup>] ions / volume increases</li><li>water must be added slowly to concentrated acid</li><li>acid must be added slowly to water</li></ol><br/>Which of the statements given above is/are correct?",
+            "options": [
+                "1, 2 and 3",
+                "1 and 2 only",
+                "3 only",
+                "2 and 3 only"
+            ],
+            "answer": "3 only"
+        },
+        {
+            "question": "Which one of the following is the correct order of pH for the given substances?",
+            "options": [
+                "Coffee < Lemon juice < Milk of magnesia < Blood",
+                "Milk of magnesia < Blood < Coffee < Lemon juice",
+                "Lemon juice < Blood < Coffee < Milk of magnesia",
+                "Lemon juice < Coffee < Blood < Milk of magnesia"
+            ],
+            "answer": "Lemon juice < Coffee < Blood < Milk of magnesia"
+        },
+        {
+            "question": "Which one of the following is <i>not</i> true for anodizing process?",
+            "options": [
+                "It makes aluminium corrosion resistant.",
+                "Metals like aluminium, titanium and magnesium can be anodized.",
+                "Clean aluminium article is the anode and oxygen gas is evolved at the cathode.",
+                "It is used in aircraft industry."
+            ],
+            "answer": "Clean aluminium article is the anode and oxygen gas is evolved at the cathode."
+        },
+        {
+            "question": "Naphthalene burns with a yellow sooty flame. This is because",
+            "options": [
+                "carbon to hydrogen ratio is low",
+                "there is incomplete combustion",
+                "there is excess supply of air",
+                "of presence of impurities of nitrogen and sulfur"
+            ],
+            "answer": "there is incomplete combustion"
+        },
+        {
+            "question": "Which of the following statements are true for the reaction of Fe<sub>2</sub>O<sub>3</sub> with aluminium?<br/><ol><li>It is known as the 'thermite reaction'.</li><li>The heat evolved is used for welding purpose.</li><li>Aluminium metal acts as an oxidizing agent.</li><li>Molten Fe and Al are formed at the end of the reaction.</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 and 2",
+                "1 and 3",
+                "2 and 4",
+                "1 and 4"
+            ],
+            "answer": "1 and 2"
+        },
+        {
+            "question": "Vicky told his friends about his visit to Stewart Island, Bay of Plenty and Hawke Bay. Which country did Vicky visit?",
+            "options": [
+                "Canada",
+                "Australia",
+                "New Zealand",
+                "Ireland"
+            ],
+            "answer": "New Zealand"
+        },
+        {
+            "question": "Manav is planning to visit all UNESCO World Heritage Sites in Delhi. He will be visiting",
+            "options": [
+                "Red Fort, Qutab Minar, Jama Masjid",
+                "Red Fort, India Gate, Qutab Minar",
+                "Red Fort, Qutab Minar, Humayun Tomb",
+                "Red Fort, Humayun Tomb, India Gate"
+            ],
+            "answer": "Red Fort, Qutab Minar, Humayun Tomb"
+        },
+        {
+            "question": "What will be the correct sequence of cities on the bank of river Ganga if someone moves from west to east?",
+            "options": [
+                "Prayagraj, Kanpur, Bhagalpur, Patna",
+                "Prayagraj, Kanpur, Patna, Bhagalpur",
+                "Kanpur, Prayagraj, Bhagalpur, Patna",
+                "Kanpur, Prayagraj, Patna, Bhagalpur"
+            ],
+            "answer": "Kanpur, Prayagraj, Patna, Bhagalpur"
+        },
+        {
+            "question": "Which one among the following States has the longest extension in north-south direction?",
+            "options": [
+                "Jharkhand",
+                "Telangana",
+                "Odisha",
+                "Chhattisgarh"
+            ],
+            "answer": "Chhattisgarh"
+        },
+        {
+            "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Day)</th><th>List-II (Date)</th></tr><tr><td>A. World Wetlands Day</td><td>1. 29 July</td></tr><tr><td>B. International Tiger Day</td><td>2. 22 April</td></tr><tr><td>C. World Water Day</td><td>3. 2 February</td></tr><tr><td>D. International Mother Earth Day</td><td>4. 22 March</td></tr></table><br/>Code :",
+            "options": [
+                "A-3, B-4, C-1, D-2",
+                "A-3, B-1, C-4, D-2",
+                "A-2, B-1, C-4, D-3",
+                "A-2, B-4, C-1, D-3"
+            ],
+            "answer": "A-3, B-1, C-4, D-2"
+        },
+        {
+            "question": "Which one of the following States/UTs is <i>not</i> among the top five in the Performance Grading Index (PGI), published by the Ministry of Education for the year 2020-2021?",
+            "options": [
+                "Kerala",
+                "Punjab",
+                "NCT of Delhi",
+                "Chandigarh"
+            ],
+            "answer": "NCT of Delhi"
         }
     ]
 };
