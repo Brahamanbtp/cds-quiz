@@ -7212,6 +7212,298 @@ const gkData: Record<string, Question[]> = {
             ],
             "answer": "Lok Sabha: Peacock, Rajya Sabha: Lotus"
         }
+    ],
+    "2023-I": [
+        {
+            "question": "A sprinter feels cramps and pain in the thigh muscles after a run. This is due to accumulation of",
+            "options": [
+                "lactic acid",
+                "CO2",
+                "pyruvic acid",
+                "ethanol"
+            ],
+            "answer": "lactic acid"
+        },
+        {
+            "question": "A leaf was plucked from a plant on a sunny day and kept for 2 minutes in boiling water. It was subsequently immersed in boiling alcohol and treated with iodine solution. What will be the final colour of the leaf after the test?",
+            "options": [
+                "Colourless",
+                "Green",
+                "Blue",
+                "White"
+            ],
+            "answer": "Blue"
+        },
+        {
+            "question": "If the red blood cells (RBCs) of human blood are isolated and are diluted in normal saline (an isotonic solution to blood), what will happen to the RBCs?",
+            "options": [
+                "The RBCs will swell",
+                "The RBCs will swell and burst",
+                "The RBCs will shrink",
+                "No change in the diameters of the RBCs"
+            ],
+            "answer": "No change in the diameters of the RBCs"
+        },
+        {
+            "question": "Which one of the following statements regarding bile secreted by liver is <i>not</i> correct?",
+            "options": [
+                "Bile contains enzymes for digestion of lipids.",
+                "Bile facilitates emulsification of fats.",
+                "Bile neutralizes the acidic pH of the food coming from stomach.",
+                "Bile makes the pH of the food alkaline and facilitates action of pancreatic enzymes."
+            ],
+            "answer": "Bile contains enzymes for digestion of lipids."
+        },
+        {
+            "question": "The blood pressure of a normal human being is found to be 120/80 mmHg. These 'numbers' represent the blood pressure at",
+            "options": [
+                "ventricular contraction and ventricular relaxation, respectively",
+                "ventricular relaxation and ventricular contraction, respectively",
+                "auricular contraction and auricular relaxation, respectively",
+                "ventricular contraction and auricular contraction, respectively"
+            ],
+            "answer": "ventricular contraction and ventricular relaxation, respectively"
+        },
+        {
+            "question": "A person burned a firecracker in front of a cliff and heard its echo 5 s after it burst. The distance of the cliff from the person, if the speed of the sound is 340 m/s, is close to",
+            "options": [
+                "1700 m",
+                "170 m",
+                "85 m",
+                "850 m"
+            ],
+            "answer": "850 m"
+        },
+        {
+            "question": "Consider the following statements about the microphone and the speaker of a mobile phone :<br/><ol><li>The microphone converts sound to a mechanical signal.</li><li>The microphone converts sound to an electrical signal.</li><li>The speaker converts a mechanical signal to sound.</li><li>The speaker converts an electrical signal to sound.</li></ol><br/>Which of the statements given above are correct?",
+            "options": [
+                "1 and 3",
+                "1 and 4",
+                "2 and 3",
+                "2 and 4"
+            ],
+            "answer": "2 and 4"
+        },
+        {
+            "question": "A 100 W electric bulb is used for 10 hours a day. How many units of electrical energy are consumed by the bulb in 3 days? (1 unit = 1 kWh)",
+            "options": [
+                "3.00",
+                "1.08",
+                "2.16",
+                "0.33"
+            ],
+            "answer": "3.00"
+        },
+        {
+            "question": "The area under the velocity-time graph for a particle moving in a straight line with uniform acceleration gives",
+            "options": [
+                "its average velocity",
+                "its net displacement",
+                "the distance travelled by it",
+                "its average speed"
+            ],
+            "answer": "its net displacement"
+        },
+        {
+            "question": "The power of a lens of focal length 10 cm is",
+            "options": [
+                "0.1 dioptre",
+                "1 dioptre",
+                "10 dioptre",
+                "100 dioptre"
+            ],
+            "answer": "10 dioptre"
+        },
+        {
+            "question": "Consider the following statements regarding burning of magnesium ribbon in air :<br/><ol><li>White powder of MgO is formed.</li><li>It is an example of combustion reaction.</li><li>Heat and light are produced.</li></ol><br/>Which of the statements given above are correct?",
+            "options": [
+                "1 and 2 only",
+                "1 and 3 only",
+                "2 and 3 only",
+                "1, 2 and 3"
+            ],
+            "answer": "1, 2 and 3"
+        },
+        {
+            "question": "Which of the following statements with regard to the reaction given below are correct?<br/>CaO(s) + H<sub>2</sub>O(l) &rarr; Ca(OH)<sub>2</sub> (aq) + Heat<br/><ol><li>Quicklime is used for whitewashing of walls.</li><li>The solution of slaked lime is used for whitewashing of walls.</li><li>CaO reacts slowly with CO<sub>2</sub> in air to form a thin layer of CaCO<sub>3</sub> on walls.</li><li>Calcium hydroxide called 'slaked lime' is an inorganic compound.</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 and 4 only",
+                "2 and 4",
+                "2 and 3",
+                "1, 3 and 4"
+            ],
+            "answer": "2 and 4"
+        },
+        {
+            "question": "Which of the following statements with regard to heating of lead nitrate powder over a flame are correct?<br/><ol><li>Brown fumes of NO are released.</li><li>Colourless O<sub>2</sub> gas is released.</li><li>It is an example of oxidation reaction.</li><li>It is an example of thermal decomposition used for the production of NO<sub>2</sub> gas.</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 and 2",
+                "2, 3 and 4",
+                "1, 3 and 4",
+                "2 and 4 only"
+            ],
+            "answer": "2 and 4 only"
+        },
+        {
+            "question": "Which one of the following is <i>not</i> an oxidation reaction?",
+            "options": [
+                "Rusting of iron",
+                "Opening of soda bottle",
+                "Rancidity",
+                "Combustion"
+            ],
+            "answer": "Opening of soda bottle"
+        },
+        {
+            "question": "Consider the following clues about a State of India :<br/><ol><li>It is known as 'land of red river and blue hills'.</li><li>It contains three of the six physiographic divisions of India.</li><li>It covers about 2.39 percent of total areas of the country.</li></ol><br/>Identify the State on the basis of the given clues.",
+            "options": [
+                "Karnataka",
+                "Andhra Pradesh",
+                "Assam",
+                "Chhattisgarh"
+            ],
+            "answer": "Assam"
+        },
+        {
+            "question": "Which of the following sets of States shares boundary with Telangana?",
+            "options": [
+                "Odisha, Andhra Pradesh, Karnataka, Maharashtra",
+                "Chhattisgarh, Andhra Pradesh, Karnataka, Madhya Pradesh",
+                "Odisha, Andhra Pradesh, Karnataka, Madhya Pradesh",
+                "Chhattisgarh, Andhra Pradesh, Karnataka, Maharashtra"
+            ],
+            "answer": "Chhattisgarh, Andhra Pradesh, Karnataka, Maharashtra"
+        },
+        {
+            "question": "Rani told her friends that last year she did boating in four different lakes, namely, Loktak, Barapani, Kolleru and Pulicat. Which of the following States did she visit?",
+            "options": [
+                "Manipur, Meghalaya, Kerala, Tamil Nadu",
+                "Manipur, Meghalaya, Andhra Pradesh, Tamil Nadu",
+                "Mizoram, Assam, Kerala, Tamil Nadu",
+                "Mizoram, Assam, Andhra Pradesh, Tamil Nadu"
+            ],
+            "answer": "Manipur, Meghalaya, Andhra Pradesh, Tamil Nadu"
+        },
+        {
+            "question": "According to the Census 2011, which of the following statements is/are correct?<br/><ol><li>A person who can only read but cannot write, is not literate.</li><li>A person aged seven years and above, who can both read and write with understanding in any language is treated as literate.</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Both 1 and 2"
+        },
+        {
+            "question": "The Tropic of Cancer passes through how many coastal and landlocked States of India, respectively?",
+            "options": [
+                "1 and 7",
+                "2 and 6",
+                "2 and 5",
+                "3 and 5"
+            ],
+            "answer": "2 and 6"
+        },
+        {
+            "question": "Which one of the following situations can lead to inflation?",
+            "options": [
+                "Rapid growth of aggregate demand outweighing supply",
+                "Sluggish growth of aggregate demand",
+                "Reduction in the money supply",
+                "Higher levels of unemployment"
+            ],
+            "answer": "Rapid growth of aggregate demand outweighing supply"
+        },
+        {
+            "question": "Which of the following policies help to raise interest rate unambiguously and thereby lead to appreciation of currency?",
+            "options": [
+                "Expansionary fiscal and monetary policy",
+                "Contractionary fiscal and monetary policy",
+                "Contractionary fiscal policy and expansionary monetary policy",
+                "Contractionary monetary policy and expansionary fiscal policy"
+            ],
+            "answer": "Contractionary monetary policy and expansionary fiscal policy"
+        },
+        {
+            "question": "The contraction of private investment spending due to deficit spending by the Government is called",
+            "options": [
+                "crowding out",
+                "crowding in",
+                "pump priming",
+                "dumping"
+            ],
+            "answer": "crowding out"
+        },
+        {
+            "question": "Which among the following is/are the objective/objectives of the NITI Aayog?<br/><ol><li>Imposing policies on the States/UTs</li><li>Allocation of funds at National and State levels</li><li>Design strategies and long-term policies and programme frameworks</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 and 2 only",
+                "2 and 3 only",
+                "1, 2 and 3",
+                "3 only"
+            ],
+            "answer": "3 only"
+        },
+        {
+            "question": "The computation of poverty in terms of Monthly Per Capita Consumption Expenditure (MPCE) based on the Mixed Reference Period was recommended by the",
+            "options": [
+                "Lakdawala Committee",
+                "Tendulkar Committee",
+                "Dandekar Committee",
+                "Alagh Committee"
+            ],
+            "answer": "Tendulkar Committee"
+        },
+        {
+            "question": "Which of the following is/are the sub-mission/sub-missions of the National Skill Development Mission (NSDM)?<br/><ol><li>Institutional training</li><li>Overseas employment</li><li>Leveraging of public infrastructure</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 only",
+                "2 only",
+                "1, 2 and 3",
+                "2 and 3 only"
+            ],
+            "answer": "1, 2 and 3"
+        },
+        {
+            "question": "Which of the following strategies is/are adopted for implementing the POSHAN Abhiyaan?<br/><ol><li>Inter-sectoral convergence for better service delivery</li><li>Use of technology (ICT) for real-time growth monitoring of women and children</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Both 1 and 2"
+        },
+        {
+            "question": "Which of the following conditions is/are necessary for the issue of a writ of certiorari in India?<br/><ol><li>There should be a tribunal or an officer having legal authority to determine questions affecting rights of subjects and having a duty to act judicially.</li><li>Such tribunal or officer has acted without jurisdiction.</li></ol><br/>Select the correct answer using the code given below.",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Both 1 and 2"
+        },
+        {
+            "question": "Who among the following Chief Justices of India ordered the constitution of a Special Bench called 'Social Justice Bench'?",
+            "options": [
+                "Justice H. L. Dattu",
+                "Justice K. G. Balakrishnan",
+                "Justice R. M. Lodha",
+                "Justice Y. K. Sabharwal"
+            ],
+            "answer": "Justice H. L. Dattu"
+        },
+        {
+            "question": "Who among the following is the author of the book, <i>Bandi Jivan</i>?",
+            "options": [
+                "Rash Behari Bose",
+                "Veer Savarkar",
+                "Aruna Asaf Ali",
+                "Sachindranath Sanyal"
+            ],
+            "answer": "Sachindranath Sanyal"
+        }
     ]
 };
 
