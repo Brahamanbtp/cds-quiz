@@ -1,6 +1,1220 @@
 import type { Question } from "@/types/Question";
 
 const gkData: Record<string, Question[]> = {
+    "2019-I": [
+    {
+        "question": "Henry T. Colebrooke was a Professor of Sanskrit in which one of the following institutions?",
+        "options": [
+            "Fort William College",
+            "Serampore Mission",
+            "Kashi Vidyapith",
+            "Asiatic Society"
+        ],
+        "answer": "Fort William College"
+    },
+    {
+        "question": "The Deccan Agriculturalists' Relief Act of 1879 was enacted with which one of the following objectives?",
+        "options": [
+            "Restore lands to the dispossessed peasants",
+            "Ensure financial assistance to peasants during social and religious occasions",
+            "Restrict the sale of land for indebtedness to outsiders",
+            "Give legal aid to insolvent peasants"
+        ],
+        "answer": "Restrict the sale of land for indebtedness to outsiders"
+    },
+    {
+        "question": "The Damin-i-Koh was created by the British Government to settle which one of the following communities?",
+        "options": [
+            "Santals",
+            "Mundas",
+            "Oraons",
+            "Saoras"
+        ],
+        "answer": "Santals"
+    },
+    {
+        "question": "The Limitation Law, which was passed by the British in 1859, addressed which one of the following issues?",
+        "options": [
+            "Loan bonds would not have any legal validity.",
+            "Loan bonds signed between moneylender and Ryots would have validity only for three years.",
+            "Land bonds could not be executed by moneylenders.",
+            "Loan bonds would have validity for ten years."
+        ],
+        "answer": "Loan bonds signed between moneylender and Ryots would have validity only for three years."
+    },
+    {
+        "question": "Who among the following was known during the days of the Revolt of 1857 as 'Danka Shah'?",
+        "options": [
+            "Shah Mal",
+            "Maulavi Ahmadullah Shah",
+            "Nana Sahib",
+            "Tantia Tope"
+        ],
+        "answer": "Maulavi Ahmadullah Shah"
+    },
+    {
+        "question": "The Summary Settlement of 1856 was based on which one of the following assumptions?",
+        "options": [
+            "The Talukdars were the rightful owners of the land.",
+            "The Talukdars were interlopers with no permanent stakes in the land.",
+            "The Talukdars could evict the peasants from the lands.",
+            "The Talukdars would take a portion of the revenue which flowed to the State."
+        ],
+        "answer": "The Talukdars were interlopers with no permanent stakes in the land."
+    },
+    {
+        "question": "The Inter-State Council was set up in 1990 on the recommendation of",
+        "options": [
+            "Punchhi Commission",
+            "Sarkaria Commission",
+            "Rajamannar Commission",
+            "Mungerilal Commission"
+        ],
+        "answer": "Sarkaria Commission"
+    },
+    {
+        "question": "Which among the following writs is issued to quash the order of a Court or Tribunal?",
+        "options": [
+            "Mandamus",
+            "Prohibition",
+            "Quo Warranto",
+            "Certiorari"
+        ],
+        "answer": "Certiorari"
+    },
+    {
+        "question": "Which among the following statements about the power to change the basic structure of the Constitution of India is/are correct?<br/><ol><li>It falls outside the scope of the amending powers of the Parliament.</li><li>It can be exercised by the people through representatives in a Constituent Assembly.</li><li>It falls within the constituent powers of the Parliament.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 3",
+            "1 and 2",
+            "1 only",
+            "2 and 3"
+        ],
+        "answer": "1 and 2"
+    },
+    {
+        "question": "When a Proclamation of Emergency is in operation, the right to move a Court for the enforcement of all Fundamental Rights remains suspended, except",
+        "options": [
+            "Article 20 and Article 21",
+            "Article 21 and Article 22",
+            "Article 19 and Article 20",
+            "Article 15 and Article 16"
+        ],
+        "answer": "Article 20 and Article 21"
+    },
+    {
+        "question": "Which one of the following Articles of the Constitution of India lays down that no citizen can be denied the use of wells, tanks and bathing Ghats maintained out of State funds?",
+        "options": [
+            "Article 14",
+            "Article 15",
+            "Article 16",
+            "Article 17"
+        ],
+        "answer": "Article 15"
+    },
+    {
+        "question": "Who amongst the following organized the All India Scheduled Castes Federation?",
+        "options": [
+            "Jyotiba Phule",
+            "Periyar",
+            "B. R. Ambedkar",
+            "M. K. Karunanidhi"
+        ],
+        "answer": "B. R. Ambedkar"
+    },
+    {
+        "question": "Paul Allen, who died in October 2018, was the co-founder of",
+        "options": [
+            "Oracle",
+            "IBM",
+            "Microsoft",
+            "SAP"
+        ],
+        "answer": "Microsoft"
+    },
+    {
+        "question": "The mobile app 'cVIGIL' is helpful in",
+        "options": [
+            "conducting free and fair e-tendering process in government offices",
+            "fighting against corruption in public services",
+            "removing garbage from the municipal areas",
+            "reporting violation of model code of conduct in election-bound States"
+        ],
+        "answer": "reporting violation of model code of conduct in election-bound States"
+    },
+    {
+        "question": "'Prahaar' is",
+        "options": [
+            "a battle tank",
+            "a surface-to-surface missile",
+            "an aircraft carrier",
+            "a submarine"
+        ],
+        "answer": "a surface-to-surface missile"
+    },
+    {
+        "question": "Who among the following is/are the recipient/recipients of Rajiv Gandhi Khel Ratna Award, 2018?",
+        "options": [
+            "Virat Kohli",
+            "S. Mirabai Chanu and Virat Kohli",
+            "Neeraj Chopra",
+            "Hima Das and Neeraj Chopra"
+        ],
+        "answer": "S. Mirabai Chanu and Virat Kohli"
+    },
+    {
+        "question": "Pakyong Airport is located in",
+        "options": [
+            "Sikkim",
+            "Jammu and Kashmir",
+            "Arunachal Pradesh",
+            "Mizoram"
+        ],
+        "answer": "Sikkim"
+    },
+    {
+        "question": "The United Nations has been observing International Day of Rural Women on",
+        "options": [
+            "15th July",
+            "15th August",
+            "15th September",
+            "15th October"
+        ],
+        "answer": "15th October"
+    },
+    {
+        "question": "Who among the following is the first Indian to win Pulitzer Prize?",
+        "options": [
+            "Arundhati Roy",
+            "Gobind Behari Lal",
+            "Vijay Seshadri",
+            "Jhumpa Lahiri"
+        ],
+        "answer": "Gobind Behari Lal"
+    },
+    {
+        "question": "Saurabh Chaudhary excels in which one of the following sports?",
+        "options": [
+            "Archery",
+            "Shooting",
+            "Boxing",
+            "Judo"
+        ],
+        "answer": "Shooting"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an assumption in the law of demand?",
+        "options": [
+            "There are no changes in the taste and preferences of consumers.",
+            "Income of consumers remains constant.",
+            "Consumers are affected by demonstration effect.",
+            "There are no changes in the price of substitute goods."
+        ],
+        "answer": "Consumers are affected by demonstration effect."
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "When total utility is maximum, marginal utility is zero.",
+            "When total utility is decreasing, marginal utility is negative.",
+            "When total utility is increasing, marginal utility is positive.",
+            "When total utility is maximum, marginal and average utility are equal to each other."
+        ],
+        "answer": "When total utility is maximum, marginal and average utility are equal to each other."
+    },
+    {
+        "question": "Consider the following statements about indifference curves :<br/><ol><li>Indifference curves are convex to the origin.</li><li>Higher indifference curve represents higher level of satisfaction.</li><li>Two indifference curves cut each other.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "1 and 2",
+            "2 and 3",
+            "3 only"
+        ],
+        "answer": "1 and 2"
+    },
+    {
+        "question": "Consider the following statements about a joint-stock company :<br/><ol><li>It has a legal existence.</li><li>There is limited liability of share-holders.</li><li>It has a democratic management.</li><li>It has a collective ownership.</li></ol><br/>Which of the statements given above are correct?",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3 only",
+            "3 and 4 only",
+            "1, 2, 3 and 4"
+        ],
+        "answer": "1, 2, 3 and 4"
+    },
+    {
+        "question": "When some goods or productive factors are completely fixed in amount, regardless of price, the supply curve is",
+        "options": [
+            "horizontal",
+            "downward sloping to the right",
+            "vertical",
+            "upward sloping to the right"
+        ],
+        "answer": "vertical"
+    },
+    {
+        "question": "Who designed the Bombay Secretariat in the 1870s?",
+        "options": [
+            "H. St. Clair Wilkins",
+            "Sir Cowasjee Jehangir Readymoney",
+            "Purushottamdas Thakurdas",
+            "Nusserwanji Tata"
+        ],
+        "answer": "H. St. Clair Wilkins"
+    },
+    {
+        "question": "Who was the founder of Mahakali Pathshala in Calcutta?",
+        "options": [
+            "Her Holiness Mataji Maharani Tapaswini",
+            "Sister Nivedita",
+            "Madame Blavatsky",
+            "Sarojini Naidu"
+        ],
+        "answer": "Her Holiness Mataji Maharani Tapaswini"
+    },
+    {
+        "question": 'Which European ruler had observed, "Bear in mind that the commerce of India is the commerce of the world ... he who can exclusively command it is the dictator of Europe"?',
+        "options": [
+            "Queen Victoria",
+            "Peter the Great of Russia",
+            "Napoleon Bonaparte",
+            "Gustav II Adolf"
+        ],
+        "answer": "Peter the Great of Russia"
+    },
+    {
+        "question": 'Which European traveller had observed, "A Hindu woman can go anywhere alone, even in the most crowded places, and she need never fear the impertinent looks and jokes of idle loungers"?',
+        "options": [
+            "Francois Bernier",
+            "Jean-Baptiste Tavernier",
+            "Thomas Roe",
+            "Abbe J. A. Dubois"
+        ],
+        "answer": "Abbe J. A. Dubois"
+    },
+    {
+        "question": "Who was the author of the book, <i>Plagues and Peoples</i>?",
+        "options": [
+            "W. L. Thomas",
+            "Rachel Carson",
+            "David Cannadine",
+            "William H. McNeill"
+        ],
+        "answer": "William H. McNeill"
+    }
+,
+
+    {
+        "question": "Which Indian social theorist had argued that the idea of a homogenized Hinduism was constructed through the 'cultural arrogance of post-enlightenment Europe'?",
+        "options": [
+            "Ashis Nandy",
+            "Partha Chatterjee",
+            "T. K. Oommen",
+            "Rajni Kothari"
+        ],
+        "answer": "Ashis Nandy"
+    },
+    {
+        "question": "'Sub-prime crisis' is a term associated with which one of the following events?",
+        "options": [
+            "Economic recession",
+            "Political instability",
+            "Structural adjustment programmes",
+            "Growing social inequality"
+        ],
+        "answer": "Economic recession"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a change brought about by the Indian Independence Act of 1947?",
+        "options": [
+            "The Government of India Act, 1935 was amended to provide an interim Constitution.",
+            "India ceased to be a dependency.",
+            "The Crown was the source of authority till new Constitution was framed.",
+            "The Governor-General was the constitutional head of Indian Dominion."
+        ],
+        "answer": "The Crown was the source of authority till new Constitution was framed."
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a correct statement regarding the provision of Legislative Council in the State Legislature?",
+        "options": [
+            "The States of Bihar and Telangana have Legislative Councils.",
+            "The total number of members in the Legislative Council of a State shall not exceed one-third of the total number of members in the Legislative Assembly.",
+            "One-twelfth of all members shall be elected by electorates consisting of local bodies and authorities.",
+            "One-twelfth of all members shall be elected by graduates residing in the State."
+        ],
+        "answer": "One-twelfth of all members shall be elected by electorates consisting of local bodies and authorities."
+    },
+    {
+        "question": "Which one of the following is <i>not</i> correct about the Panchayats as laid down in Part IX of the Constitution of India?",
+        "options": [
+            "The Chairperson of a Panchayat needs to be directly elected by people in order to exercise the right to vote in the Panchayat meetings.",
+            "The State Legislature has the right to decide whether or not offices of the Chairpersons in the Panchayats are reserved for SCs, STs or women.",
+            "Unless dissolved earlier, every Panchayat continues for a period of five years.",
+            "The State Legislature may by law make provisions for audit of accounts of the Panchayats."
+        ],
+        "answer": "The Chairperson of a Panchayat needs to be directly elected by people in order to exercise the right to vote in the Panchayat meetings."
+    },
+    {
+        "question": "Which one of the following is <i>not</i> correct about Administrative Tribunals?",
+        "options": [
+            "The Parliament may by law constitute Administrative Tribunals both at the Union and State levels.",
+            "Tribunals may look into disputes and complaints with respect to recruitment and conditions of service of persons appointed to public services.",
+            "Tribunals established by a law of the Parliament can exclude the jurisdiction of all Courts to allow for special leave to appeal.",
+            "The law establishing the Tribunals may provide for procedures including rules of evidence to be followed."
+        ],
+        "answer": "Tribunals established by a law of the Parliament can exclude the jurisdiction of all Courts to allow for special leave to appeal."
+    },
+    {
+        "question": "A market situation when many firms sell similar but not identical products is termed as",
+        "options": [
+            "perfect competition",
+            "imperfect competition",
+            "monopolistic competition",
+            "oligopoly"
+        ],
+        "answer": "monopolistic competition"
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>Inflation in India continued to be moderate during 2017-18.</li><li>There was significant reduction in food inflation, particularly pulses and vegetables during the period.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which one of the following hypotheses postulates that individual's consumption in any time period depends upon resources available to the individual, rate of return on his capital and age of the individual?",
+        "options": [
+            "Absolute Income Hypothesis",
+            "Relative Income Hypothesis",
+            "Life Cycle Hypothesis",
+            "Permanent Income Hypothesis"
+        ],
+        "answer": "Life Cycle Hypothesis"
+    },
+    {
+        "question": "According to John Maynard Keynes, employment depends upon",
+        "options": [
+            "aggregate demand",
+            "aggregate supply",
+            "effective demand",
+            "rate of interest"
+        ],
+        "answer": "effective demand"
+    },
+    {
+        "question": "Which one of the following canons of taxation was <i>not</i> advocated by Adam Smith?",
+        "options": [
+            "Canon of equality",
+            "Canon of certainty",
+            "Canon of convenience",
+            "Canon of fiscal adequacy"
+        ],
+        "answer": "Canon of fiscal adequacy"
+    },
+    {
+        "question": "Which Arab scientist could be given the credit of christening the mathematical discipline of algorithm?",
+        "options": [
+            "Al-Khwarizmi",
+            "Ibn al-Haytham",
+            "Ibn Rushd",
+            "Ibn Sina"
+        ],
+        "answer": "Al-Khwarizmi"
+    },
+    {
+        "question": "Which one of the following developments took place because of the Kansas-Nebraska Act of 1854?",
+        "options": [
+            "The Missouri Compromise was repealed and people of Kansas and Nebraska were allowed to determine whether they should own slaves or not.",
+            "The Act did not permit the territories the right to vote over the question of slavery.",
+            "The voice of the majority in regard to the issue of slavery was muzzled.",
+            "The Federal Government had the sole authority to decide on slavery."
+        ],
+        "answer": "The Missouri Compromise was repealed and people of Kansas and Nebraska were allowed to determine whether they should own slaves or not."
+    },
+    {
+        "question": "Which one of the following issues was included in the Indo-US Nuclear Agreement of 2007?",
+        "options": [
+            "India has 'advance right to reprocess' US-origin safeguarded spent fuel.",
+            "India did not have the right to build a strategic fuel reserve with the help of the other supplier countries.",
+            "India should not test a nuclear device.",
+            "The US will impede the growth of India's nuclear weapons programme."
+        ],
+        "answer": "India has 'advance right to reprocess' US-origin safeguarded spent fuel."
+    },
+    {
+        "question": "Which of the following statements about Alladi Krishnaswami Ayyar, as a drafting member of the Constitution of India, are correct?<br/><ol><li>He favoured the role of the Supreme Court in taking important decisions related to the interpretation of the Constitution of India.</li><li>He felt that the Supreme Court had to draw the line between liberty and social control.</li><li>He believed in the dominance of the executive over the judiciary.</li><li>He favoured a dictatorial form of governance.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "3 and 4",
+            "1, 2 and 4"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which of the following are the core functions of the United Nations multidimensional peacekeeping operations?<br/><ol><li>Stabilization</li><li>Peace consolidation</li><li>To extend support to a losing State in a war</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1 and 2 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "The South China Sea Dispute involves which of the following countries?<br/><ol><li>China</li><li>Vietnam</li><li>Malaysia</li><li>Indonesia</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 4",
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2, 3 and 4"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "The 'Kyoto Protocol' is an international treaty that commits State parties to reduction in",
+        "options": [
+            "poverty",
+            "greenhouse gases emission",
+            "nuclear armaments",
+            "agricultural subsidy"
+        ],
+        "answer": "greenhouse gases emission"
+    },
+    {
+        "question": "The 'Beijing Declaration' is concerned with which one of the following issues?",
+        "options": [
+            "Rights of children",
+            "Rights of women",
+            "Right to development",
+            "Reduction of tariffs"
+        ],
+        "answer": "Rights of women"
+    },
+    {
+        "question": "The 'Gujral Doctrine' relates to which one of the following issues?",
+        "options": [
+            "Build trust between India and its neighbours",
+            "Initiate dialogue with all insurgent groups in India",
+            "Undertake development activities in Naxal-dominated areas",
+            "Ensure food security"
+        ],
+        "answer": "Build trust between India and its neighbours"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Compound/Molecule)</th><th>List-II (Shape of Molecule)</th></tr><tr><td>A. CH<sub>3</sub>F</td><td>1. Trigonal planar</td></tr><tr><td>B. HCHO</td><td>2. Tetrahedral</td></tr><tr><td>C. HCN</td><td>3. Trigonal pyramidal</td></tr><tr><td>D. NH<sub>3</sub></td><td>4. Linear</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-4, C-1, D-3",
+            "A-2, B-1, C-4, D-3",
+            "A-3, B-4, C-1, D-2",
+            "A-3, B-1, C-4, D-2"
+        ],
+        "answer": "A-2, B-1, C-4, D-3"
+    },
+    {
+        "question": "Very small insoluble particles in a liquid may be separated from it by using",
+        "options": [
+            "crystallization",
+            "fractional distillation",
+            "centrifugation",
+            "decantation"
+        ],
+        "answer": "centrifugation"
+    },
+    {
+        "question": `Which one of the following elements <i>cannot</i> be detected by "Lassaigne's test"?`,
+        "options": [
+            "I",
+            "Cl",
+            "S",
+            "F"
+        ],
+        "answer": "F"
+    },
+    {
+        "question": "In which of the following, functional group isomerism is <i>not</i> possible?",
+        "options": [
+            "Alcohols",
+            "Aldehydes",
+            "Alkyl halides",
+            "Cyanides"
+        ],
+        "answer": "Alkyl halides"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "Fischer projection represents the molecule in an eclipsed conformation.",
+            "Newman projection can be represented in eclipsed, staggered and skew conformations.",
+            "Fischer projection of the molecule is its most stable conformation.",
+            "In Sawhorse projections, the lines are inclined at an angle of 120&deg; to each other."
+        ],
+        "answer": "Fischer projection of the molecule is its most stable conformation."
+    }
+
+    ,
+
+    {
+        "question": "The monomer/monomers used for the synthesis of Nylon 6 is/are",
+        "options": [
+            "hexamethylenediamine and adipic acid",
+            "caprolactam",
+            "urea and formaldehyde",
+            "phenol and formaldehyde"
+        ],
+        "answer": "caprolactam"
+    },
+    {
+        "question": "Which one among the following stars is nearest to the earth?",
+        "options": [
+            "Sirius",
+            "Arcturus",
+            "Spica",
+            "Proxima Centauri"
+        ],
+        "answer": "Proxima Centauri"
+    },
+    {
+        "question": "Which of the following planets of our solar system has least mass?",
+        "options": [
+            "Neptune",
+            "Jupiter",
+            "Mars",
+            "Mercury"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "question": "Two identical solid pieces, one of gold and other of silver, when immersed completely in water exhibit equal weights. When weighed in air (given that density of gold is greater than that of silver)",
+        "options": [
+            "the gold piece will weigh more",
+            "the silver piece will weigh more",
+            "both silver and gold pieces weigh equal",
+            "weighing will depend on their masses"
+        ],
+        "answer": "the silver piece will weigh more"
+    },
+    {
+        "question": "If the wavelengths corresponding to ultraviolet, visible and infrared radiations are given as &lambda;<sub>UV</sub>, &lambda;<sub>VIS</sub> and &lambda;<sub>IR</sub> respectively, then which one of the following gives the correct relationship among these wavelengths?",
+        "options": [
+            "&lambda;<sub>UV</sub> &lt; &lambda;<sub>IR</sub> &lt; &lambda;<sub>VIS</sub>",
+            "&lambda;<sub>UV</sub> &gt; &lambda;<sub>VIS</sub> &gt; &lambda;<sub>IR</sub>",
+            "&lambda;<sub>UV</sub> &gt; &lambda;<sub>IR</sub> &gt; &lambda;<sub>VIS</sub>",
+            "&lambda;<sub>UV</sub> &lt; &lambda;<sub>VIS</sub> &lt; &lambda;<sub>IR</sub>"
+        ],
+        "answer": "&lambda;<sub>UV</sub> &lt; &lambda;<sub>VIS</sub> &lt; &lambda;<sub>IR</sub>"
+    },
+    {
+        "question": "An electron and a proton starting from rest get accelerated through potential difference of 100 kV. The final speeds of the electron and the proton are V<sub>e</sub> and V<sub>p</sub> respectively. Which one of the following relations is correct?",
+        "options": [
+            "V<sub>e</sub> &gt; V<sub>p</sub>",
+            "V<sub>e</sub> &lt; V<sub>p</sub>",
+            "V<sub>e</sub> = V<sub>p</sub>",
+            "Cannot be determined"
+        ],
+        "answer": "V<sub>e</sub> &gt; V<sub>p</sub>"
+    },
+    {
+        "question": "If two vectors A and B are at an angle &theta; &ne; 0&deg;, then",
+        "options": [
+            "|A| + |B| = |A + B|",
+            "|A| + |B| &gt; |A + B|",
+            "|A| + |B| &lt; |A + B|",
+            "|A| + |B| = |A - B|"
+        ],
+        "answer": "|A| + |B| &gt; |A + B|"
+    },
+    {
+        "question": "Which one of the following functions is <i>not</i> carried out by smooth endoplasmic reticulum?",
+        "options": [
+            "Transport of materials",
+            "Synthesis of lipid",
+            "Synthesis of protein",
+            "Synthesis of steroid hormone"
+        ],
+        "answer": "Synthesis of protein"
+    },
+    {
+        "question": "Which one of the following cell organelles mainly functions as storehouse of digestive enzymes?",
+        "options": [
+            "Desmosome",
+            "Ribosome",
+            "Lysosome",
+            "Vacuoles"
+        ],
+        "answer": "Lysosome"
+    },
+    {
+        "question": "Which one of the following tissues is responsible for increase of girth in the stem of a plant?",
+        "options": [
+            "Tracheid",
+            "Pericycle",
+            "Intercalary meristem",
+            "Lateral meristem"
+        ],
+        "answer": "Lateral meristem"
+    },
+    {
+        "question": "Which one of the following organisms is dependent on saprophytic mode of nutrition?",
+        "options": [
+            "<i>Agaricus</i>",
+            "<i>Ulothrix</i>",
+            "<i>Riccia</i>",
+            "<i>Cladophora</i>"
+        ],
+        "answer": "<i>Agaricus</i>"
+    },
+    {
+        "question": "Which one of the following has a bilateral symmetry in its body organization?",
+        "options": [
+            "<i>Asterias</i>",
+            "Sea anemone",
+            "<i>Nereis</i>",
+            "<i>Echinus</i>"
+        ],
+        "answer": "<i>Nereis</i>"
+    },
+    {
+        "question": "Which one of the following pairs of animals is warm-blooded?",
+        "options": [
+            "Crocodile and Ostrich",
+            "Hagfish and Dogfish",
+            "Tortoise and Ostrich",
+            "Peacock and Camel"
+        ],
+        "answer": "Peacock and Camel"
+    },
+    {
+        "question": "Which one of the following States of India is <i>not</i> covered by Flood Forecasting Stations set up by the Central Water Commission?",
+        "options": [
+            "Rajasthan",
+            "Jammu and Kashmir",
+            "Tripura",
+            "Himachal Pradesh"
+        ],
+        "answer": "Himachal Pradesh"
+    },
+    {
+        "question": "The city of Cartagena, which is famous for Protocol on Biosafety, is located in",
+        "options": [
+            "Colombia",
+            "Venezuela",
+            "Brazil",
+            "Guyana"
+        ],
+        "answer": "Colombia"
+    },
+    {
+        "question": "Which one among the following is the most populated State in India as per Census 2011?",
+        "options": [
+            "Goa",
+            "Mizoram",
+            "Meghalaya",
+            "Sikkim"
+        ],
+        "answer": "Meghalaya"
+    },
+    {
+        "question": "Which among the following countries of South America does the Tropic of Capricorn <i>not</i> pass through?",
+        "options": [
+            "Chile",
+            "Bolivia",
+            "Paraguay",
+            "Brazil"
+        ],
+        "answer": "Bolivia"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> correct about Sargasso Sea?",
+        "options": [
+            "It is characterized with anticyclonic circulation of ocean currents.",
+            "It records the highest salinity in Atlantic Ocean.",
+            "It is located west of Gulf Stream and east of Canary Current.",
+            "It confined in gyre of calm and motionless water."
+        ],
+        "answer": "It is located west of Gulf Stream and east of Canary Current."
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (City)</th><th>List-II (Product)</th></tr><tr><td>A. Detroit</td><td>1. Motorcar</td></tr><tr><td>B. Antwerp</td><td>2. Diamond cutting</td></tr><tr><td>C. Tokyo</td><td>3. Steel</td></tr><tr><td>D. Harbin</td><td>4. Shipbuilding</td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-4, C-2, D-1",
+            "A-3, B-2, C-4, D-1",
+            "A-1, B-4, C-2, D-3",
+            "A-1, B-2, C-4, D-3"
+        ],
+        "answer": "A-1, B-2, C-4, D-3"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> situated on Varanasi-Kanyakumari National Highway?",
+        "options": [
+            "Satna",
+            "Rewa",
+            "Katni",
+            "Jabalpur"
+        ],
+        "answer": "Satna"
+    },
+    {
+        "question": "Which one of the following methods is <i>not</i> suitable for urban rainwater harvesting?",
+        "options": [
+            "Rooftop recharge pit",
+            "Recharge wells",
+            "Gully plug",
+            "Recharge trench"
+        ],
+        "answer": "Gully plug"
+    },
+    {
+        "question": "If one plots the tank irrigation in India and superimposes it with map of well irrigation, one may find that the two are negatively related. Which of the following statements explain the phenomenon?<br/><ol><li>Tank irrigation predates well irrigation.</li><li>Tank irrigation is in the areas with impervious surface layers.</li><li>Well irrigation requires sufficient groundwater reserves.</li><li>Other forms of irrigation are not available.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "3 and 4",
+            "1 and 4"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "When hot water is placed into an empty water bottle, the bottle keeps its shape and does not soften. What type of plastic is the water bottle made from?",
+        "options": [
+            "Thermoplastic",
+            "PVC",
+            "Polyurethane",
+            "Thermosetting"
+        ],
+        "answer": "Thermosetting"
+    },
+    {
+        "question": "Which of the following is/are state function/functions?<br/><ol><li>q+w</li><li>q</li><li>w</li><li>H - TS</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 4 only",
+            "1, 2 and 4",
+            "2, 3 and 4",
+            "1 only"
+        ],
+        "answer": "1 and 4 only"
+    },
+    {
+        "question": "For a certain reaction, &Delta;G<sup>&theta;</sup> = &minus;45 kJ/mol and &Delta;H<sup>&theta;</sup> = &minus;90 kJ/mol at 0 &deg;C. What is the minimum temperature at which the reaction will become spontaneous, assuming that &Delta;H<sup>&theta;</sup> and &Delta;S<sup>&theta;</sup> are independent of temperature?",
+        "options": [
+            "273 K",
+            "298 K",
+            "546 K",
+            "596 K"
+        ],
+        "answer": "546 K"
+    },
+    {
+        "question": "The PCl<sub>5</sub> molecule has trigonal bipyramidal structure. Therefore, the hybridization of p orbitals should be",
+        "options": [
+            "sp<sup>2</sup>",
+            "sp<sup>3</sup>",
+            "dsp<sup>2</sup>",
+            "dsp<sup>3</sup>"
+        ],
+        "answer": "dsp<sup>3</sup>"
+    },
+    {
+        "question": "In spherical polar coordinates (r, &theta;, &alpha;), &theta; denotes the polar angle around z-axis and &alpha; denotes the azimuthal angle raised from x-axis. Then the y-component of P is given by",
+        "options": [
+            "P sin&theta; sin&alpha;",
+            "P sin&theta; cos&alpha;",
+            "P cos&theta; sin&alpha;",
+            "P cos&theta; cos&alpha;"
+        ],
+        "answer": "P sin&theta; sin&alpha;"
+    },
+    {
+        "question": "For an ideal gas, which one of the following statements does <i>not</i> hold true?",
+        "options": [
+            "The speed of all gas molecules is same.",
+            "The kinetic energies of all gas molecules are not same.",
+            "The potential energy of the gas molecules is zero.",
+            "There is no interactive force between the molecules."
+        ],
+        "answer": "The speed of all gas molecules is same."
+    },
+    {
+        "question": "What is a constellation?",
+        "options": [
+            "A particular pattern of equidistant stars from the earth in the sky",
+            "A particular pattern of stars that may not be equidistant from the earth in the sky",
+            "A particular pattern of planets of our solar system in the sky",
+            "A particular pattern of stars, planets and satellites in the sky due to their position in the space"
+        ],
+        "answer": "A particular pattern of stars that may not be equidistant from the earth in the sky"
+    },
+    {
+        "question": "The Hooke's law is valid for",
+        "options": [
+            "only proportional region of the stress-strain curve",
+            "entire stress-strain curve",
+            "entire elastic region of the stress-strain curve",
+            "elastic as well as plastic region of the stress-strain curve"
+        ],
+        "answer": "only proportional region of the stress-strain curve"
+    },
+    {
+        "question": "Which one of the following statements regarding histone proteins is correct?",
+        "options": [
+            "Histones are proteins that are present in mitochondrial membrane.",
+            "Histones are proteins that are present in nucleus in association with DNA.",
+            "Histones are proteins associated with lipids in the cytosol.",
+            "Histones are proteins associated with carbohydrates in the cytosol."
+        ],
+        "answer": "Histones are proteins that are present in nucleus in association with DNA."
+    },
+    {
+        "question": "Which one of the following statements regarding haemoglobin is correct?",
+        "options": [
+            "Haemoglobin present in RBC can carry only oxygen but not carbon dioxide.",
+            "Haemoglobin of RBC can carry both oxygen and carbon dioxide.",
+            "Haemoglobin of RBC can carry only carbon dioxide.",
+            "Haemoglobin is only used for blood clotting and not for carrying gases."
+        ],
+        "answer": "Haemoglobin of RBC can carry both oxygen and carbon dioxide."
+    }
+
+    ,
+
+    {
+        "question": "Which one of the following is the correct sequence of passage of light in a compound microscope?",
+        "options": [
+            "Condenser&mdash;Objective lens&mdash;Eyepiece&mdash;Body tube",
+            "Objective lens&mdash;Condenser&mdash;Body tube&mdash;Eyepiece",
+            "Condenser&mdash;Objective lens&mdash;Body tube&mdash;Eyepiece",
+            "Eyepiece&mdash;Objective lens&mdash;Body tube&mdash;Mirror"
+        ],
+        "answer": "Condenser&mdash;Objective lens&mdash;Body tube&mdash;Eyepiece"
+    },
+    {
+        "question": "Which one of the following statements is correct?",
+        "options": [
+            "Urea is produced in liver.",
+            "Urea is produced in blood.",
+            "Urea is produced from digestion of starch.",
+            "Urea is produced in lung and kidney."
+        ],
+        "answer": "Urea is produced in liver."
+    },
+    {
+        "question": "Which one of the following river valleys of India is under the influence of intensive gully erosion?",
+        "options": [
+            "Kosi",
+            "Chambal",
+            "Damodar",
+            "Brahmaputra"
+        ],
+        "answer": "Chambal"
+    },
+    {
+        "question": "Which one of the following may be the true characteristic of cyclones?",
+        "options": [
+            "Temperate cyclones move from west to east with westerlies whereas tropical cyclones follow trade winds.",
+            "The front side of cyclone is known as the 'eye of cyclone'.",
+            "Cyclones possess a centre of high pressure surrounded by closed isobars.",
+            "Hurricanes are well-known tropical cyclones which develop over mid-latitudes."
+        ],
+        "answer": "Temperate cyclones move from west to east with westerlies whereas tropical cyclones follow trade winds."
+    },
+    {
+        "question": "The Headquarters of the International Tropical Timber Organization is located at",
+        "options": [
+            "New Delhi",
+            "Yokohama",
+            "Madrid",
+            "Jakarta"
+        ],
+        "answer": "Yokohama"
+    },
+    {
+        "question": "Atmospheric conditions are well-governed by humidity. Which one among the following may best define humidity?",
+        "options": [
+            "Form of suspended water droplets caused by condensation",
+            "Deposition of atmospheric moisture",
+            "Almost microscopically small drops of water condensed from and suspended in air",
+            "The moisture content of the atmosphere at a particular time and place"
+        ],
+        "answer": "The moisture content of the atmosphere at a particular time and place"
+    },
+    {
+        "question": "The Shompens are the vulnerable tribal group of",
+        "options": [
+            "Jharkhand",
+            "Odisha",
+            "West Bengal",
+            "Andaman and Nicobar Islands"
+        ],
+        "answer": "Andaman and Nicobar Islands"
+    },
+    {
+        "question": "Which one of the following cities was <i>not</i> included in the list of smart cities in India?",
+        "options": [
+            "Silvassa",
+            "Jorhat",
+            "Itanagar",
+            "Kavaratti"
+        ],
+        "answer": "Jorhat"
+    },
+    {
+        "question": "Find the correct arrangement of the following urban agglomerations in descending order as per their population size according to Census 2011.",
+        "options": [
+            "Delhi&mdash;Mumbai&mdash;Kolkata&mdash;Chennai",
+            "Mumbai&mdash;Delhi&mdash;Kolkata&mdash;Chennai",
+            "Mumbai&mdash;Kolkata&mdash;Delhi&mdash;Chennai",
+            "Kolkata&mdash;Chennai&mdash;Mumbai&mdash;Delhi"
+        ],
+        "answer": "Mumbai&mdash;Delhi&mdash;Kolkata&mdash;Chennai"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Type of Lake)</th><th>List-II (Example)</th></tr><tr><td>A. Tectonic</td><td>1. Lonar Lake</td></tr><tr><td>B. Crater</td><td>2. Gangabal Lake</td></tr><tr><td>C. Glacial</td><td>3. Purbasthali Lake</td></tr><tr><td>D. Fluvial</td><td>4. Bhimtal Lake</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-1, C-2, D-3",
+            "A-4, B-2, C-1, D-3",
+            "A-3, B-1, C-2, D-4",
+            "A-3, B-2, C-1, D-4"
+        ],
+        "answer": "A-4, B-1, C-2, D-3"
+    },
+    {
+        "question": "The Andaman group of islands and the Nicobar group of islands are separated by which one of the following latitudes?",
+        "options": [
+            "8&deg; N latitude",
+            "10&deg; N latitude",
+            "12&deg; N latitude",
+            "13&deg; N latitude"
+        ],
+        "answer": "10&deg; N latitude"
+    },
+    {
+        "question": "Damanganga Reservoir Project with about 115 km of minor canals and distributaries is located in",
+        "options": [
+            "NCT",
+            "Dadra and Nagar Haveli",
+            "Puducherry",
+            "Goa"
+        ],
+        "answer": "Dadra and Nagar Haveli"
+    },
+    {
+        "question": "Consider the following statements relating to Coal India Limited :<br/><ol><li>It is designated as a 'Maha Ratna' company under the Ministry of Coal.</li><li>It is the single largest coal-producing company in the world.</li><li>The Headquarters of Coal India Limited is located at Ranchi, Jharkhand.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Afro-Asian solidarity as a central element of India's foreign policy was initiated by which of the following Prime Ministers?",
+        "options": [
+            "Narendra Modi",
+            "I. K. Gujral",
+            "J. L. Nehru",
+            "Manmohan Singh"
+        ],
+        "answer": "J. L. Nehru"
+    },
+    {
+        "question": "The Prime Minister's National Relief Fund is operated by which one of the following bodies?",
+        "options": [
+            "The Prime Minister's Office (PMO)",
+            "The National Disaster Management Authority",
+            "The Ministry of Finance",
+            "The National Development Council (NDC)"
+        ],
+        "answer": "The Prime Minister's Office (PMO)"
+    },
+    {
+        "question": "Which one of the following statements with regard to India's surgical strike mission inside Pakistan Occupied Kashmir is correct?",
+        "options": [
+            "It was conducted in the year 2018.",
+            "It was led by the Indian Air Force.",
+            "It was not given any name.",
+            "It was sanctioned by the United Nations."
+        ],
+        "answer": "It was not given any name."
+    },
+    {
+        "question": "Which one of the following statements about the National Green Tribunal is <i>not</i> correct?",
+        "options": [
+            "It was set up in the year 2010.",
+            "It is involved in effective and expeditious disposal of cases relating to environmental protection and conservation of forests.",
+            "It may consider giving relief and compensation for damages to persons and property.",
+            "It is bound by the procedures laid down under the Code of Civil Procedure, 1908."
+        ],
+        "answer": "It is bound by the procedures laid down under the Code of Civil Procedure, 1908."
+    },
+    {
+        "question": "Which one of the following statements about the provisions of the Constitution of India with regard to the State of Jammu and Kashmir is <i>not</i> correct?",
+        "options": [
+            "The Directive Principles of State Policy do not apply.",
+            "Article 35A gives some special rights to the permanent residents of the State with regard to employment, settlement and property.",
+            "Article 19(1)(f) has been omitted.",
+            "Article 368 is not applicable for the amendment of Constitution of the State."
+        ],
+        "answer": "Article 19(1)(f) has been omitted."
+    },
+    {
+        "question": "In 1921, during which one of the following tours, Gandhiji shaved his head and began wearing loincloth in order to identify with the poor?",
+        "options": [
+            "Ahmadabad",
+            "Champaran",
+            "Chauri Chaura",
+            "South India"
+        ],
+        "answer": "South India"
+    },
+    {
+        "question": "Simla was founded as a hill station to use as strategic place for billeting troops, guarding frontier and launching campaign during the course of",
+        "options": [
+            "Anglo-Maratha War",
+            "Anglo-Burmese War",
+            "Anglo-Gurkha War",
+            "Anglo-Afghan War"
+        ],
+        "answer": "Anglo-Gurkha War"
+    },
+    {
+        "question": 'Which politician in British India had opposed to a Pakistan that would mean "Muslim Raj here and Hindu Raj elsewhere"?',
+        "options": [
+            "Khan Abdul Ghaffar Khan",
+            "Sikandar Hayat Khan",
+            "Maulana Abul Kalam Azad",
+            "Rafi Ahmed Kidwai"
+        ],
+        "answer": "Sikandar Hayat Khan"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Author)</th><th>List-II (Book)</th></tr><tr><td>A. Sekhar Bandyopadhyay</td><td>1. Jawaharlal Nehru : A Biography, Vol-I, 1889-1947</td></tr><tr><td>B. Sarvepalli Gopal</td><td>2. From Plassey to Partition : A History of Modern India</td></tr><tr><td>C. David Hardiman</td><td>3. The Ascendancy of the Congress in Uttar Pradesh, 1926-1934</td></tr><tr><td>D. Gyanendra Pandey</td><td>4. Gandhi in His Time and Ours</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-4, C-1, D-3",
+            "A-2, B-1, C-4, D-3",
+            "A-3, B-1, C-4, D-2",
+            "A-3, B-4, C-1, D-2"
+        ],
+        "answer": "A-2, B-1, C-4, D-3"
+    },
+    {
+        "question": "Eight States have achieved more than 99% household electrification prior to the launch of 'Saubhagya Scheme'. Which one of the following is <i>not</i> among them?",
+        "options": [
+            "Kerala",
+            "Punjab",
+            "Himachal Pradesh",
+            "Madhya Pradesh"
+        ],
+        "answer": "Madhya Pradesh"
+    },
+    {
+        "question": "In October 2018, India was elected as a member to the United Nations Human Rights Council for a period of",
+        "options": [
+            "five years",
+            "four years",
+            "three years",
+            "two years"
+        ],
+        "answer": "three years"
+    },
+    {
+        "question": "Consider the following statements about the Bureau of Pharma PSUs of India (BPPI) :<br/><ol><li>It is the implementing agency of Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP).</li><li>It has been registered as an independent society under the Societies Registration Act, 1860.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Consider the following statements about a scheme launched by the Government of India :<br/><br/><i>It was launched to provide social security during old age and to protect elderly persons aged 60 years and above against a future fall in their interest income due to uncertain market conditions. The scheme enables old age income security for senior citizens through provision of assured pension/return linked to the subscription amount based on government guarantee to Life Insurance Corporation of India (LICI).</i><br/><br/>Identify the scheme.",
+        "options": [
+            "Pradhan Mantri Swasthya Suraksha Yojana",
+            "Pradhan Mantri Vaya Vandana Yojana",
+            "Liveability Index Programme",
+            "Rashtriya Vayoshri Yojana"
+        ],
+        "answer": "Pradhan Mantri Vaya Vandana Yojana"
+    },
+    {
+        "question": "Who among the following won India's first ever gold medal in the International Youth Olympic Games (2018) held in Argentina?",
+        "options": [
+            "Neeraj Chopra",
+            "Praveen Chitravel",
+            "Jeremy Lalrinnunga",
+            "Suraj Panwar"
+        ],
+        "answer": "Jeremy Lalrinnunga"
+    },
+    {
+        "question": "E. K. Janaki Ammal National Award on Taxonomy is administered by the",
+        "options": [
+            "Ministry of Agriculture and Farmers Welfare",
+            "Ministry of New and Renewable Energy",
+            "Ministry of Health and Family Welfare",
+            "Ministry of Environment, Forest and Climate Change"
+        ],
+        "answer": "Ministry of Environment, Forest and Climate Change"
+    }
+
+    ,
+
+    {
+        "question": "Which one of the following pairs of military training institute of India and location is <i>not</i> correctly matched?",
+        "options": [
+            "Army War College : Mhow",
+            "High Altitude Warfare School : Gulmarg",
+            "Army Air Defence College : Pune",
+            "Rashtriya Indian Military College : Dehradun"
+        ],
+        "answer": "Army Air Defence College : Pune"
+    },
+    {
+        "question": "Which one of the following viruses is responsible for the recent death of lions in Gir National Park?",
+        "options": [
+            "Canine Distemper Virus",
+            "Nipah Virus",
+            "Hendra Virus",
+            "Foot-and-Mouth Disease Virus"
+        ],
+        "answer": "Canine Distemper Virus"
+    },
+    {
+        "question": "Till 2018, which of the following countries have legalized the possession and use of recreational cannabis?<br/><ol><li>America</li><li>Canada</li><li>Nigeria</li><li>Uruguay</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "2 and 4 only",
+            "1 and 4 only",
+            "1, 2 and 4"
+        ],
+        "answer": "2 and 4 only"
+    },
+    {
+        "question": "Which of the following are the benefits of the Pradhan Mantri Jan Arogya Yojana (PMJAY)?<br/><ol><li>Free treatment available at all public and empanelled private hospitals in times of need</li><li>Cashless and paperless access to quality health-care services</li><li>Government provides health insurance cover of up to ₹ 5,00,000 per family per year</li><li>Pre-existing diseases are not covered</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 3 only",
+            "1, 2 and 3",
+            "2 and 4 only",
+            "2, 3 and 4"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "The 11th BRICS Summit in 2019 will be hosted by",
+        "options": [
+            "China",
+            "Russia",
+            "Brazil",
+            "India"
+        ],
+        "answer": "Brazil"
+    }
+
+    ],
     "2019-II": [
     {
         "question": "Which one of the following is the motto of NCC?",
