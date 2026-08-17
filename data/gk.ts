@@ -1,6 +1,1217 @@
 import type { Question } from "@/types/Question";
 
 const gkData: Record<string, Question[]> = {
+    "2020-II": [
+    {
+        "question": "As per the Budget Estimates of 2019&ndash;20, the following are some of the important sources of tax receipts for the Union Government :<br/><ol><li>Corporation Tax</li><li>Taxes on Income other than Corporation Tax</li><li>Goods and Services Tax</li><li>Union Excise Duties</li></ol><br/>Which one of the following is the correct descending order of the foresaid tax receipts as a percentage of GDP?",
+        "options": [
+            "1, 2, 3, 4",
+            "1, 3, 2, 4",
+            "3, 2, 1, 4",
+            "2, 4, 3, 1"
+        ],
+        "answer": "1, 3, 2, 4"
+    },
+    {
+        "question": "As per the World Bank's Ease of Doing Business Ranking, India's rank has improved from 142 in 2014 to 63 in 2019. During this period, in which of the following parameters has India's rank deteriorated?",
+        "options": [
+            "Ease of starting a business",
+            "Getting electricity",
+            "Registering property",
+            "Paying taxes"
+        ],
+        "answer": "Registering property"
+    },
+    {
+        "question": "Which one of the following statements with regard to the National Food Security Act is <i>not</i> correct?",
+        "options": [
+            "The Act was enacted in the year 2013.",
+            "The Act was rolled out in the year 2014.",
+            "The Act legally entitles 67 percent of the population to receive highly subsidised food grains.",
+            "The Act is not being implemented in all the States/Union Territories."
+        ],
+        "answer": "The Act is not being implemented in all the States/Union Territories."
+    },
+    {
+        "question": "Which one of the following statements about Indian economy during 2019&ndash;20 is <i>not</i> correct?",
+        "options": [
+            "There has been deceleration in growth rate.",
+            "There has been sluggish growth in tax revenue relative to the Budget Estimates.",
+            "Fiscal deficit as percentage of GDP has been as per the Budget Estimates.",
+            "The non-tax revenue registered a considerably higher growth."
+        ],
+        "answer": "Fiscal deficit as percentage of GDP has been as per the Budget Estimates."
+    },
+    {
+        "question": "As per the Budget Estimates of expenditure on major subsidies during 2019&ndash;20, the maximum expenditure was likely to be on",
+        "options": [
+            "urea subsidy",
+            "petroleum subsidy",
+            "food subsidy",
+            "fertilizer subsidy"
+        ],
+        "answer": "food subsidy"
+    },
+    {
+        "question": "Which one of the following Indian places receives minimum rainfall in a year?",
+        "options": [
+            "Jodhpur",
+            "Leh",
+            "New Delhi",
+            "Bengaluru"
+        ],
+        "answer": "Leh"
+    },
+    {
+        "question": "Timber vegetation is generally <i>not</i> found in which of the following regions?",
+        "options": [
+            "Subtropical region",
+            "Temperate region",
+            "Alpine region",
+            "Tundra region"
+        ],
+        "answer": "Tundra region"
+    },
+    {
+        "question": "Decadal growth rate of population in percentage was highest in India in the year",
+        "options": [
+            "1991",
+            "1981",
+            "1971",
+            "1961"
+        ],
+        "answer": "1971"
+    },
+    {
+        "question": "The Isotherm Line, which divides India North-South in almost two equal parts in the month of January, is",
+        "options": [
+            "10 &deg;C",
+            "25 &deg;C",
+            "15 &deg;C",
+            "20 &deg;C"
+        ],
+        "answer": "20 &deg;C"
+    },
+    {
+        "question": "Which one of the following indicates the Tropical Savannah climate?",
+        "options": [
+            "Aw",
+            "Dfc",
+            "Cwg",
+            "Am"
+        ],
+        "answer": "Aw"
+    },
+    {
+        "question": "The largest geographical area of India is covered by which one of the following types of soils?",
+        "options": [
+            "Inceptisols",
+            "Entisols",
+            "Alfisols",
+            "Vertisols"
+        ],
+        "answer": "Inceptisols"
+    },
+    {
+        "question": "Which one of the following cities is closest to the Equator?",
+        "options": [
+            "Mogadishu",
+            "Singapore",
+            "Colombo",
+            "Manila"
+        ],
+        "answer": "Singapore"
+    },
+    {
+        "question": "Who among the following gave evidence before the Joint Select Committee on the Government of India Bill, 1919 in favour of female franchise?<br/><ol><li>Mrs. Annie Besant</li><li>Mrs. Sarojini Naidu</li><li>Mrs. Hirabai Tata</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "In which one of the following places was the Ahmadiyya Movement started by Mirza Ghulam Ahmad?",
+        "options": [
+            "Patna",
+            "Aligarh",
+            "Bhopal",
+            "Gurdaspur"
+        ],
+        "answer": "Gurdaspur"
+    },
+    {
+        "question": "With whom did Subhas Chandra Bose form an alliance to destroy the Holwell Monument in Calcutta during 1939&ndash;40?",
+        "options": [
+            "The Communist Party of India",
+            "The Muslim League",
+            "The Hindu Mahasabha",
+            "The Unionist Party"
+        ],
+        "answer": "The Muslim League"
+    },
+    {
+        "question": "Who among the following created the first All India Trade Union Congress in 1920?",
+        "options": [
+            "B. P. Wadia",
+            "S. A. Dange",
+            "N. M. Joshi",
+            "B. T. Ranadive"
+        ],
+        "answer": "N. M. Joshi"
+    },
+    {
+        "question": "Which one among the following was India's first trade union in the proper sense of the term?",
+        "options": [
+            "Bombay Labour Union",
+            "Ahmedabad Labour Union",
+            "Madras Labour Union",
+            "Allahabad Labour Union"
+        ],
+        "answer": "Madras Labour Union"
+    },
+    {
+        "question": "Who among the following formed the Seva Samiti Boy Scouts Association in 1914?",
+        "options": [
+            "Hriday Nath Kunzru",
+            "S. G. Vaze",
+            "Annie Besant",
+            "Shri Ram Bajpai"
+        ],
+        "answer": "Shri Ram Bajpai"
+    },
+    {
+        "question": "Which one among the following is <i>not</i> correct about the Secretary General of the Lok Sabha?",
+        "options": [
+            "The Secretary General is the advisor to the Speaker.",
+            "The Secretary General acts under the authority in the name of the Speaker.",
+            "The Secretary General works under the Speaker with delegated authority.",
+            "The Secretary General passes orders in the name of the Speaker."
+        ],
+        "answer": "The Secretary General passes orders in the name of the Speaker."
+    },
+    {
+        "question": "Who among the following moved the motion of Secret Sitting Session of the Assembly (1942)?",
+        "options": [
+            "M. S. Aney",
+            "G. V. Mavalankar",
+            "C. M. Stephen",
+            "A. Ayyangar"
+        ],
+        "answer": "M. S. Aney"
+    },
+    {
+        "question": "Which one among the following statements pertaining to the President's term of office is <i>not</i> correct?",
+        "options": [
+            "The President holds office for a term of five years.",
+            "The President may be removed from the office by way of impeachment.",
+            "The President may resign before the expiration of his/her term by writing to the Speaker of the Lok Sabha.",
+            "The President shall, notwithstanding the expiration of his/her term, continue to hold office until his/her successor enters upon his/her office."
+        ],
+        "answer": "The President may resign before the expiration of his/her term by writing to the Speaker of the Lok Sabha."
+    },
+    {
+        "question": "Which of the following Articles in the Constitution of India are exceptions to the Fundamental Rights enumerated in Article 14 and Article 19?",
+        "options": [
+            "Article 31A and Article 31C",
+            "Article 31B and Article 31D",
+            "Article 12 and Article 13",
+            "Article 16 and Article 17"
+        ],
+        "answer": "Article 31A and Article 31C"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> the necessary condition for the issue of a writ of Quo Warranto?",
+        "options": [
+            "The office must be a public office.",
+            "The office must be created by the Statute or by the Constitution itself.",
+            "The office must not be a substantive one.",
+            "There has been a contravention of the Constitution or a Statute in appropriating such person to that office."
+        ],
+        "answer": "The office must not be a substantive one."
+    },
+    {
+        "question": "Which one of the following Commissions is related to Article 338A?",
+        "options": [
+            "The National Commission for Scheduled Castes",
+            "The National Commission for Scheduled Tribes",
+            "The National Commission for Backward Classes",
+            "The National Commission for Women"
+        ],
+        "answer": "The National Commission for Scheduled Tribes"
+    },
+    {
+        "question": "August 12 is celebrated as",
+        "options": [
+            "the World Environment Day",
+            "the World No-Tobacco Day",
+            "the International Day against Drug Abuse and Illicit Trafficking",
+            "the International Youth Day"
+        ],
+        "answer": "the International Youth Day"
+    },
+    {
+        "question": "Which one of the following countries had chosen the name 'Nisarga' for the cyclone which devastated the coastline of Maharashtra and Gujarat in June 2020?",
+        "options": [
+            "Maldives",
+            "Bangladesh",
+            "Thailand",
+            "Japan"
+        ],
+        "answer": "Bangladesh"
+    },
+    {
+        "question": "Who among the following played the role of Shakuntala Devi in the biopic movie based on the life of the famous mathematician?",
+        "options": [
+            "Madhuri Dixit",
+            "Rani Mukherjee",
+            "Tabu",
+            "Vidya Balan"
+        ],
+        "answer": "Vidya Balan"
+    },
+    {
+        "question": "G. C. Murmu, who was appointed as the Comptroller and Auditor General of India in August 2020, was the Lieutenant Governor/Administrator of which one of the following Union Territories prior to this appointment?",
+        "options": [
+            "Ladakh",
+            "Jammu and Kashmir",
+            "Chandigarh",
+            "Puducherry"
+        ],
+        "answer": "Jammu and Kashmir"
+    },
+    {
+        "question": "Which one of the following States is planned to host the Khelo India Youth Games (4th Edition)?",
+        "options": [
+            "Kerala",
+            "Haryana",
+            "Gujarat",
+            "Manipur"
+        ],
+        "answer": "Haryana"
+    },
+    {
+        "question": "Which one among the following is <i>not</i> a coral reef island?",
+        "options": [
+            "Great Barrier Reef, Australia",
+            "Rainbow Reef, Fiji",
+            "Swaraj Island, India",
+            "Kyushu Island, Japan"
+        ],
+        "answer": "Kyushu Island, Japan"
+    },
+    {
+        "question": "Since 2014&ndash;15, India has consistently run trade surplus with which one among the following countries?",
+        "options": [
+            "China",
+            "Saudi Arabia",
+            "USA",
+            "Germany"
+        ],
+        "answer": "USA"
+    },
+    {
+        "question": "Arrange the following countries in descending order as per the Global Human Development Index, 2019 :<br/><ol><li>Germany</li><li>USA</li><li>South Africa</li><li>India</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2, 3, 4",
+            "1, 3, 2, 4",
+            "3, 2, 1, 4",
+            "4, 3, 2, 1"
+        ],
+        "answer": "1, 2, 3, 4"
+    },
+    {
+        "question": "As per the use-based classification of the Index of Industrial Production (IIP), the maximum weight has been assigned to",
+        "options": [
+            "primary goods",
+            "intermediate goods",
+            "consumer durables",
+            "consumer non-durables"
+        ],
+        "answer": "primary goods"
+    },
+    {
+        "question": "Normally, there will <i>not</i> be a shift in the demand curve when",
+        "options": [
+            "price of a commodity falls",
+            "consumers want to buy more at any given price",
+            "average income rises",
+            "population grows"
+        ],
+        "answer": "price of a commodity falls"
+    }
+,
+
+    {
+        "question": "A market, in which there are a large number of firms, homogeneous product, infinite elasticity of demand for an individual firm and no control over price by firms, is termed as",
+        "options": [
+            "oligopoly",
+            "imperfect competition",
+            "monopolistic competition",
+            "perfect competition"
+        ],
+        "answer": "perfect competition"
+    },
+    {
+        "question": "Which one of the following statements with regard to ozone is <i>not</i> correct?",
+        "options": [
+            "Ozone is found mostly at 15&ndash;55 km in the atmosphere.",
+            "Ozone is produced by gaseous chemical reactions.",
+            "16th November is celebrated as the International Day for the Preservation of the Ozone Layer.",
+            "Ozone is a form of oxygen in which three oxygen atoms are bounded together."
+        ],
+        "answer": "16th November is celebrated as the International Day for the Preservation of the Ozone Layer."
+    },
+    {
+        "question": "Sea of Azov is connected to",
+        "options": [
+            "Black Sea",
+            "Baltic Sea",
+            "Mediterranean Sea",
+            "North Sea"
+        ],
+        "answer": "Black Sea"
+    },
+    {
+        "question": "Climax mine, the largest producer of molybdenum, is located in",
+        "options": [
+            "Canada",
+            "USA",
+            "Australia",
+            "South Africa"
+        ],
+        "answer": "USA"
+    },
+    {
+        "question": "Which one among the following Union Territories of India is the smallest in geographical area?",
+        "options": [
+            "Chandigarh",
+            "Puducherry",
+            "Dadra and Nagar Haveli and Daman and Diu",
+            "Lakshadweep"
+        ],
+        "answer": "Lakshadweep"
+    },
+    {
+        "question": "Buenos Aires and Montevideo are situated across the banks of",
+        "options": [
+            "River Plate",
+            "Orinoco River",
+            "Purus River",
+            "Madeira River"
+        ],
+        "answer": "River Plate"
+    },
+    {
+        "question": "The largest barrier reef system in the world is found at",
+        "options": [
+            "East Australian Coast",
+            "West Australian Coast",
+            "North Australian Coast",
+            "South Australian Coast"
+        ],
+        "answer": "East Australian Coast"
+    },
+    {
+        "question": "During the 19th century, who among the following wrote <i>Satapatra Series</i>?",
+        "options": [
+            "M. G. Ranade",
+            "B. G. Tilak",
+            "Bankim Chandra Chatterjee",
+            "G. H. Deshmukh"
+        ],
+        "answer": "G. H. Deshmukh"
+    },
+    {
+        "question": "Which one of the following was <i>not</i> a demand made by the Congress moderates?",
+        "options": [
+            "Universal adult franchise",
+            "Repeal of the Arms Act",
+            "Extension of Permanent Settlement",
+            "Higher jobs for Indians in the army"
+        ],
+        "answer": "Universal adult franchise"
+    },
+    {
+        "question": "Who among the following founded the Mohammedan Anglo-Oriental Defence Association (1893)?",
+        "options": [
+            "Auckland Colvin",
+            "Badruddin Tyabji",
+            "Theodore Beck",
+            "Sir Syed Ahmad Khan"
+        ],
+        "answer": "Sir Syed Ahmad Khan"
+    },
+    {
+        "question": "After the First World War, the Triveni Sangh was formed by",
+        "options": [
+            "the Jats and Gujjars",
+            "the Rajputs and Yadavs",
+            "the Jats and Yadavs",
+            "the Ahirs and Kurmis"
+        ],
+        "answer": "the Ahirs and Kurmis"
+    },
+    {
+        "question": "Who among the following was the first to accept a ministerial position in the Central Provinces in October 1925?",
+        "options": [
+            "B. S. Moonje",
+            "M. R. Jayakar",
+            "S. B. Tambe",
+            "B. N. Sasmal"
+        ],
+        "answer": "S. B. Tambe"
+    },
+    {
+        "question": "Who among the following formed the National Liberation Federation (Liberal Party)?",
+        "options": [
+            "Motilal Nehru and C. R. Das",
+            "Muhammad Ali and C. R. Das",
+            "T. B. Sapru and M. R. Jayakar",
+            "M. R. Jayakar and C. R. Das"
+        ],
+        "answer": "T. B. Sapru and M. R. Jayakar"
+    },
+    {
+        "question": "The National Disaster Management Authority functions under the Ministry of",
+        "options": [
+            "Environment, Forest and Climate Change",
+            "Home Affairs",
+            "Commerce and Industry",
+            "Finance"
+        ],
+        "answer": "Home Affairs"
+    },
+    {
+        "question": "The socialist idea of <i>Sapta Kranti</i> (Seven Revolutions) was proposed by",
+        "options": [
+            "Ram Manohar Lohia",
+            "Jawaharlal Nehru",
+            "M. G. Ranade",
+            "Jayaprakash Narayan"
+        ],
+        "answer": "Ram Manohar Lohia"
+    },
+    {
+        "question": "Which one among the following is <i>not</i> a character of a secular State?",
+        "options": [
+            "It refuses theocracy.",
+            "It separates religion from the State.",
+            "A State in order to be secular must be democratic.",
+            "It must prevent religious conflict and promote religious harmony."
+        ],
+        "answer": "A State in order to be secular must be democratic."
+    },
+    {
+        "question": "A special address by the Governor refers to the address delivered by the Governor",
+        "options": [
+            "when President's Rule is called for",
+            "when a national emergency necessitates dissolution of Legislative Assembly",
+            "at the commencement of the first session after general election and at the first session of each year",
+            "whenever he/she has concluded that such is necessary"
+        ],
+        "answer": "at the commencement of the first session after general election and at the first session of each year"
+    },
+    {
+        "question": "Which one of the following statements in relation to Panchayats is <i>not</i> correct?",
+        "options": [
+            "Legislature of a State may, by law, make provisions with respect to the composition of Panchayats.",
+            "Panchayat area means the territorial area of a Panchayat.",
+            "Gram Sabha includes all persons in the electoral rolls of village within a Panchayat.",
+            "Reservation of seats for SCs and STs has nothing to do with proportion of their population."
+        ],
+        "answer": "Reservation of seats for SCs and STs has nothing to do with proportion of their population."
+    },
+    {
+        "question": "Which one of the following statements with regard to 'protective democracy' is <i>not</i> correct?",
+        "options": [
+            "It propounds that citizen participation is essential in democracies.",
+            "Citizens must be able to protect themselves from governmental encroachments.",
+            "It is compatible with <i>laissez-faire</i> capitalism.",
+            "Political equality is understood in formal terms as equal voting rights."
+        ],
+        "answer": "It propounds that citizen participation is essential in democracies."
+    },
+    {
+        "question": "In August 2020, a blast has taken place at Beirut killing about one hundred people and thousand wounded. The blast was caused by",
+        "options": [
+            "dynamite",
+            "ammonium nitrate",
+            "RDX",
+            "mercury nitride"
+        ],
+        "answer": "ammonium nitrate"
+    },
+    {
+        "question": "What is 'Little Boy'?",
+        "options": [
+            "The fission bomb dropped at Hiroshima",
+            "The fusion bomb dropped at Nagasaki",
+            "The first nuclear bomb tested by America",
+            "The first nuclear bomb tested by North Korea"
+        ],
+        "answer": "The fission bomb dropped at Hiroshima"
+    },
+    {
+        "question": "Which one of the following Indian institutes was approved by the Drugs Controller General of India for conducting human trials of the Oxford-AstraZeneca Covid-19 vaccine candidate?",
+        "options": [
+            "Bharat Biotech",
+            "AIIMS",
+            "Serum Institute of India",
+            "National Institute of Epidemiology"
+        ],
+        "answer": "Serum Institute of India"
+    },
+    {
+        "question": "The recent explosion near OIL well in Baghjan is due to",
+        "options": [
+            "removing the spool during the blowout control operations",
+            "transfer of oil from its depot to a pipeline",
+            "the leakage of methyl isocyanide",
+            "the leakage of radiations from radioactive substance"
+        ],
+        "answer": "removing the spool during the blowout control operations"
+    },
+    {
+        "question": "Who among the following is the architect of the Ram Temple being constructed at Ayodhya?",
+        "options": [
+            "P. O. Sompura",
+            "Chandrakant Sompura",
+            "Brinda Somaya",
+            "B. V. Doshi"
+        ],
+        "answer": "Chandrakant Sompura"
+    },
+    {
+        "question": "Which one of the following countries is <i>not</i> located on the Tropic of Capricorn?",
+        "options": [
+            "Chile",
+            "Brazil",
+            "Paraguay",
+            "Uruguay"
+        ],
+        "answer": "Uruguay"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Active Volcano)</th><th>List-II (Location)</th></tr><tr><td>A. Mount Merapi</td><td>1. Hawaii</td></tr><tr><td>B. Sakurajima</td><td>2. Italy</td></tr><tr><td>C. Mount Vesuvius</td><td>3. Japan</td></tr><tr><td>D. Mauna Loa</td><td>4. Indonesia</td></tr></table><br/>Code :",
+        "options": [
+            "A-1, B-2, C-3, D-4",
+            "A-1, B-3, C-2, D-4",
+            "A-4, B-2, C-3, D-1",
+            "A-4, B-3, C-2, D-1"
+        ],
+        "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a major tectonic plate?",
+        "options": [
+            "Saudi Arabian plate",
+            "Antarctica and the surrounding oceanic plate",
+            "India-Australia-New Zealand plate",
+            "Pacific plate"
+        ],
+        "answer": "Saudi Arabian plate"
+    },
+    {
+        "question": "Which one of the following is considered as the deepest point of the oceans?",
+        "options": [
+            "Tonga Trench",
+            "Mariana Trench",
+            "Philippine Trench",
+            "Kermadec Trench"
+        ],
+        "answer": "Mariana Trench"
+    },
+    {
+        "question": "The four planets closest to the Sun are called",
+        "options": [
+            "terrestrial planets",
+            "giant planets",
+            "dwarf planets",
+            "gas planets"
+        ],
+        "answer": "terrestrial planets"
+    },
+    {
+        "question": "Which one of the following countries does <i>not</i> have Tundra vegetation?",
+        "options": [
+            "Belarus",
+            "USA",
+            "Russia",
+            "Canada"
+        ],
+        "answer": "Belarus"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a fluvial landform?",
+        "options": [
+            "Cirque",
+            "Gorge",
+            "Braids",
+            "Canyon"
+        ],
+        "answer": "Cirque"
+    },
+    {
+        "question": "In the Gandhara School of Art, initially blue schist and green phyllite were used. When did stucco completely replace stone as main material used by Gandhara School sculptors?",
+        "options": [
+            "1st century CE",
+            "2nd century CE",
+            "3rd century CE",
+            "5th century CE"
+        ],
+        "answer": "3rd century CE"
+    },
+    {
+        "question": "Which one of the following statements about Gupta coins is <i>not</i> correct?",
+        "options": [
+            "Gupta kings issued large number of gold coins known as <i>Dinar</i>.",
+            "Chandragupta II, Kumaragupta I, Skandagupta and Budhagupta issued silver coins.",
+            "The obverses of coins are carved with the images of the kings and on the reverse are carved deities.",
+            "The largest number of coins issued by the Guptas were of copper."
+        ],
+        "answer": "The largest number of coins issued by the Guptas were of copper."
+    }
+
+    ,
+
+    {
+        "question": "Who among the following wrote <i>The Philosophy of the Bomb</i>?",
+        "options": [
+            "Sukhdev",
+            "Chandrashekhar Azad",
+            "Bhagwati Charan Vohra",
+            "Bhagat Singh"
+        ],
+        "answer": "Bhagwati Charan Vohra"
+    },
+    {
+        "question": "At which one of the following Sessions of the Indian National Congress was the resolution on Fundamental Rights and Economic Policy passed?",
+        "options": [
+            "Tripuri Session",
+            "Lahore Session",
+            "Lucknow Session",
+            "Karachi Session"
+        ],
+        "answer": "Karachi Session"
+    },
+    {
+        "question": "Which one of the following towns was <i>not</i> a centre of the Revolt of 1857?",
+        "options": [
+            "Ayodhya",
+            "Agra",
+            "Delhi",
+            "Kanpur"
+        ],
+        "answer": "Agra"
+    },
+    {
+        "question": "Consider the following statements :<br/>The Azamgarh Proclamation refers to<br/><ol><li>the declaration by the rebels of 1857</li><li>the statement by the leader of the underground movement in the Revolt of 1942</li></ol><br/>Which of the statements given above is/are <i>not</i> correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Ibn Batuta went to China as the envoy of which one of the following Delhi Sultans?",
+        "options": [
+            "Alauddin Khilji",
+            "Muhammad bin Tughluq",
+            "Iltutmish",
+            "Firoz Shah Tughluq"
+        ],
+        "answer": "Muhammad bin Tughluq"
+    },
+    {
+        "question": "Al-Biruni's <i>Kitab-ul-Hind</i> was written in which language?",
+        "options": [
+            "Arabic",
+            "Persian",
+            "Urdu",
+            "Turkish"
+        ],
+        "answer": "Arabic"
+    },
+    {
+        "question": "Which of the following statements with regard to the privileges of the Members of the Parliament are correct?<br/><ol><li>Privileges would not be fettered by the Article 19(1)(a) of the Constitution of India.</li><li>Privileges must be read subject to the Articles 20&ndash;22 and Article 32 of the Constitution of India.</li><li>Immunity is available in relation to both civil and criminal prosecution.</li><li>Immunity is available in relation to freedom of speech even in his/her private or personal capacity.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 4",
+            "1 and 2 only",
+            "2 and 3",
+            "1 and 4 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which one of the following statements with regard to the appointment of the Members of the Parliamentary Committees is correct?",
+        "options": [
+            "The Members are only appointed.",
+            "The Members are only elected.",
+            "The Members are only nominated.",
+            "The Members are appointed or elected on a motion made and adopted or nominated by the Speaker of the Lok Sabha or the Chairman of the Rajya Sabha."
+        ],
+        "answer": "The Members are appointed or elected on a motion made and adopted or nominated by the Speaker of the Lok Sabha or the Chairman of the Rajya Sabha."
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a classified category of political parties as outlined by the Election Commission of India?",
+        "options": [
+            "National Parties",
+            "State Recognised Parties",
+            "Regional Parties",
+            "Registered Unrecognised Parties"
+        ],
+        "answer": "Regional Parties"
+    },
+    {
+        "question": "Which of the following terms were added to the Preamble of the Constitution of India by the Constitutional Amendment, 1976?<br/><ol><li>Socialist</li><li>Secular</li><li>Integrity</li><li>Fraternity</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2 and 4",
+            "1, 3 and 4"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Who among the following was the advisor to the Constituent Assembly?",
+        "options": [
+            "B. N. Rau",
+            "B. R. Ambedkar",
+            "Pattabhi Sitaramayya",
+            "Alladi Krishnaswamy"
+        ],
+        "answer": "B. N. Rau"
+    },
+    {
+        "question": "In the Indian judicial system, writs are issued by",
+        "options": [
+            "the Supreme Court only",
+            "the High Courts only",
+            "the Supreme Court and High Courts only",
+            "the Supreme Court, High Courts and Lower Courts"
+        ],
+        "answer": "the Supreme Court and High Courts only"
+    },
+    {
+        "question": "The Citizenship (Amendment) Act falls under which one of the following Parts of the Constitution of India?",
+        "options": [
+            "Part I",
+            "Part II",
+            "Part IV",
+            "Part VI"
+        ],
+        "answer": "Part II"
+    },
+    {
+        "question": "Recently a rare kind of yellow turtle was discovered in India. The State in which it was seen is",
+        "options": [
+            "Uttarakhand",
+            "Odisha",
+            "Tamil Nadu",
+            "Arunachal Pradesh"
+        ],
+        "answer": "Odisha"
+    },
+    {
+        "question": "ASEEM is",
+        "options": [
+            "Aatmanirbhar Skilled Employee Employer Measurement",
+            "Aatmanirbhar Skilled Employee Employer Mapping",
+            "Aatmanirbhar Skilled Employee Enterprises Medium",
+            "Automatic Skilled Employee Employer Mission"
+        ],
+        "answer": "Aatmanirbhar Skilled Employee Employer Mapping"
+    },
+    {
+        "question": "The Government of India programme regarding 'Stay in India and Study in India' is initiated by",
+        "options": [
+            "the Ministry of Youth Affairs and Sports",
+            "the Ministry of Culture",
+            "the Ministry of Education",
+            "the Ministry of Tourism"
+        ],
+        "answer": "the Ministry of Education"
+    },
+    {
+        "question": "Which one of the following lakes in India has a large quantity of a substance found in the Moon?",
+        "options": [
+            "Lonar Lake, Maharashtra",
+            "Pangong Lake, Ladakh",
+            "Chilika Lake, Odisha",
+            "Loktak Lake, Manipur"
+        ],
+        "answer": "Lonar Lake, Maharashtra"
+    },
+    {
+        "question": "The Pragyan rover installed in Chandrayaan&ndash;2 mission had how many wheels?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "If the linear momentum of a moving object gets doubled due to application of a force, then its kinetic energy will",
+        "options": [
+            "remain same",
+            "increase by four times",
+            "increase by two times",
+            "increase by eight times"
+        ],
+        "answer": "increase by four times"
+    },
+    {
+        "question": "If the distance between two objects is increased by two times, the gravitational force between them will",
+        "options": [
+            "remain same",
+            "increase by two times",
+            "decrease by two times",
+            "decrease by four times"
+        ],
+        "answer": "decrease by four times"
+    },
+    {
+        "question": "Which one of the following statements about the properties of neutrons is <i>not</i> correct?",
+        "options": [
+            "Neutron mass is almost equal to proton mass.",
+            "Neutrons possess zero charge.",
+            "Neutrons are located inside the atomic nuclei.",
+            "Neutrons revolve around the atomic nuclei."
+        ],
+        "answer": "Neutrons revolve around the atomic nuclei."
+    },
+    {
+        "question": "Which one of the following statements with regard to the ultraviolet light is <i>not</i> correct?",
+        "options": [
+            "It is an electromagnetic wave.",
+            "It can travel through vacuum.",
+            "It is a longitudinal wave.",
+            "Its wavelength is shorter/smaller than that of visible light."
+        ],
+        "answer": "It is a longitudinal wave."
+    },
+    {
+        "question": "If the speed of light in air is represented by <i>c</i> and the speed in a medium is <i>v</i>, then the refractive index of the medium can be calculated using the formula",
+        "options": [
+            "<i>v / c</i>",
+            "<i>c / v</i>",
+            "<i>c / (2 &middot; v)</i>",
+            "<i>(c &ndash; v) / c</i>"
+        ],
+        "answer": "<i>c / v</i>"
+    },
+    {
+        "question": "Under the Kingdom Plantae, which of the following individuals are predominantly aquatic?",
+        "options": [
+            "Bryophytes",
+            "Algae",
+            "Pteridophyta",
+            "Gymnosperms"
+        ],
+        "answer": "Algae"
+    },
+    {
+        "question": "All the individuals of a particular organism, such as rose plants, belong to a taxonomic category called",
+        "options": [
+            "species",
+            "genus",
+            "family",
+            "order"
+        ],
+        "answer": "species"
+    },
+    {
+        "question": "Pearls are harvested from",
+        "options": [
+            "Prawn",
+            "Pila",
+            "Tuna",
+            "Oyster"
+        ],
+        "answer": "Oyster"
+    },
+    {
+        "question": "Wings of birds and bats are considered analogous structures because they have",
+        "options": [
+            "common origin and common function",
+            "different origin and common function",
+            "common origin and different function",
+            "different origin and different function"
+        ],
+        "answer": "different origin and common function"
+    },
+    {
+        "question": "Apart from hyper acid secretion, peptic ulcers are also developed due to bacterial infection. The causative agent is",
+        "options": [
+            "<i>Helicobacter pylori</i>",
+            "<i>E. coli</i>",
+            "<i>Streptococcus pneumoniae</i>",
+            "<i>Salmonella typhimurium</i>"
+        ],
+        "answer": "<i>Helicobacter pylori</i>"
+    },
+    {
+        "question": "A mixture of sodium chloride (salt) and ammonium chloride can be separated by",
+        "options": [
+            "sublimation",
+            "filtration",
+            "chromatography",
+            "distillation"
+        ],
+        "answer": "sublimation"
+    },
+    {
+        "question": "Symbol of element was introduced by",
+        "options": [
+            "John Dalton",
+            "Antoine Lavoisier",
+            "J&ouml;ns Jacob Berzelius",
+            "Robert Boyle"
+        ],
+        "answer": "J&ouml;ns Jacob Berzelius"
+    },
+    {
+        "question": "Identify the correct pair of elements among the following which are liquid at room temperature and standard pressure.",
+        "options": [
+            "Bromine and fluorine",
+            "Mercury and rubidium",
+            "Bromine and thallium",
+            "Bromine and mercury"
+        ],
+        "answer": "Bromine and mercury"
+    },
+    {
+        "question": "Which one of the following oxides shows both acidic and basic behaviour?",
+        "options": [
+            "Zinc oxide",
+            "Copper oxide",
+            "Magnesium oxide",
+            "Calcium oxide"
+        ],
+        "answer": "Zinc oxide"
+    },
+    {
+        "question": "Silver articles turn black when kept in the open for longer time due to the formation of",
+        "options": [
+            "H<sub>2</sub>S",
+            "AgS",
+            "AgSO<sub>4</sub>",
+            "Ag<sub>2</sub>S"
+        ],
+        "answer": "Ag<sub>2</sub>S"
+    },
+    {
+        "question": "Which of the following lenses will bend the light rays through largest angle?",
+        "options": [
+            "Lens with power +2&middot;0 D",
+            "Lens with power +2&middot;5 D",
+            "Lens with power &ndash;1&middot;5 D",
+            "Lens with power &ndash;2&middot;0 D"
+        ],
+        "answer": "Lens with power +2&middot;5 D"
+    },
+    {
+        "question": "A luminous object is placed at a distance of 40 cm from a converging lens of focal length 25 cm. The image obtained in the screen is",
+        "options": [
+            "erect and magnified",
+            "erect and smaller",
+            "inverted and magnified",
+            "inverted and smaller"
+        ],
+        "answer": "inverted and magnified"
+    },
+    {
+        "question": "When a light ray enters into glass medium from water at an angle of incidence 0&deg;, what would be the angle of refraction?",
+        "options": [
+            "90&deg;",
+            "45&deg;",
+            "0&deg;",
+            "The ray will not enter at all"
+        ],
+        "answer": "0&deg;"
+    },
+    {
+        "question": "Which one of the following phenomena verifies the fact that light travels much faster than sound?",
+        "options": [
+            "Twinkling of stars in night sky",
+            "Lighting of a matchstick",
+            "Thunderstorm",
+            "Mirage"
+        ],
+        "answer": "Thunderstorm"
+    }
+
+    ,
+
+    {
+        "question": "Which one of the following combinations of source and screen would produce sharpest shadow of an opaque object?",
+        "options": [
+            "A point source and an opaque screen",
+            "An extended source and an opaque screen",
+            "A point source and a transparent screen",
+            "An extended source and a transparent screen"
+        ],
+        "answer": "A point source and an opaque screen"
+    },
+    {
+        "question": "Which one among the following is a non-conventional source of energy?",
+        "options": [
+            "Petroleum",
+            "Coal",
+            "Radioactive elements",
+            "Solar energy"
+        ],
+        "answer": "Solar energy"
+    },
+    {
+        "question": "Which one of the following statements about phloem is correct?",
+        "options": [
+            "Phloem transports water and minerals.",
+            "Phloem transports photosynthetic products.",
+            "Phloem is a simple tissue.",
+            "Phloem gives support to the plant."
+        ],
+        "answer": "Phloem transports photosynthetic products."
+    },
+    {
+        "question": "Mature sclerenchyma cells have",
+        "options": [
+            "cellulose wall and are living",
+            "lignified wall and are living",
+            "suberized wall and are dead",
+            "lignified wall and are dead"
+        ],
+        "answer": "lignified wall and are dead"
+    },
+    {
+        "question": "In human beings, the chromosomes that determine birth of a normal female child are",
+        "options": [
+            "one X chromosome from mother and one X chromosome from father",
+            "one X chromosome from mother and one Y chromosome from father",
+            "two X chromosomes from mother and one X chromosome from father",
+            "one X chromosome and one Y chromosome from father and one X chromosome from mother"
+        ],
+        "answer": "one X chromosome from mother and one X chromosome from father"
+    },
+    {
+        "question": "Antibiotic such as penicillin blocks",
+        "options": [
+            "cell wall formation in bacteria",
+            "RNA synthesis in bacteria",
+            "DNA synthesis in bacteria",
+            "division in bacteria"
+        ],
+        "answer": "cell wall formation in bacteria"
+    },
+    {
+        "question": "The radioactive isotope of hydrogen is",
+        "options": [
+            "protium",
+            "deuterium",
+            "tritium",
+            "hydronium"
+        ],
+        "answer": "tritium"
+    },
+    {
+        "question": "Which one of the following is used for storing biological tissues?",
+        "options": [
+            "Liquid nitrogen",
+            "Liquid helium",
+            "Liquid argon",
+            "Liquid bromine"
+        ],
+        "answer": "Liquid nitrogen"
+    },
+    {
+        "question": "Which one of the following does <i>not</i> form oxide on reaction with oxygen?",
+        "options": [
+            "Magnesium",
+            "Lead",
+            "Tin",
+            "Silver"
+        ],
+        "answer": "Silver"
+    },
+    {
+        "question": "The valency of phosphorus is",
+        "options": [
+            "2, 3",
+            "3, 4",
+            "4, 5",
+            "3, 5"
+        ],
+        "answer": "3, 5"
+    },
+    {
+        "question": "Lead nitrate on heating gives",
+        "options": [
+            "PbO<sub>2</sub> and NO<sub>2</sub>",
+            "PbO and NO<sub>2</sub>",
+            "PbO and NO",
+            "PbO<sub>2</sub> and NO"
+        ],
+        "answer": "PbO and NO<sub>2</sub>"
+    },
+    {
+        "question": "Which one of the following is a decommissioned aircraft carrier?",
+        "options": [
+            "INS Rajput",
+            "INS Chakra",
+            "INS Khanderi",
+            "INS Viraat"
+        ],
+        "answer": "INS Viraat"
+    },
+    {
+        "question": "Who among the following has won the Singles Title in Wimbledon Tennis Championship (Women) in the year 2019?",
+        "options": [
+            "Karolina Pliskova",
+            "Simona Halep",
+            "Serena Williams",
+            "Naomi Osaka"
+        ],
+        "answer": "Simona Halep"
+    },
+    {
+        "question": "Recently islands of Andaman and Nicobar were connected with mainland by Submarine Optical Fibre Cable. Which one of the following islands was <i>not</i> connected initially?",
+        "options": [
+            "Shaheed Island",
+            "Swaraj Island",
+            "Little Andaman",
+            "Port Blair"
+        ],
+        "answer": "Shaheed Island"
+    },
+    {
+        "question": "In August 2020, who among the following was administered the oath as the Prime Minister of Sri Lanka for the fourth time?",
+        "options": [
+            "Gotabaya Rajapaksa",
+            "Basil Rajapaksa",
+            "Mahinda Rajapaksa",
+            "Namal Rajapaksa"
+        ],
+        "answer": "Mahinda Rajapaksa"
+    },
+    {
+        "question": "Which one of the following Indian Ocean island nations has recently declared a state of environmental emergency due to oil spill from a grounded ship?",
+        "options": [
+            "Maldives",
+            "Mauritius",
+            "Madagascar",
+            "Sri Lanka"
+        ],
+        "answer": "Mauritius"
+    }
+
+    ],
     "2021-I": [
     {
         "question": "Which one of the following statements is <i>not</i> correct ?",
