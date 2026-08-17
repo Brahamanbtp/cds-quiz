@@ -19715,6 +19715,1209 @@ export const gkData: Record<string, Question[]> = {
             "answer": "A-4, B-3, C-2, D-1"
         }
     ]
+,
+    "2018-I": [
+    {
+        "question": "Which one of the following elements is used as a timekeeper in atomic clocks?",
+        "options": [
+            "Potassium",
+            "Caesium",
+            "Calcium",
+            "Magnesium"
+        ],
+        "answer": "Caesium"
+    },
+    {
+        "question": "Which one of the following elements is involved in the control of water content of the blood?",
+        "options": [
+            "Potassium",
+            "Lithium",
+            "Rubidium",
+            "Caesium"
+        ],
+        "answer": "Potassium"
+    },
+    {
+        "question": "Which one of the following gases dissolves in water to give acidic solution?",
+        "options": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon dioxide"
+    },
+    {
+        "question": "Which one of the following elements is essential for the formation of chlorophyll in green plants?",
+        "options": [
+            "Calcium",
+            "Iron",
+            "Magnesium",
+            "Potassium"
+        ],
+        "answer": "Magnesium"
+    },
+    {
+        "question": "Consider the following chemical reaction :<br/><i>a</i>Fe<sub>2</sub>O<sub>3</sub> (s) + <i>b</i>CO (g) &rarr; <i>c</i>Fe (s) + <i>d</i>CO<sub>2</sub><br/>In the balanced chemical equation of the above, which of the following will be the values of the coefficients <i>a</i>, <i>b</i>, <i>c</i> and <i>d</i> respectively?",
+        "options": [
+            "3, 2, 3, 1",
+            "1, 3, 2, 3",
+            "2, 3, 3, 1",
+            "3, 3, 2, 1"
+        ],
+        "answer": "1, 3, 2, 3"
+    },
+    {
+        "question": "Why is argon gas used along with tungsten wire in an electric bulb?",
+        "options": [
+            "To increase the life of the bulb",
+            "To reduce the consumption of electricity",
+            "To make the emitted light colored",
+            "To reduce the cost of the bulb"
+        ],
+        "answer": "To increase the life of the bulb"
+    },
+    {
+        "question": "Which one of the following is the correct relation between the Kelvin temperature (<i>T</i>) and the Celsius temperature (<i>t<sub>c</sub></i>)?",
+        "options": [
+            "These are two independent temperature scales",
+            "<i>T</i> = <i>t<sub>c</sub></i>",
+            "<i>T</i> = <i>t<sub>c</sub></i> - 273.15",
+            "<i>T</i> = <i>t<sub>c</sub></i> + 273.15"
+        ],
+        "answer": "<i>T</i> = <i>t<sub>c</sub></i> + 273.15"
+    },
+    {
+        "question": "Sound waves <i>cannot</i> travel through a",
+        "options": [
+            "copper wire placed in air",
+            "silver slab placed in air",
+            "glass prism placed in water",
+            "wooden hollow pipe placed in vacuum"
+        ],
+        "answer": "wooden hollow pipe placed in vacuum"
+    },
+    {
+        "question": "Which one of the following is the value of one nanometer?",
+        "options": [
+            "10<sup>-7</sup> cm",
+            "10<sup>-6</sup> cm",
+            "10<sup>-4</sup> cm",
+            "10<sup>-3</sup> cm"
+        ],
+        "answer": "10<sup>-7</sup> cm"
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>There is no net moment on a body which is in equilibrium.</li><li>The momentum of a body is always conserved.</li><li>The kinetic energy of an object is always conserved.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 and 2 only",
+            "1 only"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Working of safety fuses depends upon<br/><ol><li>magnetic effect of the current</li><li>chemical effect of the current</li><li>magnitude of the current</li><li>heating effect of the current</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2, 3 and 4",
+            "1, 2 and 3 only",
+            "3 and 4 only",
+            "4 only"
+        ],
+        "answer": "3 and 4 only"
+    },
+    {
+        "question": "<b>Directions :</b><br/>The following seven (7) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><b>Statement I :</b><br/>By far the most common topographic form in a Karst terrain is the sinkhole.<br/><br/><b>Statement II :</b><br/>Topographically, a sinkhole is a depression that varies in depth from less than a meter to few hundred meters.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+    },
+    {
+        "question": "<b>Directions :</b><br/>The following seven (7) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><b>Statement I :</b><br/>Incised meanders are formed in the mature stage of a river.<br/><br/><b>Statement II :</b><br/>Incised meanders are characterized by rejuvenation and upliftment of land.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+    },
+    {
+        "question": "<b>Directions :</b><br/>The following seven (7) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><b>Statement I :</b><br/>Portions of glacial troughs may exhibit remarkably flat floors.<br/><br/><b>Statement II :</b><br/>The flat floor in a glacial trough is produced by uniform glacial erosion.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+    },
+    {
+        "question": "<b>Directions :</b><br/>The following seven (7) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><b>Statement I :</b><br/>In Tundra climate, biodiversity is comparatively less.<br/><br/><b>Statement II :</b><br/>Tundra climate has less reproductive warm period.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+    },
+    {
+        "question": "<b>Directions :</b><br/>The following seven (7) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><b>Statement I :</b><br/>Tides are the rise and fall of sea levels caused by the combined effects of the gravitational forces exerted by the Moon and the Sun and the rotation of the Earth.<br/><br/><b>Statement II :</b><br/>The Earth rotates from west to east.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+    },
+    {
+        "question": "<b>Directions :</b><br/>The following seven (7) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><b>Statement I :</b><br/>A person may suffer from tuberculosis if she/he frequently visits crowded place.<br/><br/><b>Statement II :</b><br/>Bacteria of tuberculosis spread through droplets by sneezing or coughing.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+    },
+    {
+        "question": "<b>Directions :</b><br/>The following seven (7) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><b>Statement I :</b><br/>Bioaccumulation is a process of progressive accumulation of heavy metals and pesticides in an organism.<br/><br/><b>Statement II :</b><br/>Large fishes of the pond are found to have higher concentration of pesticides than planktons of the same pond.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+    },
+    {
+        "question": "Which one of the following is a true fish as per the biological system of classification?",
+        "options": [
+            "Silverfish",
+            "Jellyfish",
+            "Cuttlefish",
+            "Flying fish"
+        ],
+        "answer": "Flying fish"
+    },
+    {
+        "question": "In which one of the following types of connective tissues in animals does fat get stored?",
+        "options": [
+            "Adipocyte",
+            "Chondrocyte",
+            "Osteocyte",
+            "Reticulocyte"
+        ],
+        "answer": "Adipocyte"
+    },
+    {
+        "question": "Which one of the following pairs about organ/part that helps in locomotion is <i>not</i> correctly matched?",
+        "options": [
+            "Euglena : Flagellum",
+            "Paramecium : Cilia",
+            "Nereis : Pseudopodia",
+            "Starfish : Tubefeet"
+        ],
+        "answer": "Nereis : Pseudopodia"
+    },
+    {
+        "question": "Lysosome is formed from which of the following cell organelles?",
+        "options": [
+            "Nucleus",
+            "Endoplasmic reticulum",
+            "Golgi bodies",
+            "Ribosomes"
+        ],
+        "answer": "Golgi bodies"
+    },
+    {
+        "question": "A protein is synthesized in the endoplasmic reticulum bound ribosomes and it targets to the inner thylakoid space of chloroplast. How many double-layered membrane layers it has to pass to reach its destination?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which of the following causes adiabatic temperature changes in atmosphere?",
+        "options": [
+            "Deflection and advection",
+            "Latent heat of condensation",
+            "Expansion and compression of the air",
+            "Partial absorption of solar radiation by the atmosphere"
+        ],
+        "answer": "Expansion and compression of the air"
+    },
+    {
+        "question": "Which one of the following is applicable to collision-coalescence process of precipitation?",
+        "options": [
+            "Clouds which do not extend beyond the freezing level",
+            "Clouds which extend beyond the freezing level",
+            "All types of clouds",
+            "Cirrocumulus cloud"
+        ],
+        "answer": "Clouds which do not extend beyond the freezing level"
+    },
+    {
+        "question": "Which one of the following places of India experiences highest atmospheric pressure during winter?",
+        "options": [
+            "Jaisalmer",
+            "Leh",
+            "Chennai",
+            "Guwahati"
+        ],
+        "answer": "Leh"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Hypothesis/Theory)</th><th>List-II (Propounder)</th></tr><tr><td>A. Planetesimal hypothesis</td><td>1. Kober</td></tr><tr><td>B. Thermal contraction theory</td><td>2. Chamberlin</td></tr><tr><td>C. Geosynclinal Orogen theory</td><td>3. Daly</td></tr><tr><td>D. Hypothesis of sliding continent</td><td>4. Jeffreys</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-4, C-1, D-3",
+            "A-2, B-1, C-4, D-3",
+            "A-3, B-1, C-4, D-2",
+            "A-3, B-4, C-1, D-2"
+        ],
+        "answer": "A-2, B-4, C-1, D-3"
+    },
+    {
+        "question": "Bright light is found to emit from photographer's flashgun. This brightness is due to the presence of which one of the following noble gases?",
+        "options": [
+            "Argon",
+            "Xenon",
+            "Neon",
+            "Helium"
+        ],
+        "answer": "Xenon"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a characteristic of a compound?",
+        "options": [
+            "Composition is variable.",
+            "All particles of compound are of only one type.",
+            "Particles of compound have two or more elements.",
+            "Its constituents cannot be separated by simple physical methods."
+        ],
+        "answer": "Composition is variable."
+    },
+    {
+        "question": "Which of the following substances cause temporary hardness in water?<br/><ol><li>Mg(HCO<sub>3</sub>)<sub>2</sub></li><li>Ca(HCO<sub>3</sub>)<sub>2</sub></li><li>CaCl<sub>2</sub></li><li>MgSO<sub>4</sub></li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "3 and 4",
+            "2 and 3",
+            "1 and 4",
+            "1 and 2"
+        ],
+        "answer": "1 and 2"
+    },
+    {
+        "question": "Which one of the following elements will be an isobar of calcium if the atomic number of calcium is 20 and its mass number is 40?",
+        "options": [
+            "Element with 20 protons and 18 neutrons",
+            "Element with 18 protons and 19 neutrons",
+            "Element with 20 protons and 19 neutrons",
+            "Element with 18 protons and 22 neutrons"
+        ],
+        "answer": "Element with 18 protons and 22 neutrons"
+    },
+    {
+        "question": "Which of the following represents a relation for 'heat lost = heat gained'?",
+        "options": [
+            "Principle of thermal equilibrium",
+            "Principle of colors",
+            "Principle of calorimetry",
+            "Principle of vaporization"
+        ],
+        "answer": "Principle of calorimetry"
+    },
+    {
+        "question": "Two metallic wires made from copper have same length but the radius of wire 1 is half of that of wire 2. The resistance of wire 1 is <i>R</i>. If both the wires are joined together in series, the total resistance becomes",
+        "options": [
+            "2<i>R</i>",
+            "<i>R</i> / 2",
+            "5 / 4 <i>R</i>",
+            "3 / 4 <i>R</i>"
+        ],
+        "answer": "5 / 4 <i>R</i>"
+    },
+    {
+        "question": "When the Sun is near the horizon during the morning or evening, it appears reddish. The phenomenon that is responsible for this observation is",
+        "options": [
+            "reflection of light",
+            "refraction of light",
+            "dispersion of light",
+            "scattering of light"
+        ],
+        "answer": "scattering of light"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Cloud)</th><th>List-II (Characteristic)</th></tr><tr><td>A. Cirrus</td><td>1. Rain-giving</td></tr><tr><td>B. Stratus</td><td>2. Feathery appearance</td></tr><tr><td>C. Nimbus</td><td>3. Vertically growing</td></tr><tr><td>D. Cumulus</td><td>4. Horizontally spreading</td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-1, C-4, D-2",
+            "A-2, B-1, C-4, D-3",
+            "A-2, B-4, C-1, D-3",
+            "A-3, B-4, C-1, D-2"
+        ],
+        "answer": "A-2, B-4, C-1, D-3"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an exclusive right of the concerned coastal nations over Exclusive Economic Zone (EEZ)?",
+        "options": [
+            "Survey and exploitation of mineral resources of ocean deposits",
+            "Exploitation of marine water energy and marine organisms including fishing",
+            "Conservation and management of marine resources",
+            "Navigation of ships and laying down submarine cables"
+        ],
+        "answer": "Navigation of ships and laying down submarine cables"
+    },
+    {
+        "question": "In which one of the following groups of States in India is the Integrated Coastal Zone Management (ICZM) Project being implemented as a pilot investment?",
+        "options": [
+            "Gujarat, Kerala and Goa",
+            "Kerala, Karnataka and Andhra Pradesh",
+            "Gujarat, Odisha and West Bengal",
+            "Maharashtra, Andhra Pradesh and Tamil Nadu"
+        ],
+        "answer": "Gujarat, Odisha and West Bengal"
+    },
+    {
+        "question": "Which of the following statements about the National Water Academy (NWA) is/are correct?<br/><ol><li>The primary objective of the NWA is to function as Centre of Excellence in training for in-service engineers from Central and State organizations on various aspects of water resource planning.</li><li>The NWA is located in New Delhi.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "A wire of copper having length <i>l</i> and area of cross-section <i>A</i> is taken and a current <i>I</i> is flown through it. The power dissipated in the wire is <i>P</i>. If we take an aluminium wire having same dimensions and pass the same current through it, the power dissipated will be",
+        "options": [
+            "<i>P</i>",
+            "&lt; <i>P</i>",
+            "&gt; <i>P</i>",
+            "2<i>P</i>"
+        ],
+        "answer": "&gt; <i>P</i>"
+    },
+    {
+        "question": "The pressure of a fluid varies with depth <i>h</i> as <i>P</i> = <i>P<sub>0</sub></i> + &rho;<i>gh</i>, where &rho; is the fluid density. This expression is associated with",
+        "options": [
+            "Pascal's law",
+            "Newton's law",
+            "Bernoulli's principle",
+            "Archimedes' principle"
+        ],
+        "answer": "Pascal's law"
+    },
+    {
+        "question": "Consider the following constituent gases of the atmosphere :<br/><ol><li>Argon</li><li>Neon</li><li>Helium</li><li>Carbon dioxide</li></ol><br/>Which one of the following is the correct ascending sequence of the above gases in terms of the volume percentage?",
+        "options": [
+            "1-3-2-4",
+            "1-4-2-3",
+            "4-2-3-1",
+            "2-4-1-3"
+        ],
+        "answer": "1-4-2-3"
+    },
+    {
+        "question": "Which one of the following Indian States has the highest percentage of Scheduled Tribe population to its total population?",
+        "options": [
+            "Mizoram",
+            "Nagaland",
+            "Meghalaya",
+            "Arunachal Pradesh"
+        ],
+        "answer": "Mizoram"
+    },
+    {
+        "question": "Extrusive volcanoes are <i>not</i> found in which one of the following mountains?",
+        "options": [
+            "Alaska",
+            "Rocky",
+            "Andes",
+            "Himalayas"
+        ],
+        "answer": "Himalayas"
+    },
+    {
+        "question": "Which one of the following crops is <i>not</i> cultivated in Karewas, the lacustrine deposits of sand, clay, loam, silt and boulders?",
+        "options": [
+            "Saffron",
+            "Almond",
+            "Walnut",
+            "Ling nut"
+        ],
+        "answer": "Ling nut"
+    },
+    {
+        "question": "Consider the following tributaries of river Ganga :<br/><ol><li>Gandak</li><li>Kosi</li><li>Ghaghara</li><li>Gomti</li></ol><br/>Which one of the following is the correct order of the above rivers from east to west?",
+        "options": [
+            "3-4-1-2",
+            "2-1-3-4",
+            "2-3-1-4",
+            "1-2-4-3"
+        ],
+        "answer": "2-1-3-4"
+    },
+    {
+        "question": "Which of the following National Parks of India are declared as World Heritage by UNESCO?<br/><ol><li>Keoladeo National Park</li><li>Sundarbans National Park</li><li>Kaziranga National Park</li><li>Ranthambore National Park</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3 only",
+            "3 and 4 only",
+            "1, 2, 3 and 4"
+        ],
+        "answer": "1, 2 and 3 only"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Railway Zone)</th><th>List-II (Headquarters)</th></tr><tr><td>A. North Central</td><td>1. Secunderabad</td></tr><tr><td>B. North Eastern</td><td>2. Jabalpur</td></tr><tr><td>C. West Central</td><td>3. Gorakhpur</td></tr><tr><td>D. South Central</td><td>4. Allahabad</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-3, C-2, D-1",
+            "A-4, B-2, C-3, D-1",
+            "A-1, B-2, C-3, D-4",
+            "A-1, B-3, C-2, D-4"
+        ],
+        "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+        "question": "Which one of the following statements about lymph is correct?",
+        "options": [
+            "Lymph is formed due to leakage of blood through capillaries.",
+            "Lymph contains blood cells such as RBC.",
+            "Lymph is also circulated by the blood circulating heart.",
+            "Lymph only transports hormones."
+        ],
+        "answer": "Lymph is formed due to leakage of blood through capillaries."
+    },
+    {
+        "question": "Which of the following classes of animals has/have three-chambered heart?",
+        "options": [
+            "Pisces and Amphibia",
+            "Amphibia and Reptilia",
+            "Reptilia only",
+            "Amphibia only"
+        ],
+        "answer": "Amphibia and Reptilia"
+    },
+    {
+        "question": "Accumulation of which one of the following in the muscles of sprinters leads to cramp?",
+        "options": [
+            "Lactic acid",
+            "Ethanol",
+            "Pyruvic acid",
+            "Glucose"
+        ],
+        "answer": "Lactic acid"
+    },
+    {
+        "question": "Which one of the following statements about Exchange-Traded Fund (ETF) is <i>not</i> correct?",
+        "options": [
+            "It is a marketable security.",
+            "It experiences price changes throughout the day.",
+            "It typically has lower daily liquidity and higher fees than mutual fund shares.",
+            "An ETF does not have its net asset value calculated once at the end of every day."
+        ],
+        "answer": "It typically has lower daily liquidity and higher fees than mutual fund shares."
+    },
+    {
+        "question": "Which one of the following is the maximum age of joining National Pension System (NPS) under the NPS-Private Sector?",
+        "options": [
+            "55 years",
+            "60 years",
+            "65 years",
+            "70 years"
+        ],
+        "answer": "65 years"
+    },
+    {
+        "question": "The Reserve Bank of India has recently constituted a high-level task force on Public Credit Registry (PCR) to suggest a road map for developing a transparent, comprehensive and near-real-time PCR for India. The task force is headed by",
+        "options": [
+            "Sekar Karnam",
+            "Vishakha Mulye",
+            "Sriram Kalyanaraman",
+            "Y. M. Deosthalee"
+        ],
+        "answer": "Y. M. Deosthalee"
+    },
+    {
+        "question": "In October 2017, India sent its first shipment of wheat to Afghanistan as a part of commitment made by the Government of India to supply 1.1 million tonnes of wheat to that country on grant basis. The shipment was sent through",
+        "options": [
+            "Iran",
+            "Pakistan",
+            "Tajikistan",
+            "China"
+        ],
+        "answer": "Iran"
+    },
+    {
+        "question": "Which of the following statements about the India Post Payments Bank (IPPB) is/are correct?<br/><ol><li>It has been incorporated as a Public Limited Company.</li><li>It started its operation by establishing two pilot branches at Hyderabad and Varanasi.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which of the following are the functions of the National Human Rights Commission (NHRC)?<br/><ol><li>Inquiry at its own initiative on the violation of human rights</li><li>Inquiry on a petition presented to it by a victim</li><li>Visit to jails to study the condition of the inmates</li><li>Undertaking and promoting research in the field of human rights</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "2, 3 and 4 only",
+            "1, 3 and 4 only",
+            "1, 2, 3 and 4"
+        ],
+        "answer": "1, 2, 3 and 4"
+    },
+    {
+        "question": "A person is disqualified for being chosen as, and for being, a Member of either House of the Parliament if the person<br/><ol><li>holds any office of profit under the Government of India or the Government of any State other than an office declared by the Parliament by law not to disqualify its holder</li><li>is an undischarged insolvent</li><li>is so disqualified under the Tenth Schedule of the Constitution of India</li><li>is of unsound mind and stands so declared by a competent Court</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 4 only",
+            "1, 2, 3 and 4",
+            "3 and 4 only",
+            "1, 2 and 3 only"
+        ],
+        "answer": "1, 2, 3 and 4"
+    },
+    {
+        "question": "According to the Election Commission of India, in order to be recognized as a 'National Party', a political party must be treated as a recognized political party in how many States?",
+        "options": [
+            "At least two States",
+            "At least three States",
+            "At least four States",
+            "At least five States"
+        ],
+        "answer": "At least four States"
+    },
+    {
+        "question": "Which one of the following statements with regard to Antrix Corporation Limited is correct?",
+        "options": [
+            "It is a commercial arm of the Department of Industrial Policy and Promotion.",
+            "It is under the administrative control of the Department of Space.",
+            "It is under the administrative control of the Ministry of Health and Family Welfare.",
+            "It is a commercial arm of the Department of Science and Technology."
+        ],
+        "answer": "It is under the administrative control of the Department of Space."
+    },
+    {
+        "question": "Verses ascribed to poet-saint Kabir have been compiled in which of the following traditions?<br/><ol><li><i>Bijak</i> in Varanasi</li><li><i>Kabir Granthavali</i> in Rajasthan</li><li><i>Adi Granth Sahib</i></li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2 and 3 only",
+            "3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Around twelfth century, Sufi Silsilas began to crystallize in different parts of the Islamic world to signify<br/><ol><li>continuous link between the master and disciple</li><li>unbroken spiritual genealogy to the Prophet Muhammad</li><li>the transmission of spiritual power and blessings to devotees</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "2 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "In the 10th Mandala of the <i>Rigveda</i>, which one of the following hymns reflects upon the marriage ceremonies?",
+        "options": [
+            "Surya Sukta",
+            "Purusha Sukta",
+            "Dana Stutis",
+            "Urna Sutra"
+        ],
+        "answer": "Surya Sukta"
+    },
+    {
+        "question": "Which of the following statements about the Non-Cooperation Movement is/are correct?<br/><ol><li>It was marked by significant participation of peasants from Karnataka.</li><li>It was marked by non-Brahmin lower caste participation in Madras and Maharashtra.</li><li>It was marked by the lack of labour unrest in places like Assam, Bengal and Madras.</li><li>It was badly shaken by the Chauri Chaura incident in 1922 after which Gandhiji decided to continue with the movement on a much smaller scale.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1, 2 and 4",
+            "2 and 3",
+            "2 only"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Which one of the following was a focus country of the 'World Food India', a mega food event held in November 2017 in New Delhi?",
+        "options": [
+            "Germany",
+            "Japan",
+            "Denmark",
+            "Italy"
+        ],
+        "answer": "Italy"
+    },
+    {
+        "question": "Which one of the following States will host the Nobel Prize Series—India 2018 (Science Impacts Life) Exhibition?",
+        "options": [
+            "Gujarat",
+            "Rajasthan",
+            "Goa",
+            "Madhya Pradesh"
+        ],
+        "answer": "Goa"
+    },
+    {
+        "question": "The Ministry of Communication has recently launched a Pan India scholarship programme for school children called 'Deen Dayal SPARSH Yojana'. The objective of the scheme is to increase the reach of",
+        "options": [
+            "sports",
+            "philately",
+            "music",
+            "web designing"
+        ],
+        "answer": "philately"
+    },
+    {
+        "question": "Which one of the following temples of India has won the 'UNESCO Asia Pacific Award of Merit, 2017' for cultural heritage conservation?",
+        "options": [
+            "Kamakhya Temple, Guwahati",
+            "Sri Ranganathaswami Temple, Srirangam",
+            "Meenakshi Temple, Madurai",
+            "Kedarnath Temple, Kedarnath"
+        ],
+        "answer": "Sri Ranganathaswami Temple, Srirangam"
+    },
+    {
+        "question": "Which one of the following teams was defeated by India to win the Women's Hockey Asia Cup title, 2017?",
+        "options": [
+            "Japan",
+            "China",
+            "South Korea",
+            "Pakistan"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "Which one of the following statements about India is <i>not</i> correct?",
+        "options": [
+            "India has 12 major ports and about 200 non-major ports.",
+            "95 percent of India's trade by volume and 68 percent by value are moved through maritime transport.",
+            "India has a coastline of about 7500 km.",
+            "In the Maritime Agenda, 2010-2020, a target of 300 MT port capacity has been set for the year 2020."
+        ],
+        "answer": "In the Maritime Agenda, 2010-2020, a target of 300 MT port capacity has been set for the year 2020."
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "India joined MTCR in 2016.",
+            "India submitted a formal application for membership of the NSG in 2016.",
+            "India proposed the Comprehensive Convention on International Terrorism in 1996.",
+            "The Commonwealth Heads of Government Meeting (CHOGM) was held in 2016 at Malta."
+        ],
+        "answer": "The Commonwealth Heads of Government Meeting (CHOGM) was held in 2016 at Malta."
+    },
+    {
+        "question": "Which one of the following Amendments to the Constitution of India has prescribed that the Council of Ministers shall not exceed 15 percent of total number of members of the House of the People or Legislative Assembly in the States?",
+        "options": [
+            "91st Amendment",
+            "87th Amendment",
+            "97th Amendment",
+            "90th Amendment"
+        ],
+        "answer": "91st Amendment"
+    },
+    {
+        "question": "Which of the following about the role of Indian Coast Guard is/are correct?<br/><ol><li>Indian Coast Guard has been entrusted with the offshore security coordination authority</li><li>Lead intelligence agency for coastal and sea border</li><li>Coastal security in territorial waters</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 3 only",
+            "1, 2 and 3",
+            "1 and 2 only",
+            "3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which one of the following is India's first indigenously designed and developed long-range subsonic cruise missile which can be deployed from multiple platforms?",
+        "options": [
+            "Astra",
+            "Akash",
+            "Nirbhay",
+            "Shankhnaad"
+        ],
+        "answer": "Nirbhay"
+    },
+    {
+        "question": "The Ministry of Power, Government of India has recently constituted a Committee to investigate the causes of the accident that occurred on 1st November, 2017 at Feroze Gandhi Thermal Power Plant Ltd., Unchahar, in Uttar Pradesh. Who among the following is the Chairman of the Committee?",
+        "options": [
+            "Dr. L. D. Papney",
+            "Shri Dhawal Prakash Antapurkar",
+            "Shri Subir Chakraborty",
+            "Shri P. D. Siwal"
+        ],
+        "answer": "Shri P. D. Siwal"
+    },
+    {
+        "question": "In November 2017, an Indian short film, <i>The School Bag</i> won the Best Short Film Award at the South Asian Film Festival held at Montreal. Who among the following is the Director of the film?",
+        "options": [
+            "Anurag Kashyap",
+            "Dheeraj Jindal",
+            "Sujoy Ghosh",
+            "Samvida Nanda"
+        ],
+        "answer": "Dheeraj Jindal"
+    },
+    {
+        "question": "In November 2017, India's MC Mary Kom won the gold medal at the Asian Boxing Championship, 2017 held at Ho Chi Minh City in Vietnam. In which one of the following categories was she declared winner?",
+        "options": [
+            "48 kg",
+            "51 kg",
+            "54 kg",
+            "57 kg"
+        ],
+        "answer": "48 kg"
+    },
+    {
+        "question": "Which one of the following is the theme of the World Soil Day, 2017?",
+        "options": [
+            "Soils and pulses, a symbol for life",
+            "Caring for the Planet starts from the Ground",
+            "Soils, a solid ground for life",
+            "Soils, foundation for family farming"
+        ],
+        "answer": "Caring for the Planet starts from the Ground"
+    },
+    {
+        "question": "Who among the following is the winner of the National Badminton Championship (Men), 2017?",
+        "options": [
+            "Kidambi Srikanth",
+            "H. S. Prannoy",
+            "Ajay Jayaram",
+            "Sai Praneeth"
+        ],
+        "answer": "H. S. Prannoy"
+    },
+    {
+        "question": "Which of the following statements about the usage of the term 'barbarian' is/are correct?<br/><ol><li>It is derived from the Greek word 'barbaros' which means a non-Greek.</li><li>Romans used the term for the Germanic tribes, the Gauls and the Huns.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "Al-Biruni identifies the Sufi doctrine of divine love as self-annihilation with parallel passages from <i>Bhagavad Gita</i>.",
+            "According to Al-Biruni, Sufi theories of Soul were similar to those in Patanjali's <i>Yoga Sutra</i>.",
+            "The Hatha Yogic treatise <i>Amrita Kunda</i> had lasting impact on Sufism.",
+            "Hujwiri's conversation with the Yogis shows that he was impressed with their theory of the division of the human body."
+        ],
+        "answer": "Hujwiri's conversation with the Yogis shows that he was impressed with their theory of the division of the human body."
+    },
+    {
+        "question": "Consider the following statement :<br/><br/>&quot;So much is wrung from the peasants, that even dry bread is scarcely left to fill their stomachs.&quot;<br/><br/>Who among the following European travellers had made the above statement about the condition of peasantry in the Mughal Empire?",
+        "options": [
+            "Francisco Pelsaert",
+            "Francois Bernier",
+            "Jean-Baptiste Tavernier",
+            "Niccolao Manucci"
+        ],
+        "answer": "Francisco Pelsaert"
+    },
+    {
+        "question": "What is the name of the literary genre developed by the Khojas who are a branch of the Ismaili sect?",
+        "options": [
+            "<i>Ginan</i>",
+            "<i>Ziyarat</i>",
+            "<i>Raag</i>",
+            "<i>Shahada</i>"
+        ],
+        "answer": "<i>Ginan</i>"
+    },
+    {
+        "question": "Who was/were the 10th century composer(s) of the <i>Nalayira Divya Prabandham</i>?",
+        "options": [
+            "Alvars",
+            "Nayanars",
+            "Appar",
+            "Sambandar"
+        ],
+        "answer": "Alvars"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a correct ascending order of commissioned ranks in the defence forces of India?",
+        "options": [
+            "Lieutenant, Captain, Major, Lieutenant Colonel, Colonel, Brigadier, Major General, Lieutenant General, General",
+            "Flying Officer, Flight Lieutenant, Squadron Leader, Wing Commander, Group Captain, Air Commodore, Air Vice Marshal, Air Marshal, Air Chief Marshal",
+            "Flying Officer, Flight Lieutenant, Squadron Leader, Group Captain, Wing Commander, Air Commodore, Air Vice Marshal, Air Marshal, Air Chief Marshal",
+            "Sub Lieutenant, Lieutenant, Lieutenant Commander, Commander, Captain, Commodore, Rear Admiral, Vice Admiral, Admiral"
+        ],
+        "answer": "Flying Officer, Flight Lieutenant, Squadron Leader, Group Captain, Wing Commander, Air Commodore, Air Vice Marshal, Air Marshal, Air Chief Marshal"
+    },
+    {
+        "question": "Which of the following statements about Attorney General of India is/are <i>not</i> correct?<br/><ol><li>He is the first Law Officer of the Government of India.</li><li>He is entitled to the privileges of a Member of the Parliament.</li><li>He is a whole-time counsel for the Government.</li><li>He must have the same qualifications as are required to be a judge of the Supreme Court.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "2 and 4",
+            "3 only",
+            "1 only"
+        ],
+        "answer": "3 only"
+    },
+    {
+        "question": "Under which one of the following Amendment Acts was Sikkim admitted into the Union of India?",
+        "options": [
+            "35th",
+            "36th",
+            "37th",
+            "38th"
+        ],
+        "answer": "36th"
+    },
+    {
+        "question": "Which one of the following became a part of China in 1997 following the principle of 'one country, two systems'?",
+        "options": [
+            "Tibet",
+            "Hong Kong",
+            "Xinjiang",
+            "Inner Mongolia"
+        ],
+        "answer": "Hong Kong"
+    },
+    {
+        "question": "Which one of the following statements in respect of the States of India is <i>not</i> correct?",
+        "options": [
+            "States in India cannot have their own Constitutions.",
+            "The State of Jammu and Kashmir has its own Constitution.",
+            "States in India do not have the right to secede from the Union of India.",
+            "The maximum number of members in the Council of Ministers of Delhi can be 15 percent of the total number of members in the Legislative Assembly."
+        ],
+        "answer": "The maximum number of members in the Council of Ministers of Delhi can be 15 percent of the total number of members in the Legislative Assembly."
+    },
+    {
+        "question": "Consider the following statements about National Wildlife Action Plan (NWAP) of India for 2017-2031 :<br/><ol><li>This is the Third National Wildlife Action Plan.</li><li>The NWAP is unique as this is the first time India has recognized the concerns relating to climate change impact on wildlife.</li><li>The NWAP has ten components.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Growth in production (in percent) of which one of the following core industries in India during the period 2015-2016 was negative?",
+        "options": [
+            "Natural gas",
+            "Refinery products",
+            "Fertilizer",
+            "Coal"
+        ],
+        "answer": "Natural gas"
+    },
+    {
+        "question": "eBiz is one of the integrated services projects and part of the 31 Mission Mode Projects (MMPs) under the National e-Governance Plan of the Government of India. eBiz is being implemented under the guidance and aegis of the Department of Industrial Policy and Promotion, Ministry of Commerce and Industry by",
+        "options": [
+            "Tata Consultancy Services",
+            "Infosys Technologies Limited",
+            "Wipro",
+            "HCL Technologies"
+        ],
+        "answer": "Infosys Technologies Limited"
+    },
+    {
+        "question": "Which of the following statements about the olive ridley turtles is/are correct?<br/><ol><li>They are the smallest and most abundant of all sea turtles found in the world.</li><li>They live in warm waters of Pacific, Atlantic and Indian Oceans.</li><li>The Coromandel Coast in India is the largest mass nesting site for the olive ridley turtles.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Consider the following statement :<br/><br/>&quot;A sound body means one which bends itself to the spirit and is always a ready instrument at its service.&quot;<br/><br/>The above statement is attributed to",
+        "options": [
+            "Sardar Patel",
+            "Winston Churchill",
+            "Mahatma Gandhi",
+            "Baden-Powell"
+        ],
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "question": "Who among the following was the founder of Phoenix Settlement?",
+        "options": [
+            "Mahatma Gandhi",
+            "B. R. Ambedkar",
+            "Rabindranath Tagore",
+            "Swami Vivekananda"
+        ],
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "question": "Name the platform used for ritual purposes by the kings of the Vijayanagara Empire.",
+        "options": [
+            "Mahanavami Dibba",
+            "Lotus Mahal",
+            "Hazara Rama",
+            "Virupaksha"
+        ],
+        "answer": "Mahanavami Dibba"
+    },
+    {
+        "question": "The idea of 'Farr-i Izadi', on which the Mughal kingship was based, was first developed by which one of the following Sufi saints?",
+        "options": [
+            "Shihabuddin Suhrawardi",
+            "Nizamuddin Auliya",
+            "Ibn al-Arabi",
+            "Bayazid Bistami"
+        ],
+        "answer": "Shihabuddin Suhrawardi"
+    },
+    {
+        "question": "Which Buddhist text contains an account of the Mauryan Emperor Ashoka?",
+        "options": [
+            "<i>Vinaya Pitaka</i>",
+            "<i>Sutta Pitaka</i>",
+            "<i>Abhidhamma Pitaka</i>",
+            "<i>Mahavamsa</i>"
+        ],
+        "answer": "<i>Mahavamsa</i>"
+    },
+    {
+        "question": "Which one of the following statements about Buddhist Stupas in India is <i>not</i> correct?",
+        "options": [
+            "Ashoka played an important role in popularizing the Stupa cult.",
+            "They were repositories of relics of Buddha and other monks.",
+            "They were located in rural areas.",
+            "They were located close to trade routes."
+        ],
+        "answer": "They were located in rural areas."
+    },
+    {
+        "question": "Which one among the following States of India has the largest number of seats in its Legislative Assembly?",
+        "options": [
+            "West Bengal",
+            "Bihar",
+            "Madhya Pradesh",
+            "Tamil Nadu"
+        ],
+        "answer": "West Bengal"
+    },
+    {
+        "question": "Which of the following statements about the Ordinance-making power of the Governor is/are correct?<br/><ol><li>It is a discretionary power.</li><li>The Governor himself is not competent to withdraw the Ordinance at any time.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Neither 1 nor 2"
+    },
+    {
+        "question": "Which one of the following events is <i>not</i> correctly matched with the year in which it happened?",
+        "options": [
+            "Inauguration of the SWIFT system of electronic interbank fund transfers worldwide—1985",
+            "Conclusion of the Uruguay Round of GATT—1994",
+            "Inauguration of the World Trade Organization—1995",
+            "Establishment of the first wholly electronic stock exchange (Nasdaq)—1971"
+        ],
+        "answer": "Inauguration of the SWIFT system of electronic interbank fund transfers worldwide—1985"
+    },
+    {
+        "question": "Consider the following statements about Indo-Tibetan Border Police (ITBP) :<br/><ol><li>ITBP was raised in 1962.</li><li>ITBP is basically a mountain trained force.</li><li>ITBP replaced Assam Rifles in Sikkim and Arunachal Pradesh in 2004-2005 for border guarding duty.</li><li>ITBP presently has 52 service battalions.</li></ol><br/>Which of the statements given above are correct?",
+        "options": [
+            "1, 2 and 4 only",
+            "3 and 4 only",
+            "1, 2, 3 and 4",
+            "1, 2 and 3 only"
+        ],
+        "answer": "1, 2 and 3 only"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an International Human Rights Treaty?",
+        "options": [
+            "International Covenant on Civil and Political Rights",
+            "Convention on the Elimination of All Forms of Discrimination against Women",
+            "Convention on the Rights of Persons with Disabilities",
+            "Declaration on the Right to Development"
+        ],
+        "answer": "Declaration on the Right to Development"
+    },
+    {
+        "question": "In the context of elections in India, which one of the following is the correct full form of VVPAT?",
+        "options": [
+            "Voter Verifiable Poll Audit Trail",
+            "Voter Verifying Paper Audit Trail",
+            "Voter Verifiable Paper Audit Trail",
+            "Voter Verifiable Paper Account Trail"
+        ],
+        "answer": "Voter Verifiable Paper Audit Trail"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an objective of the Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)?",
+        "options": [
+            "To achieve convergence of investment in irrigation at the field level",
+            "To expand cultivable area under irrigation",
+            "To improve on-farm water use efficiency to reduce wastage of water",
+            "To protect farmers against crop failure due to natural calamities"
+        ],
+        "answer": "To protect farmers against crop failure due to natural calamities"
+    },
+    {
+        "question": "Which one of the following statements about 'Niryat Bandhu Scheme' is correct?",
+        "options": [
+            "It is a scheme for mentoring first generation entrepreneurs.",
+            "It is a scheme for crop protection.",
+            "It is a scheme for the vulnerable section of the society.",
+            "It is a scheme for monitoring rural poor."
+        ],
+        "answer": "It is a scheme for mentoring first generation entrepreneurs."
+    },
+    {
+        "question": "Which one of the following statements about the Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY) is <i>not</i> correct?",
+        "options": [
+            "It is a placement-linked skill training programme exclusively for rural girls.",
+            "It aims to convert India's demographic surplus into a demographic dividend.",
+            "The scheme aims to benefit more than 55 million poor rural folk.",
+            "It is a generational poverty alleviation programme."
+        ],
+        "answer": "It is a placement-linked skill training programme exclusively for rural girls."
+    },
+    {
+        "question": "Where is Hambantota Port located?",
+        "options": [
+            "Iran",
+            "Sri Lanka",
+            "Japan",
+            "Pakistan"
+        ],
+        "answer": "Sri Lanka"
+    },
+    {
+        "question": "The projects under Coastal Berth Scheme of the flagship Sagarmala Programme are distributed over how many States?",
+        "options": [
+            "Eight",
+            "Ten",
+            "Twelve",
+            "Fourteen"
+        ],
+        "answer": "Eight"
+    },
+    {
+        "question": "Which one of the following statements about the National Adaptation Fund for Climate Change is <i>not</i> correct?",
+        "options": [
+            "The fund is meant to assist national and State level activities to meet the cost of adaptation measures.",
+            "This scheme has been taken as a Central Sector Scheme.",
+            "The Indian Council of Agricultural Research is the national implementing entity for the fund.",
+            "The scheme has been in force since 2015-2016."
+        ],
+        "answer": "The Indian Council of Agricultural Research is the national implementing entity for the fund."
+    },
+    {
+        "question": "'SAMPRITI-2017' is a joint military exercise between armed forces of India and",
+        "options": [
+            "Bhutan",
+            "Bangladesh",
+            "Pakistan",
+            "Myanmar"
+        ],
+        "answer": "Bangladesh"
+    },
+    {
+        "question": "The judgement of the Supreme Court of India in the Vishakha Case pertains to",
+        "options": [
+            "sexual harassment in the work-place",
+            "Sati",
+            "dowry death",
+            "rape"
+        ],
+        "answer": "sexual harassment in the work-place"
+    },
+    {
+        "question": "The first BRICS Summit, after the inclusion of South Africa, was held at",
+        "options": [
+            "Brasilia",
+            "Sanya",
+            "Yekaterinburg",
+            "Durban"
+        ],
+        "answer": "Sanya"
+    },
+    {
+        "question": "Who deciphered the Brahmi and Kharoshthi scripts?",
+        "options": [
+            "Piyadassi",
+            "Colin Mackenzie",
+            "Alexander Cunningham",
+            "James Prinsep"
+        ],
+        "answer": "James Prinsep"
+    },
+    {
+        "question": "Which of the following is/are the feature(s) of the Brahmadeya Grants during c 600-1200 AD?<br/><ol><li>Their creation meant a renunciation of actual or potential sources of revenue by the State.</li><li>These grants could vary from a small plot to several villages.</li><li>Most grants were made in unsettled areas.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Who is the author of <i>Manimekalai</i>?",
+        "options": [
+            "Kovalan",
+            "Sathanar",
+            "Ilango Adigal",
+            "Tirutakkatevar"
+        ],
+        "answer": "Sathanar"
+    },
+    {
+        "question": "Which one of the following statements about the Elephanta Island is correct?",
+        "options": [
+            "It was given its name by the British after a large elephant structure located there.",
+            "It contains one large cave.",
+            "It is well-known for a spectacular carving of Vishnu described in the <i>Vishnudharmottara Purana</i>.",
+            "It is associated with the Pashupata sect."
+        ],
+        "answer": "It is associated with the Pashupata sect."
+    },
+    {
+        "question": "Which of the following statements about Sir Syed Ahmad Khan is/are correct?<br/><ol><li>He argued that India was a federation of ethnic communities based on common descent.</li><li>His philosophy was very similar to that of the Indian National Congress.</li><li>He imagined India as a Nation State based on individual citizen's rights.</li><li>The curriculum at the Mohammedan Anglo-Oriental College blended Muslim theology and European empiricism.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 and 3",
+            "3 only",
+            "1 and 4"
+        ],
+        "answer": "1 and 4"
+    },
+    {
+        "question": "Consider the following statements about impact of tax :<br/><ol><li>A tax is shifted forward to consumers if the demand is inelastic relative to supply.</li><li>A tax is shifted backward to producers if the supply is relatively more inelastic than demand.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "According to the law of diminishing marginal utility, as the amount of a good consumed increases, the marginal utility of that good tends to",
+        "options": [
+            "improve",
+            "diminish",
+            "remain constant",
+            "first diminish and then improve"
+        ],
+        "answer": "diminish"
+    }
+]
 };
 
 export default gkData;
