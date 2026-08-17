@@ -1,6 +1,1217 @@
 import type { Question } from "@/types/Question";
 
 const gkData: Record<string, Question[]> = {
+    "2021-II": [
+    {
+        "question": "Where should an object be placed in front of a convex lens to get a real and enlarged image of the object ?",
+        "options": [
+            "At twice the focal length",
+            "At infinity",
+            "Between the principal focus and twice the focal length",
+            "Beyond twice the focal length"
+        ],
+        "answer": "Between the principal focus and twice the focal length"
+    },
+    {
+        "question": "The magnetic field lines inside a current carrying long solenoid are in the form of",
+        "options": [
+            "ellipse.",
+            "parabola.",
+            "hyperbola.",
+            "parallel straight lines."
+        ],
+        "answer": "parallel straight lines."
+    },
+    {
+        "question": "A ray of light travelling from a rarer medium to a denser medium",
+        "options": [
+            "slows down and bends away from the normal.",
+            "slows down and bends towards the normal.",
+            "speeds up and bends away from the normal.",
+            "speeds up and bends towards the normal."
+        ],
+        "answer": "slows down and bends towards the normal."
+    },
+    {
+        "question": "An electric circuit is consisting of a cell, an ammeter and a nichrome wire of length <i>l</i>. If the length of the wire is reduced to half (<i>l</i>/2), then the ammeter reading",
+        "options": [
+            "decreases to one-half.",
+            "gets doubled.",
+            "decreases to one-third.",
+            "remains unchanged."
+        ],
+        "answer": "gets doubled."
+    },
+    {
+        "question": "What is the effect of pressure of a human body on sand ?",
+        "options": [
+            "Larger while standing than while lying",
+            "Smaller while standing than while lying",
+            "Same while standing or lying",
+            "Larger while standing during the daytime and smaller during the night time while lying"
+        ],
+        "answer": "Larger while standing than while lying"
+    },
+    {
+        "question": "An athlete completes one round of a circular track of diameter 100 m in 20 s. What will be the displacements after 1 minute and 10 s, respectively ?",
+        "options": [
+            "0 m, 50 m",
+            "300 m, 100 m",
+            "300 m, 50 m",
+            "0 m, 100 m"
+        ],
+        "answer": "0 m, 100 m"
+    },
+    {
+        "question": "Which of the following statements about universal indicator is/are true ?<br/><ol><li>It is a mixture of several indicators.</li><li>It shows different colours at different concentrations of hydrogen ions in solution.</li><li>It helps to determine the strength of given acid and base in titration.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following carbon allotropes is/are good conductor(s) of electricity ?<br/><ol><li>Diamond</li><li>Graphite</li><li>Fullerene</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 only",
+            "1 and 3 only"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "What is the approximate percentage of carbon in the Earth's crust ?",
+        "options": [
+            "0.045%",
+            "0.025%",
+            "0.015%",
+            "0.005%"
+        ],
+        "answer": "0.025%"
+    },
+    {
+        "question": "When copper reacts with moist carbon dioxide (CO<sub>2</sub>) in air, it forms a green coating of which one of the following compounds ?",
+        "options": [
+            "Cupric carbonate",
+            "Cuprous oxide",
+            "Cupric oxide",
+            "Copper sulphate"
+        ],
+        "answer": "Cupric carbonate"
+    },
+    {
+        "question": "What is the name of the process that converts sulphide ores into oxides by heating strongly in the presence of excess air ?",
+        "options": [
+            "Calcination",
+            "Roasting",
+            "Smelting",
+            "Incineration"
+        ],
+        "answer": "Roasting"
+    },
+    {
+        "question": "What are the constituents of alloy solder ?",
+        "options": [
+            "Pb and Zn",
+            "Pb and Sn",
+            "Pb and Si",
+            "Pb and Co"
+        ],
+        "answer": "Pb and Sn"
+    },
+    {
+        "question": "Which of the following limits the number of trophic levels in a food chain ?",
+        "options": [
+            "Deficient food supply",
+            "Polluted air",
+            "Decrease in the available energy at higher trophic levels",
+            "Parasitic organisms"
+        ],
+        "answer": "Decrease in the available energy at higher trophic levels"
+    },
+    {
+        "question": "In pea, a pure tall plant (TT) is crossed with a short plant (tt). What will be the ratio of pure tall plants to short plants in the F<sub>2</sub> generation ?",
+        "options": [
+            "1 : 1",
+            "1 : 3",
+            "3 : 1",
+            "2 : 1"
+        ],
+        "answer": "1 : 1"
+    },
+    {
+        "question": "Which one of the following statements about variations is <i>not</i> true ?",
+        "options": [
+            "Variation is minimum in asexual reproduction.",
+            "All variations in a species have equal chances of survival.",
+            "Changes in genetic constitution result in variation.",
+            "Variants can be selected by environmental factors."
+        ],
+        "answer": "All variations in a species have equal chances of survival."
+    },
+    {
+        "question": "While studying vegetation of an area, terms like 'population' and 'community' are often used. Which one of the following statements best describes a population ?",
+        "options": [
+            "A group of organisms of one species, living in the same area at the same time.",
+            "A group of organisms of one species living in different areas during different seasons.",
+            "A unit consisting of biotic and abiotic components.",
+            "A group of organisms of more than one species, living in the same area at the same time."
+        ],
+        "answer": "A group of organisms of one species, living in the same area at the same time."
+    },
+    {
+        "question": "In the human body, blood flows through a process of double circulation. Which one of the following statements is true in this regard ?",
+        "options": [
+            "Oxygenated blood reaches the left side of the heart from the lungs.",
+            "Blood in the left side of the heart is poor in oxygen and is brought to the right side of the heart.",
+            "Deoxygenated blood from the left side of the heart is brought to the lungs for oxygenation.",
+            "Oxygenated blood from the right side of the heart is sent around the body."
+        ],
+        "answer": "Oxygenated blood reaches the left side of the heart from the lungs."
+    },
+    {
+        "question": "In which of the following groups of organisms, is food material broken down outside the body and absorbed ?",
+        "options": [
+            "Yeast, mushroom, bread mould",
+            "Mushroom, <i>Amoeba</i>, green plants",
+            "Caserta, tapeworm, lice",
+            "<i>Paramecium</i>, <i>Amoeba</i>, Caserta"
+        ],
+        "answer": "Yeast, mushroom, bread mould"
+    },
+    {
+        "question": "A sound wave has a frequency of 4 kHz and wavelength 30 cm. How long will it take to travel 2.4 km ?",
+        "options": [
+            "2.0 s",
+            "0.6 s",
+            "1.0 s",
+            "8.0 s"
+        ],
+        "answer": "2.0 s"
+    },
+    {
+        "question": "An electric bulb is connected to a 110 V generator. The current is 0.2 A. What is the power of the bulb ?",
+        "options": [
+            "0.22 W",
+            "2.2 W",
+            "22 W",
+            "220 W"
+        ],
+        "answer": "22 W"
+    },
+    {
+        "question": "Refraction of light, as it enters from one transparent medium to another, is due to",
+        "options": [
+            "change in temperature of the media.",
+            "change in the amplitude of light.",
+            "change in speed of light.",
+            "internal property of light."
+        ],
+        "answer": "change in speed of light."
+    },
+    {
+        "question": "A bus starting from a bus-stand and moving with uniform acceleration attains a speed of 20 km/h in 10 minutes. What is its acceleration ?",
+        "options": [
+            "200 km/h<sup>2</sup>",
+            "120 km/h<sup>2</sup>",
+            "100 km/h<sup>2</sup>",
+            "240 km/h<sup>2</sup>"
+        ],
+        "answer": "120 km/h<sup>2</sup>"
+    },
+    {
+        "question": "Which one of the following is the correct reactivity order of metals reacting with dilute HCl ?",
+        "options": [
+            "Mg > Al > Zn > Fe",
+            "Mg < Al < Zn < Fe",
+            "Mg > Zn > Fe > Al",
+            "Fe > Mg > Al > Zn"
+        ],
+        "answer": "Mg > Al > Zn > Fe"
+    },
+    {
+        "question": "Which one of the following acids is secreted by leaves of Nettle that causes painful stings ?",
+        "options": [
+            "Methanoic acid",
+            "Citric acid",
+            "Tartaric acid",
+            "Acetic acid"
+        ],
+        "answer": "Methanoic acid"
+    },
+    {
+        "question": "Which of the following statements is/are correct ?<br/><ol><li>All the bases are alkali.</li><li>All alkalis dissolve in water.</li><li>Alkalis are soapy to touch, bitter in taste and corrosive in nature.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "3 only"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "Which one of the following materials is present in a guard tube (drying tube) that is used for preparation of HCl gas ?",
+        "options": [
+            "Calcium chloride",
+            "Calcium bromide",
+            "Calcium iodide",
+            "Calcium fluoride"
+        ],
+        "answer": "Calcium chloride"
+    },
+    {
+        "question": "Fertilizers are used to obtain higher yields of crops. However, all nutrients are usually not available in fertilizers. Which one of the following nutrients is usually <i>not</i> available in fertilizers ?",
+        "options": [
+            "Iron",
+            "Potassium",
+            "Nitrogen",
+            "Phosphorus"
+        ],
+        "answer": "Iron"
+    },
+    {
+        "question": "Rupa and Sachin observed an animal in their school garden. Rupa called it an insect while Sachin identified it as an earthworm. Which one of the following characteristics confirms that it is an insect ?",
+        "options": [
+            "The animal had jointed legs.",
+            "Body of the animal had very little segmentation.",
+            "Body of the animal was cylindrical.",
+            "Body of the animal was bilaterally symmetrical."
+        ],
+        "answer": "The animal had jointed legs."
+    },
+    {
+        "question": "Animals which are marine, bilaterally symmetrical, have a coelom and a notochord, but never form a vertebral column are placed under which one of the following groups ?",
+        "options": [
+            "Chordata",
+            "Protochordata",
+            "Vertebrata",
+            "Mammalia"
+        ],
+        "answer": "Protochordata"
+    },
+    {
+        "question": "What is the location of intercalary meristem in plants ?",
+        "options": [
+            "Base of the leaves or internodes",
+            "Stems or roots",
+            "Tips of stems and leaves",
+            "Base of flower pedicel"
+        ],
+        "answer": "Base of the leaves or internodes"
+    },
+    {
+        "question": "The federation of which one of the following States has been described as 'an indestructible union of indestructible states' ?",
+        "options": [
+            "India",
+            "U.S.A.",
+            "Canada",
+            "Australia"
+        ],
+        "answer": "U.S.A."
+    },
+    {
+        "question": "Who among the following is the author of the famous essay, <i>'The End of History and the Last Man'</i> ?",
+        "options": [
+            "Francis Fukuyama",
+            "Daniel Bell",
+            "Abraham Lincoln",
+            "Anthony Giddens"
+        ],
+        "answer": "Francis Fukuyama"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct ?",
+        "options": [
+            "Allahabad High Court has a Bench at Lucknow.",
+            "Madhya Pradesh High Court has a Bench at Gwalior.",
+            "Rajasthan High Court is located at Jodhpur.",
+            "Guwahati High Court has no Bench."
+        ],
+        "answer": "Guwahati High Court has no Bench."
+    },
+    {
+        "question": "Which among the following is <i>not</i> a condition for the disqualification of a Member of Parliament ?",
+        "options": [
+            "Voluntary acquisition of citizenship of a foreign country",
+            "Holding the office of the Chairperson of the National Commission for Women",
+            "The Member abstains from voting in the House without prior permission",
+            "The Member holds the office of the Chairman of the Board of Directors of the National Coal Development Corporation Ltd."
+        ],
+        "answer": "Holding the office of the Chairperson of the National Commission for Women"
+    }
+,
+
+    {
+        "question": "Who among the following considered the Directive Principles of State Policy as aiming at 'furthering the goals of social revolution' ?",
+        "options": [
+            "B.N. Rau",
+            "Granville Austin",
+            "K.C. Wheare",
+            "Rajni Kothari"
+        ],
+        "answer": "Granville Austin"
+    },
+    {
+        "question": "D performs her train journey by the shortest route from Bengaluru to New Delhi. Which one of the following rivers will she <i>not</i> cross while performing the journey ?",
+        "options": [
+            "Narmada",
+            "Yamuna",
+            "Godavari",
+            "Krishna"
+        ],
+        "answer": "Yamuna"
+    },
+    {
+        "question": "Identify the State on the basis of the following characteristics :<br/><ol><li>Tropic of Cancer passes through the State.</li><li>The State has more north-south extension.</li><li>The State has international border with Bangladesh and Myanmar.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "Tripura",
+            "Mizoram",
+            "Nagaland",
+            "Manipur"
+        ],
+        "answer": "Mizoram"
+    },
+    {
+        "question": "M wants to visit a place in a Union Territory, which is located at 34&deg; N and 77&deg; E. Which one of the following Union Territories must he have planned to visit ?",
+        "options": [
+            "Andaman and Nicobar Islands",
+            "Lakshadweep",
+            "Puducherry",
+            "Ladakh"
+        ],
+        "answer": "Ladakh"
+    },
+    {
+        "question": "Consider the following statements with respect to the adolescent population (age group of 10 to 19 years) of India, according to the 2011 Census :<br/><ol><li>Adolescent population comprises half the population of the country.</li><li>The group is regarded as youthful population with high potential.</li><li>In this group there are greater number of females than males.</li></ol><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "1 and 2 only",
+            "2 and 3 only"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "In a discussion, M from Arunachal Pradesh, J from Assam, N from Meghalaya and S from Nagaland are claiming that as per Census 2011, their State has the maximum density of population. Identify the person making the correct claim.",
+        "options": [
+            "M",
+            "J",
+            "N",
+            "S"
+        ],
+        "answer": "J"
+    },
+    {
+        "question": "Who among the following ancient Indian kings was praised in glowing terms in the <i>Prayaga Prashasti</i> ?",
+        "options": [
+            "Ashoka",
+            "Harshavardhana",
+            "Samudragupta",
+            "Bindusara"
+        ],
+        "answer": "Samudragupta"
+    },
+    {
+        "question": "The Self-Respect Movement was initiated by",
+        "options": [
+            "B.R. Ambedkar",
+            "Jyotiba Phule",
+            "E.V. Ramaswamy Naicker",
+            "Jawaharlal Nehru"
+        ],
+        "answer": "E.V. Ramaswamy Naicker"
+    },
+    {
+        "question": "The location of the ancient city of Taxila (Takshshila), mentioned in ancient Indian texts, was identified by",
+        "options": [
+            "Alexander Cunnigham",
+            "R.D. Banerji",
+            "John Marshall",
+            "Daya Ram Sahni"
+        ],
+        "answer": "Alexander Cunnigham"
+    },
+    {
+        "question": "Who among the following was <i>not</i> a Jain Acharya ?",
+        "options": [
+            "Bhadrabahu",
+            "Khema",
+            "Haribhadra",
+            "Siddhasena Divakara"
+        ],
+        "answer": "Khema"
+    },
+    {
+        "question": "In India, the first major public appearance of Mahatma Gandhi was in",
+        "options": [
+            "Champaran (1917)",
+            "Kheda (1918)",
+            "Inauguration of Banaras Hindu University (1916)",
+            "Rowlatt Satyagraha (1919)"
+        ],
+        "answer": "Inauguration of Banaras Hindu University (1916)"
+    },
+    {
+        "question": "Consider the following statements about Patanjali's <i>Mahabhashya</i> :<br/><ol><li>It makes a mention of Kautilya.</li><li>It is a book on grammar and refers to historical personalities only incidentally.</li></ol><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Which one of the following may lead to movement along the demand curve of a commodity ?",
+        "options": [
+            "Change in its price",
+            "Change in price of the other commodities",
+            "Change in income of the consumer",
+            "Change in tastes and preferences of consumers"
+        ],
+        "answer": "Change in its price"
+    },
+    {
+        "question": "Which one of the following is the opportunity cost of a chosen activity ?",
+        "options": [
+            "Out of pocket cost",
+            "Out of pocket cost plus cost incurred by the Government",
+            "Value of all opportunities forgone",
+            "Value of next best alternative that is given up"
+        ],
+        "answer": "Value of next best alternative that is given up"
+    },
+    {
+        "question": "Which one of the following statements in the context of social sector spending in India during 2014 &ndash; 19 (both States and the Union Government together) is true ?",
+        "options": [
+            "Expenditure on education was 5% of GDP.",
+            "Expenditure on health was 4% of the social services expenditure.",
+            "There was a stagnation in the spending on education as a percent of GDP.",
+            "Health sector spending amounted to 10% of the total expenditure."
+        ],
+        "answer": "There was a stagnation in the spending on education as a percent of GDP."
+    },
+    {
+        "question": "According to UNDP's Human Development Report &ndash; 2020, in which of the HDI components has India improved in recent years ?<br/><ol><li>Life expectancy at birth</li><li>Expected years of schooling</li><li>GNI per capita</li><li>Mean years of schooling</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2, 3 and 4"
+        ],
+        "answer": "1 and 3 only"
+    },
+    {
+        "question": "Which one of the following is true of a pure voluntary exchange between two parties A and B ?",
+        "options": [
+            "A can exploit B or vice versa",
+            "Both gain; it is a win-win situation",
+            "If A makes profit, it must be at the cost of B",
+            "Both can lose"
+        ],
+        "answer": "Both gain; it is a win-win situation"
+    },
+    {
+        "question": "The provision, 'the State shall take steps to separate the Judiciary from the Executive in the public services of the State' is incorporated in which part of the Constitution of India ?",
+        "options": [
+            "Part-IV",
+            "Part-V",
+            "Part-VI",
+            "Part-VII"
+        ],
+        "answer": "Part-IV"
+    },
+    {
+        "question": "Which of the following statements are correct ?<br/><ol><li>Speaker may permit any Member to address the House in his/her mother tongue, if he/she cannot adequately express in either Hindi or English.</li><li>Business of the Parliamentary Committees is transacted either in Hindi or in English.</li><li>The minutes of the Parliamentary Committees are prepared invariably in Hindi or English.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which one of the following is the correct meaning of the term 'State', as defined in Article 12 of the Constitution of India ?",
+        "options": [
+            "It refers only to the Government of India.",
+            "It refers only to the Government of India and the Parliament of India.",
+            "It refers only to the Government of India, Parliament of India, and Governments and Legislatures of each State.",
+            "It refers to the Government of India, Parliament of India, Governments and Legislatures of each State, and all local or other authorities within the territory of India."
+        ],
+        "answer": "It refers to the Government of India, Parliament of India, Governments and Legislatures of each State, and all local or other authorities within the territory of India."
+    },
+    {
+        "question": "Which one among the following is the largest State in terms of seats in the Rajya Sabha ?",
+        "options": [
+            "Andhra Pradesh",
+            "Bihar",
+            "Rajasthan",
+            "Karnataka"
+        ],
+        "answer": "Bihar"
+    },
+    {
+        "question": "Under which Article of the Constitution of India has provision been made for reservation of seats for women in Panchayats ?",
+        "options": [
+            "Article 243 B",
+            "Article 243 C",
+            "Article 243 D",
+            "Article 243 E"
+        ],
+        "answer": "Article 243 D"
+    },
+    {
+        "question": "The painted illustration of the moving of the Ashoka Pillar at Topra is found in",
+        "options": [
+            "<i>Tarikh-i-Firuz Shahi</i>",
+            "<i>Tarikh-i-Shahi</i>",
+            "<i>Sirat-i-Firuz Shahi</i>",
+            "<i>Akbar Nama</i>"
+        ],
+        "answer": "<i>Sirat-i-Firuz Shahi</i>"
+    },
+    {
+        "question": "Which one among the following is a temple of the Vaishnavite tradition ?",
+        "options": [
+            "Srirangam",
+            "Chidambaram",
+            "Gangaikonda Cholapuram",
+            "Thanjavur"
+        ],
+        "answer": "Srirangam"
+    },
+    {
+        "question": "The biography of Shaikh Muinuddin Chishti, authored by Jahanara, is known as",
+        "options": [
+            "<i>Munis al Arwah</i>",
+            "<i>Fawaid ul Fuwad</i>",
+            "<i>Sirat ul Auliya</i>",
+            "<i>Muraqqa-e Dehli</i>"
+        ],
+        "answer": "<i>Munis al Arwah</i>"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a political method of the moderates in the National Movement ?",
+        "options": [
+            "Overthrow of alien rule",
+            "Constitutional agitation",
+            "Slow, orderly political progress",
+            "Mobilisation of public opinion"
+        ],
+        "answer": "Overthrow of alien rule"
+    },
+    {
+        "question": "Swami Dayanand Saraswati took inspiration from",
+        "options": [
+            "Puranas",
+            "Vedas",
+            "Medieval saints",
+            "Sufism"
+        ],
+        "answer": "Vedas"
+    },
+    {
+        "question": "The call for 'renunciation of (all) voluntary associations with the (British) Government' was given during",
+        "options": [
+            "Non-Cooperation Movement.",
+            "Civil Disobedience Movement.",
+            "Quit India Movement.",
+            "Protest against partition of Bengal."
+        ],
+        "answer": "Non-Cooperation Movement."
+    },
+    {
+        "question": "Which of the following statements is/are correct with respect to Time Zone in India ?<br/><ol><li>There is one standard time for the whole country.</li><li>Andaman and Nicobar Islands and Lakshadweep Islands have different Time Zones.</li><li>Indian Standard Time (IST) is five and half hours behind GMT.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "1 and 2 only",
+            "1 and 3 only"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "D had recently visited Khardung La, Nubra Valley and several Buddhist monasteries. Which one of the following States / UT had she visited ?",
+        "options": [
+            "Himachal Pradesh",
+            "Uttarakhand",
+            "Sikkim",
+            "Ladakh"
+        ],
+        "answer": "Ladakh"
+    },
+    {
+        "question": "Which one of the following States receives rainfall from both the Arabian Sea branch and the Bay of Bengal branch of Monsoon ?",
+        "options": [
+            "Punjab",
+            "Maharashtra",
+            "Meghalaya",
+            "Tamil Nadu"
+        ],
+        "answer": "Punjab"
+    },
+    {
+        "question": "Inceptisols, Entisols, Vertisols and Mollisols are orders of which one of the following ?",
+        "options": [
+            "Sugarcane",
+            "Soil",
+            "Coal",
+            "Copper"
+        ],
+        "answer": "Soil"
+    },
+    {
+        "question": "S had witnessed contour bunding and contour ploughing while visiting one of the States in India. Identify the State from the options given below.",
+        "options": [
+            "Punjab",
+            "Haryana",
+            "Himachal Pradesh",
+            "Rajasthan"
+        ],
+        "answer": "Himachal Pradesh"
+    },
+    {
+        "question": "Which one of the following target groups is the beneficiary of 'Garib Kalyan Rojgar Abhiyan' scheme ?",
+        "options": [
+            "All rural women",
+            "All returning migrants",
+            "All below poverty line households",
+            "All new migrants to town"
+        ],
+        "answer": "All returning migrants"
+    }
+
+    ,
+
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><table><tr><th>List I (Curve)</th><th>List II (Indication)</th></tr><tr><td>A. Lorenz curve</td><td>1. Inflation and employment</td></tr><tr><td>B. Phillips curve</td><td>2. Tax rates and tax revenue</td></tr><tr><td>C. Engel curve</td><td>3. Inequality in distribution of income or wealth</td></tr><tr><td>D. Laffer curve</td><td>4. Income and proportion of expenditure on food</td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-4, C-1, D-2",
+            "A-2, B-1, C-4, D-3",
+            "A-3, B-1, C-4, D-2",
+            "A-2, B-4, C-1, D-3"
+        ],
+        "answer": "A-3, B-1, C-4, D-2"
+    },
+    {
+        "question": "Which one of the following is a typical example of monopolistic competition ?",
+        "options": [
+            "Retail vegetable markets",
+            "Market for soaps",
+            "Indian Railways",
+            "Labour market for software engineers"
+        ],
+        "answer": "Market for soaps"
+    },
+    {
+        "question": "Following the Constitution (One Hundred and First Amendment) Act, 2016, the Parliament of India enacted quite a few GST Acts in the year 2017. Which one of the following does <i>not</i> fall in this category ?",
+        "options": [
+            "The Central Goods and Services Tax Act",
+            "The Integrated Goods and Services Tax Act",
+            "The Goods and Services Tax (Compensation to States) Acts",
+            "The State Goods and Services Tax Act"
+        ],
+        "answer": "The State Goods and Services Tax Act"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> correct in respect of Directorate of Enforcement ?",
+        "options": [
+            "It is a specialized financial investigation agency under the Department of Revenue, Ministry of Finance.",
+            "It enforces the Foreign Exchange Management Act, 1999.",
+            "It enforces the Prevention of Money Laundering Act, 2002.",
+            "It enforces the Prohibition of Benami Property Transaction Act, 1988."
+        ],
+        "answer": "It enforces the Prohibition of Benami Property Transaction Act, 1988."
+    },
+    {
+        "question": "Which one of the following is <i>not</i> correct ?",
+        "options": [
+            "Taxes on agricultural income is a subject under the State List.",
+            "Price control is a subject under the Concurrent List.",
+            "Insurance does not come under the Union List.",
+            "'Forests' is a subject under the Concurrent List."
+        ],
+        "answer": "Insurance does not come under the Union List."
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct about the nature of India's federal system ?",
+        "options": [
+            "There is no equality of representation of States in the Council of States.",
+            "Sikkim was not initially included in the Union as a full-fledged State.",
+            "Special provisions have been laid down in the Constitution of India for Andhra Pradesh under Article 371 D.",
+            "The Constitution of India enables the federal government to acquire the strength of a unitary system during emergencies."
+        ],
+        "answer": "There is no equality of representation of States in the Council of States."
+    },
+    {
+        "question": "The Constitution of India guarantees freedom of speech and expression. But the freedom is subject to certain reasonable restrictions imposed by the State. These restrictions may relate to which of the following ?<br/><ol><li>Defamation</li><li>Decency or morality</li><li>Incitement to an offence</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which one of the following amendments in the Constitution of India made a Proclamation of Emergency immune from judicial review ?",
+        "options": [
+            "39<sup>th</sup> Amendment",
+            "40<sup>th</sup> Amendment",
+            "42<sup>nd</sup> Amendment",
+            "44<sup>th</sup> Amendment"
+        ],
+        "answer": "42<sup>nd</sup> Amendment"
+    },
+    {
+        "question": "Which one of the following British officials was elevated to the position of Governor General after the Regulating Act of 1773 ?",
+        "options": [
+            "Warren Hastings",
+            "Lord North",
+            "Mountstuart Elphinstone",
+            "Philip Francis"
+        ],
+        "answer": "Warren Hastings"
+    },
+    {
+        "question": "Which of the following ideas was preached by the Kherwar or Sapha Har movement of the 1870s ?",
+        "options": [
+            "Acceptance of the Hindu pantheonic order",
+            "Monotheism and internal social reform",
+            "Philosophy of Yoga and Mimansa",
+            "Polytheism"
+        ],
+        "answer": "Monotheism and internal social reform"
+    },
+    {
+        "question": "In which one of the following years was the Poona Sarvajanik Sabha established ?",
+        "options": [
+            "1884",
+            "1876",
+            "1869",
+            "1870"
+        ],
+        "answer": "1870"
+    },
+    {
+        "question": "Which one of the following was an important Pandya port, celebrated for its pearls in Sangam poems and Greek accounts ?",
+        "options": [
+            "Muchiri",
+            "Korkai",
+            "Puhar",
+            "Arikamedu"
+        ],
+        "answer": "Korkai"
+    },
+    {
+        "question": "The town of Chisht, from which the Sufi Chishti Silsila derives its name, is located in",
+        "options": [
+            "Western Turkey",
+            "Central Afghanistan",
+            "Eastern Iran",
+            "Eastern Iraq"
+        ],
+        "answer": "Central Afghanistan"
+    },
+    {
+        "question": "The rules for congregational worship (Sangat) involving collective recitation were organized by",
+        "options": [
+            "Guru Nanak",
+            "Guru Angad",
+            "Guru Arjan",
+            "Guru Govind Singh"
+        ],
+        "answer": "Guru Nanak"
+    },
+    {
+        "question": "Who amongst the following will be at more risk with respect to the earthquake hazard zone specified by the Geological Survey of India ?",
+        "options": [
+            "Shahji at Secunderabad",
+            "Ranbir at Indore",
+            "Malti at Pithoragarh",
+            "Maitri at Bhubaneswar"
+        ],
+        "answer": "Malti at Pithoragarh"
+    },
+    {
+        "question": "The Government wants to prepare a plan for drought prone areas of the country. Which one of the following regions will be predominantly focused ?",
+        "options": [
+            "Coastal Andhra Pradesh",
+            "Ganga plains",
+            "North-eastern region",
+            "Kutch region"
+        ],
+        "answer": "Kutch region"
+    },
+    {
+        "question": "Four persons are travelling to different States of India. To whom will you advise to protect oneself from blizzards ?",
+        "options": [
+            "The person travelling to Arunachal Pradesh",
+            "The person travelling to Assam",
+            "The person travelling to Tripura",
+            "The person travelling to Odisha"
+        ],
+        "answer": "The person travelling to Arunachal Pradesh"
+    },
+    {
+        "question": "Which one of the following States is <i>not</i> prominent for plantation agriculture ?",
+        "options": [
+            "Rajasthan",
+            "Assam",
+            "Nagaland",
+            "Kerala"
+        ],
+        "answer": "Rajasthan"
+    },
+    {
+        "question": "The distance between which two cities has been reduced by the Atal Tunnel ?",
+        "options": [
+            "Bagdogra to Gangtok",
+            "Jammu to Srinagar",
+            "Manali to Leh",
+            "Itanagar to Tawang"
+        ],
+        "answer": "Manali to Leh"
+    },
+    {
+        "question": "Which one of the following biosphere reserves comprises islands with estuaries, beaches, coral reefs, salt marshes and mangroves ?",
+        "options": [
+            "Sunderban biosphere reserve",
+            "Gulf of Mannar biosphere reserve",
+            "Nilgiri biosphere reserve",
+            "Nandadevi biosphere reserve"
+        ],
+        "answer": "Gulf of Mannar biosphere reserve"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a correct statement with reference to the Constitution of India ?",
+        "options": [
+            "The Constitution (Eighty-Fifth) Amendment Act has inserted the 'Right to Education' under Article 21A.",
+            "Article 22 talks about preventive detention.",
+            "Right to Constitutional Remedies is in Part-III of the Constitution.",
+            "Writ jurisdiction of High Courts is wider than the Supreme Court of India."
+        ],
+        "answer": "The Constitution (Eighty-Fifth) Amendment Act has inserted the 'Right to Education' under Article 21A."
+    },
+    {
+        "question": "Which one of the following statements about the Cripps Mission is <i>not</i> correct ?",
+        "options": [
+            "It was sent to India by the British Government in March 1942.",
+            "It proposed that the Constitution of India was to be framed by an elected Constituent Assembly of the Indian people.",
+            "Any province which was not prepared to accept the Constitution would be free to retain its constitutional provisions existing at that time.",
+            "The British Government could enter into a separate constitutional arrangement with any of the acceding provinces."
+        ],
+        "answer": "The British Government could enter into a separate constitutional arrangement with any of the acceding provinces."
+    },
+    {
+        "question": "Which of the following statements regarding constitutional amendment is/are correct ?<br/><ol><li>The procedure for amendment to the Constitution is provided in Article 368.</li><li>A Bill to amend the Constitution can be introduced in either House of the Parliament.</li><li>The special procedure in Article 368 vests constituent powers upon the ordinary legislation.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 and 2 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a circumstance for proclamation of Emergency by the President of India under Article 352 of the Constitution of India ?",
+        "options": [
+            "War",
+            "External aggression",
+            "Internal disturbance",
+            "Armed rebellion"
+        ],
+        "answer": "Internal disturbance"
+    },
+    {
+        "question": "Akbar issued a <i>Farman</i> in 1598 permitting in the city of Cambay (Khambat), Gujarat, the construction of a",
+        "options": [
+            "Temple",
+            "Church",
+            "Synagogue",
+            "Jain Upashraya"
+        ],
+        "answer": "Church"
+    },
+    {
+        "question": "Domingo Paes, the medieval traveller, has described the city of",
+        "options": [
+            "Madurai",
+            "Vijayanagara",
+            "Arikamedu",
+            "Gingee"
+        ],
+        "answer": "Vijayanagara"
+    },
+    {
+        "question": "The extent of damage caused by earthquake is <i>not</i> influenced by which one of the following ?",
+        "options": [
+            "Strength of earthquake",
+            "Population density",
+            "Type of building",
+            "Climate of the area"
+        ],
+        "answer": "Climate of the area"
+    },
+    {
+        "question": "An avalanche is a type of which one of the following disasters ?",
+        "options": [
+            "Atmospheric",
+            "Terrestrial",
+            "Aquatic",
+            "Biological"
+        ],
+        "answer": "Terrestrial"
+    },
+    {
+        "question": "An infection constantly maintained at a baseline level in a geographic area without external input is known as",
+        "options": [
+            "Endemic",
+            "Pandemic",
+            "Epidemic",
+            "Outbreak"
+        ],
+        "answer": "Endemic"
+    },
+    {
+        "question": "Streams and rivers coming from the mountains deposit heavy materials of rocks and boulders in",
+        "options": [
+            "Khadar",
+            "Bhangar",
+            "Bhabar",
+            "Terai"
+        ],
+        "answer": "Bhabar"
+    },
+    {
+        "question": "Which of the following statements regarding the electoral rolls is/are correct ?<br/><ol><li>There is one general electoral roll for every territorial constituency.</li><li>No person is ineligible for inclusion in the electoral roll on grounds of religion, race, caste, sex, or any of them.</li><li>A citizen of India, not less than 18 years of age, can cast his/her vote unless disqualified under a law of an appropriate legislature.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 and 2 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct about 'Totalitarianism' ?",
+        "options": [
+            "It is not akin to autocracy and authoritarianism.",
+            "It usurps political freedom of the individuals, but it doesn't usurp personal freedoms.",
+            "It implies abolition of civil society.",
+            "It is usually identified with a one-party state."
+        ],
+        "answer": "It usurps political freedom of the individuals, but it doesn't usurp personal freedoms."
+    }
+
+    ,
+
+    {
+        "question": "Who among the following was chosen for the Kuvempu Award 2020 ?",
+        "options": [
+            "Dr. Rajendra Kishore Panda",
+            "Amitav Ghosh",
+            "Vikram Seth",
+            "Chetan Bhagat"
+        ],
+        "answer": "Dr. Rajendra Kishore Panda"
+    },
+    {
+        "question": "Avani Lekhara became the first Indian woman to win two Paralympics medals at the Tokyo Paralympics 2020. Which one of the following was her discipline ?",
+        "options": [
+            "Badminton",
+            "Shooting",
+            "Table Tennis",
+            "Archery"
+        ],
+        "answer": "Shooting"
+    },
+    {
+        "question": "Bagram Air Base is located in",
+        "options": [
+            "Turkey",
+            "Pakistan",
+            "Afghanistan",
+            "Israel"
+        ],
+        "answer": "Afghanistan"
+    },
+    {
+        "question": "The Panchmuli Lake is situated near",
+        "options": [
+            "Statue of Equality",
+            "Thiruvalluvar Statue",
+            "Dhyan Buddha Statue",
+            "Statue of Unity"
+        ],
+        "answer": "Statue of Unity"
+    },
+    {
+        "question": "Pinaka, developed in India, is a",
+        "options": [
+            "battle tank.",
+            "multi-barrel rocket launcher.",
+            "anti-tank guided missile.",
+            "armoured utility vehicle."
+        ],
+        "answer": "multi-barrel rocket launcher."
+    },
+    {
+        "question": "What is <i>itat e-dwar</i> ?",
+        "options": [
+            "An Urdu magazine published from Lucknow",
+            "An e-filing portal of Income Tax Appellate Tribunal",
+            "A religious monument",
+            "Name of a UNESCO world heritage site"
+        ],
+        "answer": "An e-filing portal of Income Tax Appellate Tribunal"
+    },
+    {
+        "question": "What is the range capability of Agni-P Ballistic Missile ?",
+        "options": [
+            "1,000 &ndash; 2,000 km",
+            "2,000 &ndash; 3,000 km",
+            "3,000 &ndash; 4,000 km",
+            "4,000 &ndash; 5,000 km"
+        ],
+        "answer": "1,000 &ndash; 2,000 km"
+    },
+    {
+        "question": "Which one of the following Indian States has recently declared itself as the first rabies-free State ?",
+        "options": [
+            "Punjab",
+            "Himachal Pradesh",
+            "Tamil Nadu",
+            "Goa"
+        ],
+        "answer": "Goa"
+    },
+    {
+        "question": "Department of Public Enterprises is a part of",
+        "options": [
+            "Ministry of Finance.",
+            "Ministry of Heavy Industries.",
+            "PMO.",
+            "Ministry of Commerce and Industry."
+        ],
+        "answer": "Ministry of Finance."
+    },
+    {
+        "question": "Chronologically arrange the following Indian-origin astronauts on the basis of their flying into space starting with the first :<br/><ol><li>Sunita Williams</li><li>Rakesh Sharma</li><li>Sirisha Bandla</li><li>Kalpana Chawla</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "4-3-2-1",
+            "2-4-1-3",
+            "2-1-4-3",
+            "1-4-3-2"
+        ],
+        "answer": "2-4-1-3"
+    },
+    {
+        "question": "President Jovenel Moise, who was assassinated recently, was the President of which one of the following countries ?",
+        "options": [
+            "Dominican Republic",
+            "Haiti",
+            "Guatemala",
+            "Cuba"
+        ],
+        "answer": "Haiti"
+    },
+    {
+        "question": "Recently, which one among the following Ministries was formed under the Government of India ?",
+        "options": [
+            "Ministry of New and Renewable Energy",
+            "Ministry of Development of North-Eastern Region",
+            "Ministry of Cooperation",
+            "Ministry of Jal Shakti"
+        ],
+        "answer": "Ministry of Cooperation"
+    },
+    {
+        "question": "Indian Naval Ship <i>INS Tabar</i> had recently participated in a two-day naval exercise with the Italian Navy. The exercise was conducted in",
+        "options": [
+            "Ionian Sea.",
+            "Adriatic Sea.",
+            "Tyrrhenian Sea.",
+            "Mediterranean Sea."
+        ],
+        "answer": "Tyrrhenian Sea."
+    },
+    {
+        "question": "Which one of the following countries has recently been awarded a malaria-free certification by the WHO ?",
+        "options": [
+            "Pakistan",
+            "Bhutan",
+            "China",
+            "Nepal"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "Who amongst the following was honoured with Gandhi Peace Prize for the year 2020 ?",
+        "options": [
+            "Qaboos bin Said Al Said",
+            "Sheikh Mujibur Rahman",
+            "Ekal Abhiyan Trust",
+            "Sulabh International"
+        ],
+        "answer": "Sheikh Mujibur Rahman"
+    },
+    {
+        "question": "Why was Dholavira in the news recently ?",
+        "options": [
+            "Skeletons discovered at this site",
+            "For its conservation effects",
+            "For the discovery of gold and precious stones at this site",
+            "It received the UNESCO World Heritage Tag"
+        ],
+        "answer": "It received the UNESCO World Heritage Tag"
+    },
+    {
+        "question": "Which one of the following is the oldest football tournament of Asia ?",
+        "options": [
+            "Federation Cup",
+            "Santosh Trophy",
+            "Durand Cup",
+            "Rovers Cup"
+        ],
+        "answer": "Durand Cup"
+    },
+    {
+        "question": "Who among the following is the first Indian woman to win a medal in the Olympics ?",
+        "options": [
+            "Karnam Malleswari",
+            "Mirabai Chanu",
+            "P.T. Usha",
+            "P.V. Sindhu"
+        ],
+        "answer": "Karnam Malleswari"
+    },
+    {
+        "question": "The Russian Federation participated in the Tokyo Olympics, 2020 under which of the following names ?",
+        "options": [
+            "Russian Olympic Committee",
+            "Russian Federal Committee",
+            "Russian Sports Committee",
+            "Russian Republican Committee"
+        ],
+        "answer": "Russian Olympic Committee"
+    },
+    {
+        "question": "Which of the following States/Union Territory/Region are in special focus in the National Mission on Edible Oils &ndash; Oil Palm ?",
+        "options": [
+            "Himachal Pradesh and Andaman and Nicobar Islands",
+            "North-East Region and Andaman and Nicobar Islands",
+            "North-East Region and Gujarat",
+            "Uttar Pradesh and Gujarat"
+        ],
+        "answer": "North-East Region and Andaman and Nicobar Islands"
+    }
+
+    ],
     "2022-I": [
     {
         "question": "If the magnification produced by a lens is +2, then the image is :",
