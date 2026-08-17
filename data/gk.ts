@@ -1,6 +1,1618 @@
 import type { Question } from "@/types/Question";
 
 const gkData: Record<string, Question[]> = {
+    "2022-I": [
+    {
+        "question": "If the magnification produced by a lens is +2, then the image is :",
+        "options": [
+            "erect, virtual and smaller than the object.",
+            "inverted, real and smaller than the object.",
+            "erect, virtual and larger than the object.",
+            "inverted, real and larger than the object."
+        ],
+        "answer": "erect, virtual and larger than the object."
+    },
+    {
+        "question": "What is the correct sequence of resistivity of silver, nichrome and glass at room temperature ?",
+        "options": [
+            "Silver < Nichrome < Glass",
+            "Glass < Nichrome < Silver",
+            "Silver < Glass < Nichrome",
+            "Nichrome < Silver < Glass"
+        ],
+        "answer": "Silver < Nichrome < Glass"
+    },
+    {
+        "question": "At the time of short-circuit, the current in the circuit :",
+        "options": [
+            "reduces substantially.",
+            "does not change.",
+            "increases heavily.",
+            "keeps on fluctuating."
+        ],
+        "answer": "increases heavily."
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct ?",
+        "options": [
+            "An electric motor converts electrical energy into mechanical energy.",
+            "An electric generator works on the principle of electromagnetic induction.",
+            "The magnetic field at the centre of a long circular coil carrying current will be parallel straight lines.",
+            "A wire with a green insulation is usually the live wire of an electric supply."
+        ],
+        "answer": "A wire with a green insulation is usually the live wire of an electric supply."
+    },
+    {
+        "question": "A boy completes one round of a circular track of diameter 200 m in 30 s. What will be the displacement at the end of 3 minutes and 45 seconds ?",
+        "options": [
+            "50 m",
+            "100 m",
+            "200 m",
+            "236 m"
+        ],
+        "answer": "200 m"
+    },
+    {
+        "question": "What happens to the gravitational force between two objects if the mass of one object is doubled and the distance between them is also doubled ?",
+        "options": [
+            "The force would remain the same",
+            "The force would be doubled",
+            "The force would be halved",
+            "The force would increase by a factor of 4"
+        ],
+        "answer": "The force would be halved"
+    },
+    {
+        "question": "The number of moles of oxygen gas used in the complete combustion of 1 mole of glucose is :",
+        "options": [
+            "1",
+            "3",
+            "6",
+            "12"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an example of an oxidation reaction ?",
+        "options": [
+            "The taste of butter changes if left for a longer period",
+            "A white substance is formed when an aqueous solution of barium chloride is mixed with sodium sulphate solution",
+            "A reddish-brown powder gets coated on articles made of iron",
+            "Wine gets sour with time"
+        ],
+        "answer": "A white substance is formed when an aqueous solution of barium chloride is mixed with sodium sulphate solution"
+    },
+    {
+        "question": "Methanoic acid is normally found in :",
+        "options": [
+            "muscles",
+            "urine",
+            "ant stings",
+            "human brain"
+        ],
+        "answer": "ant stings"
+    },
+    {
+        "question": "What is the number of moles of 'He' in 104 g of helium gas ?",
+        "options": [
+            "52",
+            "26",
+            "13",
+            "6.5"
+        ],
+        "answer": "26"
+    },
+    {
+        "question": "While burning hydrocarbon fuels, if we see a yellow flame with lots of black smoke, it means that the fuel is :",
+        "options": [
+            "made of saturated hydrocarbons.",
+            "made of unsaturated hydrocarbons.",
+            "burning completely.",
+            "wet."
+        ],
+        "answer": "made of unsaturated hydrocarbons."
+    },
+    {
+        "question": "The number of saturated and unsaturated bonds in cyclohexane are :",
+        "options": [
+            "9 and 0 respectively.",
+            "18 and 3 respectively.",
+            "18 and 0 respectively.",
+            "9 and 3 respectively."
+        ],
+        "answer": "18 and 0 respectively."
+    },
+    {
+        "question": "Which one of the following statements is true when non-metals are dissolved in water ?",
+        "options": [
+            "They produce basic oxides.",
+            "They produce acidic oxides.",
+            "They produce neutral oxides.",
+            "They provide hydroxides."
+        ],
+        "answer": "They produce acidic oxides."
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct with regard to genetically modified organisms ?",
+        "options": [
+            "In this technique a gene from one organism is isolated and transferred to the cell of another organism.",
+            "This technique has applications only in plants.",
+            "Genes for insect resistance may spread from crop plants to wild plants.",
+            "To produce a transgenic animal the novel genes are inserted at a very early stage of development."
+        ],
+        "answer": "This technique has applications only in plants."
+    },
+    {
+        "question": "Suppose, due to an accident, the delicate lining of the mouth and the oesophagus of a person is injured. In this case, which one of the following tissues will be affected ?",
+        "options": [
+            "Smooth muscle",
+            "Cuboidal epithelium",
+            "Squamous epithelium",
+            "Striated muscle"
+        ],
+        "answer": "Squamous epithelium"
+    },
+    {
+        "question": "Which one of the following statements is correct about the cell membrane ?",
+        "options": [
+            "It is made up of cellulose.",
+            "It is a permeable structure for all substances.",
+            "It is flexible and enables the cell to engulf many materials.",
+            "It does not allow diffusion of gases like oxygen and carbon dioxide."
+        ],
+        "answer": "It is flexible and enables the cell to engulf many materials."
+    },
+    {
+        "question": "Plants prepare glucose in the process of :",
+        "options": [
+            "respiration",
+            "photosynthesis",
+            "degradation",
+            "mineral absorption"
+        ],
+        "answer": "photosynthesis"
+    },
+    {
+        "question": "The disease rickets develops in children due to the deficiency of :",
+        "options": [
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin A",
+            "Vitamin B"
+        ],
+        "answer": "Vitamin D"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><table><tr><th>List I (Blood Vessel)</th><th>List II (Function)</th></tr><tr><td>A. Pulmonary artery</td><td>1. Carries blood from lungs to heart</td></tr><tr><td>B. Capillaries</td><td>2. Carries blood to heart muscle</td></tr><tr><td>C. Coronary artery</td><td>3. Connection between arteries and veins</td></tr><tr><td>D. Pulmonary vein</td><td>4. Carries blood from heart to lungs</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-3, C-2, D-1",
+            "A-4, B-2, C-3, D-1",
+            "A-1, B-2, C-3, D-4",
+            "A-1, B-3, C-2, D-4"
+        ],
+        "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+        "question": "Which one of the following statements is true with regard to a greenhouse ?",
+        "options": [
+            "The shorter wavelength infrared radiations from the Sun can enter into the greenhouse while longer wavelength infrared radiations from the ground and the plants inside the greenhouse cannot pass back out through the glass.",
+            "The shorter wavelength infrared radiations from the Sun can enter into the greenhouse and the longer wavelength infrared radiations from the ground and the plants inside the greenhouse can also pass back out through the glass.",
+            "The shorter wavelength infrared radiations from the Sun cannot enter into the greenhouse while longer wavelength infrared radiations from the ground and the plants inside the greenhouse can pass back out through the glass.",
+            "No infrared radiation can pass through the glass of the greenhouse."
+        ],
+        "answer": "The shorter wavelength infrared radiations from the Sun can enter into the greenhouse while longer wavelength infrared radiations from the ground and the plants inside the greenhouse cannot pass back out through the glass."
+    },
+    {
+        "question": "An object weighs 9 N on the surface of the Earth. What would be its weight, when measured on the surface of a planet where the acceleration due to gravity is 9 times that on the surface of the Earth ?",
+        "options": [
+            "The weight would remain the same",
+            "The weight would be equal to 1 N",
+            "The weight would become 9 times",
+            "The weight will be reduced to 1/9 N"
+        ],
+        "answer": "The weight would become 9 times"
+    },
+    {
+        "question": "The twinkling of a star is due to :",
+        "options": [
+            "atmospheric reflection of starlight.",
+            "atmospheric refraction of starlight.",
+            "continuous change in the position of the star.",
+            "oscillation of starlight."
+        ],
+        "answer": "atmospheric refraction of starlight."
+    },
+    {
+        "question": "A convex lens has a focal length of 15 cm. At what distance should an object be placed in front of the lens to get a real image of the same size of the object ?",
+        "options": [
+            "15 cm",
+            "10 cm",
+            "30 cm",
+            "40 cm"
+        ],
+        "answer": "30 cm"
+    },
+    {
+        "question": "Which one of the following statements about biogas is <i>not</i> correct ?",
+        "options": [
+            "It is mainly composed of methane gas.",
+            "It is a non-renewable source of energy.",
+            "It is formed by the decomposition of cow dung in the absence of oxygen.",
+            "It burns without smoke and leaves no residue."
+        ],
+        "answer": "It is a non-renewable source of energy."
+    },
+    {
+        "question": "Which of the following mineral acids is found in human stomach ?",
+        "options": [
+            "Hydrochloric acid",
+            "Lactic acid",
+            "Uric acid",
+            "Methanoic acid"
+        ],
+        "answer": "Hydrochloric acid"
+    },
+    {
+        "question": "Which one of the following living organisms gives litmus ?",
+        "options": [
+            "Protozoa",
+            "Virus",
+            "Lichen",
+            "Saccharomyces"
+        ],
+        "answer": "Lichen"
+    },
+    {
+        "question": "Which one of the following is the main reason of acid rains ?",
+        "options": [
+            "Dissolution of sulphur and nitrogen oxides in rain",
+            "Dissolution of minerals in rain",
+            "Dissolution of dust particles in rain",
+            "Dissolution of soil solution in rain"
+        ],
+        "answer": "Dissolution of sulphur and nitrogen oxides in rain"
+    },
+    {
+        "question": "Mutation in a virus is caused due to a change in its :",
+        "options": [
+            "cell size.",
+            "genetic material.",
+            "shape.",
+            "colour."
+        ],
+        "answer": "genetic material."
+    },
+    {
+        "question": "Yeast, which is used to make bread, belongs to the group :",
+        "options": [
+            "Protista",
+            "Fungi",
+            "Monera",
+            "Protozoa"
+        ],
+        "answer": "Fungi"
+    },
+    {
+        "question": "Hyphae are :",
+        "options": [
+            "produced by yeast.",
+            "thin threads formed by many fungi.",
+            "reproductive cells.",
+            "responsible for preventing the cell from losing water in wet conditions."
+        ],
+        "answer": "thin threads formed by many fungi."
+    },
+    {
+        "question": "Which one of the following is the first urban settlement in the world to reach a population size of one million (million-plus city) ?",
+        "options": [
+            "London",
+            "Paris",
+            "New York",
+            "Washington D.C."
+        ],
+        "answer": "London"
+    },
+    {
+        "question": "Which one of the following climatic types (K&ouml;ppen's Scheme) is best suited to describe the climate of the western fringe of Rajasthan ?",
+        "options": [
+            "Amw",
+            "Aw",
+            "Bwhw",
+            "Cwg"
+        ],
+        "answer": "Bwhw"
+    },
+    {
+        "question": "Where are the Bermuda Islands located ?",
+        "options": [
+            "Caribbean Sea",
+            "North Atlantic Ocean",
+            "Gulf of Mexico",
+            "Mediterranean Sea"
+        ],
+        "answer": "North Atlantic Ocean"
+    },
+    {
+        "question": "Which one of the following States/Union Territories has the highest percentage of forest area to the total geographical area ?",
+        "options": [
+            "Arunachal Pradesh",
+            "Lakshadweep",
+            "Nagaland",
+            "Mizoram"
+        ],
+        "answer": "Lakshadweep"
+    },
+    {
+        "question": "In India, the period of steady population growth refers to the decade(s) of :",
+        "options": [
+            "1981 - 2011",
+            "1951 - 1981",
+            "1921 - 1951",
+            "1911 - 1921"
+        ],
+        "answer": "1921 - 1951"
+    },
+    {
+        "question": "Manikaran in Himachal Pradesh is known for :",
+        "options": [
+            "Solar energy.",
+            "Geothermal energy.",
+            "Bioenergy.",
+            "Wind energy."
+        ],
+        "answer": "Geothermal energy."
+    },
+    {
+        "question": "Who among the following, first mooted the idea of deficit financing ?",
+        "options": [
+            "Adam Smith",
+            "Alfred Marshall",
+            "John Maynard Keynes",
+            "Milton Friedman"
+        ],
+        "answer": "John Maynard Keynes"
+    },
+    {
+        "question": "Which of the following is/are the function(s) of environment ?<br/><ol><li>Supplying resources</li><li>Sustaining life</li><li>Providing aesthetic services</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3",
+            "1 and 3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Who among the following formulated the concept of poverty as a measurable development indicator in the Indian subcontinent ?",
+        "options": [
+            "Dadabhai Naoroji",
+            "Romesh Chandra Dutt",
+            "V.K.R.V. Rao",
+            "M. Ranade"
+        ],
+        "answer": "Dadabhai Naoroji"
+    },
+    {
+        "question": "Which one of the following terms denotes the inputs in terms of tools, machines, buildings, raw materials and money in hand required at any stage of production ?",
+        "options": [
+            "Fixed capital",
+            "Working capital",
+            "Physical capital",
+            "Human capital"
+        ],
+        "answer": "Physical capital"
+    }
+,
+
+    {
+        "question": "Which one of the following inputs is required in less quantity in case of non-farming activities ?",
+        "options": [
+            "Land",
+            "Labour",
+            "Capital",
+            "Raw material"
+        ],
+        "answer": "Land"
+    },
+    {
+        "question": "Which one of the following statements with regard to the National Rural Employment Guarantee Act, 2005 is correct ?",
+        "options": [
+            "It ensures 175 days of employment to needy persons in rural areas.",
+            "It gives higher wages to women workers.",
+            "People are generally given both skilled and unskilled jobs.",
+            "This is implemented only in rural areas of India."
+        ],
+        "answer": "This is implemented only in rural areas of India."
+    },
+    {
+        "question": "Which one of the following is <i>not</i> mentioned as a form of Emergency in the Constitution of India ?",
+        "options": [
+            "National Emergency",
+            "State Emergency in terms of Proclamation of President's Rule in a State",
+            "Financial Emergency",
+            "Health Emergency"
+        ],
+        "answer": "Health Emergency"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a provision related to a Money Bill ?",
+        "options": [
+            "Imposition, abolition, remission, alteration or regulation of any tax",
+            "Appropriation of moneys out of the Consolidated Fund of India",
+            "Imposition of fines by local authority for local purpose",
+            "Custody of the Consolidated Fund of India or the Contingency Fund of India"
+        ],
+        "answer": "Imposition of fines by local authority for local purpose"
+    },
+    {
+        "question": "Which one of the following items is <i>not</i> covered under GST ?",
+        "options": [
+            "Cosmetics",
+            "Medical grade oxygen",
+            "Jewellery",
+            "Petrol"
+        ],
+        "answer": "Petrol"
+    },
+    {
+        "question": "Which of the following statements is/are correct ?<br/><ol><li>Committee on Estimates is an ad hoc committee of the Parliament.</li><li>Committee on Railway Convention is a standing committee of the Parliament.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Neither 1 nor 2"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an Indian form of Socialism ?",
+        "options": [
+            "Democratic Socialism",
+            "Radical Socialism",
+            "Communitarian Socialism",
+            "Nehruvian Socialism"
+        ],
+        "answer": "Radical Socialism"
+    },
+    {
+        "question": "Which one of the following best describes BRICS ?",
+        "options": [
+            "A group of five nuclear powers",
+            "A group of five industrialized nations",
+            "A group of five major emerging economies",
+            "A group of five potentially strong UN Security Council members from the Countries of the Global South"
+        ],
+        "answer": "A group of five major emerging economies"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a characteristic feature of Indian Federalism ?",
+        "options": [
+            "The federating units consented to form a union",
+            "Residuary powers vest with the Centre",
+            "Single citizenship",
+            "An extensive Union and Concurrent list"
+        ],
+        "answer": "The federating units consented to form a union"
+    },
+    {
+        "question": "Which of the following statements about sculptures at Sanchi is/are correct ?<br/><ol><li>In some sculptures there is representation of Shalabhanjika.</li><li>The figure of Shalabhanjika is represented by a woman surrounded by lotuses and elephants.</li><li>The Shalabhanjika motif was not directly inspired by Buddhist ideas.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "2 only",
+            "1 and 3 only"
+        ],
+        "answer": "1 and 3 only"
+    },
+    {
+        "question": "In which one of the following years was the first telegraphic connection established between Europe and India ?",
+        "options": [
+            "1851",
+            "1854",
+            "1865",
+            "1871"
+        ],
+        "answer": "1865"
+    },
+    {
+        "question": "Who among the following was the founder of the Virashaiva Movement in Karnataka ?",
+        "options": [
+            "Basavanna",
+            "Appar",
+            "Sambandar",
+            "Sundarar"
+        ],
+        "answer": "Basavanna"
+    },
+    {
+        "question": "The ruins of Hampi were brought to light by which of the following British officers of the East India Company ?",
+        "options": [
+            "Colonel Colin Mackenzie",
+            "James Prinsep",
+            "William Jones",
+            "James Rennell"
+        ],
+        "answer": "Colonel Colin Mackenzie"
+    },
+    {
+        "question": "Which one of the following works was composed by Krishnadevaraya on statecraft in Telugu ?",
+        "options": [
+            "Amuktamalyada",
+            "Jambavati Kalyanam",
+            "Rayavachakamu",
+            "Satyavadu Parinaya"
+        ],
+        "answer": "Amuktamalyada"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><table><tr><th>List I (Soil Type)</th><th>List II (Salient Characteristic)</th></tr><tr><td>A. Entisols</td><td>1. Soils having weakly or quickly developed horizons</td></tr><tr><td>B. Inceptisols</td><td>2. Weakly developed soils with no horizons</td></tr><tr><td>C. Histosols</td><td>3. These soils are very old and highly weathered</td></tr><tr><td>D. Oxisols</td><td>4. These soils have very high quantity of organic matter in the upper layers</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-1, C-4, D-3",
+            "A-2, B-4, C-1, D-3",
+            "A-3, B-4, C-1, D-2",
+            "A-3, B-1, C-4, D-2"
+        ],
+        "answer": "A-2, B-1, C-4, D-3"
+    },
+    {
+        "question": "A peripediment in a desert or semi-desert region is also known as :",
+        "options": [
+            "Inselberg",
+            "Zeugen",
+            "Bajada",
+            "Playa"
+        ],
+        "answer": "Bajada"
+    },
+    {
+        "question": "Individual lava flows are normally only a few feet thick, but over a long period of time, repeated flows may build up a volcano. Such volcanoes are termed as :",
+        "options": [
+            "Shield volcano.",
+            "Composite volcano.",
+            "Strato-volcano.",
+            "Cinder-cone volcano."
+        ],
+        "answer": "Shield volcano."
+    },
+    {
+        "question": "Isohalines are lines joining equal :",
+        "options": [
+            "temperature.",
+            "pressure.",
+            "rainfall.",
+            "salinity."
+        ],
+        "answer": "salinity."
+    },
+    {
+        "question": "Which one of the following would be considered as Foreign Direct Investment ?",
+        "options": [
+            "A foreign company buying shares in stock exchanges in India",
+            "A foreign country pension fund investing in Indian stock markets",
+            "A foreign merchant banker buying shares from Indian stock markets",
+            "A foreign entity setting up an educational institution in India"
+        ],
+        "answer": "A foreign entity setting up an educational institution in India"
+    },
+    {
+        "question": "Which one of the following does <i>not</i> influence quantity demanded for a good ?",
+        "options": [
+            "Good's own price",
+            "Price of a complementary good",
+            "Price of a substitute good",
+            "Prices of inputs into production of the good"
+        ],
+        "answer": "Prices of inputs into production of the good"
+    },
+    {
+        "question": "Infant mortality ratio of which one of the following countries is comparable to that of India ?",
+        "options": [
+            "China",
+            "United States of America",
+            "Sri Lanka",
+            "None of the above"
+        ],
+        "answer": "None of the above"
+    },
+    {
+        "question": "Which of the following factors signify monopolistic competition ?<br/><ol><li>Differentiated products</li><li>Large number of buyers and sellers</li><li>Barriers to entry</li><li>Homogeneous products</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3 only",
+            "3 and 4 only",
+            "2 and 4 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Article 19(1) of the Constitution of India, as it stands amended, includes which of the following ?<br/><ol><li>Freedom of speech and expression</li><li>Assemble peaceably and without arms</li><li>To acquire and dispose property</li><li>To move freely throughout the territory of India</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "1, 2, 3 and 4",
+            "4 only",
+            "1, 2 and 4 only"
+        ],
+        "answer": "1, 2 and 4 only"
+    },
+    {
+        "question": "Which one of the following statements with regard to the Election Commission is <i>not</i> correct ?",
+        "options": [
+            "It conducts elections to the office of the Vice President of India.",
+            "An Election Commissioner can be removed from his office without the recommendation of the Chief Election Commissioner.",
+            "Election Commissioners are appointed by the President of India.",
+            "Governor of a State is constitutionally bound to provide support staff to the Election Commission, if required."
+        ],
+        "answer": "An Election Commissioner can be removed from his office without the recommendation of the Chief Election Commissioner."
+    },
+    {
+        "question": "Which of the following statements with regard to the Preamble to the Constitution of India is/are correct ?<br/><ol><li>Equality of status and equality of opportunity find mention in the Preamble.</li><li>The expression 'unity and integrity of the Nation' was not there in the Preamble since the beginning.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "In Part-IVA of the Constitution of India, which one of the following is <i>not</i> mentioned as a duty of every citizen of India ?",
+        "options": [
+            "To render national service when called upon to do so",
+            "To renounce practices derogatory to the dignity of women",
+            "To value and preserve a unitary national culture",
+            "To develop the spirit of inquiry and reform"
+        ],
+        "answer": "To value and preserve a unitary national culture"
+    },
+    {
+        "question": "Which of the following terms were used in the Indo-Persian sources of the Mughal period to denote a peasant ?<br/><ol><li>Raiyat</li><li>Asami</li><li>Muzarian</li><li>Majur</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3 only",
+            "1, 3 and 4 only"
+        ],
+        "answer": "1, 2 and 3 only"
+    },
+    {
+        "question": "Who among the following pioneering Bengali women serialised her autobiography <i>Amar Katha</i> between 1910 and 1913 ?",
+        "options": [
+            "Binodini Dasi",
+            "Rashsundari Debi",
+            "Begum Rokeya Sakhawat Hossain",
+            "Kailashbashini Debi"
+        ],
+        "answer": "Binodini Dasi"
+    },
+    {
+        "question": "Arrange the following events chronologically starting from the earliest :<br/><ol><li>Ahmedabad Mill Strike</li><li>Champaran Satyagraha</li><li>Foundation of the Satyagraha Sabha</li><li>Jallianwala Bagh Massacre</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2, 3, 4",
+            "2, 1, 3, 4",
+            "2, 4, 1, 3",
+            "4, 2, 1, 3"
+        ],
+        "answer": "2, 1, 3, 4"
+    },
+    {
+        "question": "The year 1916 is important in Indian history for :<br/><ol><li>Lucknow Session of the Congress</li><li>Congress - League Pact</li><li>Formation of Home Rule League</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 3 only",
+            "2 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><table><tr><th>List I (Railway Zone)</th><th>List II (Headquarters)</th></tr><tr><td>A. South-Eastern</td><td>1. Secunderabad</td></tr><tr><td>B. South-Central</td><td>2. Kolkata</td></tr><tr><td>C. South-Western</td><td>3. Bilaspur</td></tr><tr><td>D. South-East-Central</td><td>4. Hubli</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-1, C-4, D-3",
+            "A-2, B-4, C-1, D-3",
+            "A-3, B-4, C-1, D-2",
+            "A-3, B-1, C-4, D-2"
+        ],
+        "answer": "A-2, B-1, C-4, D-3"
+    }
+,
+
+    {
+        "question": "Ten Degree Channel is found between :",
+        "options": [
+            "North Andaman and Middle Andaman.",
+            "South Andaman and Little Andaman.",
+            "Little Andaman and Car Nicobar.",
+            "Car Nicobar and Great Nicobar."
+        ],
+        "answer": "Little Andaman and Car Nicobar."
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><table><tr><th>List I (Waterfall)</th><th>List II (State)</th></tr><tr><td>A. Barkana</td><td>1. Tamil Nadu</td></tr><tr><td>B. Dudhsagar</td><td>2. Odisha</td></tr><tr><td>C. Duduma</td><td>3. Karnataka</td></tr><tr><td>D. Kiliyur</td><td>4. Goa</td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-2, C-4, D-1",
+            "A-3, B-4, C-2, D-1",
+            "A-1, B-4, C-2, D-3",
+            "A-1, B-2, C-4, D-3"
+        ],
+        "answer": "A-3, B-4, C-2, D-1"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a resultant of the El Nino effect ?",
+        "options": [
+            "Distortion of equatorial atmospheric circulation",
+            "Flow of the South-East Trade Winds towards the Indian Ocean",
+            "Irregularities in the evaporation of sea water",
+            "Reduction in the amount of planktons which reduces the number of fish in the sea"
+        ],
+        "answer": "Flow of the South-East Trade Winds towards the Indian Ocean"
+    },
+    {
+        "question": "According to the Constitution of India, which one of the following statements is <i>not</i> correct ?",
+        "options": [
+            "The executive powers of the Union shall be vested in the President of India.",
+            "Parliament, by law, can confer functions on authorities other than the President of India.",
+            "The President of India is elected by an electoral college consisting of all Members of Parliament and all Members of all State Legislatures.",
+            "A person, having held office as the President, shall be eligible for election to that office for the second term."
+        ],
+        "answer": "The President of India is elected by an electoral college consisting of all Members of Parliament and all Members of all State Legislatures."
+    },
+    {
+        "question": "Which one of the following Articles of the Constitution of India requires the Prime Minister of India to furnish information related to decisions of the Council of Ministers to the President of India ?",
+        "options": [
+            "Article 78",
+            "Article 74",
+            "Article 75",
+            "Article 81"
+        ],
+        "answer": "Article 78"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct ?",
+        "options": [
+            "All executive actions of the Government of India are taken in the name of the President of India.",
+            "The President of India appoints a person as Attorney General of India provided she/he is qualified to be a Judge of the Supreme Court or a High Court.",
+            "The total number of Ministers in the Council of Ministers cannot exceed ten percent of the total number of members of the House of People.",
+            "The President of India is bound to act as per the advice tendered by the Council of Ministers."
+        ],
+        "answer": "The total number of Ministers in the Council of Ministers cannot exceed ten percent of the total number of members of the House of People."
+    },
+    {
+        "question": "The issue, 'whether Section 377 of the Indian Penal Code is violative of Articles 21, 14 and 15 of the Constitution of India' was decided in which one of the following cases ?",
+        "options": [
+            "Shreya Singhal vs. Union of India",
+            "Vishakha vs. State of Rajasthan",
+            "Shayara Bano vs. Union of India",
+            "Naz Foundation vs. Government of NCT of Delhi and others"
+        ],
+        "answer": "Naz Foundation vs. Government of NCT of Delhi and others"
+    },
+    {
+        "question": "Which one of the following writs means 'you may have the body' ?",
+        "options": [
+            "Habeas Corpus",
+            "Mandamus",
+            "Certiorari",
+            "Quo Warranto"
+        ],
+        "answer": "Habeas Corpus"
+    },
+    {
+        "question": "Who among the following belonged to Serampore Mission ?<br/><ol><li>William Carey</li><li>Joshua Marshman</li><li>William Ward</li><li>David Hare</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "1, 2 and 3 only",
+            "2, 3 and 4 only"
+        ],
+        "answer": "1, 2 and 3 only"
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>In the 19th century, peasants in various parts of India rose in revolt against moneylenders and grain dealers.</li><li>In May 1875, at village Supa in Poona District in the Bombay Deccan, peasants attacked shopkeepers, burnt the <i>bahi khatas</i> (account books), looted grain shops and set fire to the houses of Sahukars.</li></ol><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which one of the following was <i>not</i> a part of Kautilya's Saptanga Theory of the State ?",
+        "options": [
+            "Amatya",
+            "Janapada",
+            "Durga",
+            "Dhamma"
+        ],
+        "answer": "Dhamma"
+    },
+    {
+        "question": "Consider the following statements about Ashoka's faith in Buddhism :<br/><ol><li>Rummindei Pillar Inscription and Nigali Sagar Pillar Inscription provide clear evidence of Ashoka's faith in Buddhism.</li><li>Minor Rock Edict-I gives evidence of a sudden change in Ashoka's faith in Buddhism.</li></ol><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which of the following variable(s) is/are displayed in population pyramids ?<br/><ol><li>Age-groups</li><li>Sex indicators (male and female)</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><table><tr><th>List I (Lake)</th><th>List II (State)</th></tr><tr><td>A. Kaliveli</td><td>1. Sikkim</td></tr><tr><td>B. Khajjiar</td><td>2. Kerala</td></tr><tr><td>C. Khecheopalri</td><td>3. Himachal Pradesh</td></tr><tr><td>D. Vembanad</td><td>4. Tamil Nadu</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-1, C-3, D-4",
+            "A-2, B-3, C-1, D-4",
+            "A-4, B-1, C-3, D-2",
+            "A-4, B-3, C-1, D-2"
+        ],
+        "answer": "A-4, B-3, C-1, D-2"
+    },
+    {
+        "question": "Which one of following is the most important factor for the formulation of smog ?",
+        "options": [
+            "Long winter nights",
+            "Formation of an 'inversion lid'",
+            "Presence of many air pollutant resources",
+            "Rapid fall in temperature with increasing height above the sea level"
+        ],
+        "answer": "Formation of an 'inversion lid'"
+    },
+    {
+        "question": "Mount Thuillier (642 m) is an important mountain peak of Andaman and Nicobar Islands. It is located in :",
+        "options": [
+            "North Andaman",
+            "Middle Andaman",
+            "South Andaman",
+            "Great Nicobar"
+        ],
+        "answer": "Great Nicobar"
+    },
+    {
+        "question": "Which one of the following land surfaces has the highest albedo ?",
+        "options": [
+            "A snow covered mountain",
+            "A barren rocky piedmont surface",
+            "A sandy desert",
+            "A mangrove forest"
+        ],
+        "answer": "A snow covered mountain"
+    },
+    {
+        "question": "Which one of the following terms represents the maxim, 'no man/person shall be condemned unheard' ?",
+        "options": [
+            "<i>Autrefois acquit</i>",
+            "<i>Non bis in idem</i>",
+            "<i>Autrefois convict</i>",
+            "<i>Audi Alteram Partem</i>"
+        ],
+        "answer": "<i>Audi Alteram Partem</i>"
+    },
+    {
+        "question": "Which one of the following statements about the Speaker of Lok Sabha is <i>not</i> correct ?",
+        "options": [
+            "He shall vacate his office if he ceases to be a member of the House of the People.",
+            "He may, at any time, resign by writing his resignation to the President of India.",
+            "He may be removed from his office by a resolution of the House of the People passed by majority of all the then members of the House.",
+            "While the office of the Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker."
+        ],
+        "answer": "He may, at any time, resign by writing his resignation to the President of India."
+    },
+    {
+        "question": "Which one of the following statements about a Bill for Amendment of the Constitution of India is <i>not</i> correct ?",
+        "options": [
+            "It is governed by Article 368(2) of the Constitution of India.",
+            "Joint sitting can be resorted to for passing a Bill amending the Constitution of India.",
+            "The State Legislatures cannot initiate any Bill or proposal for amendment of the Constitution of India.",
+            "The previous sanction of the President of India is not required for introducing any Bill in the Parliament for amendment of the Constitution of India."
+        ],
+        "answer": "Joint sitting can be resorted to for passing a Bill amending the Constitution of India."
+    },
+    {
+        "question": "Which one of the following methods is followed in electing the President of India ?",
+        "options": [
+            "Proportional Representation only",
+            "First-Past-the-Post System only",
+            "Proportional Representation and the Single Transferable Vote System",
+            "Proportional Representation and the First-Past-the-Post System"
+        ],
+        "answer": "Proportional Representation and the Single Transferable Vote System"
+    },
+    {
+        "question": "From among the following Mahajanapadas, identify the <i>gana/sangha</i> (oligarchy) :",
+        "options": [
+            "Magadha",
+            "Vajji",
+            "Avanti",
+            "Kosala"
+        ],
+        "answer": "Vajji"
+    },
+    {
+        "question": "The provision for separate electorate for Muslims was given in",
+        "options": [
+            "Morley-Minto Reforms, 1909",
+            "Montagu-Chelmsford Reforms, 1919",
+            "Communal Award, 1932",
+            "Government of India Act, 1935"
+        ],
+        "answer": "Morley-Minto Reforms, 1909"
+    },
+    {
+        "question": "Which of the following was/were the founder member(s) of Hindustan Socialist Republican Army established in September, 1928 ?<br/><ol><li>Bhagat Singh</li><li>Jatindranath</li><li>Ajoy Ghosh</li><li>Phanindranath Ghosh</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3 only",
+            "1, 2, 3 and 4"
+        ],
+        "answer": "1, 2, 3 and 4"
+    },
+    {
+        "question": "Who among the following did <i>not</i> belong to the group of 'No-Changers' ?",
+        "options": [
+            "M.A. Ansari",
+            "Vithalbhai Patel",
+            "Chakravarti Rajagopalachari",
+            "Kasturi Ranga Iyengar"
+        ],
+        "answer": "Vithalbhai Patel"
+    },
+    {
+        "question": "The headquarters of Ghadar Movement/Party were at",
+        "options": [
+            "San Francisco",
+            "Stanford University",
+            "Portland",
+            "Florida"
+        ],
+        "answer": "San Francisco"
+    },
+    {
+        "question": "Which one of the following pairs of Newspaper and Editor is <i>not</i> correctly matched ?",
+        "options": [
+            "Navjivan : Mahatma Gandhi",
+            "Mahratta : Bal Gangadhar Tilak",
+            "Bengalee : Surendranath Banerjea",
+            "Voice of India : Gopal Krishna Gokhale"
+        ],
+        "answer": "Voice of India : Gopal Krishna Gokhale"
+    },
+    {
+        "question": "Which one of the following was <i>not</i> included in the terms and conditions of Subsidiary Alliance System of Lord Wellesley ?",
+        "options": [
+            "The British would protect their ally.",
+            "The ally was free to enter into agreements with other rulers or engage in warfare.",
+            "In the territory of the ally, a British armed contingent would be stationed.",
+            "The ally would have to provide resources for the maintenance of the British armed contingent."
+        ],
+        "answer": "The ally was free to enter into agreements with other rulers or engage in warfare."
+    },
+    {
+        "question": "Which one of the following is an exhaustible but renewable natural resource ?",
+        "options": [
+            "Solar energy",
+            "Water in usable condition",
+            "Soil",
+            "Landscape in its natural condition"
+        ],
+        "answer": "Water in usable condition"
+    },
+    {
+        "question": "Recently, the term 'two-pillar solution/two-pillar package' often seen in the news, refers to",
+        "options": [
+            "Global energy security in near future",
+            "International cyber crime reporting",
+            "Minimum global corporate tax",
+            "Prevention of international money laundering"
+        ],
+        "answer": "Minimum global corporate tax"
+    },
+    {
+        "question": "Consider the following pairs of vaccine and category/type :<br/><ol><li>Covaxin : Inactivated pathogen-based vaccine</li><li>Covishield : mRNA vaccine</li><li>Sputnik V : Viral vector-based vaccine</li></ol><br/>Which of the pairs given above is/are correctly matched ?",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 3 only"
+    },
+    {
+        "question": "What is 'Unicorn Company' often mentioned in Indian news ?",
+        "options": [
+            "Any privately held startup company with a value of over $ 1 billion",
+            "Any public sector company to be merged with another public sector company",
+            "Privatization of any loss-making State-owned company",
+            "Any foreign multinational company doing business in India in collaboration with an Indian company"
+        ],
+        "answer": "Any privately held startup company with a value of over $ 1 billion"
+    },
+    {
+        "question": "A global initiative popularly known as '30 &times; 30 target' is often seen in the news. Which one of the following statements best reflects this initiative ?",
+        "options": [
+            "At least 30% of the planet should be protected by 2030.",
+            "At least 30% of the cultivated area should be brought under organic farming by 2030.",
+            "At least 30% of the energy requirements should be met by renewable sources by 2030.",
+            "At least 30% of the people below poverty line should be brought out of their poverty by 2030."
+        ],
+        "answer": "At least 30% of the planet should be protected by 2030."
+    }
+
+    ,
+
+    {
+        "question": "Which one of the following statements is correct regarding LOFAR (Low Frequency Array) ?",
+        "options": [
+            "It is the world's most powerful radio antenna.",
+            "It is a space technology launched by NASA to discover exoplanets.",
+            "It is an arrangement of satellites in space for the purpose of creating Satellite Navigation System.",
+            "It is a wireless communication technology for 5G services."
+        ],
+        "answer": "It is the world's most powerful radio antenna."
+    },
+    {
+        "question": "In the recently formed grouping of countries generally known as 'Middle-East Quad', in addition to India, which of the following are other members ?",
+        "options": [
+            "Egypt, Saudi Arabia and USA",
+            "Israel, UAE and USA",
+            "Egypt, UAE and UK",
+            "Israel, Saudi Arabia and UK"
+        ],
+        "answer": "Israel, UAE and USA"
+    },
+    {
+        "question": "The terms 'Pinaka and Smerch' mentioned in news recently refer to",
+        "options": [
+            "Cruise missiles",
+            "Nuclear-powered submarines",
+            "Rocket launcher systems",
+            "Weaponised drones"
+        ],
+        "answer": "Rocket launcher systems"
+    },
+    {
+        "question": "Which of the following statements is/are correct ?<br/><ol><li>India had accorded recognition to Bangladesh even before the liberation of Bangladesh in 1971.</li><li>In March 2021, both India and Bangladesh had decided to celebrate 6 December as Maitri Diwas.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Recently India signed a contract for the manufacture of nearly 6 lakh AK-203 rifles with which one of the following countries ?",
+        "options": [
+            "Canada",
+            "Russia",
+            "France",
+            "Israel"
+        ],
+        "answer": "Russia"
+    },
+    {
+        "question": "In December 2021, who among the following succeeded Angela Merkel as the Chancellor of Germany ?",
+        "options": [
+            "Olaf Scholz",
+            "Annalena Baerbock",
+            "Armin Laschet",
+            "Jana Puglierin"
+        ],
+        "answer": "Olaf Scholz"
+    },
+    {
+        "question": "Which of the following statements is/are correct ?<br/><ol><li>Nilamoni Phukan Jr. is the 56th Jnanpith Award winner.</li><li>Damodar Mauzo is the 57th Jnanpith Award winner.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which one of the following statements about Anil Menon is correct ?",
+        "options": [
+            "He is an engineer who revolutionised organic farming.",
+            "He is a diplomat selected in a UN Peace-Keeping mission.",
+            "He is a physician selected by NASA to be an astronaut.",
+            "He is a star football player."
+        ],
+        "answer": "He is a physician selected by NASA to be an astronaut."
+    },
+    {
+        "question": "India's maiden human space mission will be launched in 2023. What is its name ?",
+        "options": [
+            "Vayumitra",
+            "Vikram",
+            "Chandrayaan-3",
+            "Gaganyaan"
+        ],
+        "answer": "Gaganyaan"
+    },
+    {
+        "question": "Which one of the following teams won the Senior Women's National Football Championship, 2021 ?",
+        "options": [
+            "Manipur",
+            "Railways",
+            "West Bengal",
+            "Odisha"
+        ],
+        "answer": "Manipur"
+    },
+    {
+        "question": "Which of the following about Khijadiya Bird Sanctuary is/are correct ?<br/><ol><li>It is recently declared as a Ramsar Site (wetlands of international importance)</li><li>It is located in Uttar Pradesh</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which one among the following countries has announced a plan that sets a goal of having fewer than 5% of its populace smoking by 2025 ?",
+        "options": [
+            "England",
+            "Germany",
+            "New Zealand",
+            "Russia"
+        ],
+        "answer": "New Zealand"
+    },
+    {
+        "question": "Who among the following won the FIDE World Chess Championship, 2021 ?",
+        "options": [
+            "Nepomniachtchi",
+            "Magnus Carlsen",
+            "Ding Liren",
+            "Anish Giri"
+        ],
+        "answer": "Magnus Carlsen"
+    },
+    {
+        "question": "With reference to Bhindawas Wildlife Sanctuary, Sultanpur National Park, Thol Lake Wildlife Sanctuary and Wadhwana Wetland, which of the following statements is/are correct ?<br/><ol><li>All of them are Ramsar sites.</li><li>All of them are naturally formed wetlands.</li><li>All of them are birding sites.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 3 only"
+    },
+    {
+        "question": "To study which one of the following was a spacecraft launched that would be farthest from the Sun and would run exclusively on solar power ?",
+        "options": [
+            "Jupiter's Trojan asteroids",
+            "Saturn's rings and moons",
+            "Mars' atmosphere",
+            "Kuiper Belt and Oort Cloud"
+        ],
+        "answer": "Jupiter's Trojan asteroids"
+    },
+    {
+        "question": "Recently, archaeological studies at which one among the following revealed that by 1200 BCE there was a flourishing agrarian civilization and the cultivation of rice was well-established at this place ?",
+        "options": [
+            "Raichur Doab",
+            "Krishna Delta",
+            "Vicinity of Vamsadhara river",
+            "Vicinity of Thamirabarani river"
+        ],
+        "answer": "Vicinity of Thamirabarani river"
+    }
+
+    ],
+    "2023-I_alt": [
+        {
+                "question": "If the magnification produced by a lens is +2, then the image is :",
+                "options": [
+                        "erect, virtual and smaller than the object.",
+                        "inverted, real and smaller than the object.",
+                        "erect, virtual and larger than the object.",
+                        "inverted, real and larger than the object."
+                ],
+                "answer": "erect, virtual and larger than the object."
+        },
+        {
+                "question": "What is the correct sequence of resistivity of silver, nichrome and glass at room temperature ?",
+                "options": [
+                        "Silver < Nichrome < Glass",
+                        "Glass < Nichrome < Silver",
+                        "Silver < Glass < Nichrome",
+                        "Nichrome < Silver < Glass"
+                ],
+                "answer": "Silver < Nichrome < Glass"
+        },
+        {
+                "question": "At the time of short-circuit, the current in the circuit :",
+                "options": [
+                        "reduces substantially.",
+                        "does not change.",
+                        "increases heavily.",
+                        "keeps on fluctuating."
+                ],
+                "answer": "increases heavily."
+        },
+        {
+                "question": "Which one of the following statements is <i>not</i> correct ?",
+                "options": [
+                        "An electric motor converts electrical energy into mechanical energy.",
+                        "An electric generator works on the principle of electromagnetic induction.",
+                        "The magnetic field at the centre of a long circular coil carrying current will be parallel straight lines.",
+                        "A wire with a green insulation is usually the live wire of an electric supply."
+                ],
+                "answer": "A wire with a green insulation is usually the live wire of an electric supply."
+        },
+        {
+                "question": "A boy completes one round of a circular track of diameter 200 m in 30 s. What will be the displacement at the end of 3 minutes and 45 seconds ?",
+                "options": [
+                        "50 m",
+                        "100 m",
+                        "200 m",
+                        "236 m"
+                ],
+                "answer": "200 m"
+        },
+        {
+                "question": "What happens to the gravitational force between two objects if the mass of one object is doubled and the distance between them is also doubled ?",
+                "options": [
+                        "The force would remain the same",
+                        "The force would be doubled",
+                        "The force would be halved",
+                        "The force would increase by a factor of 4"
+                ],
+                "answer": "The force would be halved"
+        },
+        {
+                "question": "The number of moles of oxygen gas used in the complete combustion of 1 mole of glucose is :",
+                "options": [
+                        "1",
+                        "3",
+                        "6",
+                        "12"
+                ],
+                "answer": "6"
+        },
+        {
+                "question": "Which one of the following is <i>not</i> an example of an oxidation reaction ?",
+                "options": [
+                        "The taste of butter changes if left for a longer period",
+                        "A white substance is formed when an aqueous solution of barium chloride is mixed with sodium sulphate solution",
+                        "A reddish-brown powder gets coated on articles made of iron",
+                        "Wine gets sour with time"
+                ],
+                "answer": "A white substance is formed when an aqueous solution of barium chloride is mixed with sodium sulphate solution"
+        },
+        {
+                "question": "Methanoic acid is normally found in :",
+                "options": [
+                        "muscles",
+                        "urine",
+                        "ant stings",
+                        "human brain"
+                ],
+                "answer": "ant stings"
+        },
+        {
+                "question": "What is the number of moles of 'He' in 104 g of helium gas ?",
+                "options": [
+                        "52",
+                        "26",
+                        "13",
+                        "6.5"
+                ],
+                "answer": "26"
+        },
+        {
+                "question": "While burning hydrocarbon fuels, if we see a yellow flame with lots of black smoke, it means that the fuel is :",
+                "options": [
+                        "made of saturated hydrocarbons.",
+                        "made of unsaturated hydrocarbons.",
+                        "burning completely.",
+                        "wet."
+                ],
+                "answer": "made of unsaturated hydrocarbons."
+        },
+        {
+                "question": "The number of saturated and unsaturated bonds in cyclohexane are :",
+                "options": [
+                        "9 and 0 respectively.",
+                        "18 and 3 respectively.",
+                        "18 and 0 respectively.",
+                        "9 and 3 respectively."
+                ],
+                "answer": "18 and 0 respectively."
+        },
+        {
+                "question": "Which one of the following statements is true when non-metals are dissolved in water ?",
+                "options": [
+                        "They produce basic oxides.",
+                        "They produce acidic oxides.",
+                        "They produce neutral oxides.",
+                        "They provide hydroxides."
+                ],
+                "answer": "They produce acidic oxides."
+        },
+        {
+                "question": "Which one of the following statements is <i>not</i> correct with regard to genetically modified organisms ?",
+                "options": [
+                        "In this technique a gene from one organism is isolated and transferred to the cell of another organism.",
+                        "This technique has applications only in plants.",
+                        "Genes for insect resistance may spread from crop plants to wild plants.",
+                        "To produce a transgenic animal the novel genes are inserted at a very early stage of development."
+                ],
+                "answer": "This technique has applications only in plants."
+        },
+        {
+                "question": "Suppose, due to an accident, the delicate lining of the mouth and the oesophagus of a person is injured. In this case, which one of the following tissues will be affected ?",
+                "options": [
+                        "Smooth muscle",
+                        "Cuboidal epithelium",
+                        "Squamous epithelium",
+                        "Striated muscle"
+                ],
+                "answer": "Squamous epithelium"
+        },
+        {
+                "question": "Which one of the following statements is correct about the cell membrane ?",
+                "options": [
+                        "It is made up of cellulose.",
+                        "It is a permeable structure for all substances.",
+                        "It is flexible and enables the cell to engulf many materials.",
+                        "It does not allow diffusion of gases like oxygen and carbon dioxide."
+                ],
+                "answer": "It is flexible and enables the cell to engulf many materials."
+        },
+        {
+                "question": "Plants prepare glucose in the process of :",
+                "options": [
+                        "respiration",
+                        "photosynthesis",
+                        "degradation",
+                        "mineral absorption"
+                ],
+                "answer": "photosynthesis"
+        },
+        {
+                "question": "The disease rickets develops in children due to the deficiency of :",
+                "options": [
+                        "Vitamin C",
+                        "Vitamin D",
+                        "Vitamin A",
+                        "Vitamin B"
+                ],
+                "answer": "Vitamin D"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><b>List I (Blood Vessel)</b><br/>A. Pulmonary artery<br/>B. Capillaries<br/>C. Coronary artery<br/>D. Pulmonary vein<br/><br/><b>List II (Function)</b><br/>1. Carries blood from lungs to heart<br/>2. Carries blood to heart muscle<br/>3. Connection between arteries and veins<br/>4. Carries blood from heart to lungs",
+                "options": [
+                        "A-4, B-3, C-2, D-1",
+                        "A-4, B-2, C-3, D-1",
+                        "A-1, B-2, C-3, D-4",
+                        "A-1, B-3, C-2, D-4"
+                ],
+                "answer": "A-4, B-3, C-2, D-1"
+        },
+        {
+                "question": "Which one of the following statements is true with regard to a greenhouse ?",
+                "options": [
+                        "The shorter wavelength infrared radiations from the Sun can enter into the greenhouse while longer wavelength infrared radiations from the ground and the plants inside the greenhouse cannot pass back out through the glass.",
+                        "The shorter wavelength infrared radiations from the Sun can enter into the greenhouse and the longer wavelength infrared radiations from the ground and the plants inside the greenhouse can also pass back out through the glass.",
+                        "The shorter wavelength infrared radiations from the Sun cannot enter into the greenhouse while longer wavelength infrared radiations from the ground and the plants inside the greenhouse can pass back out through the glass.",
+                        "No infrared radiation can pass through the glass of the greenhouse."
+                ],
+                "answer": "The shorter wavelength infrared radiations from the Sun can enter into the greenhouse while longer wavelength infrared radiations from the ground and the plants inside the greenhouse cannot pass back out through the glass."
+        },
+        {
+                "question": "An object weighs 9 N on the surface of the Earth. What would be its weight, when measured on the surface of a planet where the acceleration due to gravity is 9 times that on the surface of the Earth ?",
+                "options": [
+                        "The weight would remain the same",
+                        "The weight would be equal to 1 N",
+                        "The weight would become 9 times",
+                        "The weight will be reduced to 1/9 N"
+                ],
+                "answer": "The weight would become 9 times"
+        },
+        {
+                "question": "The twinkling of a star is due to :",
+                "options": [
+                        "atmospheric reflection of starlight.",
+                        "atmospheric refraction of starlight.",
+                        "continuous change in the position of the star.",
+                        "oscillation of starlight."
+                ],
+                "answer": "atmospheric refraction of starlight."
+        },
+        {
+                "question": "A convex lens has a focal length of 15 cm. At what distance should an object be placed in front of the lens to get a real image of the same size of the object ?",
+                "options": [
+                        "15 cm",
+                        "10 cm",
+                        "30 cm",
+                        "40 cm"
+                ],
+                "answer": "30 cm"
+        },
+        {
+                "question": "Which one of the following statements about biogas is <i>not</i> correct ?",
+                "options": [
+                        "It is mainly composed of methane gas.",
+                        "It is a non-renewable source of energy.",
+                        "It is formed by the decomposition of cow dung in the absence of oxygen.",
+                        "It burns without smoke and leaves no residue."
+                ],
+                "answer": "It is a non-renewable source of energy."
+        },
+        {
+                "question": "Which of the following mineral acids is found in human stomach ?",
+                "options": [
+                        "Hydrochloric acid",
+                        "Lactic acid",
+                        "Uric acid",
+                        "Methanoic acid"
+                ],
+                "answer": "Hydrochloric acid"
+        },
+        {
+                "question": "Which one of the following living organisms gives litmus ?",
+                "options": [
+                        "Protozoa",
+                        "Virus",
+                        "Lichen",
+                        "Saccharomyces"
+                ],
+                "answer": "Lichen"
+        },
+        {
+                "question": "Which one of the following is the main reason of acid rains ?",
+                "options": [
+                        "Dissolution of sulphur and nitrogen oxides in rain",
+                        "Dissolution of minerals in rain",
+                        "Dissolution of dust particles in rain",
+                        "Dissolution of soil solution in rain"
+                ],
+                "answer": "Dissolution of sulphur and nitrogen oxides in rain"
+        },
+        {
+                "question": "Mutation in a virus is caused due to a change in its :",
+                "options": [
+                        "cell size.",
+                        "genetic material.",
+                        "shape.",
+                        "colour."
+                ],
+                "answer": "genetic material."
+        },
+        {
+                "question": "Yeast, which is used to make bread, belongs to the group :",
+                "options": [
+                        "Protista",
+                        "Fungi",
+                        "Monera",
+                        "Protozoa"
+                ],
+                "answer": "Fungi"
+        },
+        {
+                "question": "Hyphae are :",
+                "options": [
+                        "produced by yeast.",
+                        "thin threads formed by many fungi.",
+                        "reproductive cells.",
+                        "responsible for preventing the cell from losing water in wet conditions."
+                ],
+                "answer": "thin threads formed by many fungi."
+        },
+        {
+                "question": "Which one of the following is the first urban settlement in the world to reach a population size of one million (million-plus city) ?",
+                "options": [
+                        "London",
+                        "Paris",
+                        "New York",
+                        "Washington D.C."
+                ],
+                "answer": "London"
+        },
+        {
+                "question": "Which one of the following climatic types (Köppen's Scheme) is best suited to describe the climate of the western fringe of Rajasthan ?",
+                "options": [
+                        "Amw",
+                        "Aw",
+                        "Bwhw",
+                        "Cwg"
+                ],
+                "answer": "Bwhw"
+        },
+        {
+                "question": "Where are the Bermuda Islands located ?",
+                "options": [
+                        "Caribbean Sea",
+                        "North Atlantic Ocean",
+                        "Gulf of Mexico",
+                        "Mediterranean Sea"
+                ],
+                "answer": "North Atlantic Ocean"
+        },
+        {
+                "question": "Which one of the following States/Union Territories has the highest percentage of forest area to the total geographical area ?",
+                "options": [
+                        "Arunachal Pradesh",
+                        "Lakshadweep",
+                        "Nagaland",
+                        "Mizoram"
+                ],
+                "answer": "Lakshadweep"
+        },
+        {
+                "question": "In India, the period of steady population growth refers to the decade(s) of :",
+                "options": [
+                        "1981 - 2011",
+                        "1951 - 1981",
+                        "1921 - 1951",
+                        "1911 - 1921"
+                ],
+                "answer": "1921 - 1951"
+        },
+        {
+                "question": "Manikaran in Himachal Pradesh is known for :",
+                "options": [
+                        "Solar energy.",
+                        "Geothermal energy.",
+                        "Bioenergy.",
+                        "Wind energy."
+                ],
+                "answer": "Geothermal energy."
+        },
+        {
+                "question": "Who among the following, first mooted the idea of deficit financing ?",
+                "options": [
+                        "Adam Smith",
+                        "Alfred Marshall",
+                        "John Maynard Keynes",
+                        "Milton Friedman"
+                ],
+                "answer": "John Maynard Keynes"
+        },
+        {
+                "question": "Which of the following is/are the function(s) of environment ?<br/><br/>1. Supplying resources<br/>2. Sustaining life<br/>3. Providing aesthetic services<br/><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 and 3 only",
+                        "1, 2 and 3",
+                        "1 and 3 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Who among the following formulated the concept of poverty as a measurable development indicator in the Indian subcontinent ?",
+                "options": [
+                        "Dadabhai Naoroji",
+                        "Romesh Chandra Dutt",
+                        "V.K.R.V. Rao",
+                        "M. Ranade"
+                ],
+                "answer": "Dadabhai Naoroji"
+        },
+        {
+                "question": "Which one of the following terms denotes the inputs in terms of tools, machines, buildings, raw materials and money in hand required at any stage of production ?",
+                "options": [
+                        "Fixed capital",
+                        "Working capital",
+                        "Physical capital",
+                        "Human capital"
+                ],
+                "answer": "Physical capital"
+        }
+],
     "2022-II": [
         {
                 "question": "The term 'Thermal High Altitude Area Defense', sometimes mentioned in news, refers to",
