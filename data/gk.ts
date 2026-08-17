@@ -1,6 +1,1217 @@
 import type { Question } from "@/types/Question";
 
 const gkData: Record<string, Question[]> = {
+    "2021-I": [
+    {
+        "question": "Which one of the following statements is <i>not</i> correct ?",
+        "options": [
+            "Real GDP is calculated by valuing outputs of different years at common prices.",
+            "Potential GDP is the real GDP that the economy would produce if its resources were fully employed.",
+            "Nominal GDP is calculated by valuing outputs of different years at constant prices.",
+            "Real GDP per capita is the ratio of real GDP divided by population."
+        ],
+        "answer": "Nominal GDP is calculated by valuing outputs of different years at constant prices."
+    },
+    {
+        "question": "The mismatch in the regional or occupational pattern of job vacancies and the pattern of worker availability results in",
+        "options": [
+            "Structural unemployment",
+            "Disguised unemployment",
+            "Altered unemployment",
+            "Cyclical unemployment"
+        ],
+        "answer": "Structural unemployment"
+    },
+    {
+        "question": "The situation in an economy which is growing slowly along with rapid inflation (rising price level) is called",
+        "options": [
+            "Stagnation",
+            "Deflation",
+            "Stagflation",
+            "Recession"
+        ],
+        "answer": "Stagflation"
+    },
+    {
+        "question": "The increase in private investment spending induced by the increase in Government spending is known as",
+        "options": [
+            "Crowding in",
+            "Deficit financing",
+            "Crowding out",
+            "Pumping out"
+        ],
+        "answer": "Crowding in"
+    },
+    {
+        "question": "The asset or assets that a borrower pledges in order to guarantee repayment of a loan is called as",
+        "options": [
+            "Cheque",
+            "Collateral",
+            "Guarantee card",
+            "Bond"
+        ],
+        "answer": "Collateral"
+    },
+    {
+        "question": "The percentage by which the money the borrower pays back exceeds the money that was borrowed is called as",
+        "options": [
+            "Bank rate",
+            "Nominal interest rate",
+            "Real interest rate",
+            "Terms of credit"
+        ],
+        "answer": "Nominal interest rate"
+    },
+    {
+        "question": "Which one of the following statements about the Gandhi-Irwin Pact of 1931 is correct ?",
+        "options": [
+            "The Government would not release those prisoners who had been non-violent.",
+            "The Government would not release those prisoners who had indulged in the peaceful picketing of liquor and foreign cloth shops.",
+            "The Congress did not agree to the suspension of the Civil Disobedience Movement.",
+            "The Congress agreed to take part in the Second Round Table Conference."
+        ],
+        "answer": "The Congress agreed to take part in the Second Round Table Conference."
+    },
+    {
+        "question": "Who among the following founded the Bhil Seva Mandal in 1922 ?",
+        "options": [
+            "Dayaram Gidumal",
+            "Gurusaday Dutt",
+            "Dhondo Keshav Karve",
+            "Amritlal Vithaldas Thakkar"
+        ],
+        "answer": "Amritlal Vithaldas Thakkar"
+    },
+    {
+        "question": "In 1911, who among the following introduced a bill in the Imperial Legislative Council for introduction of compulsory and free primary education in India ?",
+        "options": [
+            "Dadabhai Naoroji",
+            "Bal Gangadhar Tilak",
+            "Sir Harcourt Butler",
+            "Gopal Krishna Gokhale"
+        ],
+        "answer": "Gopal Krishna Gokhale"
+    },
+    {
+        "question": "Which one of the following statements about the Act V of 1843 relating to Slavery in India is correct ?",
+        "options": [
+            "It gave the masters the right to wilfully keep their slaves tied to their estates.",
+            "It denied the masters the use of Courts to assert their claims on slaves.",
+            "The Law Courts and masters worked jointly in resolving the cases of desertion.",
+            "The slaves became the owners of the land."
+        ],
+        "answer": "It denied the masters the use of Courts to assert their claims on slaves."
+    },
+    {
+        "question": "Which Maratha statesman signed the Treaty of Bassein on December 31, 1802 ?",
+        "options": [
+            "Baji Rao II",
+            "Vithuji Holkar",
+            "Daulat Rao Sindhia",
+            "Madhava Rao Narayan"
+        ],
+        "answer": "Baji Rao II"
+    },
+    {
+        "question": "The <i>Amara-Nayaka</i> system was a major political innovation of which Indian imperial rulers ?",
+        "options": [
+            "Cholas",
+            "Chalukyas",
+            "Guptas",
+            "Vijayanagara"
+        ],
+        "answer": "Vijayanagara"
+    },
+    {
+        "question": "KIRAN (Knowledge Involvement in Research Advancement through Nurturing) is an initiative to provide opportunities to women scientists who",
+        "options": [
+            "had a break in their career due to family reasons.",
+            "are pursuing innovative research in life sciences.",
+            "have collaborative projects with labs in foreign countries.",
+            "have leading edge projects in Nano-Science and Technology."
+        ],
+        "answer": "had a break in their career due to family reasons."
+    },
+    {
+        "question": "NIDHI is an umbrella scheme for the promotion of",
+        "options": [
+            "young and aspiring innovators.",
+            "scientific research.",
+            "primary health care.",
+            "primary education in rural areas."
+        ],
+        "answer": "young and aspiring innovators."
+    },
+    {
+        "question": "The Saubhagya Scheme aims at universal",
+        "options": [
+            "LPG connection.",
+            "household electrification.",
+            "primary school education.",
+            "public health insurance."
+        ],
+        "answer": "household electrification."
+    },
+    {
+        "question": "Mission Indradhanush aims at",
+        "options": [
+            "reducing child deaths due to pneumonia.",
+            "reducing the impact of rotavirus.",
+            "elimination of maternal tetanus.",
+            "full immunisation of children."
+        ],
+        "answer": "full immunisation of children."
+    },
+    {
+        "question": "Which one of the following statements about the DDU &ndash; GKY is <i>not</i> correct ?",
+        "options": [
+            "It is a skill training programme.",
+            "It is for rural youth from poor families.",
+            "Its objective is placement in wage employment.",
+            "It relies entirely on skill training by Government agencies."
+        ],
+        "answer": "It relies entirely on skill training by Government agencies."
+    },
+    {
+        "question": "Which of the following statements about the Pradhan Mantri Gram Sadak Yojana are correct ?<br/><ol><li>It is part of Government of India's poverty reduction strategy.</li><li>It is a centrally sponsored scheme for rural development.</li><li>It provides connectivity in rural areas.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1 and 2 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "India's territorial limit extends towards the sea up to",
+        "options": [
+            "10 nautical miles",
+            "12 nautical miles",
+            "14 nautical miles",
+            "15 nautical miles"
+        ],
+        "answer": "12 nautical miles"
+    },
+    {
+        "question": "Which one of the following is a cold ocean current ?",
+        "options": [
+            "Brazilian Current",
+            "Gulf Stream",
+            "North Equatorial Current",
+            "California Current"
+        ],
+        "answer": "California Current"
+    },
+    {
+        "question": "Identify the type of soil on the basis of the given characteristics :<br/><ol><li>They are rich in lime, iron, magnesia and alumina.</li><li>They are generally clayey, deep and impermeable.</li><li>They are mainly found in Maharashtra, Madhya Pradesh and Gujarat.</li></ol><br/>Select the correct answer from the given alternatives :",
+        "options": [
+            "Laterite soil",
+            "Red and yellow soil",
+            "Saline soil",
+            "Black soil"
+        ],
+        "answer": "Black soil"
+    },
+    {
+        "question": "Arabica, Robusta and Liberica are varieties of",
+        "options": [
+            "Coffee",
+            "Tea",
+            "Sugarcane",
+            "Cotton"
+        ],
+        "answer": "Coffee"
+    },
+    {
+        "question": "Aluminium is manufactured from",
+        "options": [
+            "Copper ore",
+            "Bauxite ore",
+            "Mica ore",
+            "Manganese ore"
+        ],
+        "answer": "Bauxite ore"
+    },
+    {
+        "question": "Which one of the following sea ports gained significance for handling iron-ore exports to Japan ?",
+        "options": [
+            "Kandla",
+            "Ennore",
+            "Kochi",
+            "Mormugao"
+        ],
+        "answer": "Mormugao"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a function of money ?",
+        "options": [
+            "Acts as an intermediate in the exchange process",
+            "Acts as a store of value",
+            "Used as the unit of account",
+            "Used for regulating consumption"
+        ],
+        "answer": "Used for regulating consumption"
+    },
+    {
+        "question": "The situation where the equilibrium level of real GDP falls short of potential GDP is known as",
+        "options": [
+            "Recessionary gap",
+            "Inflationary gap",
+            "Demand-side inflation",
+            "Supply-side inflation"
+        ],
+        "answer": "Recessionary gap"
+    },
+    {
+        "question": "The excess of total expenditure of Government over its total receipts, excluding borrowings, is known as",
+        "options": [
+            "Primary deficit",
+            "Fiscal deficit",
+            "Current deficit",
+            "Capital deficit"
+        ],
+        "answer": "Fiscal deficit"
+    },
+    {
+        "question": "Exchange rates state the value of one currency in terms of other currencies. Which one of the following statements with respect to the exchange rate of currency is correct ?",
+        "options": [
+            "Floating exchange rates are rates in which the Governments interfere by buying or selling their currencies.",
+            "Fixed exchange rates are rates set by Government decisions and maintained by Government actions.",
+            "Under the Bretton Woods System, the exchange rates are floated in terms of rise or fall in price of gold.",
+            "Under the classical gold standard, the exchange rates are fixed in terms of price of dollar."
+        ],
+        "answer": "Fixed exchange rates are rates set by Government decisions and maintained by Government actions."
+    },
+    {
+        "question": "Fran&ccedil;ois Bernier was physician to",
+        "options": [
+            "Prince Murad",
+            "Princess Jahanara",
+            "Emperor Shah Jahan",
+            "Prince Dara Shikoh"
+        ],
+        "answer": "Prince Dara Shikoh"
+    },
+    {
+        "question": "Which one of the following British firms was taken over by Soorajmull-Nagarmull group ?",
+        "options": [
+            "McLeod",
+            "Octavius Steel",
+            "Davenport",
+            "Andrew Yule"
+        ],
+        "answer": "McLeod"
+    },
+    {
+        "question": "Which one of the following statements with regard to ryotwari settlement is <i>not</i> correct ?",
+        "options": [
+            "In southern and western India, the ryotwari settlement was adopted.",
+            "Ryotwari was in principle a direct contract between the ryot and the state.",
+            "It means a tax contract valid for usually 30 years.",
+            "In principle, it strengthened the former elite, the zamindars and weakened the peasantry."
+        ],
+        "answer": "In principle, it strengthened the former elite, the zamindars and weakened the peasantry."
+    },
+    {
+        "question": "Which one of the following statements about the British Indian Medical Service (IMS) is <i>not</i> correct ?",
+        "options": [
+            "IMS began in 1764.",
+            "It recruited health professionals by means of a competitive examination.",
+            "Indians were never admitted to IMS.",
+            "The IMS was at first meant to look after the troops."
+        ],
+        "answer": "Indians were never admitted to IMS."
+    },
+    {
+        "question": "When was the monopoly of China trade lost by East India Company ?",
+        "options": [
+            "1813",
+            "1833",
+            "1838",
+            "1860"
+        ],
+        "answer": "1833"
+    },
+    {
+        "question": "National Disaster Management Authority is headed by",
+        "options": [
+            "the Prime Minister.",
+            "the Home Minister.",
+            "the President.",
+            "the Health Minister."
+        ],
+        "answer": "the Prime Minister."
+    },
+    {
+        "question": "Which of the following statements regarding the 'casting vote' in the Parliament is/are correct ?<br/><ol><li>It is cast by the speaker or a person acting as such.</li><li>It is cast in addition to voting in the first instance.</li><li>It is cast in the case of equality of votes.</li><li>It is always cast to maintain the status quo.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3 only",
+            "1 and 3 only",
+            "2 and 4 only",
+            "3 only"
+        ],
+        "answer": "1 and 3 only"
+    },
+    {
+        "question": "Equality before the law or equal protection of the laws within the territory of India is guaranteed under which one of the following Articles of the Constitution of India ?",
+        "options": [
+            "Article 14",
+            "Article 15",
+            "Article 16",
+            "Article 22"
+        ],
+        "answer": "Article 14"
+    }
+,
+
+    {
+        "question": "'Legal Positivism' theory was developed by",
+        "options": [
+            "T.H. Green",
+            "Thomas Hobbes",
+            "John Austin",
+            "Patrick Devlin"
+        ],
+        "answer": "John Austin"
+    },
+    {
+        "question": "Who among the following said that Democracy means a system of 'Government by Consent' ?",
+        "options": [
+            "John Locke",
+            "J.S. Mill",
+            "Jeremy Bentham",
+            "J.J. Rousseau"
+        ],
+        "answer": "John Locke"
+    },
+    {
+        "question": "Milpa and Ladang are different names for",
+        "options": [
+            "shifting cultivation.",
+            "mixed farming.",
+            "truck farming.",
+            "plantation agriculture."
+        ],
+        "answer": "shifting cultivation."
+    },
+    {
+        "question": "Which one of the following approaches of human development was initially proposed by the International Labour Organisation (ILO) and emphasised on health, education, food, water supply, sanitation and housing ?",
+        "options": [
+            "Welfare approach",
+            "Basic needs approach",
+            "Income approach",
+            "Capability approach"
+        ],
+        "answer": "Basic needs approach"
+    },
+    {
+        "question": "Which one of the following tributaries of river Indus feeds the canal system of the Bhakra Nangal Project ?",
+        "options": [
+            "Chenab",
+            "Satluj",
+            "Ravi",
+            "Jhelum"
+        ],
+        "answer": "Satluj"
+    },
+    {
+        "question": "When the rivers discharge their waters from all directions into a lake or depression, the pattern is known as",
+        "options": [
+            "Trellis",
+            "Dendritic",
+            "Radial",
+            "Centripetal"
+        ],
+        "answer": "Centripetal"
+    },
+    {
+        "question": "Which one of the following statements about the Coriolis force is <i>not</i> correct ?",
+        "options": [
+            "It is maximum at the Poles.",
+            "It is absent at the Equator.",
+            "It deflects the wind to the right direction in the southern hemisphere.",
+            "It deflects the wind to the right direction in the northern hemisphere."
+        ],
+        "answer": "It deflects the wind to the right direction in the southern hemisphere."
+    },
+    {
+        "question": "Chronologically arrange the following treaties/conventions signed between the Marathas and the British (starting with the earliest) :<br/><ol><li>Treaty of Salbai</li><li>Treaty of Purandar</li><li>Convention of Wadgaon</li><li>Treaty of Surat</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "4-2-3-1",
+            "4-3-2-1",
+            "1-3-2-4",
+            "1-2-3-4"
+        ],
+        "answer": "4-2-3-1"
+    },
+    {
+        "question": "Which of the following statements about the Sanyasi and Faqir disturbances/rebellions are correct ?<br/><ol><li>Governor-General Warren Hastings faced the persistent Sanyasi and Faqir disturbances in Bengal and Bihar.</li><li>There were a number of Shaivite Naga Sanyasis who formed into armed bands.</li><li>Majnu Shah, who led bands into Bengal from 1771, was their prominent leader.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 and 3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "In 1943, young leaders in which one of the following districts of Maharashtra set up a parallel Government (<i>prati sarkar</i>) with volunteer corps (<i>seva dals</i>) and village units (<i>tufan dals</i>) ?",
+        "options": [
+            "Pune",
+            "Nasik",
+            "Nagpur",
+            "Satara"
+        ],
+        "answer": "Satara"
+    },
+    {
+        "question": "Who founded the Central Hindu School at Benaras which was later developed into Benaras Hindu University ?",
+        "options": [
+            "Madan Mohan Malaviya",
+            "Annie Besant",
+            "Ishwar Chandra Vidyasagar",
+            "Madame H.P. Blavatsky"
+        ],
+        "answer": "Annie Besant"
+    },
+    {
+        "question": "Which one among the following is <i>not</i> a feature of centralization ?",
+        "options": [
+            "National unity",
+            "Uniformity",
+            "Prosperity",
+            "Liberty"
+        ],
+        "answer": "Liberty"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an objective of NITI Aayog ?",
+        "options": [
+            "It provides a critical direction and strategic input for development process.",
+            "It functions as a 'think tank' in providing key elements of policy.",
+            "It monitors and evaluates the implementation of the programmes.",
+            "It offers a platform for resolution of inter-state conflicts as 'provider of first and last resort'."
+        ],
+        "answer": "It offers a platform for resolution of inter-state conflicts as 'provider of first and last resort'."
+    },
+    {
+        "question": "Article 231 of the Constitution of India grants power to establish a common High Court for two or more states to",
+        "options": [
+            "the Parliament.",
+            "the Supreme Court.",
+            "the President of India.",
+            "the Union Cabinet."
+        ],
+        "answer": "the Parliament."
+    },
+    {
+        "question": "Which one among the following motions <i>cannot</i> be made while introducing an ordinary Bill in the Parliament ?",
+        "options": [
+            "That the Bill be taken into consideration",
+            "That the Bill be circulated for the purpose of eliciting public opinion",
+            "That the Bill be referred to a Select Committee",
+            "That the Bill be referred to a Joint Committee of the House without the concurrence of the other House"
+        ],
+        "answer": "That the Bill be referred to a Joint Committee of the House without the concurrence of the other House"
+    },
+    {
+        "question": "Which one among the following was eliminated by the 44<sup>th</sup> Amendment Act of the Parliament ?",
+        "options": [
+            "Right against Exploitation",
+            "Right to Constitutional Remedies",
+            "Right to Property",
+            "Right to Education"
+        ],
+        "answer": "Right to Property"
+    },
+    {
+        "question": "Identify the crop on the basis of the following characteristics :<br/><ol><li>It is a kharif crop.</li><li>Aus, Aman and Boro are its three different growing periods in an agricultural year.</li><li>About one-fourth of the total cropped area of India is under its cultivation.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "Wheat",
+            "Rice",
+            "Pulses",
+            "Cotton"
+        ],
+        "answer": "Rice"
+    },
+    {
+        "question": "Which one of the following is a type of igneous rock ?",
+        "options": [
+            "Marble",
+            "Halite",
+            "Granite",
+            "Shale"
+        ],
+        "answer": "Granite"
+    },
+    {
+        "question": "Ozone layer, which absorbs the ultra-violet radiation, is found in which one of the following layers of the atmosphere ?",
+        "options": [
+            "Ionosphere",
+            "Troposphere",
+            "Mesosphere",
+            "Stratosphere"
+        ],
+        "answer": "Stratosphere"
+    },
+    {
+        "question": "Which one of the following statements about primary waves of earthquakes is <i>not</i> correct ?",
+        "options": [
+            "They are similar to sound waves.",
+            "They can travel only through solid materials.",
+            "They travel through gaseous, liquid and solid materials.",
+            "They move faster and are the first to arrive at the surface."
+        ],
+        "answer": "They can travel only through solid materials."
+    },
+    {
+        "question": "Alluvial soils vary in nature from sandy loam to clay. They are generally",
+        "options": [
+            "poor in potash and rich in phosphorus.",
+            "poor in both potash and phosphorus.",
+            "rich in both potash and phosphorus.",
+            "rich in potash and poor in phosphorus."
+        ],
+        "answer": "rich in potash and poor in phosphorus."
+    },
+    {
+        "question": "Who among the following was popularly known as 'Lokahitwadi' ?",
+        "options": [
+            "Gopal Hari Deshmukh",
+            "Mahadev Govind Ranade",
+            "Gopal Krishna Gokhale",
+            "Jyotiba Phule"
+        ],
+        "answer": "Gopal Hari Deshmukh"
+    },
+    {
+        "question": "Who among the following socialist activists persuaded Gandhiji <i>not</i> to restrict the salt march protest to men alone ?",
+        "options": [
+            "Kamaladevi Chattopadhyay",
+            "Sarojini Naidu",
+            "Matangini Hazra",
+            "Mithuben Petit"
+        ],
+        "answer": "Kamaladevi Chattopadhyay"
+    },
+    {
+        "question": "Which one of the following painters was <i>not</i> associated with Humayun ?",
+        "options": [
+            "Mir Sayyid Ali",
+            "Maulana Dost Musawir",
+            "Maulana Yusuf",
+            "Bihzad"
+        ],
+        "answer": "Bihzad"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><table><tr><th>List I (Author)</th><th>List II (Poetical work)</th></tr><tr><td>A. Brindavan Das</td><td>1. Shivasankirttan</td></tr><tr><td>B. Krishnadas Kaviraj</td><td>2. Chandimangal</td></tr><tr><td>C. Mukundaram Chakravarti</td><td>3. Chaitanyacharitamrita</td></tr><tr><td>D. Rameshwar Bhattacharya</td><td>4. Chaitanyamangal</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-2, C-3, D-1",
+            "A-4, B-3, C-2, D-1",
+            "A-1, B-3, C-2, D-4",
+            "A-1, B-2, C-3, D-4"
+        ],
+        "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+        "question": "Which one of the following scholars of Akbar's court translated Bhaskaracharya's <i>Lilavati</i> into Persian ?",
+        "options": [
+            "Abul Fazl",
+            "Faizi",
+            "Fathullah Shirazi",
+            "Ataullah Rashidi"
+        ],
+        "answer": "Faizi"
+    },
+    {
+        "question": "Who among the following was the Chairman of the National Commission for Review of the Working of the Constitution (2000) ?",
+        "options": [
+            "Justice M.N. Venkatachaliah",
+            "Justice J.S. Verma",
+            "Justice Ranganath Mishra",
+            "Justice Y.K. Sabharwal"
+        ],
+        "answer": "Justice M.N. Venkatachaliah"
+    },
+    {
+        "question": "M.M. Punchhi Commission on Centre-State Relations has recommended the disposal of a bill reserved for the consideration of the Union Executive within",
+        "options": [
+            "four months.",
+            "six months.",
+            "eight months.",
+            "five months."
+        ],
+        "answer": "six months."
+    },
+    {
+        "question": "Who among the following founded the Marathi newspaper 'Kesari' ?",
+        "options": [
+            "Lokmanya Tilak",
+            "Vallabhbhai Patel",
+            "Lala Lajpat Rai",
+            "Mahatma Gandhi"
+        ],
+        "answer": "Lokmanya Tilak"
+    },
+    {
+        "question": "Which mega public sector undertaking is designated with 'Navratna' status ?",
+        "options": [
+            "IndianOil Corporation Limited",
+            "Gas Authority of India Limited",
+            "Bharat Petroleum Corporation Limited",
+            "Bharat Electronics Limited"
+        ],
+        "answer": "Bharat Electronics Limited"
+    },
+    {
+        "question": "Which of the following statements with regard to the creation of a new state or alteration of boundaries of states is/are correct ?<br/><ol><li>An amendment has to be moved in the Parliament under Article 368 of the Constitution of India.</li><li>Ratification by one half of the states is necessary after the amendment is made by the Parliament.</li><li>The legislation can be passed by a simple majority of both Houses of Parliament.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 3 only",
+            "2 only",
+            "3 only",
+            "2 and 3 only"
+        ],
+        "answer": "3 only"
+    },
+    {
+        "question": "Which one of the following is the largest linguistic group of India ?",
+        "options": [
+            "Sino-Tibetan",
+            "Austric",
+            "Indo-Aryan",
+            "Dravidian"
+        ],
+        "answer": "Indo-Aryan"
+    },
+    {
+        "question": "Which one of the following water bodies separates the Andaman and the Nicobar islands ?",
+        "options": [
+            "Gulf of Mannar",
+            "Ten Degree Channel",
+            "Eleven Degree Channel",
+            "Palk Strait"
+        ],
+        "answer": "Ten Degree Channel"
+    },
+    {
+        "question": "Which one of the following longitudes is the standard meridian of India ?",
+        "options": [
+            "83&deg;30' E",
+            "82&deg;30' E",
+            "82&deg;30' W",
+            "83&deg;30' W"
+        ],
+        "answer": "82&deg;30' E"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><table><tr><th>List I</th><th>List II</th></tr><tr><td>A. Cyclones</td><td>1. Western Australia</td></tr><tr><td>B. Hurricanes</td><td>2. South China Sea</td></tr><tr><td>C. Typhoons</td><td>3. Indian Ocean</td></tr><tr><td>D. Willy-willies</td><td>4. Atlantic Ocean</td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-2, C-4, D-1",
+            "A-3, B-4, C-2, D-1",
+            "A-1, B-4, C-2, D-3",
+            "A-1, B-2, C-4, D-3"
+        ],
+        "answer": "A-3, B-4, C-2, D-1"
+    }
+
+    ,
+
+    {
+        "question": "Which of the following is/are social security scheme(s) ?<br/><ol><li>Atal Pension Yojana</li><li>Pradhan Mantri Jeevan Jyoti Bima Yojana</li><li>Pradhan Mantri Suraksha Bima Yojana</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 3",
+            "1 and 3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which one of the following units is <i>not</i> a part of All India Radio's Transcription and Programme Exchange Service ?",
+        "options": [
+            "Central Archives",
+            "Sound Archives",
+            "Advanced Research Unit",
+            "Transcription Unit"
+        ],
+        "answer": "Advanced Research Unit"
+    },
+    {
+        "question": "Which of the following statements about the Panchayati Raj System are correct ?<br/><ol><li>All seats in a Panchayat are filled by persons chosen by direct election.</li><li>The 'Gram Sabha' consists of persons registered in the village electoral rolls.</li><li>The Chairperson of a Panchayat is elected in accordance with a law passed by each state.</li><li>All states in India have a three-tier system of Panchayats.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 4 only",
+            "1, 2 and 3 only",
+            "2 and 3 only",
+            "2, 3 and 4 only"
+        ],
+        "answer": "1, 2 and 3 only"
+    },
+    {
+        "question": "Which of the following statements is/are correct ?<br/><ol><li>The elections to the Panchayat are conducted by the State Election Commission.</li><li>The State Election Commissioner is appointed by the Chief Election Commissioner of India.</li><li>The State Legislatures have the power to make laws on all matters relating to Panchayat elections.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "2 only",
+            "1 and 2 only",
+            "1, 2 and 3",
+            "1 and 3 only"
+        ],
+        "answer": "1 and 3 only"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a correct description of the Union Cabinet ?",
+        "options": [
+            "It is part of the Parliament.",
+            "It is responsible to the Parliament.",
+            "It remains in power till it enjoys the confidence of the Parliament.",
+            "A person from outside the Parliament can never be appointed a member of the Cabinet."
+        ],
+        "answer": "A person from outside the Parliament can never be appointed a member of the Cabinet."
+    },
+    {
+        "question": "Which one of the following statements about the composition of the Parliament is <i>not</i> correct ?",
+        "options": [
+            "Representatives of the states in Rajya Sabha are elected directly by the people.",
+            "Representatives from Union Territories in Lok Sabha are chosen by direct elections.",
+            "Rajya Sabha has 12 nominated members.",
+            "Lok Sabha has seats reserved for SCs and STs."
+        ],
+        "answer": "Representatives of the states in Rajya Sabha are elected directly by the people."
+    },
+    {
+        "question": "Which among the following fundamental rights is/are available to non-citizens ?<br/><ol><li>Freedom of speech</li><li>Protection against self-incrimination</li><li>Freedom of conscience</li><li>Non-discrimination in matters of employment</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3 only",
+            "1, 3 and 4 only",
+            "2 and 3 only",
+            "2 only"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "Which one of the following statements about the Vice-President of India is <i>not</i> correct ?",
+        "options": [
+            "He is not eligible for re-election.",
+            "He must not be less than 35 years of age.",
+            "He is elected by members of an electoral college consisting of members of both Houses of Parliament.",
+            "His term of office is five years."
+        ],
+        "answer": "He is not eligible for re-election."
+    },
+    {
+        "question": "A motion of no-confidence is moved against",
+        "options": [
+            "an individual Minister.",
+            "the Council of Ministers.",
+            "the Prime Minister.",
+            "a political party."
+        ],
+        "answer": "the Council of Ministers."
+    },
+    {
+        "question": "Which one of the following is correct about 'Pinaka' ?",
+        "options": [
+            "It is a multi-barrel rocket system.",
+            "It is a type of battle tank.",
+            "It is an advanced submarine.",
+            "It is an indigenously developed drone system."
+        ],
+        "answer": "It is a multi-barrel rocket system."
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a member of the Quad group of nations ?",
+        "options": [
+            "France",
+            "USA",
+            "Australia",
+            "Japan"
+        ],
+        "answer": "France"
+    },
+    {
+        "question": "The first phase of Exercise Malabar, 2020 was conducted at",
+        "options": [
+            "Port Blair",
+            "Mumbai",
+            "Visakhapatnam",
+            "Kochi"
+        ],
+        "answer": "Visakhapatnam"
+    },
+    {
+        "question": "Hollywood actor Sir Sean Connery, who died recently, was popularly known for the portrayal of the role",
+        "options": [
+            "Rocky",
+            "Captain Jack Sparrow",
+            "Terminator",
+            "James Bond"
+        ],
+        "answer": "James Bond"
+    },
+    {
+        "question": "The Luhri Hydro-Electric Power Project is being constructed on the river",
+        "options": [
+            "Satluj",
+            "Beas",
+            "Ravi",
+            "Chenab"
+        ],
+        "answer": "Satluj"
+    },
+    {
+        "question": "'CARAT Bangladesh 2020' was a joint naval exercise between Bangladesh and",
+        "options": [
+            "India",
+            "USA",
+            "Japan",
+            "Thailand"
+        ],
+        "answer": "USA"
+    },
+    {
+        "question": "Peninsula Shield Force is a military arm of",
+        "options": [
+            "Organization of Islamic Cooperation",
+            "Organization of the Petroleum Exporting Countries",
+            "Gulf Cooperation Council",
+            "Arab League"
+        ],
+        "answer": "Gulf Cooperation Council"
+    },
+    {
+        "question": "Which one of the following ships was involved in 'Mission Sagar &ndash; II' ?",
+        "options": [
+            "INS Shakti",
+            "INS Vikramaditya",
+            "INS Kesari",
+            "INS Airavat"
+        ],
+        "answer": "INS Airavat"
+    },
+    {
+        "question": "In the year 2020 which one of the following tiger reserves of India was declared by UNESCO as a Biosphere Reserve ?",
+        "options": [
+            "Panna Tiger Reserve",
+            "Namdapha Tiger Reserve",
+            "Dudhwa Tiger Reserve",
+            "Pench Tiger Reserve"
+        ],
+        "answer": "Panna Tiger Reserve"
+    },
+    {
+        "question": "The Kaleshwaram Lift Irrigation System, which was in the news recently, is constructed in",
+        "options": [
+            "Kerala",
+            "Gujarat",
+            "Telangana",
+            "Maharashtra"
+        ],
+        "answer": "Telangana"
+    },
+    {
+        "question": "Cell wall is <i>not</i> present in cells of",
+        "options": [
+            "Bacteria",
+            "Plants",
+            "Fungi",
+            "Humans"
+        ],
+        "answer": "Humans"
+    },
+    {
+        "question": "A child receives a tall beautiful plant as a birthday gift from his father with a quiz. The father asked her how she would verify whether this tall plant was the progeny of both the tall parents or one tall and one short parent plant. She could verify this through",
+        "options": [
+            "cross-pollination",
+            "self-pollination",
+            "tissue culture",
+            "negative propagation"
+        ],
+        "answer": "self-pollination"
+    },
+    {
+        "question": "A student was doing an experiment on increasing the cell division among plants. She asked her supervisor to suggest the specific plant hormone for the same. Had you been her supervisor, which plant hormone would you suggest ?",
+        "options": [
+            "Abscisic acid",
+            "Gibberellins",
+            "Cytokinin",
+            "Auxin"
+        ],
+        "answer": "Cytokinin"
+    },
+    {
+        "question": "Which cell organelles have their own DNA and Ribosomes ?",
+        "options": [
+            "Golgi body and Endoplasmic Reticulum",
+            "Mitochondria and Plastids",
+            "Lysosome and Golgi body",
+            "Vacuole and Plastids"
+        ],
+        "answer": "Mitochondria and Plastids"
+    },
+    {
+        "question": "Osmosis is the process of movement of water molecules from its",
+        "options": [
+            "higher concentration to its lower concentration through a cell wall.",
+            "lower concentration to its higher concentration through a fully permeable membrane.",
+            "higher concentration to its lower concentration through a fully permeable membrane.",
+            "higher concentration to its lower concentration through a semi-permeable membrane."
+        ],
+        "answer": "higher concentration to its lower concentration through a semi-permeable membrane."
+    },
+    {
+        "question": "Growing of two or more crops simultaneously on the same field in a definite pattern is known as",
+        "options": [
+            "mixed cropping",
+            "inter cropping",
+            "mixed farming",
+            "hybrid farming"
+        ],
+        "answer": "inter cropping"
+    },
+    {
+        "question": "When we heat lead nitrate [Pb(NO<sub>3</sub>)<sub>2</sub>] in a boiling tube, we observe the emission of brown fumes. Which one of the following is the brown gas ?",
+        "options": [
+            "NO",
+            "N<sub>2</sub>O<sub>2</sub>",
+            "NO<sub>3</sub>",
+            "NO<sub>2</sub>"
+        ],
+        "answer": "NO<sub>2</sub>"
+    },
+    {
+        "question": "Which one of the following substances do silver articles react with, that makes the silver articles black ?",
+        "options": [
+            "Sulphur",
+            "Oxygen",
+            "Carbon dioxide",
+            "Phosphorus"
+        ],
+        "answer": "Sulphur"
+    },
+    {
+        "question": "Which one of the following metals is kept immersed in Kerosene oil to protect it and to prevent accidental fire ?",
+        "options": [
+            "Calcium",
+            "Sodium",
+            "Vanadium",
+            "Magnesium"
+        ],
+        "answer": "Sodium"
+    },
+    {
+        "question": "A solution contains 20 g of solute in 180 g of solvent. If the solvent is water, what is the concentration of the solution in terms of mass by mass percentage ?",
+        "options": [
+            "11&middot;1%",
+            "22&middot;2%",
+            "10%",
+            "20%"
+        ],
+        "answer": "10%"
+    },
+    {
+        "question": "Which one of the following elements is a non-metal but is lustrous ?",
+        "options": [
+            "Carbon",
+            "Silicon",
+            "Germanium",
+            "Iodine"
+        ],
+        "answer": "Iodine"
+    },
+    {
+        "question": "Which one of the following metals has both malleability and ductility properties ?",
+        "options": [
+            "Na",
+            "Au",
+            "Ce",
+            "Hg"
+        ],
+        "answer": "Au"
+    },
+    {
+        "question": "We are given three copper wires of different lengths and different areas of cross-section. Which one of the following would have highest resistivity ?",
+        "options": [
+            "Copper wire of 50 cm length and 1 mm diameter",
+            "Copper wire of 25 cm length and 0&middot;5 mm diameter",
+            "Copper wire of 10 cm length and 2&middot;0 mm diameter",
+            "All the wires would have same resistivity"
+        ],
+        "answer": "All the wires would have same resistivity"
+    },
+    {
+        "question": "Which of the following statements about 'fission' is correct ?<br/><ol><li>It is related with the creation of new individuals by means of cell division in unicellular organism.</li><li>It is related with the transformation of heavier nuclei into smaller nuclei.</li><li>It is related with the creation of a heavier nuclei by means of combining two higher nuclei.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "1 and 2 only",
+            "1 and 3 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which one of the following is an electric conductor ?",
+        "options": [
+            "A plastic sheet",
+            "Distilled water",
+            "Human body",
+            "A wooden thin sheet"
+        ],
+        "answer": "Human body"
+    },
+    {
+        "question": "A non-spherical shining spoon can generally be considered as a",
+        "options": [
+            "Spherical mirror",
+            "Parabolic mirror",
+            "Plane mirror",
+            "Lens"
+        ],
+        "answer": "Parabolic mirror"
+    }
+
+    ,
+
+    {
+        "question": "Who amongst the following is a pioneer in discovering the heating effect of electric current ?",
+        "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "James P. Joule",
+            "J.J. Thomson"
+        ],
+        "answer": "James P. Joule"
+    },
+    {
+        "question": "Which one of the following laws of electromagnetism does <i>not</i> give the direction of magnetic field ?",
+        "options": [
+            "Right-hand thumb rule",
+            "Fleming's left-hand rule",
+            "Fleming's right-hand rule",
+            "Faraday's law of electromagnetic induction"
+        ],
+        "answer": "Faraday's law of electromagnetic induction"
+    },
+    {
+        "question": "An antibiotic is not useful against a virus whereas a vaccine is. Which one of the following is the most appropriate reason for this ?",
+        "options": [
+            "An antibiotic can break RNA only, whereas virus has DNA.",
+            "An antibiotic is a carbohydrate in its chemical nature, whereas a vaccine is a protein which works well to kill a virus.",
+            "Only a vaccine can break the genetic material of a virus.",
+            "A virus does not use biochemical pathways which can be blocked by an antibiotic. But a vaccine can boost an immune system to fight the virus."
+        ],
+        "answer": "A virus does not use biochemical pathways which can be blocked by an antibiotic. But a vaccine can boost an immune system to fight the virus."
+    },
+    {
+        "question": "'Sleeping sickness' is caused by",
+        "options": [
+            "Trypanosoma",
+            "Leishmania",
+            "Plasmodium",
+            "Paramecium"
+        ],
+        "answer": "Trypanosoma"
+    },
+    {
+        "question": "Which one among the following is a free living animal ?",
+        "options": [
+            "Liver fluke",
+            "Wuchereria",
+            "Plasmodium",
+            "Planaria"
+        ],
+        "answer": "Planaria"
+    },
+    {
+        "question": "Which one of the following is the structure of a cardiac muscle cell ?",
+        "options": [
+            "Cylindrical, Unbranched and Multinucleate",
+            "Spindle shaped, Unbranched and Uninucleate",
+            "Spindle shaped, Branched and Uninucleate",
+            "Cylindrical, Branched and Uninucleate"
+        ],
+        "answer": "Cylindrical, Branched and Uninucleate"
+    },
+    {
+        "question": "Which one of the following naturally occurring acids is found in abundance in tomato ?",
+        "options": [
+            "Acetic acid",
+            "Citric acid",
+            "Oxalic acid",
+            "Tartaric acid"
+        ],
+        "answer": "Oxalic acid"
+    },
+    {
+        "question": "Which one of the following is used in soda-acid fire extinguishers ?",
+        "options": [
+            "Sodium chloride",
+            "Sodium hydrogen carbonate",
+            "Calcium hydroxide",
+            "Acetic acid"
+        ],
+        "answer": "Sodium hydrogen carbonate"
+    },
+    {
+        "question": "Which one of the following sodium compounds is used for softening hard water ?",
+        "options": [
+            "Na<sub>2</sub>CO<sub>3</sub>",
+            "NaHCO<sub>3</sub>",
+            "NaOH",
+            "Na<sub>2</sub>SO<sub>4</sub>"
+        ],
+        "answer": "Na<sub>2</sub>CO<sub>3</sub>"
+    },
+    {
+        "question": "Calcium oxide reacts vigorously with water to produce slaked lime whose solution is used for white-washing walls. This slaked lime reacts with component (A) in air to form a thin layer of component (B) to give a shiny finish. What are the components (A) and (B) ?",
+        "options": [
+            "A &ndash; O<sub>2</sub> ; B &ndash; CaCO<sub>3</sub>",
+            "A &ndash; CO<sub>2</sub> ; B &ndash; Ca(OH)<sub>2</sub>",
+            "A &ndash; O<sub>2</sub> ; B &ndash; Ca(OH)<sub>2</sub>",
+            "A &ndash; CO<sub>2</sub> ; B &ndash; CaCO<sub>3</sub>"
+        ],
+        "answer": "A &ndash; CO<sub>2</sub> ; B &ndash; CaCO<sub>3</sub>"
+    },
+    {
+        "question": "How many internal reflections of light take place in the formation of primary rainbow ?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "More than 2"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "The direction of acceleration in uniform circular motion is along the",
+        "options": [
+            "direction of motion.",
+            "tangent to the circle at the point of observation.",
+            "direction of velocity.",
+            "direction perpendicular to velocity."
+        ],
+        "answer": "direction perpendicular to velocity."
+    },
+    {
+        "question": "The weight of an object is due to",
+        "options": [
+            "the net force acting on it.",
+            "the total of all forces acting on it irrespective of their directions.",
+            "the force that it exerts on the ground.",
+            "its inert property."
+        ],
+        "answer": "the force that it exerts on the ground."
+    },
+    {
+        "question": "The size of particles being studied in 'nano-technology' is about",
+        "options": [
+            "1 &Aring; &ndash; 10 nm",
+            "1 &ndash; 100 nm",
+            "1 &ndash; 50 &micro;",
+            "1 mm &ndash; 10 mm"
+        ],
+        "answer": "1 &ndash; 100 nm"
+    }
+
+    ],
     "2021-II": [
     {
         "question": "Where should an object be placed in front of a convex lens to get a real and enlarged image of the object ?",
