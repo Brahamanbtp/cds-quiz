@@ -1,6 +1,1217 @@
 import type { Question } from "@/types/Question";
 
 const gkData: Record<string, Question[]> = {
+    "2019-II": [
+    {
+        "question": "Which one of the following is the motto of NCC?",
+        "options": [
+            "Unity and Discipline",
+            "Unity and Integrity",
+            "Unity and Command",
+            "Unity and Service"
+        ],
+        "answer": "Unity and Discipline"
+    },
+    {
+        "question": "Which one of the following departments is <i>not</i> under the Ministry of Home Affairs?",
+        "options": [
+            "Department of Official Languages",
+            "Department of Border Management",
+            "Department of Jammu and Kashmir Affairs",
+            "Department of Legal Affairs"
+        ],
+        "answer": "Department of Legal Affairs"
+    },
+    {
+        "question": "Which of the following statements is/are correct?<br/><ol><li>India is a signatory to the United Nations Convention to Combat Desertification (UNCCD).</li><li>Ministry of Home Affairs is the nodal Ministry in the Government of India for the UNCCD.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Under which one of the following Articles of the Constitution of India, a statement of estimated receipts and expenditure of the Government of India has to be laid before the Parliament in respect of every financial year?",
+        "options": [
+            "Article 110",
+            "Article 111",
+            "Article 112",
+            "Article 113"
+        ],
+        "answer": "Article 112"
+    },
+    {
+        "question": "The South Asian Association for Regional Cooperation was founded in",
+        "options": [
+            "Colombo",
+            "Islamabad",
+            "Kathmandu",
+            "Dhaka"
+        ],
+        "answer": "Dhaka"
+    },
+    {
+        "question": "Which one of the following countries is <i>not</i> a founding member of the New Development Bank?",
+        "options": [
+            "Brazil",
+            "Canada",
+            "Russia",
+            "India"
+        ],
+        "answer": "Canada"
+    },
+    {
+        "question": "The Public Financial Management System (PFMS) is a web-based online software application designed, developed, owned and implemented by the",
+        "options": [
+            "Department of Financial Services",
+            "Institute of Government Accounts and Finance",
+            "Controller General of Accounts",
+            "National Institute of Financial Management"
+        ],
+        "answer": "Controller General of Accounts"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><table><tr><th>List I (Institute)</th><th>List II (Location)</th></tr><tr><td>A. National Institute of Ayurveda</td><td>1. Chennai</td></tr><tr><td>B. National Institute of Homoeopathy</td><td>2. Bengaluru</td></tr><tr><td>C. National Institute of Unani Medicine</td><td>3. Kolkata</td></tr><tr><td>D. National Institute of Siddha</td><td>4. Jaipur</td></tr></table><br/>Code :",
+        "options": [
+            "A-1, B-2, C-3, D-4",
+            "A-1, B-3, C-2, D-4",
+            "A-4, B-3, C-2, D-1",
+            "A-4, B-2, C-3, D-1"
+        ],
+        "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+        "question": "Which of the following statements about 'Invest India' is/are correct?<br/><ol><li>It is a joint venture (not for profit) company.</li><li>It is the National Investment Promotion and Facilitation Agency of India.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "The National Dope Testing Laboratory functions under",
+        "options": [
+            "Ministry of Health and Family Welfare",
+            "Ministry of Science and Technology",
+            "Ministry of Youth Affairs and Sports",
+            "Ministry of Home Affairs"
+        ],
+        "answer": "Ministry of Youth Affairs and Sports"
+    },
+    {
+        "question": "In how many phases was the general election, 2019 conducted in India?",
+        "options": [
+            "6 phases",
+            "7 phases",
+            "8 phases",
+            "9 phases"
+        ],
+        "answer": "7 phases"
+    },
+    {
+        "question": "Which one of the following statements about the Organization of Islamic Cooperation is <i>not</i> correct?",
+        "options": [
+            "Its permanent Secretariat is located at Jeddah.",
+            "It endeavours to safeguard and protect interests of the Muslim world in the spirit of promoting international peace and harmony among various people of the world.",
+            "It is the largest inter-governmental organization of the world.",
+            "It has consultative and cooperative relations with the UN."
+        ],
+        "answer": "It is the largest inter-governmental organization of the world."
+    },
+    {
+        "question": "Who among the following won the Italian Open Women's Tennis Singles Title, 2019?",
+        "options": [
+            "Karolina Pliskova",
+            "Johanna Konta",
+            "Naomi Osaka",
+            "Serena Williams"
+        ],
+        "answer": "Karolina Pliskova"
+    },
+    {
+        "question": "Which among the following IN ship(s) participated in the SIMBEX-19?<br/><ol><li>INS Kolkata</li><li>INS Shakti</li><li>INS Vikrant</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "'Triples' is a new format of",
+        "options": [
+            "Boxing",
+            "Judo",
+            "Chess",
+            "Badminton"
+        ],
+        "answer": "Badminton"
+    },
+    {
+        "question": "Who among the following was the Chairman of the Committee on Deepening Digital Payments appointed by the RBI?",
+        "options": [
+            "H.R. Khan",
+            "Nandan Nilekani",
+            "N.R. Narayana Murthy",
+            "Sanjay Jain"
+        ],
+        "answer": "Nandan Nilekani"
+    },
+    {
+        "question": "'The Sasakawa Award' of United Nations is given in recognition of the work done in the field of",
+        "options": [
+            "Disaster Reduction",
+            "Peace Keeping",
+            "Health Services",
+            "Poverty Alleviation"
+        ],
+        "answer": "Disaster Reduction"
+    },
+    {
+        "question": "Why was India's G.S. Lakshmi in news recently?",
+        "options": [
+            "She was the first Indian to play cricket for an English County Club.",
+            "She became the first female ICC match referee.",
+            "She was awarded the Ramon Magsaysay Award for the year 2019.",
+            "She was the recipient of the Booker Prize in the year 2019."
+        ],
+        "answer": "She became the first female ICC match referee."
+    },
+    {
+        "question": "Who among the following was elected as the President of Indonesia for the second term?",
+        "options": [
+            "Joko Widodo",
+            "Prabowo Subianto",
+            "Sandiaga Uno",
+            "Jusuf Kalla"
+        ],
+        "answer": "Joko Widodo"
+    },
+    {
+        "question": "In India, May 21 is observed as",
+        "options": [
+            "NRI Day",
+            "National Youth Day",
+            "National Technology Day",
+            "National Anti-Terrorism Day"
+        ],
+        "answer": "National Anti-Terrorism Day"
+    },
+    {
+        "question": "Arrange the following in the chronological order of their implementation :<br/><ol><li>The Indian Factory Act (First)</li><li>The Vernacular Press Act</li><li>The Morley-Minto Reforms</li><li>The Cornwallis Code</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "4, 2, 1, 3",
+            "2, 4, 1, 3",
+            "3, 4, 1, 2",
+            "2, 1, 3, 4"
+        ],
+        "answer": "4, 2, 1, 3"
+    },
+    {
+        "question": "Article 371 A of the Constitution of India provides special privileges to",
+        "options": [
+            "Nagaland",
+            "Mizoram",
+            "Sikkim",
+            "Manipur"
+        ],
+        "answer": "Nagaland"
+    },
+    {
+        "question": "How many Zonal Councils were set up vide Part-III of the States Re-organization Act, 1956?",
+        "options": [
+            "Eight",
+            "Seven",
+            "Six",
+            "Five"
+        ],
+        "answer": "Five"
+    },
+    {
+        "question": "Which provision of the Constitution of India provides that the President shall <i>not</i> be answerable to any Court in India for the exercise of powers of his office?",
+        "options": [
+            "Article 53",
+            "Article 74",
+            "Article 361",
+            "Article 363"
+        ],
+        "answer": "Article 361"
+    },
+    {
+        "question": "Which law prescribes that all proceedings in the Supreme Court shall be in English language?",
+        "options": [
+            "Article 145 of the Constitution of India",
+            "Article 348 of the Constitution of India",
+            "The Supreme Court Rules, 1966",
+            "An Act passed by the Parliament"
+        ],
+        "answer": "Article 348 of the Constitution of India"
+    },
+    {
+        "question": "The total number of members in the Union Council of Ministers in India shall <i>not</i> exceed",
+        "options": [
+            "10% of the total number of members of the Parliament",
+            "15% of the total number of members of the Parliament",
+            "10% of the total number of members of the Lok Sabha",
+            "15% of the total number of members of the Lok Sabha"
+        ],
+        "answer": "15% of the total number of members of the Lok Sabha"
+    },
+    {
+        "question": "Which one of the following is the most noticeable characteristic of the Mediterranean climate?",
+        "options": [
+            "Limited geographical extent",
+            "Dry summer",
+            "Dry winter",
+            "Moderate temperature"
+        ],
+        "answer": "Dry summer"
+    },
+    {
+        "question": "Which one of the following rivers takes a 'U' turn at Namcha Barwa and enters India?",
+        "options": [
+            "Ganga",
+            "Tista",
+            "Barak",
+            "Brahmaputra"
+        ],
+        "answer": "Brahmaputra"
+    },
+    {
+        "question": "What was the Dutt-Bradley thesis?",
+        "options": [
+            "The Working Committee of the Indian National Congress decided that Congress should play a crucial role in realising the independence of India",
+            "The Socialist party decided to play foremost part in anti-imperialist struggle",
+            "Revolutionary socialist Batukeshwar Dutt put forth a ten-point plan to work for the success of anti-imperialist front",
+            "It was a Communist party document, according to which the National Congress could play a great part and a foremost part in realising the anti-imperialist people's front"
+        ],
+        "answer": "It was a Communist party document, according to which the National Congress could play a great part and a foremost part in realising the anti-imperialist people's front"
+    },
+    {
+        "question": "The <i>khuntkatti</i> tenure was prevalent in which one of the following regions of India during the British Colonial Rule?",
+        "options": [
+            "Bundelkhand",
+            "Karnataka",
+            "Chota Nagpur",
+            "Madras Presidency"
+        ],
+        "answer": "Chota Nagpur"
+    },
+    {
+        "question": "Who was the author of the book '<i>Plagues and Peoples</i>'?",
+        "options": [
+            "William H. McNeill",
+            "W.I. Thomas",
+            "Rachel Carson",
+            "David Cannadine"
+        ],
+        "answer": "William H. McNeill"
+    },
+    {
+        "question": "Who among the following started the Indian Agriculture Service?",
+        "options": [
+            "Lord Curzon",
+            "William Bentinck",
+            "Lord Minto",
+            "Lord Rippon"
+        ],
+        "answer": "Lord Minto"
+    },
+    {
+        "question": "'<i>Chandimangala</i>' was composed in which one of the following languages during the 16th century CE?",
+        "options": [
+            "Sanskrit",
+            "Tamil",
+            "Bengali",
+            "Oriya"
+        ],
+        "answer": "Bengali"
+    },
+    {
+        "question": "In December 1962, which Soviet leader declared that China was responsible for the Sino-Indian War of 1962?",
+        "options": [
+            "Khrushchev",
+            "Bulganin",
+            "Suslov",
+            "Malenkov"
+        ],
+        "answer": "Khrushchev"
+    }
+,
+
+    {
+        "question": "Which of the following statements with regard to the 'Make in India' initiative is/are correct?<br/><ol><li>It was launched in the year 2018.</li><li>Its objective is to foster innovation.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Which one of the following States does <i>not</i> have a Legislative Council?",
+        "options": [
+            "Karnataka",
+            "Telangana",
+            "Jammu and Kashmir",
+            "Arunachal Pradesh"
+        ],
+        "answer": "Arunachal Pradesh"
+    },
+    {
+        "question": "What is SWAYAM?",
+        "options": [
+            "Study Webs of Active-Learning for Young Aspiring Minds",
+            "Study Webs of Active-Learning for Youth Aspiring Minds",
+            "Study Webs of Active-Learning for Young Aspiration Minds",
+            "Study Webs of Active-Learning for Youth of Aspiration Minds"
+        ],
+        "answer": "Study Webs of Active-Learning for Young Aspiring Minds"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> enumerated in the Constitution of India as a fundamental duty of citizens of India?",
+        "options": [
+            "To safeguard public property",
+            "To protect and improve the natural environment",
+            "To develop the scientific temper and spirit of inquiry",
+            "To promote international peace and security"
+        ],
+        "answer": "To promote international peace and security"
+    },
+    {
+        "question": "Who among the following in his book '<i>The Managerial Revolution</i>' argued that a managerial class dominated all industrial societies, both capitalist and communist, by virtue of its technical and scientific knowledge and its administrative skills?",
+        "options": [
+            "James Burnham",
+            "Robert Michels",
+            "Gaetano Mosca",
+            "Vilfredo Pareto"
+        ],
+        "answer": "James Burnham"
+    },
+    {
+        "question": "Which one of the following conditions laid down in the Constitution of India for the issue of a writ of Quo-Warranto is <i>not</i> correct?",
+        "options": [
+            "The office must be public and it must be created by a Statute",
+            "The office must be a substantive one",
+            "There has been a contravention of the Constitution or a Statute in appointing such person to that office",
+            "The appointment is in tune with a statutory provision"
+        ],
+        "answer": "The appointment is in tune with a statutory provision"
+    },
+    {
+        "question": "Which one of the following equals Personal Disposable Income?",
+        "options": [
+            "Personal Income &ndash; Direct taxes paid by households and miscellaneous fees, fines, etc.",
+            "Private Income &ndash; Saving of Private Corporate Sectors &ndash; Corporation Tax",
+            "Private Income &ndash; Taxes",
+            "Total expenditure of Households &ndash; Income Tax &ndash; Gifts received"
+        ],
+        "answer": "Personal Income &ndash; Direct taxes paid by households and miscellaneous fees, fines, etc."
+    },
+    {
+        "question": "The working of the price mechanism in a free-market economy refers to which one of the following?",
+        "options": [
+            "The interplay of the forces of demand and supply",
+            "Determination of the inflation rate in the economy",
+            "Determination of the economy's propensity to consume",
+            "Determination of the economy's full employment output"
+        ],
+        "answer": "The interplay of the forces of demand and supply"
+    },
+    {
+        "question": "Indexation is a method whose use can be associated with which one of the following?",
+        "options": [
+            "Controlling inflation",
+            "Nominal GDP estimation",
+            "Measurement of savings rate",
+            "Fixing of wage compensation"
+        ],
+        "answer": "Fixing of wage compensation"
+    },
+    {
+        "question": "A car undergoes a uniform circular motion. The acceleration of the car is",
+        "options": [
+            "zero",
+            "a non-zero constant",
+            "a non-zero but not a constant",
+            "None of the above"
+        ],
+        "answer": "a non-zero but not a constant"
+    },
+    {
+        "question": "An echo is heard after 5 seconds of the production of sound which moves with a speed of 340 m/s. What is the distance of the mountain from the source of sound which produced the echo?",
+        "options": [
+            "0&middot;085 km",
+            "0&middot;85 km",
+            "0&middot;17 km",
+            "1&middot;7 km"
+        ],
+        "answer": "0&middot;85 km"
+    },
+    {
+        "question": "A 100 W electric bulb is used for 10 hours a day. How many units of energy are consumed in 30 days?",
+        "options": [
+            "1",
+            "10",
+            "30",
+            "300"
+        ],
+        "answer": "30"
+    },
+    {
+        "question": "Which of the following statements relating to the Fifth Schedule of the Constitution of India is <i>not</i> correct?",
+        "options": [
+            "It relates to the special provision for administration of certain areas in the States other than Assam, Meghalaya, Tripura and Mizoram.",
+            "Tribal advisory councils are to be constituted to give advice under the Fifth Schedule.",
+            "The Governor is not authorized to make regulations to prohibit or restrict the transfer of land by, or among members of the Scheduled Tribes.",
+            "The Governors of the States in which there are scheduled areas have to submit reports to the President regarding the administration of such areas."
+        ],
+        "answer": "The Governor is not authorized to make regulations to prohibit or restrict the transfer of land by, or among members of the Scheduled Tribes."
+    },
+    {
+        "question": "Consider the following statements with regard to the formation of new States and alteration of boundaries of existing States :<br/><ol><li>Parliament may increase the area of any State.</li><li>Parliament may diminish the area of any State.</li><li>Parliament cannot alter the boundary of any State.</li><li>Parliament cannot alter the name of any State.</li></ol><br/>Which of the statements given above is/are <i>not</i> correct?",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "3 and 4",
+            "4 only"
+        ],
+        "answer": "3 and 4"
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>The Advocate General of a State in India is appointed by the President of India upon the recommendations of the Governor of the concerned State.</li><li>As provided in the Code of Civil Procedure, High Courts have original appellate advisory jurisdiction at the State level.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Neither 1 nor 2"
+    },
+    {
+        "question": "Which one of the following forms of Constitution contains the features of both the Unitary and Federal Constitution?",
+        "options": [
+            "Unitary",
+            "Federal",
+            "Quasi-Federal",
+            "Quasi-Unitary"
+        ],
+        "answer": "Quasi-Federal"
+    },
+    {
+        "question": "Which one of the following Indian States has <i>no</i> international boundary?",
+        "options": [
+            "Bihar",
+            "Chhattisgarh",
+            "Uttarakhand",
+            "Meghalaya"
+        ],
+        "answer": "Chhattisgarh"
+    },
+    {
+        "question": "Which one of the following Indian cities is <i>not</i> located on a river bank?",
+        "options": [
+            "Agra",
+            "Bhagalpur",
+            "Bhopal",
+            "Kanpur"
+        ],
+        "answer": "Bhopal"
+    },
+    {
+        "question": "Where are Jhumri Telaiya and Mandar Hills situated?",
+        "options": [
+            "Jharkhand",
+            "Bihar",
+            "Assam",
+            "West Bengal"
+        ],
+        "answer": "Jharkhand"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> correct regarding South India?",
+        "options": [
+            "Diurnal range of temperature is less",
+            "Annual range of temperature is less",
+            "Temperature is high throughout the year",
+            "Extreme climatic conditions are found"
+        ],
+        "answer": "Extreme climatic conditions are found"
+    },
+    {
+        "question": "Which one of the following statements regarding sex composition is <i>not</i> correct?",
+        "options": [
+            "In some countries, sex ratio is expressed as number of males per thousand females.",
+            "In India, sex ratio is expressed as number of females per thousand males.",
+            "At world level, sex ratio is about 102 males per 100 females.",
+            "In Asia, there is high sex ratio."
+        ],
+        "answer": "In Asia, there is high sex ratio."
+    },
+    {
+        "question": "Who among the following has given the concept of Human Development?",
+        "options": [
+            "Amartya Sen",
+            "Mahbub-ul-Haq",
+            "Sukhamoy Chakravarty",
+            "G.S. Chaddha"
+        ],
+        "answer": "Mahbub-ul-Haq"
+    },
+    {
+        "question": "Which one of the following regions is an important supplier of citrus fruits?",
+        "options": [
+            "Equatorial region",
+            "Mediterranean region",
+            "Desert region",
+            "Sub-humid region"
+        ],
+        "answer": "Mediterranean region"
+    },
+    {
+        "question": "Who were the Nayanars?",
+        "options": [
+            "Those who were immersed in devotion to Vishnu",
+            "Those who were devotees of Buddha",
+            "Leaders who were devotees of Shiva",
+            "Leaders who were devotees of Basveshwara"
+        ],
+        "answer": "Leaders who were devotees of Shiva"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><table><tr><th>List I (Ethnic Territorial Segment)</th><th>List II (Related Occupational Pattern)</th></tr><tr><td>A. Maruta Makkal</td><td>1. Pastoralists</td></tr><tr><td>B. Kuravan Makkal</td><td>2. Fishing people</td></tr><tr><td>C. Mullai Makkal</td><td>3. Ploughmen</td></tr><tr><td>D. Neytal Makkal</td><td>4. Hill people</td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-1, C-4, D-2",
+            "A-2, B-1, C-4, D-3",
+            "A-3, B-4, C-1, D-2",
+            "A-2, B-4, C-1, D-3"
+        ],
+        "answer": "A-3, B-4, C-1, D-2"
+    },
+    {
+        "question": "Who among the following Mughal emperors was a follower of the Naqshbandiyya leader, Khwaja Ubaydullah Ahrar?",
+        "options": [
+            "Babur",
+            "Humayun",
+            "Akbar",
+            "Jahangir"
+        ],
+        "answer": "Babur"
+    },
+    {
+        "question": "Which one of the following statements about the Government of India Act, 1919 is <i>not</i> correct?",
+        "options": [
+            "It extended the practice of communal representation.",
+            "It made the Central Executive responsible to the Legislature.",
+            "It is also known as the Montague-Chelmsford Reforms.",
+            "It paved the way for federalism by clearly separating the responsibilities of the Centre and the Provinces."
+        ],
+        "answer": "It made the Central Executive responsible to the Legislature."
+    },
+    {
+        "question": 'The concept of "Four Pillar State", free from district magistracy for India was suggested by',
+        "options": [
+            "Lala Lajpat Rai",
+            "Ram Manohar Lohia",
+            "Raja Ram Mohan Roy",
+            "Subash Chandra Bose"
+        ],
+        "answer": "Ram Manohar Lohia"
+    },
+    {
+        "question": "Which one among the following is <i>not</i> a part of the Fundamental Rights (Part III) of the Constitution of India?",
+        "options": [
+            "Prohibition of traffic in human beings and forced labour",
+            "Prohibition of employment of children in factories",
+            "Participation of workers in management of industries",
+            "Practice any profession, or to carry on any occupation, trade or business"
+        ],
+        "answer": "Participation of workers in management of industries"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a geographical requirement for cultivation of cotton?",
+        "options": [
+            "Temperature reaching 25&deg;C or more in summer",
+            "Moderate to light rainfall",
+            "Medium loam soil with good drainage",
+            "A growing period of at least 100 frost free days"
+        ],
+        "answer": "A growing period of at least 100 frost free days"
+    },
+    {
+        "question": "Which one of the following statements regarding temperate coniferous forest biome is <i>not</i> correct?",
+        "options": [
+            "They are characterized by very little undergrowth.",
+            "They have a growing period of 50 to 100 days in a year.",
+            "There is low variation in annual temperature.",
+            "There is high range in spatial distribution of annual precipitation."
+        ],
+        "answer": "There is low variation in annual temperature."
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><table><tr><th>List I (Peak)</th><th>List II (Name of Hill)</th></tr><tr><td>A. Anaimudi</td><td>1. Nilgiri</td></tr><tr><td>B. Doddabetta</td><td>2. Satpura</td></tr><tr><td>C. Dhupgarh</td><td>3. Aravali</td></tr><tr><td>D. Guru Shikhar</td><td>4. Annamalai</td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-2, C-1, D-4",
+            "A-3, B-1, C-2, D-4",
+            "A-4, B-1, C-2, D-3",
+            "A-4, B-2, C-1, D-3"
+        ],
+        "answer": "A-4, B-1, C-2, D-3"
+    }
+
+    ,
+
+    {
+        "question": "Coral reefs are <i>not</i> found in which one of the following regions?",
+        "options": [
+            "Lakshadweep Islands",
+            "Gulf of Kachchh",
+            "Gulf of Mannar",
+            "Gulf of Cambay"
+        ],
+        "answer": "Gulf of Cambay"
+    },
+    {
+        "question": "In which one of the following States is jute <i>not</i> significantly cultivated?",
+        "options": [
+            "Assam",
+            "West Bengal",
+            "Odisha",
+            "Andhra Pradesh"
+        ],
+        "answer": "Andhra Pradesh"
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>According to <i>Mahavamsa</i>, Ashoka turned to the Buddha's dhamma when his nephew Nigrodha preached the doctrine to him.</li><li><i>Divyavadana</i> ascribes Ashoka being drawn to the Buddha's teaching to the influence of Samudra, a merchant-turned monk.</li><li><i>Dipavamsa</i> speaks of Samudra, the 12-year-old son of a merchant, as the key figure in Ashoka's coming under the influence of the Buddhist dhamma.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "1 and 2",
+            "1 and 3"
+        ],
+        "answer": "1 and 2"
+    },
+    {
+        "question": "Name the site that gives us valuable information about India's maritime links on the Coromandel coast.",
+        "options": [
+            "Bharukachchha",
+            "Karur",
+            "Arikamedu",
+            "Anuradhapura"
+        ],
+        "answer": "Arikamedu"
+    },
+    {
+        "question": "Where are the largest quantity of cichlids found in India?",
+        "options": [
+            "Backwaters of Kerala",
+            "Sunderbans",
+            "Narmada",
+            "Godavari"
+        ],
+        "answer": "Backwaters of Kerala"
+    },
+    {
+        "question": 'Which Greek philosopher coined the term "Geography" in the 3rd century B.C.E.?',
+        "options": [
+            "Euclid",
+            "Plato",
+            "Eratosthenes",
+            "Clio"
+        ],
+        "answer": "Eratosthenes"
+    },
+    {
+        "question": "Who is the author of the 16th century Sanskrit text, the <i>Vraja Bhakti Vilasa</i> which focuses on the Braj region in North India?",
+        "options": [
+            "Todar Mal",
+            "Narayana Bhatta",
+            "Chaitanya",
+            "Rupa Goswami"
+        ],
+        "answer": "Narayana Bhatta"
+    },
+    {
+        "question": "Bose-Einstein Condensate is",
+        "options": [
+            "solid state of matter",
+            "fifth state of matter",
+            "plasma",
+            "state of condensed matter"
+        ],
+        "answer": "fifth state of matter"
+    },
+    {
+        "question": "The rate of evaporation of liquid does <i>not</i> depend upon",
+        "options": [
+            "temperature",
+            "its surface area exposed to the atmosphere",
+            "its mass",
+            "humidity"
+        ],
+        "answer": "its mass"
+    },
+    {
+        "question": "Rutherford's alpha particle scattering experiment on thin gold foil was responsible for the discovery of",
+        "options": [
+            "electron",
+            "proton",
+            "atomic nucleus",
+            "neutron"
+        ],
+        "answer": "atomic nucleus"
+    },
+    {
+        "question": "Food chain is",
+        "options": [
+            "relationship between autotrophic organisms",
+            "exchange of genetic material between two organisms",
+            "passage of food (and thus energy) from one organism to another",
+            "modern entrepreneur establishment providing food outlets"
+        ],
+        "answer": "passage of food (and thus energy) from one organism to another"
+    },
+    {
+        "question": "Which one of the following is active transport?",
+        "options": [
+            "It is the movement of a substance against a diffusion gradient with the use of energy from respiration.",
+            "It is the movement of a substance against a diffusion gradient without the use of energy.",
+            "It is the movement of a substance against a diffusion gradient with the use of energy from photosynthesis.",
+            "It is the movement of a substance along a diffusion gradient with the use of energy from respiration."
+        ],
+        "answer": "It is the movement of a substance against a diffusion gradient with the use of energy from respiration."
+    },
+    {
+        "question": "Chlorophyll in photosynthetic prokaryotic bacteria is associated with",
+        "options": [
+            "plastids",
+            "membranous vesicles",
+            "nucleoids",
+            "chromosomes"
+        ],
+        "answer": "membranous vesicles"
+    },
+    {
+        "question": "What do you mean by 'Demographic Dividend'?",
+        "options": [
+            "A rise in the rate of economic growth due to a higher share of working age people in a population",
+            "A rise in the rate of literacy due to development of educational institutions in different parts of the country",
+            "A rise in the standard of living of the people due to the growth of alternative livelihood practices",
+            "A rise in the gross employment ratio of a country due to government policies"
+        ],
+        "answer": "A rise in the rate of economic growth due to a higher share of working age people in a population"
+    },
+    {
+        "question": "Which one of the following organisms is responsible for sleeping sickness?",
+        "options": [
+            "<i>Leishmania</i>",
+            "<i>Trypanosoma</i>",
+            "<i>Ascaris</i>",
+            "<i>Helicobacter</i>"
+        ],
+        "answer": "<i>Trypanosoma</i>"
+    },
+    {
+        "question": "Which one of the following body parts/organs of the human body does <i>not</i> have smooth muscles?",
+        "options": [
+            "Ureters",
+            "Iris of eye",
+            "Bronchi of lungs",
+            "Biceps"
+        ],
+        "answer": "Biceps"
+    },
+    {
+        "question": "What is Inter-cropping?",
+        "options": [
+            "It is the time period between two cropping seasons.",
+            "It is growing of two or more crops in random mixture.",
+            "It is growing of two or more crops in definite row patterns.",
+            "It is growing of different crops on a piece of land in a pre-planned succession."
+        ],
+        "answer": "It is growing of two or more crops in definite row patterns."
+    },
+    {
+        "question": "Magnification is",
+        "options": [
+            "actual size of specimen / observed size",
+            "observed size of specimen / actual size",
+            "actual size of specimen - observed size",
+            "actual size of specimen &times; observed size"
+        ],
+        "answer": "observed size of specimen / actual size"
+    },
+    {
+        "question": "Which one of the following cell organelles is known as 'suicide bags' of a cell?",
+        "options": [
+            "Lysosomes",
+            "Plastids",
+            "Endoplasmic reticulum",
+            "Mitochondria"
+        ],
+        "answer": "Lysosomes"
+    },
+    {
+        "question": "Which one of the following statements with regard to economic models is <i>not</i> correct?",
+        "options": [
+            "They involve simplification of complex processes.",
+            "They represent the whole or a part of a theory.",
+            "They can be expressed only through equations.",
+            "They help in gaining an insight into cause and effect."
+        ],
+        "answer": "They can be expressed only through equations."
+    },
+    {
+        "question": "The value of the slope of a normal demand curve is",
+        "options": [
+            "positive",
+            "negative",
+            "zero",
+            "infinity"
+        ],
+        "answer": "negative"
+    },
+    {
+        "question": "Which one of the following is an example of a price floor?",
+        "options": [
+            "Minimum Support Price (MSP) for Jowar in India",
+            "Subsidy given to farmers to buy fertilizers",
+            "Price paid by people to buy goods from ration shops",
+            "Maximum Retail Price (MRP) printed on the covers/packets of goods sold in India"
+        ],
+        "answer": "Minimum Support Price (MSP) for Jowar in India"
+    },
+    {
+        "question": "Which one of the following factors is <i>not</i> considered in determining the Minimum Support Price (MSP) in India?",
+        "options": [
+            "Cost of production",
+            "Price trends in international and domestic markets",
+            "Cost of living index",
+            "Inter-crop price parity"
+        ],
+        "answer": "Cost of living index"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a dimension of the Human Development Index?",
+        "options": [
+            "A long and healthy life",
+            "Knowledge",
+            "Access to banking and other financial provisions",
+            "A decent standard of living"
+        ],
+        "answer": "Access to banking and other financial provisions"
+    },
+    {
+        "question": "Gini Coefficient or Gini Ratio can be associated with which one of the following measurements in an economy?",
+        "options": [
+            "Rate of inflation",
+            "Poverty index",
+            "Income inequality",
+            "Personal income"
+        ],
+        "answer": "Income inequality"
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>Particles of matter intermix on their own.</li><li>Particles of matter have force acting between them.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Rate of evaporation increases with",
+        "options": [
+            "an increase of surface area",
+            "an increase in humidity",
+            "a decrease in wind speed",
+            "a decrease of temperature"
+        ],
+        "answer": "an increase of surface area"
+    },
+    {
+        "question": "If an object is at rest, then the time (X-axis) versus distance (Y-axis) graph",
+        "options": [
+            "is vertical",
+            "is horizontal",
+            "has 45&deg; positive slope",
+            "has 45&deg; negative slope"
+        ],
+        "answer": "is horizontal"
+    },
+    {
+        "question": "Consider the following statements about mixture :<br/><ol><li>A substance can be separated into other kinds of matter by any physical process.</li><li>Dissolved sodium chloride can be separated from water by the physical process of evaporation.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "Elements are defined by the number of protons they possess.",
+            "Isobars are atoms having the same atomic number but different mass number.",
+            "The mass number of an atom is equal to the number of nucleons in its nucleus.",
+            "Valency is the combining capacity of an atom."
+        ],
+        "answer": "Isobars are atoms having the same atomic number but different mass number."
+    },
+    {
+        "question": "If the speed of a moving magnet inside a coil increases, the electric current in the coil",
+        "options": [
+            "increases",
+            "decreases",
+            "reverses",
+            "remains the same"
+        ],
+        "answer": "increases"
+    },
+    {
+        "question": "The frequency (in Hz) of a note that is one octave higher than 500 Hz is",
+        "options": [
+            "375",
+            "750",
+            "1000",
+            "2000"
+        ],
+        "answer": "1000"
+    },
+    {
+        "question": "Which of the following statements as per the Constitution of India are <i>not</i> correct?<br/><ol><li>The President tenders his resignation to the Chief Justice of India.</li><li>The Vice-President tenders his resignation to the President of India.</li><li>The Comptroller and Auditor General of India is removed from his office in the like manner as the President of India.</li><li>A Judge of the Supreme Court can resign his office by writing under his hand addressed to the Chief Justice of India.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "3 and 4 only",
+            "1, 2 and 3",
+            "1, 3 and 4"
+        ],
+        "answer": "1, 3 and 4"
+    },
+    {
+        "question": "Rajya Sabha has exclusive jurisdiction in",
+        "options": [
+            "creation of new States",
+            "declaring a war",
+            "financial emergency",
+            "authorizing Parliament to legislate on a subject in the State List"
+        ],
+        "answer": "authorizing Parliament to legislate on a subject in the State List"
+    },
+    {
+        "question": "The term soil impoverishment relates to which one of the following?",
+        "options": [
+            "Soil erosion",
+            "Soil deposition",
+            "Soil getting very deficient in plant nutrients",
+            "Soil getting enriched with plant nutrients"
+        ],
+        "answer": "Soil getting very deficient in plant nutrients"
+    },
+    {
+        "question": "Which one of the following is the correct sequential phase in the successional development of vegetation community in a habitat?",
+        "options": [
+            "Migration, Reaction, Stabilization and Nudation",
+            "Migration, Stabilization, Reaction and Nudation",
+            "Nudation, Migration, Reaction and Stabilization",
+            "Reaction, Migration, Stabilization and Nudation"
+        ],
+        "answer": "Nudation, Migration, Reaction and Stabilization"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the lists :<br/><br/><table><tr><th>List I (Soil type)</th><th>List II (Major characteristic)</th></tr><tr><td>A. Oxisols</td><td>1. Very rich in organic matter</td></tr><tr><td>B. Vertisols</td><td>2. Soil lacking horizons</td></tr><tr><td>C. Histosols</td><td>3. Very old and highly weathered</td></tr><tr><td>D. Entisols</td><td>4. Rich in clay content and highly basic</td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-1, C-4, D-2",
+            "A-3, B-4, C-1, D-2",
+            "A-2, B-1, C-4, D-3",
+            "A-2, B-4, C-1, D-3"
+        ],
+        "answer": "A-3, B-4, C-1, D-2"
+    }
+
+    ,
+
+    {
+        "question": "Which one of the following mountains separates Black Sea and Caspian Sea?",
+        "options": [
+            "Urals",
+            "Caucasus",
+            "Carpathians",
+            "Balkan mountains"
+        ],
+        "answer": "Caucasus"
+    },
+    {
+        "question": "Rains caused by thunderstorms during the hot weather season (mid-March to mid-June) in Karnataka are called",
+        "options": [
+            "Kalbaisakhi",
+            "Mango showers",
+            "Loo",
+            "Cherry blossoms"
+        ],
+        "answer": "Cherry blossoms"
+    },
+    {
+        "question": "Which one of the following is the largest fresh water lake in India?",
+        "options": [
+            "Chilika",
+            "Loktak",
+            "Dal",
+            "Wular"
+        ],
+        "answer": "Wular"
+    },
+    {
+        "question": "<b>Statement I :</b><br/>The Greek travellers were most impressed by the fertility of India's soil and the energy and ability of her cultivators.<br/><br/><b>Statement II :</b><br/>Ancient India knew the use of manure.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I.",
+            "Statement I is true but Statement II is false.",
+            "Statement I is false but Statement II is true."
+        ],
+        "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I."
+    },
+    {
+        "question": "<b>Statement I :</b><br/>Non-cooperation began in Punjab with the student movement inspired by Lala Lajpat Rai in January 1921.<br/><br/><b>Statement II :</b><br/>The Sikh dominated central Punjab countryside was stirred by the powerful Akali upsurge.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I.",
+            "Statement I is true but Statement II is false.",
+            "Statement I is false but Statement II is true."
+        ],
+        "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I."
+    },
+    {
+        "question": "<b>Statement I :</b><br/>The Oudh Kisan Sabha established in 1920 failed to bring under its wing any Kisan Sabhas.<br/><br/><b>Statement II :</b><br/>The Oudh Kisan Sabha asked the Kisans to refuse to till bedakhli land, not to offer <i>hari</i> and <i>begar</i>.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I.",
+            "Statement I is true but Statement II is false.",
+            "Statement I is false but Statement II is true."
+        ],
+        "answer": "Statement I is false but Statement II is true."
+    },
+    {
+        "question": "<b>Statement I :</b><br/>The United Provinces during Non-Cooperation became one of the strongest bases of the Congress.<br/><br/><b>Statement II :</b><br/>The literary outcrop of Non-Cooperation in Bengal was quite meagre compared to the days of the Swadeshi agitation.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I.",
+            "Statement I is true but Statement II is false.",
+            "Statement I is false but Statement II is true."
+        ],
+        "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I."
+    },
+    {
+        "question": "Who were <i>Alvars</i>?",
+        "options": [
+            "Those who immersed in devotion to Vishnu",
+            "Devotees of Shiva",
+            "Those who worshipped abstract form of God",
+            "Devotees of Shakti"
+        ],
+        "answer": "Those who immersed in devotion to Vishnu"
+    },
+    {
+        "question": "Which one of the following is monatomic?",
+        "options": [
+            "Hydrogen",
+            "Sulphur",
+            "Phosphorus",
+            "Helium"
+        ],
+        "answer": "Helium"
+    },
+    {
+        "question": "In graphite, each carbon atom is bonded to three other carbon atoms",
+        "options": [
+            "forming a three-dimensional structure",
+            "in the same plane giving a hexagonal array",
+            "in the same plane giving a square array",
+            "in the same plane giving a pentagonal array"
+        ],
+        "answer": "in the same plane giving a hexagonal array"
+    },
+    {
+        "question": "Soap solution used for cleaning purpose appears cloudy. This is due to the fact that soap micelles can",
+        "options": [
+            "refract light",
+            "scatter light",
+            "diffract light",
+            "polarize light"
+        ],
+        "answer": "scatter light"
+    },
+    {
+        "question": "People prefer to wear cotton clothes in summer season. This is due to the fact that cotton clothes are",
+        "options": [
+            "good absorbers of water",
+            "good conveyors of heat",
+            "good radiators of heat",
+            "good absorbers of heat"
+        ],
+        "answer": "good absorbers of water"
+    },
+    {
+        "question": "Employing Chromatography, one <i>cannot</i> separate",
+        "options": [
+            "radio-isotopes",
+            "colours from a dye",
+            "pigments from a natural colour",
+            "drugs from blood"
+        ],
+        "answer": "radio-isotopes"
+    },
+    {
+        "question": 'Consider the following statement :<br/><br/>"Atomic number of an element is a more fundamental property than its atomic mass."<br/>Who among the following scientists has made the above statement?',
+        "options": [
+            "Dmitri Mendeleev",
+            "Henry Moseley",
+            "J.J. Thomson",
+            "Ernest Rutherford"
+        ],
+        "answer": "Henry Moseley"
+    },
+    {
+        "question": "Which one of the following acids is also known as Vitamin C?",
+        "options": [
+            "Methanoic acid",
+            "Ascorbic acid",
+            "Lactic acid",
+            "Tartaric acid"
+        ],
+        "answer": "Ascorbic acid"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> found in animal cells?",
+        "options": [
+            "Free ribosomes",
+            "Mitochondria",
+            "Nucleolus",
+            "Cell wall"
+        ],
+        "answer": "Cell wall"
+    },
+    {
+        "question": "<i>Marsilea</i>, Fern and Horse-tail are examples of which one of the following plant groups?",
+        "options": [
+            "Pteridophyta",
+            "Bryophyta",
+            "Gymnosperms",
+            "Angiosperms"
+        ],
+        "answer": "Pteridophyta"
+    }
+
+    ],
     "2020-I": [
     {
         "question": "Scattering of &alpha;-particles by a thin gold foil suggests the presence of",
