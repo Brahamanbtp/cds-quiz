@@ -1,8 +1,1222 @@
 import type { Question } from "@/types/Question";
 
-const gkData: Record<string, Question[]> = {
-    "2019-I": [
+export const gkData: Record<string, Question[]> = {
+    "2018-II": [
+        {
+            "question": "Two reactants in a flask at room temperature are producing bubbles of a gas that turn limewater milky. The reactants could be",
+            "options": [
+                "zinc and hydrochloric acid",
+                "magnesium carbonate and hydrochloric acid",
+                "methane and oxygen",
+                "copper and dilute hydrochloric acid"
+            ],
+            "answer": "magnesium carbonate and hydrochloric acid"
+        },
+        {
+            "question": "How many moles of CO can be obtained by reacting 2.0 mole of CH<sub>4</sub> with 2.0 mole of O<sub>2</sub> according to the equation given below?<br/><br/>CH<sub>4</sub>(g) + 1/2 O<sub>2</sub> &rarr; CO + 2H<sub>2</sub>",
+            "options": [
+                "2.0",
+                "0.5",
+                "2.5",
+                "4.0"
+            ],
+            "answer": "2.0"
+        },
+        {
+            "question": "Reaction between which of the following two reactants will produce hydrogen gas?",
+            "options": [
+                "Magnesium and hydrochloric acid",
+                "Copper and dilute nitric acid",
+                "Calcium carbonate and hydrochloric acid",
+                "Zinc and nitric acid"
+            ],
+            "answer": "Magnesium and hydrochloric acid"
+        },
+        {
+            "question": "Which of the following characteristics is common to hydrogen, nitrogen, oxygen and carbon dioxide?",
+            "options": [
+                "They are all diatomic.",
+                "They are all gases at room temperature.",
+                "They are all coloured.",
+                "They all have same reactivity."
+            ],
+            "answer": "They are all gases at room temperature."
+        },
+        {
+            "question": "The compound C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub> has",
+            "options": [
+                "17 atoms in a molecule of the compound",
+                "equal molecules of C and H by mass",
+                "twice the mass of oxygen atoms compared to nitrogen atoms",
+                "twice the mass of nitrogen atoms compared to hydrogen atoms"
+            ],
+            "answer": "twice the mass of nitrogen atoms compared to hydrogen atoms"
+        },
+        {
+            "question": "Which of the following is the general formula for saturated hydrocarbons?",
+            "options": [
+                "C<sub>n</sub>H<sub>2n + 2</sub>",
+                "C<sub>n</sub>H<sub>2n - 2</sub>",
+                "C<sub>n</sub>H<sub>2n + 1</sub>",
+                "C<sub>n</sub>H<sub>2n - 1</sub>"
+            ],
+            "answer": "C<sub>n</sub>H<sub>2n + 2</sub>"
+        },
+        {
+            "question": "A particle moves with uniform acceleration along a straight line from rest. The percentage increase in displacement during sixth second compared to that in fifth second is about",
+            "options": [
+                "11%",
+                "22%",
+                "33%",
+                "44%"
+            ],
+            "answer": "22%"
+        },
+        {
+            "question": "If two miscible liquids of same volume but different densities P<sub>1</sub> and P<sub>2</sub> are mixed, then the density of the mixture is given by",
+            "options": [
+                "(P<sub>1</sub> + P<sub>2</sub>) / 2",
+                "2P<sub>1</sub>P<sub>2</sub> / (P<sub>1</sub> + P<sub>2</sub>)",
+                "2P<sub>1</sub>P<sub>2</sub> / (P<sub>1</sub> - P<sub>2</sub>)",
+                "P<sub>1</sub>P<sub>2</sub> / (P<sub>1</sub> + P<sub>2</sub>)"
+            ],
+            "answer": "(P<sub>1</sub> + P<sub>2</sub>) / 2"
+        },
+        {
+            "question": "The position vector of a particle is<br/>r = 2t<sup>2</sup> x + 3t y + 4 z<br/>Then the instantaneous velocity v and acceleration a respectively lie",
+            "options": [
+                "on xy-plane and along z-direction",
+                "on yz-plane and along x-direction",
+                "on yz-plane and along y-direction",
+                "on xy-plane and along x-direction"
+            ],
+            "answer": "on xy-plane and along x-direction"
+        },
+        {
+            "question": "Two persons are holding a rope of negligible mass horizontally. A 20 kg mass is attached to the rope at the midpoint; as a result the rope deviates from the horizontal direction. The tension required to completely straighten the rope is (g = 10 m/s<sup>2</sup>)",
+            "options": [
+                "200 N",
+                "20 N",
+                "10 N",
+                "infinitely large"
+            ],
+            "answer": "infinitely large"
+        },
+        {
+            "question": "Which one of the following does <i>not</i> convert electrical energy into light energy?",
+            "options": [
+                "A candle",
+                "A light-emitting diode",
+                "A laser",
+                "A television set"
+            ],
+            "answer": "A candle"
+        },
+        {
+            "question": "Which of the following is/are the main absorbing organ/organs of plants?",
+            "options": [
+                "Root only",
+                "Leaf only",
+                "Root and leaf only",
+                "Root, leaf and bark"
+            ],
+            "answer": "Root and leaf only"
+        },
+        {
+            "question": "Which of the following is <i>not</i> a primary function of a green leaf?",
+            "options": [
+                "Manufacture of food",
+                "Interchange of gases",
+                "Evaporation of water",
+                "Conduction of food and water"
+            ],
+            "answer": "Conduction of food and water"
+        },
+        {
+            "question": "Which one of the following denotes a 'true' fruit?",
+            "options": [
+                "When only the thalamus of the flower grows and develops into a fruit",
+                "When only the receptacle of the flower develops into a fruit",
+                "When fruit originates only from the calyx of a flower",
+                "When only the ovary of the flower grows into a fruit"
+            ],
+            "answer": "When only the ovary of the flower grows into a fruit"
+        },
+        {
+            "question": "In which one of the following physiological processes, excess water escapes in the form of droplets from a plant?",
+            "options": [
+                "Transpiration",
+                "Guttation",
+                "Secretion",
+                "Excretion"
+            ],
+            "answer": "Guttation"
+        },
+        {
+            "question": "If the xylem of a plant is mechanically blocked, which of the following functions of the plant will be affected?",
+            "options": [
+                "Transport of water only",
+                "Transport of water and solutes",
+                "Transport of solutes only",
+                "Transport of gases"
+            ],
+            "answer": "Transport of water and solutes"
+        },
+        {
+            "question": "Which one of the following agents does <i>not</i> contribute to propagation of plants through seed dispersal?",
+            "options": [
+                "Wind",
+                "Fungus",
+                "Animal",
+                "Water"
+            ],
+            "answer": "Fungus"
+        },
+        {
+            "question": "The visible portion of the electromagnetic spectrum is",
+            "options": [
+                "infrared",
+                "radiowave",
+                "microwave",
+                "light"
+            ],
+            "answer": "light"
+        },
+        {
+            "question": "Which one of the following is the correct ascending sequence of States in terms of their population density as per Census 2011?",
+            "options": [
+                "Arunachal Pradesh&mdash;Sikkim&mdash;Mizoram&mdash;Himachal Pradesh",
+                "Arunachal Pradesh&mdash;Mizoram&mdash;Sikkim&mdash;Himachal Pradesh",
+                "Mizoram&mdash;Arunachal Pradesh&mdash;Himachal Pradesh&mdash;Sikkim",
+                "Arunachal Pradesh&mdash;Himachal Pradesh&mdash;Sikkim&mdash;Mizoram"
+            ],
+            "answer": "Arunachal Pradesh&mdash;Mizoram&mdash;Sikkim&mdash;Himachal Pradesh"
+        },
+        {
+            "question": "The rate of population growth during 2001-2011 decade declined over the previous decade (1991-2001) in all of the following States, <i>except</i>",
+            "options": [
+                "Tamil Nadu",
+                "Kerala",
+                "Goa",
+                "Andhra Pradesh"
+            ],
+            "answer": "Tamil Nadu"
+        },
+        {
+            "question": "Which one of the following statements with regard to growth of coral reefs is <i>not</i> correct?",
+            "options": [
+                "Coral can grow abundantly in freshwater.",
+                "It requires warm water between 23 &deg;C-25 &deg;C.",
+                "It requires shallow saltwater, not deeper than 50 metres.",
+                "It requires plenty of sunlight to aid photosynthesis."
+            ],
+            "answer": "Coral can grow abundantly in freshwater."
+        },
+        {
+            "question": "As per Census 2011, the concentration of Scheduled Caste population (going by percentage of Scheduled Caste population to total population of the State) is the highest in the State of",
+            "options": [
+                "Uttar Pradesh",
+                "Himachal Pradesh",
+                "Punjab",
+                "West Bengal"
+            ],
+            "answer": "Punjab"
+        },
+        {
+            "question": "Which one of the following States has more than two major ports?",
+            "options": [
+                "Maharashtra",
+                "West Bengal",
+                "Odisha",
+                "Tamil Nadu"
+            ],
+            "answer": "Tamil Nadu"
+        },
+        {
+            "question": "The equivalent weight of Ba(OH)<sub>2</sub> is (given, atomic weight of Ba is 137.3)",
+            "options": [
+                "85.7",
+                "137.3",
+                "154.3",
+                "171.3"
+            ],
+            "answer": "85.7"
+        },
+        {
+            "question": "Which one of the following nitrogen oxides has the highest oxidation state of nitrogen?",
+            "options": [
+                "NO",
+                "NO<sub>2</sub>",
+                "N<sub>2</sub>O",
+                "N<sub>2</sub>O<sub>5</sub>"
+            ],
+            "answer": "N<sub>2</sub>O<sub>5</sub>"
+        },
+        {
+            "question": "Which one of the following is <i>not</i> true for the form of carbon known as diamond?",
+            "options": [
+                "It is harder than graphite.",
+                "It contains the same percentage of carbon as graphite.",
+                "It is a better electric conductor than graphite.",
+                "It has different carbon to carbon distance in all directions."
+            ],
+            "answer": "It is a better electric conductor than graphite."
+        },
+        {
+            "question": "In which one of the following reactions, the maximum quantity of H<sub>2</sub> gas is produced by the decomposition of 1 g of compound by H<sub>2</sub>O/O<sub>2</sub>?",
+            "options": [
+                "CH<sub>4</sub> + H<sub>2</sub>O &rarr; CO + 3H<sub>2</sub>",
+                "CO + H<sub>2</sub>O &rarr; CO<sub>2</sub> + H<sub>2</sub>",
+                "CH<sub>4</sub> + 1/2 O<sub>2</sub> &rarr; CO + 2H<sub>2</sub>",
+                "C<sub>12</sub>H<sub>24</sub> + 6O<sub>2</sub> &rarr; 12CO + 12H<sub>2</sub>"
+            ],
+            "answer": "CH<sub>4</sub> + H<sub>2</sub>O &rarr; CO + 3H<sub>2</sub>"
+        },
+        {
+            "question": "When a convex lens produces a real image of an object, the minimum distance between the object and image is equal to",
+            "options": [
+                "the focal length of the convex lens",
+                "twice the focal length of the convex lens",
+                "four times the focal length of the convex lens",
+                "one half of the focal length of the convex lens"
+            ],
+            "answer": "four times the focal length of the convex lens"
+        },
+        {
+            "question": "The direction of magnetic field at any location on the earth's surface is commonly specified in terms of",
+            "options": [
+                "field declination",
+                "field inclination",
+                "both field declination and field inclination",
+                "horizontal component of the field"
+            ],
+            "answer": "both field declination and field inclination"
+        },
+        {
+            "question": "A circuit has a fuse having a rating of 5 A. What is the maximum number of 100 W-220 V bulbs that can be safely connected in parallel in the circuit?",
+            "options": [
+                "20",
+                "15",
+                "11",
+                "10"
+            ],
+            "answer": "11"
+        }
+    ,
+
     {
+        "question": "Which one of the following can extinguish fire more quickly?",
+        "options": [
+            "Cold water",
+            "Boiling water",
+            "Hot water",
+            "Ice"
+        ],
+        "answer": "Boiling water"
+    },
+    {
+        "question": "In which of the following, heat loss is primarily <i>not</i> due to convection?",
+        "options": [
+            "Boiling water",
+            "Land and sea breeze",
+            "Circulation of air around blast furnace",
+            "Heating of glass surface of a bulb due to current in filament"
+        ],
+        "answer": "Heating of glass surface of a bulb due to current in filament"
+    },
+    {
+        "question": "Which one of the following features is an indication for modification of stem of a plant?",
+        "options": [
+            "Presence of 'eye' on potato",
+            "'Scale' found in onion",
+            "'Tendril' found in pea",
+            "'Hair' present in carrot"
+        ],
+        "answer": "Presence of 'eye' on potato"
+    },
+    {
+        "question": "Which of the following roles is/are played by epididymis, vas deferens, seminal vesicles and prostate in male reproductive system of human?",
+        "options": [
+            "Spermatogenesis and maturation of sperms",
+            "Maturation and motility of sperms",
+            "Spermatogenesis and motility of sperms",
+            "Motility of sperms only"
+        ],
+        "answer": "Maturation and motility of sperms"
+    },
+    {
+        "question": "Which one of the following is the special type of milk produced by a lactating mother, essential for the development of immune response of newborn baby in human?",
+        "options": [
+            "Breast milk produced after a month of childbirth",
+            "Transitional milk",
+            "Colostrum",
+            "Mineralized milk"
+        ],
+        "answer": "Colostrum"
+    },
+    {
+        "question": "Which one of the following statements explains higher mutation rate and faster evolution found in RNA virus?",
+        "options": [
+            "RNA is relatively unstable compared to DNA.",
+            "Virus can multiply only within the living cell of a host.",
+            "Metabolic processes are absent in virus.",
+            "Virus can remain latent for a long period."
+        ],
+        "answer": "RNA is relatively unstable compared to DNA."
+    },
+    {
+        "question": "Which one of the following is the correct ascending sequence of States with regard to percentage of urban population (2011)?",
+        "options": [
+            "Tamil Nadu&mdash;Mizoram&mdash;Goa&mdash;Maharashtra",
+            "Goa&mdash;Mizoram&mdash;Maharashtra&mdash;Kerala",
+            "Maharashtra&mdash;Kerala&mdash;Mizoram&mdash;Goa",
+            "Mizoram&mdash;Goa&mdash;Maharashtra&mdash;Kerala"
+        ],
+        "answer": "Maharashtra&mdash;Kerala&mdash;Mizoram&mdash;Goa"
+    },
+    {
+        "question": "Which one of the following places does <i>not</i> fall on leeward slope?",
+        "options": [
+            "Pune",
+            "Bengaluru",
+            "Leh",
+            "Mangaluru"
+        ],
+        "answer": "Mangaluru"
+    },
+    {
+        "question": "South Arcot and Ramanathapuram receive over 50 percent of their annual rainfall from which one of the following?",
+        "options": [
+            "South-west monsoon",
+            "North-east monsoon",
+            "Bay of Bengal branch of summer monsoon",
+            "Western disturbances"
+        ],
+        "answer": "North-east monsoon"
+    },
+    {
+        "question": "The Eight Degree Channel separates which of the following?",
+        "options": [
+            "India from Sri Lanka",
+            "Lakshadweep from Maldives",
+            "Andaman from Nicobar Islands",
+            "Indira Point from Indonesia"
+        ],
+        "answer": "Lakshadweep from Maldives"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Classification of Town)</th><th>List-II (Example)</th></tr><tr><td>A. Industrial Town</td><td>1. Vishakhapatnam</td></tr><tr><td>B. Transport Town</td><td>2. Bhilai</td></tr><tr><td>C. Mining Town</td><td>3. Singrauli</td></tr><tr><td>D. Garrison Cantonment Town</td><td>4. Ambala</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-1, C-3, D-4",
+            "A-2, B-3, C-1, D-4",
+            "A-4, B-3, C-1, D-2",
+            "A-4, B-1, C-3, D-2"
+        ],
+        "answer": "A-2, B-1, C-3, D-4"
+    },
+    {
+        "question": "Which of the following statements with regard to the land-use situation in India is/are correct?<br/><ol><li>There has been a tremendous decline in area under forest in recent years.</li><li>The rate of increase in land use in recent years is the highest in case of area under non-agricultural use.</li><li>Land use such as barren and wasteland, area under pastures and tree crops have experienced decline in recent years.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "Which one of the following was <i>not</i> a part of the strategies followed by the Government of India to increase food grain production in India immediately after Independence?",
+        "options": [
+            "Intensification of cropping over already cultivated land",
+            "Increasing cultivable area by bringing cultivable and fallow land under plough",
+            "Using high-yielding varieties (HYV) seeds",
+            "Switching over from cash crops to food crops"
+        ],
+        "answer": "Using high-yielding varieties (HYV) seeds"
+    },
+    {
+        "question": "Which one of the following is a west-flowing river?",
+        "options": [
+            "Mahanadi",
+            "Godavari",
+            "Krishna",
+            "Narmada"
+        ],
+        "answer": "Narmada"
+    },
+    {
+        "question": "Khasi language is included in",
+        "options": [
+            "Munda branch of Austro-Asiatic sub-family",
+            "Mon-Khmer branch of Austro-Asiatic sub-family",
+            "North Assam branch of Sino-Tibetan family",
+            "Assam-Myanmari branch of Sino-Tibetan family"
+        ],
+        "answer": "Mon-Khmer branch of Austro-Asiatic sub-family"
+    },
+    {
+        "question": "The headquarters of Metro Railway Zone is located in",
+        "options": [
+            "New Delhi",
+            "Mumbai",
+            "Kolkata",
+            "Chennai"
+        ],
+        "answer": "Kolkata"
+    },
+    {
+        "question": "Which one among the following is <i>not</i> a tributary of river Luni?",
+        "options": [
+            "Khari",
+            "Sukri",
+            "Jawai",
+            "Banas"
+        ],
+        "answer": "Banas"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Major Dam)</th><th>List-II (State)</th></tr><tr><td>A. Cheruthoni Dam</td><td>1. Madhya Pradesh</td></tr><tr><td>B. Indira Sagar Dam</td><td>2. Tamil Nadu</td></tr><tr><td>C. Krishnarajasagar Dam</td><td>3. Karnataka</td></tr><tr><td>D. Mettur Dam</td><td>4. Kerala</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-1, C-3, D-4",
+            "A-2, B-3, C-1, D-4",
+            "A-4, B-3, C-1, D-2",
+            "A-4, B-1, C-3, D-2"
+        ],
+        "answer": "A-4, B-1, C-3, D-2"
+    },
+    {
+        "question": "Which one among the following Union Territories of India shares the shortest length of National Highways?",
+        "options": [
+            "Chandigarh",
+            "Delhi",
+            "Daman and Diu",
+            "Dadra and Nagar Haveli"
+        ],
+        "answer": "Daman and Diu"
+    },
+    {
+        "question": "Which one among the following passes links Lhasa with Ladakh?",
+        "options": [
+            "Lanak La",
+            "Burzil",
+            "Babusar",
+            "Khyber"
+        ],
+        "answer": "Lanak La"
+    },
+    {
+        "question": "According to the latest Reserve Bank of India study on State finances, capital spending is maximum on",
+        "options": [
+            "rural development",
+            "water supply and sanitation",
+            "urban development",
+            "education"
+        ],
+        "answer": "rural development"
+    },
+    {
+        "question": "According to the World Bank's Doing Business Report, 2018, India's ranking has improved in 2018 as compared to 2017 in which of the following areas?<br/><ol><li>Paying taxes</li><li>Resolving insolvency</li><li>Starting a business</li><li>Getting electricity</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2, 3 and 4"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "The Fourteenth Finance Commission assigned different weights to the following parameters for distribution of tax proceeds to the States :<br/><ol><li>Income distance</li><li>Population</li><li>Demographic changes</li><li>Area</li></ol><br/>Arrange the aforesaid parameters in descending order in terms of their weights.",
+        "options": [
+            "1-2-3-4",
+            "1-2-4-3",
+            "1-3-2-4",
+            "4-3-2-1"
+        ],
+        "answer": "1-2-4-3"
+    },
+    {
+        "question": "The natural rate of unemployment hypothesis was advocated by",
+        "options": [
+            "Milton Friedman",
+            "A. W. Phillips",
+            "J. M. Keynes",
+            "R. G. Lipsey"
+        ],
+        "answer": "Milton Friedman"
+    },
+    {
+        "question": "The Harappan site at Kot Diji is close to which one of the following major sites of that civilization?",
+        "options": [
+            "Harappa",
+            "Mohenjo-daro",
+            "Lothal",
+            "Kalibangan"
+        ],
+        "answer": "Mohenjo-daro"
+    },
+    {
+        "question": "The story <i>Gandatindu Jataka</i> was written in which language?",
+        "options": [
+            "Sanskrit",
+            "Telugu",
+            "Tamil",
+            "Pali"
+        ],
+        "answer": "Pali"
+    },
+    {
+        "question": "According to the Tamil Sangam texts, who among the following were the large landowners?",
+        "options": [
+            "Gahapatis",
+            "Uzhavars",
+            "Adimais",
+            "Vellalars"
+        ],
+        "answer": "Vellalars"
+    },
+    {
+        "question": "According to the <i>Manusmriti</i>, women can acquire wealth through which of the following means?",
+        "options": [
+            "Purchase",
+            "Investment",
+            "Token of affection",
+            "Inheritance"
+        ],
+        "answer": "Token of affection"
+    },
+    {
+        "question": "The dialogue on Varna between king Avantiputta and Kachchana, a disciple of Buddha, appears in which one of the following Buddhist texts?",
+        "options": [
+            "Majjhima Nikaya",
+            "Samyutta Nikaya",
+            "Anguttara Nikaya",
+            "Ambattha Sutta"
+        ],
+        "answer": "Majjhima Nikaya"
+    },
+    {
+        "question": "In the first century AD, which among the following was <i>not</i> a major item of Indian exports to Rome?",
+        "options": [
+            "Pepper",
+            "Spikenard",
+            "Tortoiseshell",
+            "Nutmeg"
+        ],
+        "answer": "Nutmeg"
+    }
+
+    ,
+
+    {
+        "question": "Which of the following statements relating to the Government of India Act, 1858 is/are correct?<br/><ol><li>The British Crown assumed sovereignty over India from the East India Company.</li><li>The British Parliament enacted the first statute for the governance of India under the direct rule of the British.</li><li>This Act was dominated by the principle of absolute imperial control without any popular participation in the administration of the country.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "2 only",
+            "1, 2 and 3",
+            "1 and 3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following statements relating to the Indian Councils Act, 1861 is/are correct?<br/><ol><li>The Act introduced a grain of popular element by including non-official members in the Governor-General's Executive Council.</li><li>The members were nominated and their functions were confined exclusively to consideration of legislative proposals placed before it by the Governor-General.</li><li>The Governor-General did not have effective legislative power.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3",
+            "1 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which of the following statements relating to the historic Objectives Resolution, which was adopted by the Constituent Assembly, is/are correct?<br/><ol><li>The Objectives Resolution inspired the shaping of the Constitution through all its subsequent stages.</li><li>It was not just a resolution, but a declaration, a firm resolve and a pledge.</li><li>It provided the underlying philosophy of our Constitution.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1 only",
+            "1, 2 and 3",
+            "2 and 3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "The 2+2 Bilateral Dialogue was held in September 2018 between",
+        "options": [
+            "External Affairs and Defence Ministers of India with their US counterparts",
+            "Finance and Defence Ministers of India with their Russian counterparts",
+            "Home and Defence Ministers of India and their counterparts in Pakistan",
+            "External Affairs and Defence Ministers of India with their counterparts in Pakistan"
+        ],
+        "answer": "External Affairs and Defence Ministers of India with their US counterparts"
+    },
+    {
+        "question": "Who is the Chairman of the Defence Planning Committee set up in April 2018?",
+        "options": [
+            "The Prime Minister",
+            "The National Security Advisor",
+            "The Defence Minister",
+            "The Chief of the Army Staff"
+        ],
+        "answer": "The National Security Advisor"
+    },
+    {
+        "question": "'Tejas' is the name of which one of the following?",
+        "options": [
+            "Main battle tank",
+            "Nuclear submarine",
+            "Light combat aircraft",
+            "Aircraft carrier"
+        ],
+        "answer": "Light combat aircraft"
+    },
+    {
+        "question": "As per the extant policy, Foreign Direct Investment is permitted in the defence sector under the automatic route up to which one of the following limits?",
+        "options": [
+            "26 percent",
+            "74 percent",
+            "51 percent",
+            "49 percent"
+        ],
+        "answer": "49 percent"
+    },
+    {
+        "question": "The policy on strategic partnerships in defence was approved by the Ministry of Defence in May 2017. Which of the following is <i>not</i> among the four segments identified by the Ministry for acquisition through the strategic partnership route?",
+        "options": [
+            "Artillery guns",
+            "Fighter aircraft and helicopters",
+            "Submarines",
+            "Armoured fighting vehicles and main battle tanks"
+        ],
+        "answer": "Artillery guns"
+    },
+    {
+        "question": "The acronym 'CAATSA' refers to a piece of legislation enacted by which one of the following countries?",
+        "options": [
+            "United Kingdom",
+            "United States of America",
+            "Russia",
+            "India"
+        ],
+        "answer": "United States of America"
+    },
+    {
+        "question": "Who among the following is the Convener of the 'Task Force' set up in November 2017 by the Government of India to review the Income-tax Act and draft a new direct tax law?",
+        "options": [
+            "Girish Ahuja",
+            "Mukesh Patel",
+            "Arbind Modi",
+            "Mansi Kedia"
+        ],
+        "answer": "Arbind Modi"
+    },
+    {
+        "question": "<b>Directions :</b><br/>The following items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><b>Statement I :</b><br/>With regard to the cabinet decision in July 2018, the percentage increase in Minimum Support Price (MSP) is maximum in which one of the following crops?",
+        "options": [
+            "Jowar (Hybrid)",
+            "Bajra",
+            "Maize",
+            "Soya bean"
+        ],
+        "answer": "Jowar (Hybrid)"
+    },
+    {
+        "question": "<b>Directions :</b><br/>The following four (4) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><b>Statement I :</b><br/>The overall fiscal deficit of the States in India during 2017-2018 stayed above the FRBM threshold level of 3 percent for the third successive year.<br/><br/><b>Statement II :</b><br/>Special Category States had run up a higher level of fiscal deficit in 2017-2018 compared to 2016-2017.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Statement I is false but Statement II is true"
+    },
+    {
+        "question": "<b>Directions :</b><br/>The following four (4) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><b>Statement I :</b><br/>There has been a sharp decline in savings rate in Indian economy between 2007-2008 to 2015-2016.<br/><br/><b>Statement II :</b><br/>There has been a fall in household and public savings.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+    },
+    {
+        "question": "<b>Directions :</b><br/>The following four (4) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><b>Statement I :</b><br/>Private investments in research have severely lagged public investments in India.<br/><br/><b>Statement II :</b><br/>Universities play a relatively small role in the research activities of the country.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+    },
+    {
+        "question": "<b>Directions :</b><br/>The following four (4) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><b>Statement I :</b><br/>Agriculture in India still accounts for a substantial share in total employment.<br/><br/><b>Statement II :</b><br/>There has been no decline in volatility of agricultural growth in India.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+    },
+    {
+        "question": "Who among the following European travellers never returned to Europe and settled down in India?",
+        "options": [
+            "Duarte Barbosa",
+            "Manucci",
+            "Tavernier",
+            "Bernier"
+        ],
+        "answer": "Manucci"
+    },
+    {
+        "question": "The class of Amar Nayakas in Vijayanagara is a reference to which of the following?",
+        "options": [
+            "Village Chieftains",
+            "Senior Civil Servants",
+            "Tributary Chiefs",
+            "Military Commanders"
+        ],
+        "answer": "Military Commanders"
+    },
+    {
+        "question": "The important source for Akbar's reign, <i>Tarikh-i-Akbari</i> was written by which one of the following Persian language scholars?",
+        "options": [
+            "Arif Qandahari",
+            "Bayazid Bayat",
+            "Abdul Qadir Badauni",
+            "Nizamuddin Ahmad"
+        ],
+        "answer": "Arif Qandahari"
+    },
+    {
+        "question": "The aristocrat Muqarrab Khan was a great favourite of which Mughal Emperor?",
+        "options": [
+            "Akbar",
+            "Jahangir",
+            "Farrukhsiyar",
+            "Shah Alam"
+        ],
+        "answer": "Jahangir"
+    },
+    {
+        "question": "Who was the first Nawab Wazir of Awadh in the 18th century?",
+        "options": [
+            "Nawab Safdarjung",
+            "Nawab Saadat Ali Khan",
+            "Nawab Shuja-ud-Daula",
+            "Nawab Saadat Khan"
+        ],
+        "answer": "Nawab Saadat Khan"
+    },
+    {
+        "question": "According to the French traveller Tavernier, the majority of houses in Varanasi during the 17th century were made of",
+        "options": [
+            "brick and mud",
+            "stone and thatch",
+            "wood and stone",
+            "brick and stone"
+        ],
+        "answer": "brick and stone"
+    },
+    {
+        "question": "Which of the following statements relating to the duties of the Governor is/are correct?<br/><ol><li>The duties of the Governor as a constitutional Head of the State do not become the subject matter of questions or debate in the Parliament.</li><li>Where the Governor takes a decision independently of his Council of Ministers or where he acts as the Chief Executive of the State under President's rule, his actions are subject to scrutiny by the Parliament.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which one of the following Articles of the Constitution of India deals with the special provision with respect to the State of Assam?",
+        "options": [
+            "Article 371A",
+            "Article 371B",
+            "Article 371C",
+            "Article 371D"
+        ],
+        "answer": "Article 371B"
+    },
+    {
+        "question": "Provisions of which one of the following Articles of the Constitution of India apply to the State of Jammu and Kashmir?",
+        "options": [
+            "Article 238",
+            "Article 370",
+            "Article 371",
+            "Article 371G"
+        ],
+        "answer": "Article 370"
+    },
+    {
+        "question": "Which one of the following Schedules to the Constitution of India provides for setting up of Autonomous District Councils?",
+        "options": [
+            "Third Schedule",
+            "Fourth Schedule",
+            "Fifth Schedule",
+            "Sixth Schedule"
+        ],
+        "answer": "Sixth Schedule"
+    },
+    {
+        "question": "In which one of the following States was 'DEFEXPO 2018' held in April 2018?",
+        "options": [
+            "Goa",
+            "Karnataka",
+            "Tamil Nadu",
+            "Andhra Pradesh"
+        ],
+        "answer": "Tamil Nadu"
+    },
+    {
+        "question": "The two defence industrial corridors announced by the Finance Minister in his 2018 Budget speech are coming up in which of the following States?",
+        "options": [
+            "Odisha and West Bengal",
+            "Punjab and Haryana",
+            "Gujarat and Maharashtra",
+            "Uttar Pradesh and Tamil Nadu"
+        ],
+        "answer": "Uttar Pradesh and Tamil Nadu"
+    }
+
+    ,
+
+    {
+        "question": "What is India's first Indigenous Aircraft Carrier (IAC) called?",
+        "options": [
+            "Vikrant",
+            "Virat",
+            "Vaibhav",
+            "Varaha"
+        ],
+        "answer": "Vikrant"
+    },
+    {
+        "question": "Which one of the following manufacturers is engaged in upgradation of the Swedish 155-mm Bofors Howitzer under the project 'Dhanush'?",
+        "options": [
+            "Bharat Electronics Limited",
+            "Ordnance Factory Board",
+            "Bharat Dynamics Limited",
+            "Mishra Dhatu Nigam"
+        ],
+        "answer": "Ordnance Factory Board"
+    },
+    {
+        "question": "Which one of the following is the official mascot of Tokyo 2020 Olympic Games?",
+        "options": [
+            "Soohorang",
+            "Vinicius de Moraes",
+            "The Hare, the Polar Bear and the Leopard",
+            "Miraitowa"
+        ],
+        "answer": "Miraitowa"
+    },
+    {
+        "question": "'Mission Satyanishtha', a programme on ethics in public governance, was launched recently by the",
+        "options": [
+            "Indian Railways",
+            "Central Bureau of Investigation",
+            "Supreme Court",
+            "Enforcement Directorate"
+        ],
+        "answer": "Indian Railways"
+    },
+    {
+        "question": "The College of Fort William was established by which one of the following Governor-Generals?",
+        "options": [
+            "Warren Hastings",
+            "Lord Cornwallis",
+            "Richard Wellesley",
+            "William Bentinck"
+        ],
+        "answer": "Richard Wellesley"
+    },
+    {
+        "question": "The Economic historian, who has used the data collected by Buchanan-Hamilton to support the thesis of deindustrialization in the 19th century India, is",
+        "options": [
+            "Tirthankar Roy",
+            "Amiya Kumar Bagchi",
+            "Sabyasachi Bhattacharya",
+            "Irfan Habib"
+        ],
+        "answer": "Amiya Kumar Bagchi"
+    },
+    {
+        "question": "Tea growing in India in the 19th century was made possible by",
+        "options": [
+            "Joseph Banks",
+            "James Cook",
+            "Robert Fortune",
+            "Robert Owen"
+        ],
+        "answer": "Robert Fortune"
+    },
+    {
+        "question": "Subhas Chandra Bose started the 'Azad Hind Radio' in which of the following countries?",
+        "options": [
+            "Japan",
+            "Austria",
+            "Germany",
+            "Malaysia"
+        ],
+        "answer": "Germany"
+    },
+    {
+        "question": "Which political party formally accepted the Cabinet Mission Plan on 6th June, 1946, which had rejected the demand for a sovereign Pakistan?",
+        "options": [
+            "The Hindu Mahasabha",
+            "The Congress",
+            "The Muslim League",
+            "The Unionist Party"
+        ],
+        "answer": "The Muslim League"
+    },
+    {
+        "question": "The elected President of the All India Kisan Sabha, which met in Vijayawada (1944), was",
+        "options": [
+            "Sahajananda Saraswati",
+            "Vinoba Bhave",
+            "Achyut Rao Patwardhan",
+            "Narendra Dev"
+        ],
+        "answer": "Sahajananda Saraswati"
+    },
+    {
+        "question": "Which one of the following regarding the tenure of the elected members of the Autonomous District Council is correct?",
+        "options": [
+            "Five years from the date of election",
+            "Five years from the date appointed for the first meeting of the Council after the election",
+            "Six years from the date of administration of Oath",
+            "Six years from the date of election"
+        ],
+        "answer": "Five years from the date appointed for the first meeting of the Council after the election"
+    },
+    {
+        "question": "Who among the following shall cause the accounts of the Autonomous District and Regional Council Funds to be audited?",
+        "options": [
+            "The Comptroller and Auditor General of India",
+            "The Chartered Accountant empanelled by the Government of India",
+            "The State Government Auditors",
+            "Any Chartered Accountant"
+        ],
+        "answer": "The Comptroller and Auditor General of India"
+    },
+    {
+        "question": "Who has the power of annulment or suspension of Acts and Resolutions of the Autonomous District and Regional Councils?",
+        "options": [
+            "The Governor",
+            "The President",
+            "The Chief Minister of the State",
+            "The Prime Minister"
+        ],
+        "answer": "The Governor"
+    },
+    {
+        "question": "The audit reports of the Comptroller and Auditor General of India relating to the accounts of the Union shall be submitted to",
+        "options": [
+            "the President",
+            "the Speaker of the Lok Sabha",
+            "the Prime Minister",
+            "the Vice President"
+        ],
+        "answer": "the President"
+    },
+    {
+        "question": "Which of the following is <i>not</i> related to the powers of the Governor?",
+        "options": [
+            "Diplomatic and military powers",
+            "Power to appoint Advocate General",
+            "Summoning, proroguing and dissolving State Legislature",
+            "Power to grant pardons, reprieves, respites or remission of punishments"
+        ],
+        "answer": "Diplomatic and military powers"
+    },
+    {
+        "question": "Which one of the following regarding the procedure and conduct of business in the Parliament is <i>not</i> correct?",
+        "options": [
+            "To discuss State matters",
+            "To discuss issues of the use of police force in suppressing the Scheduled Caste and Scheduled Tribe communities",
+            "To discuss issues in dealing with violent disturbances in an Undertaking under the control of the Union Government",
+            "To discuss issues for putting down the demands of the industrial labour"
+        ],
+        "answer": "To discuss State matters"
+    },
+    {
+        "question": "Which of the following is <i>not</i> under the powers and functions of the Election Commission of India?",
+        "options": [
+            "Superintendence, direction and control of the preparation of electoral rolls",
+            "Conduct of elections to the Parliament and to the Legislature of each State",
+            "Conduct of election to the office of the President and the Vice President",
+            "Appointment of the Regional Commissioners to assist the Election Commission in the performance of the functions conferred on the Commission"
+        ],
+        "answer": "Appointment of the Regional Commissioners to assist the Election Commission in the performance of the functions conferred on the Commission"
+    },
+    {
+        "question": "Which one of the following criteria is <i>not</i> required to be qualified for appointment as Judge of the Supreme Court?",
+        "options": [
+            "At least five years as a Judge of a High Court",
+            "At least ten years as an Advocate of a High Court",
+            "In the opinion of the President, a distinguished Jurist",
+            "At least twenty years as a Sub-Judicial Magistrate"
+        ],
+        "answer": "At least twenty years as a Sub-Judicial Magistrate"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> among the duties of the Chief Minister?",
+        "options": [
+            "To communicate to the Governor of the State all decisions of the Council of Ministers relating to the administration of the affairs of the State and proposals for legislation",
+            "To furnish information relating to the administration of the State and proposals for legislation as the Governor may call for",
+            "To communicate to the President all decisions of the Council of Ministers relating to the administration of the State in the monthly report",
+            "To submit for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister but has not been considered by the Council, if the Governor so requires"
+        ],
+        "answer": "To communicate to the President all decisions of the Council of Ministers relating to the administration of the State in the monthly report"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> considered a part of the Legislature of States?",
+        "options": [
+            "The Governor",
+            "The Legislative Assembly",
+            "The Legislative Council",
+            "The Chief Minister"
+        ],
+        "answer": "The Chief Minister"
+    },
+    {
+        "question": "Which one of the following regarding the ordinance-making power of the Governor is <i>not</i> correct?",
+        "options": [
+            "It is not a discretionary power.",
+            "The Governor may withdraw the ordinance anytime.",
+            "The ordinance power can be exercised when the Legislature is not in session.",
+            "The aid and advice of ministers is not required for declaring the ordinance."
+        ],
+        "answer": "The aid and advice of ministers is not required for declaring the ordinance."
+    },
+    {
+        "question": "Which one of the following statements regarding the Universal Declaration of Human Rights is <i>not</i> correct?",
+        "options": [
+            "The UN General Assembly adopted the Human Rights Charter on 10th December, 1948.",
+            "Some of the provisions of the Fundamental Rights enshrined in the Constitution of India are similar to the provisions of the Universal Declaration of Human Rights.",
+            "The Right to Property is not a part of the Universal Declaration of Human Rights.",
+            "India is a signatory to the Universal Declaration of Human Rights."
+        ],
+        "answer": "The Right to Property is not a part of the Universal Declaration of Human Rights."
+    },
+    {
+        "question": "Which one of the following statements regarding the Human Rights Council is <i>not</i> correct?",
+        "options": [
+            "It is an inter-governmental body within the United Nations system made up of all members of the UN.",
+            "It is responsible for the promotion and protection of all human rights around the globe.",
+            "It replaced the former United Nations Commission on Human Rights.",
+            "It is made up of 47 UN Member States which are elected by the UN General Assembly."
+        ],
+        "answer": "It is an inter-governmental body within the United Nations system made up of all members of the UN."
+    },
+    {
+        "question": "Ace athlete Neeraj Chopra is an accomplished player in",
+        "options": [
+            "Hammer throw",
+            "Javelin throw",
+            "Shot put throw",
+            "Discus throw"
+        ],
+        "answer": "Javelin throw"
+    },
+    {
+        "question": "According to the updated World Bank data for 2017, India is the sixth biggest economy of the world (in terms of GDP). Which one of the following is <i>not</i> ahead of India?",
+        "options": [
+            "Japan",
+            "UK",
+            "France",
+            "Germany"
+        ],
+        "answer": "France"
+    },
+    {
+        "question": "Which one of the following is correct about 'Aaykar Setu'?",
+        "options": [
+            "It is a mechanism for achieving excellence in public sector delivery related to GST.",
+            "With the use of a mobile app, it facilitates online payment of taxes.",
+            "It is a communication strategy designed to collect information and build a database of tax defaulters.",
+            "It enables electronic filing and processing of import and export declarations."
+        ],
+        "answer": "With the use of a mobile app, it facilitates online payment of taxes."
+    },
+    {
+        "question": "SWAYAM is",
+        "options": [
+            "a network that aims to tap the talent pool of scientists and entrepreneurs towards global excellence",
+            "a Massive Open Online Courses (MOOCs) initiative on a national platform",
+            "an empowerment scheme for advancing the participation of girls in education",
+            "a scheme that supports differently abled children to pursue technical education"
+        ],
+        "answer": "a Massive Open Online Courses (MOOCs) initiative on a national platform"
+    }
+
+    ,
+
+    {
+        "question": "Under the PRASAD Tourism Scheme, which one of the following has <i>not</i> been identified as a religious site for development?",
+        "options": [
+            "Ajmer (Rajasthan)",
+            "Haridwar (Uttarakhand)",
+            "Somnath (Gujarat)",
+            "Velankanni (Tamil Nadu)"
+        ],
+        "answer": "Haridwar (Uttarakhand)"
+    },
+    {
+        "question": "Name the Indian cricketer who is <i>not</i> inducted to the ICC Cricket Hall of Fame (till July 2018).",
+        "options": [
+            "Rahul Dravid",
+            "Sunil Gavaskar",
+            "Sachin Tendulkar",
+            "Anil Kumble"
+        ],
+        "answer": "Sachin Tendulkar"
+    },
+    {
+        "question": "The Central Water Commission has recently entered into a collaborative agreement with which one of the following entities for flood forecasting?",
+        "options": [
+            "Skymet",
+            "Google",
+            "MetService",
+            "AccuWeather"
+        ],
+        "answer": "Google"
+    },
+    {
+        "question": "The tagline 'Invaluable Treasures of Incredible India' is associated with the logo for",
+        "options": [
+            "Archaeological Survey of India",
+            "India Tourism Development Corporation",
+            "Geological Survey of India",
+            "Geographical Indications (GI) of India"
+        ],
+        "answer": "Geographical Indications (GI) of India"
+    },
+    {
+        "question": "Who took over the 'Eka Movement' started by the Congress in Awadh during 1921-1922?",
+        "options": [
+            "Bhagwan Ahir",
+            "Madari Pasi",
+            "Baba Ramchandra",
+            "Shah Naeem Ata"
+        ],
+        "answer": "Madari Pasi"
+    },
+    {
+        "question": "Which organization was started at the Haridwar Kumbh Mela in 1915?",
+        "options": [
+            "Sanatan Dharma Sabha",
+            "Dev Samaj",
+            "Brahmin Sabha",
+            "Hindu Mahasabha"
+        ],
+        "answer": "Hindu Mahasabha"
+    }
+
+    ],
+    "2019-I": [
+        {
         "question": "Henry T. Colebrooke was a Professor of Sanskrit in which one of the following institutions?",
         "options": [
             "Fort William College",
