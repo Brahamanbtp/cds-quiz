@@ -1,6 +1,1217 @@
 import type { Question } from "@/types/Question";
 
 const gkData: Record<string, Question[]> = {
+    "2020-I": [
+    {
+        "question": "Scattering of &alpha;-particles by a thin gold foil suggests the presence of",
+        "options": [
+            "electron in an atom",
+            "proton in an atom",
+            "positively charged nucleus at the centre of an atom",
+            "isotopes of gold"
+        ],
+        "answer": "positively charged nucleus at the centre of an atom"
+    },
+    {
+        "question": "The elements of which of the following pairs are isobars?",
+        "options": [
+            "<sup>1</sup><sub>1</sub>H and <sup>3</sup><sub>1</sub>H",
+            "<sup>1</sup><sub>1</sub>H and <sup>2</sup><sub>1</sub>H",
+            "<sup>12</sup><sub>6</sub>C and <sup>14</sup><sub>6</sub>C",
+            "<sup>40</sup><sub>18</sub>Ar and <sup>40</sup><sub>20</sub>Ca"
+        ],
+        "answer": "<sup>40</sup><sub>18</sub>Ar and <sup>40</sup><sub>20</sub>Ca"
+    },
+    {
+        "question": "Which one of the following chemical reactions is <i>not</i> feasible?",
+        "options": [
+            "Fe + CuSO<sub>4</sub> &rarr; FeSO<sub>4</sub> + Cu",
+            "Zn + CuSO<sub>4</sub> &rarr; ZnSO<sub>4</sub> + Cu",
+            "Cu + PbCl<sub>2</sub> &rarr; CuCl<sub>2</sub> + Pb",
+            "Mg + CuSO<sub>4</sub> &rarr; MgSO<sub>4</sub> + Cu"
+        ],
+        "answer": "Cu + PbCl<sub>2</sub> &rarr; CuCl<sub>2</sub> + Pb"
+    },
+    {
+        "question": "A solution having pH equal to zero is known as",
+        "options": [
+            "highly alkaline solution",
+            "highly acidic solution",
+            "weakly acidic solution",
+            "neutral solution"
+        ],
+        "answer": "highly acidic solution"
+    },
+    {
+        "question": "Which one of the following acids is produced in human stomach?",
+        "options": [
+            "Formic acid",
+            "Sulphuric acid",
+            "Nitric acid",
+            "Hydrochloric acid"
+        ],
+        "answer": "Hydrochloric acid"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Compound)</th><th>List-II (Use)</th></tr><tr><td>A. Boric acid</td><td>1. Antiseptic</td></tr><tr><td>B. Citric acid</td><td>2. Food preservative</td></tr><tr><td>C. Magnesium hydroxide</td><td>3. Antacid</td></tr><tr><td>D. Acetic acid</td><td>4. Pickle</td></tr></table><br/>Code :",
+        "options": [
+            "A-1, B-2, C-3, D-4",
+            "A-1, B-3, C-2, D-4",
+            "A-4, B-3, C-2, D-1",
+            "A-4, B-2, C-3, D-1"
+        ],
+        "answer": "A-1, B-2, C-3, D-4"
+    },
+    {
+        "question": "The property of the sound waves that determines the pitch of the sound is its",
+        "options": [
+            "frequency",
+            "amplitude",
+            "wavelength",
+            "intensity"
+        ],
+        "answer": "frequency"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a property of the X-rays?",
+        "options": [
+            "They are deflected by electric fields.",
+            "They are not deflected by magnetic fields.",
+            "They have high penetration length in matter.",
+            "Their wavelength is much smaller than that of visible light."
+        ],
+        "answer": "They are deflected by electric fields."
+    },
+    {
+        "question": "Which one of the following is <i>not</i> true about the image formed by a plane mirror?",
+        "options": [
+            "It is of the same size as the subject.",
+            "It is laterally inverted.",
+            "It is real image.",
+            "It is formed as far behind the mirror as the object is in front."
+        ],
+        "answer": "It is real image."
+    },
+    {
+        "question": "In a periscope, the two plane mirrors are kept",
+        "options": [
+            "parallel to each other",
+            "perpendicular to each other",
+            "at an angle of 60&deg; with each other",
+            "at an angle of 45&deg; with each other"
+        ],
+        "answer": "parallel to each other"
+    },
+    {
+        "question": "If the speed of light in air is 3 &times; 10<sup>8</sup> m/s, then the speed of light in a medium of refractive index <sup>3</sup>&frasl;<sub>2</sub> is",
+        "options": [
+            "2 &times; 10<sup>8</sup> m/s",
+            "<sup>9</sup>&frasl;<sub>4</sub> &times; 10<sup>8</sup> m/s",
+            "<sup>3</sup>&frasl;<sub>2</sub> &times; 10<sup>8</sup> m/s",
+            "3 &times; 10<sup>8</sup> m/s"
+        ],
+        "answer": "2 &times; 10<sup>8</sup> m/s"
+    },
+    {
+        "question": "Which one of the following types of radiation has the shortest wavelength?",
+        "options": [
+            "Radio waves",
+            "Visible light",
+            "Infrared (IR)",
+            "Ultraviolet (UV)"
+        ],
+        "answer": "Ultraviolet (UV)"
+    },
+    {
+        "question": "The unit of the force constant <i>k</i> of a spring is",
+        "options": [
+            "N-m",
+            "N/m",
+            "N-m<sup>2</sup>",
+            "N/m<sup>2</sup>"
+        ],
+        "answer": "N/m"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an epidemic disease?",
+        "options": [
+            "Cholera",
+            "Malaria",
+            "Smallpox",
+            "Elephantiasis"
+        ],
+        "answer": "Elephantiasis"
+    },
+    {
+        "question": "Which one of the following animals has a three-chambered heart?",
+        "options": [
+            "Scoliodon",
+            "Salamander",
+            "Pigeon",
+            "Human being"
+        ],
+        "answer": "Salamander"
+    },
+    {
+        "question": "Which one of the following is the correct sequence of events during sexual reproduction in plants?",
+        "options": [
+            "Seedling, formation of embryo, pollination, fertilization, division of zygote",
+            "Formation of embryo, seedling, pollination, fertilization, division of zygote",
+            "Pollination, fertilization, division of zygote, formation of embryo, seedling",
+            "Seedling, formation of embryo, division of zygote, pollination, fertilization"
+        ],
+        "answer": "Pollination, fertilization, division of zygote, formation of embryo, seedling"
+    },
+    {
+        "question": "When air is blown from mouth into a test tube containing limewater, the limewater turns milky. This is due to the presence of",
+        "options": [
+            "water vapour",
+            "oxygen",
+            "carbon dioxide",
+            "carbon monoxide"
+        ],
+        "answer": "carbon dioxide"
+    },
+    {
+        "question": "Which one of the following is the 'energy currency' for cellular processes?",
+        "options": [
+            "Glucose",
+            "ATP",
+            "ADP",
+            "Pyruvic acid"
+        ],
+        "answer": "ATP"
+    },
+    {
+        "question": "Which one of the following is the first enzyme to mix with food in the digestive tract?",
+        "options": [
+            "Trypsin",
+            "Cellulose",
+            "Pepsin",
+            "Amylase"
+        ],
+        "answer": "Amylase"
+    },
+    {
+        "question": "Mahatma Gandhi's Dandi March, a great event in Indian freedom struggle, was associated with",
+        "options": [
+            "iron",
+            "sodium chloride",
+            "sulphur",
+            "aluminium"
+        ],
+        "answer": "sodium chloride"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Name)</th><th>List-II (Formula)</th></tr><tr><td>A. Bleaching powder</td><td>1. NaHCO<sub>3</sub></td></tr><tr><td>B. Baking soda</td><td>2. Na<sub>2</sub>CO<sub>3</sub> &middot; 10H<sub>2</sub>O</td></tr><tr><td>C. Washing soda</td><td>3. Ca(OH)<sub>2</sub></td></tr><tr><td>D. Slaked lime</td><td>4. CaOCl<sub>2</sub></td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-1, C-2, D-3",
+            "A-4, B-2, C-1, D-3",
+            "A-3, B-2, C-1, D-4",
+            "A-3, B-1, C-2, D-4"
+        ],
+        "answer": "A-4, B-1, C-2, D-3"
+    },
+    {
+        "question": "The number of water molecules associated with copper sulphate molecule to form crystals is",
+        "options": [
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "Silver articles become black after some time when exposed to air because",
+        "options": [
+            "silver gets oxidized to silver oxide",
+            "silver reacts with moist carbon dioxide in the air to form silver carbonate",
+            "silver reacts with sulphur in the air to form a coating of silver sulphide",
+            "silver reacts with nitrogen oxides in the air to form silver nitrate"
+        ],
+        "answer": "silver reacts with sulphur in the air to form a coating of silver sulphide"
+    },
+    {
+        "question": "If <i>x</i> is the temperature of a system in Kelvin and <i>y</i> is the temperature of the system in &deg;C, then the correct relation between them is",
+        "options": [
+            "<i>x = 273 &ndash; y</i>",
+            "<i>x = 273 + y</i>",
+            "<i>x = 173 + y</i>",
+            "<i>x = 173 &ndash; y</i>"
+        ],
+        "answer": "<i>x = 273 + y</i>"
+    },
+    {
+        "question": "The resistivity &rho; of a material may be expressed in units of",
+        "options": [
+            "ohm",
+            "ohm/cm",
+            "ohm-cm",
+            "ohm-cm<sup>2</sup>"
+        ],
+        "answer": "ohm-cm"
+    },
+    {
+        "question": "The electromagnetic waves, which are used for satellite communication, are",
+        "options": [
+            "infrared radiations",
+            "ultraviolet radiations",
+            "radio waves",
+            "visible lights"
+        ],
+        "answer": "radio waves"
+    },
+    {
+        "question": "Which one of the following is the correct sequence of organs that occur in the path of urine flow in human body?",
+        "options": [
+            "Kidney, ureter, urinary bladder, urethra",
+            "Kidney, urinary bladder, ureter, urethra",
+            "Kidney, ureter, urethra, urinary bladder",
+            "Urinary bladder, kidney, urethra, ureter"
+        ],
+        "answer": "Kidney, ureter, urinary bladder, urethra"
+    },
+    {
+        "question": "Which of the following endocrine glands is <i>not</i> found in pair in humans?",
+        "options": [
+            "Adrenal",
+            "Pituitary",
+            "Testis",
+            "Ovary"
+        ],
+        "answer": "Pituitary"
+    },
+    {
+        "question": "Which one of the following cell organelles contains DNA?",
+        "options": [
+            "Golgi apparatus",
+            "Mitochondrion",
+            "Lysosome",
+            "Endoplasmic reticulum"
+        ],
+        "answer": "Mitochondrion"
+    },
+    {
+        "question": "Who among the following scientists introduced the concept of immunization to the medical world?",
+        "options": [
+            "Edward Jenner",
+            "Robert Koch",
+            "Robert Hooke",
+            "Carl Linnaeus"
+        ],
+        "answer": "Edward Jenner"
+    },
+    {
+        "question": "On 31st December, 1929, in which one of the following Congress Sessions was proclamation of Purna Swaraj made?",
+        "options": [
+            "Ahmedabad",
+            "Calcutta",
+            "Lahore",
+            "Lucknow"
+        ],
+        "answer": "Lahore"
+    },
+    {
+        "question": "Which one of the following Acts reserved seats for women in Legislatures in accordance with the allocation of seats for different communities?",
+        "options": [
+            "The Government of India Act, 1858",
+            "The Indian Councils Act, 1909",
+            "The Government of India Act, 1919",
+            "The Government of India Act, 1935"
+        ],
+        "answer": "The Government of India Act, 1935"
+    },
+    {
+        "question": "Which one among the following was demanded by the All India Depressed Classes Leaders' Conference at Bombay in 1931?",
+        "options": [
+            "Universal adult suffrage",
+            "Separate electorates for untouchables",
+            "Reserved seats for the minorities",
+            "A unitary State in India"
+        ],
+        "answer": "Separate electorates for untouchables"
+    },
+    {
+        "question": "Who among the following was one of the founders of the Indian Society of Oriental Art?",
+        "options": [
+            "Rabindranath Tagore",
+            "Abanindranath Tagore",
+            "Dwarakanath Tagore",
+            "Bankim Chandra Chattopadhyaya"
+        ],
+        "answer": "Abanindranath Tagore"
+    },
+    {
+        "question": "Who among the following Sultans succeeded in finally breaking and destroying the power of Turkan-i-Chihalgani?",
+        "options": [
+            "Iltutmish",
+            "Balban",
+            "Alauddin Khalji",
+            "Muhammad bin Tughluq"
+        ],
+        "answer": "Balban"
+    },
+    {
+        "question": "Who among the following Mongol leaders/commanders did <i>not</i> cross Indus to attack India?",
+        "options": [
+            "Chenghiz Khan",
+            "Tair Bahadur",
+            "Abdullah",
+            "Qutlugh Khwaja"
+        ],
+        "answer": "Chenghiz Khan"
+    }
+,
+
+    {
+        "question": "In the region of eastern shore of Adriatic Sea, a cold and dry wind blowing down from the mountain is known as",
+        "options": [
+            "Mistral",
+            "Bora",
+            "Bise",
+            "Blizzard"
+        ],
+        "answer": "Bora"
+    },
+    {
+        "question": "Nyishi tribe is found mainly in",
+        "options": [
+            "Andaman and Nicobar",
+            "Arunachal Pradesh",
+            "Nilgiri&ndash;Kerala",
+            "Kashmir Valley"
+        ],
+        "answer": "Arunachal Pradesh"
+    },
+    {
+        "question": "In the field of tourism, which one of the following Indian States is described as 'One State Many Worlds'?",
+        "options": [
+            "Assam",
+            "West Bengal",
+            "Karnataka",
+            "Rajasthan"
+        ],
+        "answer": "Karnataka"
+    },
+    {
+        "question": "The number of people per unit area of arable land is termed as",
+        "options": [
+            "agricultural density",
+            "arithmetic density",
+            "physiological density",
+            "economic density"
+        ],
+        "answer": "physiological density"
+    },
+    {
+        "question": "Which one of the following rivers joins Ganga directly?",
+        "options": [
+            "Chambal",
+            "Son",
+            "Betwa",
+            "Ken"
+        ],
+        "answer": "Son"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a type of commercial agriculture?",
+        "options": [
+            "Dairy farming",
+            "Grain farming",
+            "Livestock ranching",
+            "Intensive subsistence agriculture"
+        ],
+        "answer": "Intensive subsistence agriculture"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a land use category?",
+        "options": [
+            "Forestland",
+            "Pasture land",
+            "Marginal land",
+            "Barren and wasteland"
+        ],
+        "answer": "Marginal land"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an objective of the MGNREGA?",
+        "options": [
+            "Providing up to 100 days of skilled labour in a financial year",
+            "Creation of productive assets",
+            "Enhancing livelihood security",
+            "Ensuring empowerment to women"
+        ],
+        "answer": "Providing up to 100 days of skilled labour in a financial year"
+    },
+    {
+        "question": "Which one of the following statements with regard to the functioning of the Panchayats is <i>not</i> correct?",
+        "options": [
+            "Panchayats may levy, collect and appropriate taxes, duties, tolls, etc.",
+            "A person who has attained the age of 25 years will be eligible to be a member of a Panchayat.",
+            "Every Panchayat shall ordinarily continue for five years from the date of its first meeting.",
+            "A Panchayat reconstituted after premature dissolution shall continue only for the remainder of the full period."
+        ],
+        "answer": "A person who has attained the age of 25 years will be eligible to be a member of a Panchayat."
+    },
+    {
+        "question": "Which one of the following is the earliest launched scheme of the Government of India?",
+        "options": [
+            "Deendayal Antyodaya Yojana",
+            "Pradhan Mantri Gram Sadak Yojana",
+            "Saansad Adarsh Gram Yojana",
+            "Deendayal Upadhyaya Grameen Kaushalya Yojana"
+        ],
+        "answer": "Pradhan Mantri Gram Sadak Yojana"
+    },
+    {
+        "question": "Which of the following statements is <i>not</i> correct regarding the Members of Parliament Local Area Development Scheme (MPLADS)?",
+        "options": [
+            "Members of the Parliament (MPs) sanction, execute and complete works under the scheme.",
+            "Nominated Members of the Parliament can recommend works for implementation anywhere in the country.",
+            "The scheme is fully funded by the Government of India.",
+            "The annual entitlement per MP is ₹ 5 crore."
+        ],
+        "answer": "Members of the Parliament (MPs) sanction, execute and complete works under the scheme."
+    },
+    {
+        "question": "Saubhagya, a Government of India Scheme, relates to which of the following areas?",
+        "options": [
+            "Achieving universal household electrification",
+            "Providing clean cooking fuel to poor households",
+            "Rationalizing subsidies on LPG",
+            "Stopping female foeticide"
+        ],
+        "answer": "Achieving universal household electrification"
+    },
+    {
+        "question": "The 'Basel Convention' is aimed at protecting human health and environment against adverse effects of which of the following?",
+        "options": [
+            "Hazardous wastes",
+            "Persistent Organic Pollutants (POPs)",
+            "Mercury",
+            "Chemicals and pesticides"
+        ],
+        "answer": "Hazardous wastes"
+    },
+    {
+        "question": "Which one of the following is the biggest cause of incidence of migration of female persons in India?",
+        "options": [
+            "Employment",
+            "Education",
+            "Marriage",
+            "Business"
+        ],
+        "answer": "Marriage"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> correct about Repo rate?",
+        "options": [
+            "It is the interest rate charged by the Central Bank on overnight loan.",
+            "It is the interest rate paid by the commercial banks on overnight borrowing.",
+            "It is the interest rate agreed upon in the loan contract between a commercial bank and the Central Bank.",
+            "It is the cost of collateral security."
+        ],
+        "answer": "It is the cost of collateral security."
+    },
+    {
+        "question": "The Cash Reserve Ratio refers to",
+        "options": [
+            "the share of Net Demand and Time Liabilities that banks have to hold as liquid assets",
+            "the share of Net Demand and Time Liabilities that banks have to hold as balances with the RBI",
+            "the share of Net Demand and Time Liabilities that banks have to hold as part of their cash reserves",
+            "the ratio of cash holding to reserves of banks"
+        ],
+        "answer": "the share of Net Demand and Time Liabilities that banks have to hold as balances with the RBI"
+    },
+    {
+        "question": "In economics, if a diagram has a line passing through the origin and has 45&deg; angle with either axis and it is asserted that along the line <i>X = Y</i>, what is tacitly assumed?",
+        "options": [
+            "Both variables are pure numbers.",
+            "Both variables are in the same unit.",
+            "Both variables are in different units.",
+            "At least one variable is a pure number."
+        ],
+        "answer": "Both variables are in the same unit."
+    },
+    {
+        "question": "Who among the following won the Best Men's Player Award of FIFA Football Awards, 2019?",
+        "options": [
+            "Cristiano Ronaldo",
+            "Virgil van Dijk",
+            "Lionel Messi",
+            "Xavi"
+        ],
+        "answer": "Lionel Messi"
+    },
+    {
+        "question": "In September 2019, which one of the following travel giants declared itself bankrupt?",
+        "options": [
+            "Expedia",
+            "Cox & Kings",
+            "SOTC",
+            "Thomas Cook"
+        ],
+        "answer": "Thomas Cook"
+    },
+    {
+        "question": "Greta Thunberg, a teenaged environment activist who was in news recently, hails from",
+        "options": [
+            "Sweden",
+            "Germany",
+            "USA",
+            "Canada"
+        ],
+        "answer": "Sweden"
+    },
+    {
+        "question": "Recently the Reserve Bank of India has imposed limitations, initially for a period of six months, on the withdrawal of amount by account holders of which one of the following banks?",
+        "options": [
+            "IndusInd Bank",
+            "Dhanlaxmi Bank",
+            "Punjab and Maharashtra Cooperative Bank",
+            "South Indian Bank"
+        ],
+        "answer": "Punjab and Maharashtra Cooperative Bank"
+    },
+    {
+        "question": "Amitabh Bachchan was recently conferred with the prestigious Dada Saheb Phalke Award. Who among the following was the first recipient of the award?",
+        "options": [
+            "Prithviraj Kapoor",
+            "Devika Rani",
+            "Sohrab Modi",
+            "Naushad"
+        ],
+        "answer": "Devika Rani"
+    },
+    {
+        "question": "The famous Mughal painting, depicting Jahangir embracing the Safavid king Shah Abbas, was painted by which one of the following Mughal painters?",
+        "options": [
+            "Abd al-Samad",
+            "Abul Hasan",
+            "Dasavant",
+            "Bishandas"
+        ],
+        "answer": "Abul Hasan"
+    },
+    {
+        "question": "Which of the following statements about 'Mughal Mansab' system are correct?<br/><ol><li>'Zat' rank was an indicator of a Mansabdar's position in the imperial hierarchy and the salary of the Mansabdar.</li><li>'Sawar' rank indicated the number of horsemen the Mansabdar was required to maintain.</li><li>In the seventeenth century, Mansabdars holding 1000 or above 'Sawar' rank were designated as nobles (Umara).</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which one of the following pairs is <i>not</i> correctly matched?",
+        "options": [
+            "Kuddapah-kar : Rocky wastelands",
+            "Nancai : Wet fields",
+            "Puncai : Dry fields",
+            "Tottakal : Garden lands"
+        ],
+        "answer": "Kuddapah-kar : Rocky wastelands"
+    },
+    {
+        "question": "Which of the following rulers were identified through matronymics (names derived from that of the mother)?",
+        "options": [
+            "Mallas of Pava",
+            "Videhas of Mithila",
+            "Yaudheyas",
+            "Satavahanas"
+        ],
+        "answer": "Satavahanas"
+    },
+    {
+        "question": "Which one of the following statements about the famous text of <i>Panchatantra</i> is correct?",
+        "options": [
+            "It is a philosophical text reflecting the debates of the time and refuting rival positions.",
+            "It is a text ushering in linguistics as a formal science.",
+            "It is a text discussing developments in various spheres of natural sciences.",
+            "It is a text showing through illustration what should and should not be done."
+        ],
+        "answer": "It is a text showing through illustration what should and should not be done."
+    },
+    {
+        "question": "Geomorphic factors influencing plant and animal distributions are",
+        "options": [
+            "slope angle and relief only",
+            "slope aspect and relative relief",
+            "slope angle, slope aspect and relief",
+            "slope angle, slope aspect and relative relief"
+        ],
+        "answer": "slope angle, slope aspect and relative relief"
+    },
+    {
+        "question": "Which one of the following groups of cities does <i>not</i> have Sclerophyll as its natural vegetation cover?",
+        "options": [
+            "Valparaiso and Cape Town",
+            "Lisbon and Perth",
+            "Los Angeles and Adelaide",
+            "Las Vegas and Queensland"
+        ],
+        "answer": "Las Vegas and Queensland"
+    },
+    {
+        "question": "Which of the following are warm ocean currents?",
+        "options": [
+            "Kuroshio and California Current",
+            "North Atlantic Drift and Brazil Current",
+            "Canaries and Benguela Current",
+            "West Wind Drift and Falkland Current"
+        ],
+        "answer": "North Atlantic Drift and Brazil Current"
+    },
+    {
+        "question": "In India, how many States/Union Territories have more than two international boundaries?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "In the Hadley cell thermal circulation, air rises up and finally descends at",
+        "options": [
+            "intertropical convergence zone",
+            "doldrums",
+            "subtropical high-pressure cells",
+            "equatorial troughs"
+        ],
+        "answer": "subtropical high-pressure cells"
+    },
+    {
+        "question": "Which one of the following soils is characterized by very high content of organic matter?",
+        "options": [
+            "Vertisol",
+            "Histosol",
+            "Gelisol",
+            "Spodosol"
+        ],
+        "answer": "Histosol"
+    },
+    {
+        "question": "Overseas Indians can exercise franchise in an election to the Lok Sabha under which of the following conditions?<br/><ol><li>They must be citizens of India.</li><li>Their names must figure in the electoral roll.</li><li>They must be present in India to vote.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 and 2 only",
+            "1 only"
+        ],
+        "answer": "1, 2 and 3"
+    }
+
+    ,
+
+    {
+        "question": "Which one of the following is <i>not</i> a feature of the Ayushman Bharat Scheme?",
+        "options": [
+            "There is no cap on family size and age.",
+            "The scheme includes pre- and post-hospitalization expenses.",
+            "A defined transport allowance per hospitalization will also be paid to the beneficiary.",
+            "The scheme provides a benefit cover of ₹ 10 lakh per family."
+        ],
+        "answer": "The scheme provides a benefit cover of ₹ 10 lakh per family."
+    },
+    {
+        "question": "Which of the following are considered to be the four pillars of human development?",
+        "options": [
+            "Equity, inclusion, productivity and empowerment",
+            "Equity, productivity, empowerment and sustainability",
+            "Productivity, gender, inclusion and equity",
+            "Labour, productivity, inclusion and equity"
+        ],
+        "answer": "Equity, productivity, empowerment and sustainability"
+    },
+    {
+        "question": "Which one of the following was added as a fundamental duty through the Constitution (86th Amendment) Act, 2002?",
+        "options": [
+            "To strive towards excellence in individual and collective activity",
+            "To provide opportunities for education to one's child between the age of 6 and 14 years",
+            "To work for the welfare of women and children",
+            "To promote peace and harmony"
+        ],
+        "answer": "To provide opportunities for education to one's child between the age of 6 and 14 years"
+    },
+    {
+        "question": "Which one of the following Articles of the Constitution of India protects a person against double jeopardy?",
+        "options": [
+            "Article 20",
+            "Article 21",
+            "Article 22",
+            "Article 23"
+        ],
+        "answer": "Article 20"
+    },
+    {
+        "question": "Consider the following statements about Stone Age in India :<br/><ol><li>Different periods are identified on the basis of the type and technology of stone tools.</li><li>There are no regional variations in the type and technology of tools in different periods.</li><li>Stone Age cultures of different periods evolved uniformly in a neat unilinear fashion all over the subcontinent.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "From which one of the following factory sites were limestone and chert blades mass produced and sent to various Harappan settlements in Sindh?",
+        "options": [
+            "Sukkur and Rohri Hills",
+            "Khetri in Rajasthan",
+            "Chagai Hills",
+            "Hills of Baluchistan"
+        ],
+        "answer": "Sukkur and Rohri Hills"
+    },
+    {
+        "question": "The work <i>Siyar-ul-Mutakherin</i>, which describes the Battle of Plassey, 1757, was written by",
+        "options": [
+            "Salabat Jung",
+            "Qasim Khan",
+            "Ghulam Husain",
+            "Ram Mohan Roy"
+        ],
+        "answer": "Ghulam Husain"
+    },
+    {
+        "question": "Who believed that the Russian designs were 'an imminent peril to the security and tranquility' of the Indian Empire in 1836?",
+        "options": [
+            "Lord Auckland",
+            "Lord Palmerston",
+            "Lord Canning",
+            "Alexander Burnes"
+        ],
+        "answer": "Lord Palmerston"
+    },
+    {
+        "question": "The 'Tattvabodhini Sabha' was established by",
+        "options": [
+            "Devendranath Tagore in 1839",
+            "Keshab Chandra Sen in 1857",
+            "Akshay Kumar Datta in 1850",
+            "Dwarakanath Tagore in 1840"
+        ],
+        "answer": "Devendranath Tagore in 1839"
+    },
+    {
+        "question": "What was the code name given to the first ever tri-service military exercise between India and USA?",
+        "options": [
+            "Lion Triumph",
+            "Elephant Triumph",
+            "Tiger Triumph",
+            "Bison Triumph"
+        ],
+        "answer": "Tiger Triumph"
+    },
+    {
+        "question": "'Naropa' is an annual festival of",
+        "options": [
+            "Sikkim",
+            "Ladakh",
+            "Arunachal Pradesh",
+            "Nagaland"
+        ],
+        "answer": "Ladakh"
+    },
+    {
+        "question": "Which one of the following is India's official entry for the Best International Feature Film category in the 92nd Academy Awards?",
+        "options": [
+            "<i>Bulbul Can Sing</i>",
+            "<i>Super Deluxe</i>",
+            "<i>Gully Boy</i>",
+            "<i>And The Oscar Goes To</i>"
+        ],
+        "answer": "<i>Gully Boy</i>"
+    },
+    {
+        "question": "The Global Goalkeeper Award is given by",
+        "options": [
+            "the Bill and Melinda Gates Foundation",
+            "the United Nations Environment Programme",
+            "the Kellogg School of Management",
+            "the World Meteorological Organization"
+        ],
+        "answer": "the Bill and Melinda Gates Foundation"
+    },
+    {
+        "question": "'Gandhi Solar Park' is located at",
+        "options": [
+            "New York",
+            "Vladivostok",
+            "Thimphu",
+            "Houston"
+        ],
+        "answer": "New York"
+    },
+    {
+        "question": "Who among the following was the first to arrive in Africa as traders that eventually led to European colonization of Africa?",
+        "options": [
+            "French",
+            "Spanish",
+            "Portuguese",
+            "Dutch"
+        ],
+        "answer": "Portuguese"
+    },
+    {
+        "question": "The College of Military Engineering affiliated to Jawaharlal Nehru University is situated at",
+        "options": [
+            "New Delhi",
+            "Dehradun",
+            "Nainital",
+            "Pune"
+        ],
+        "answer": "Pune"
+    },
+    {
+        "question": "Which of the following statements with regard to Coal India Limited (CIL) is/are true?<br/><ol><li>CIL has its headquarters at Kolkata.</li><li>CIL operates through 82 mining areas spread over twenty provincial States of India.</li><li>CIL is the single largest coal-producing company in the world.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 3 only"
+    },
+    {
+        "question": "Which one of the following climatic types is found in Central Spain?",
+        "options": [
+            "Subarctic",
+            "Mediterranean dry hot summer",
+            "Subtropical Steppe",
+            "Humid continental warm summer"
+        ],
+        "answer": "Mediterranean dry hot summer"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> among the principal languages of Jammu and Kashmir?",
+        "options": [
+            "Urdu",
+            "Gujari",
+            "Koshur",
+            "Monpa"
+        ],
+        "answer": "Monpa"
+    },
+    {
+        "question": "The major part of Central Asia is dominated by which one of the following language families?",
+        "options": [
+            "Indo-European",
+            "Sino-Tibetan",
+            "Austric",
+            "Altaic"
+        ],
+        "answer": "Altaic"
+    },
+    {
+        "question": "Which one of the following Articles was defended by Dr. B. R. Ambedkar on the plea that it would be used as 'a matter of last resort'?",
+        "options": [
+            "Article 352",
+            "Article 359",
+            "Article 356",
+            "Article 368"
+        ],
+        "answer": "Article 356"
+    },
+    {
+        "question": "What is the ground on which the Supreme Court can refuse relief under Article 32?",
+        "options": [
+            "The aggrieved person can get remedy from another court",
+            "That disputed facts have to be investigated",
+            "That no fundamental right has been infringed",
+            "That the petitioner has not asked for the proper writ applicable to his/her case"
+        ],
+        "answer": "That no fundamental right has been infringed"
+    },
+    {
+        "question": "The Ministry of Heavy Industries and Public Enterprises consists of",
+        "options": [
+            "the Department of Heavy Industry and the Department for Promotion of Industry and Internal Trade",
+            "the Department of Public Enterprises and the Department for Promotion of Industry and Internal Trade",
+            "the Department of Scientific and Industrial Research and the Department of Heavy Industry",
+            "the Department of Heavy Industry and the Department of Public Enterprises"
+        ],
+        "answer": "the Department of Heavy Industry and the Department of Public Enterprises"
+    },
+    {
+        "question": "The First Delimitation Commission in India was constituted in",
+        "options": [
+            "1949",
+            "1950",
+            "1951",
+            "1952"
+        ],
+        "answer": "1952"
+    },
+    {
+        "question": "Who among the following stated in the Constituent Assembly that on 26th January, 1950, India was going to enter a life of contradictions?",
+        "options": [
+            "Dr. B. R. Ambedkar",
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "S. P. Mukherjee"
+        ],
+        "answer": "Dr. B. R. Ambedkar"
+    },
+    {
+        "question": "The power of the Supreme Court to decide in the case of a dispute between two or more States is called",
+        "options": [
+            "original jurisdiction",
+            "inherent jurisdiction",
+            "plenary jurisdiction",
+            "advisory jurisdiction"
+        ],
+        "answer": "original jurisdiction"
+    },
+    {
+        "question": "Who among the following is the Chairman of the Economic Advisory Council to the Prime Minister (EAC-PM)?",
+        "options": [
+            "Ratan P. Watal",
+            "Bibek Debroy",
+            "Ashima Goyal",
+            "Sajjid Chinoy"
+        ],
+        "answer": "Bibek Debroy"
+    },
+    {
+        "question": "Hilsa is the national fish of",
+        "options": [
+            "Pakistan",
+            "India",
+            "Bangladesh",
+            "Nepal"
+        ],
+        "answer": "Bangladesh"
+    },
+    {
+        "question": "The Vijaynagar Advanced Landing Ground of the Indian Air Force, which was reopened recently, is located in",
+        "options": [
+            "Jammu and Kashmir",
+            "Arunachal Pradesh",
+            "Karnataka",
+            "Himachal Pradesh"
+        ],
+        "answer": "Arunachal Pradesh"
+    },
+    {
+        "question": "Rustom-2, which crashed in Karnataka recently, was a/an",
+        "options": [
+            "fighter aircraft",
+            "helicopter",
+            "transport aircraft",
+            "unmanned aerial vehicle"
+        ],
+        "answer": "unmanned aerial vehicle"
+    },
+    {
+        "question": "The maiden trilateral naval exercise involving India, Singapore and Thailand was held at",
+        "options": [
+            "Port Blair",
+            "Chennai",
+            "Panaji",
+            "Kochi"
+        ],
+        "answer": "Port Blair"
+    },
+    {
+        "question": "The creation of a Federal Court in India was advocated by which of the following Acts/Commissions?",
+        "options": [
+            "The Government of India Act, 1919",
+            "The Lee Commission, 1923",
+            "The Government of India Act, 1935",
+            "The Indian Councils Act, 1909"
+        ],
+        "answer": "The Government of India Act, 1935"
+    },
+    {
+        "question": "Who founded the 'Seva Samiti' at Allahabad in 1914?",
+        "options": [
+            "Hridayanath Kunzru",
+            "G. K. Gokhale",
+            "Shri Ram Bajpai",
+            "T. B. Sapru"
+        ],
+        "answer": "Hridayanath Kunzru"
+    },
+    {
+        "question": "The State of Hyderabad in the Deccan officially acceded to the Indian Union in the year",
+        "options": [
+            "1948",
+            "1950",
+            "1949",
+            "1947"
+        ],
+        "answer": "1948"
+    },
+    {
+        "question": "The Hunter Commission (1882) appointed to survey the state of education in India",
+        "options": [
+            "deprecated University education",
+            "overruled the Despatch of 1854",
+            "endorsed the Despatch of 1854 with greater emphasis on primary education",
+            "criticized the grants-in-aid system of schooling"
+        ],
+        "answer": "endorsed the Despatch of 1854 with greater emphasis on primary education"
+    },
+    {
+        "question": "The power to legislate on all matters relating to elections to Panchayats lies with",
+        "options": [
+            "the Parliament of India",
+            "the State Legislatures",
+            "the State Election Commission",
+            "the Election Commission of India"
+        ],
+        "answer": "the State Legislatures"
+    },
+    {
+        "question": "The 11th Schedule of the Constitution of India distributes powers between",
+        "options": [
+            "the Union and the State Legislatures",
+            "the State Legislatures and the Panchayat",
+            "the Municipal Corporation and the Panchayat",
+            "the Gram Sabha and the Panchayat"
+        ],
+        "answer": "the State Legislatures and the Panchayat"
+    }
+
+    ,
+
+    {
+        "question": "The provisions of the Constitution of India pertaining to the institution of Panchayat <i>do not</i> apply to which one of the following States?",
+        "options": [
+            "Meghalaya",
+            "Tripura",
+            "Assam",
+            "Goa"
+        ],
+        "answer": "Meghalaya"
+    },
+    {
+        "question": "Which one of the following rivers <i>does not</i> drain into Black Sea?",
+        "options": [
+            "Volga",
+            "Dnieper",
+            "Don",
+            "Danube"
+        ],
+        "answer": "Volga"
+    },
+    {
+        "question": "The National Water Academy (NWA) is located at",
+        "options": [
+            "Dehradun",
+            "Hyderabad",
+            "Bhopal",
+            "Khadakwasla"
+        ],
+        "answer": "Khadakwasla"
+    },
+    {
+        "question": "Which one of the following is the correct sequence of formation of the Commissions starting from the earliest?",
+        "options": [
+            "Finance Commission, Planning Commission, Investment Commission, Election Commission",
+            "Election Commission, Planning Commission, Finance Commission, Investment Commission",
+            "Planning Commission, Election Commission, Finance Commission, Investment Commission",
+            "Investment Commission, Finance Commission, Planning Commission, Election Commission"
+        ],
+        "answer": "Election Commission, Planning Commission, Finance Commission, Investment Commission"
+    },
+    {
+        "question": "The formulation of policy in respect to Intellectual Property Rights (IPRs) is the responsibility of",
+        "options": [
+            "the Ministry of Law and Justice",
+            "the Department of Science and Technology",
+            "the Department for Promotion of Industry and Internal Trade",
+            "the Ministry of Human Resource Development"
+        ],
+        "answer": "the Department for Promotion of Industry and Internal Trade"
+    },
+    {
+        "question": "Which one of the following is the latest addition to the AYUSH group of health care system?",
+        "options": [
+            "Unani",
+            "Siddha",
+            "Sowa-Rigpa",
+            "Reiki"
+        ],
+        "answer": "Sowa-Rigpa"
+    },
+    {
+        "question": "Which one of the following is the nodal agency in India for the United Nations Environment Programme?",
+        "options": [
+            "The Ministry of Environment, Forest and Climate Change",
+            "The Ministry of Science and Technology",
+            "The Ministry of Earth Sciences",
+            "The Ministry of Home Affairs"
+        ],
+        "answer": "The Ministry of Environment, Forest and Climate Change"
+    },
+    {
+        "question": "According to the Census 2011, in India, what is the percentage of people (approximately) considered to be migrants (internal), i.e., now settled in a place different from their previous residence?",
+        "options": [
+            "25%",
+            "35%",
+            "45%",
+            "55%"
+        ],
+        "answer": "35%"
+    },
+    {
+        "question": "Suppose an agricultural labourer earns ₹ 400 per day in her village. She gets a job to work as babysitter in a nearby town @ ₹ 700 per day. She chose to work as agricultural labourer. Which one of the following is the opportunity cost of the agricultural labourer?",
+        "options": [
+            "₹ 1,100",
+            "₹ 700",
+            "₹ 400",
+            "₹ 300"
+        ],
+        "answer": "₹ 700"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Market structure)</th><th>List-II (Characteristic)</th></tr><tr><td>A. Perfect competition</td><td>1. Only one producer selling one commodity</td></tr><tr><td>B. Monopoly</td><td>2. Few producers selling similar or almost similar products</td></tr><tr><td>C. Monopolistic competition</td><td>3. Many producers selling differentiated products</td></tr><tr><td>D. Oligopoly</td><td>4. Many producers selling similar products</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-3, C-1, D-2",
+            "A-4, B-1, C-3, D-2",
+            "A-2, B-1, C-3, D-4",
+            "A-2, B-3, C-1, D-4"
+        ],
+        "answer": "A-4, B-1, C-3, D-2"
+    },
+    {
+        "question": "Which one of the following was the host country for World Tourism Day, 2019?",
+        "options": [
+            "USA",
+            "India",
+            "Russia",
+            "Canada"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "BRICS Summit, 2020 will be hosted by",
+        "options": [
+            "India",
+            "China",
+            "Russia",
+            "Brazil"
+        ],
+        "answer": "Russia"
+    },
+    {
+        "question": "The Government of India has recently constituted a civilian award in the name of Sardar Vallabhbhai Patel in the field of contribution to",
+        "options": [
+            "unity and integrity of India",
+            "art and culture",
+            "social work",
+            "entrepreneurship"
+        ],
+        "answer": "unity and integrity of India"
+    }
+
+    ],
     "2020-II": [
     {
         "question": "As per the Budget Estimates of 2019&ndash;20, the following are some of the important sources of tax receipts for the Union Government :<br/><ol><li>Corporation Tax</li><li>Taxes on Income other than Corporation Tax</li><li>Goods and Services Tax</li><li>Union Excise Duties</li></ol><br/>Which one of the following is the correct descending order of the foresaid tax receipts as a percentage of GDP?",
