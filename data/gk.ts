@@ -1,6 +1,1217 @@
 import type { Question } from "@/types/Question";
 
 export const gkData: Record<string, Question[]> = {
+    "2013-II": [
+        {
+                "question": "Statement I : Typical laterite soils in India are generally fertile.<br/><br/>Statement II : Laterite soils generally experience leaching.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Statement I is false but Statement II is true"
+        },
+        {
+                "question": "Statement I : Southern part of France is famous for wine making industry.<br/><br/>Statement II : Southern part of France produces a variety of fruits due to Mediterranean climate.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+        },
+        {
+                "question": "Statement I : Kali age reflects the presence of deep social crisis characterized by <i>varnasankara</i> i.e., intermixture of varnas or social orders.<br/><br/>Statement II : The vaisyas and sudras (peasants, artisans and labourers) either refused to perform producing functions or pay taxes or supply necessary labour for economic production resulting in weakening of Brahminical social order and social tension.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+        },
+        {
+                "question": "Statement I : The social institutions of caste in India underwent major changes in the colonial period.<br/><br/>Statement II : Caste, in contemporary society is more a product of ancient Indian tradition than of colonialism.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+        },
+        {
+                "question": "Statement I : The Russian Revolution of 1917 inspired the Indian Working Class Movement.<br/><br/>Statement II : The Non-Cooperation Movement (1921-22) saw the involvement of the Indian Working Class.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+        },
+        {
+                "question": "Statement I : In India tribal movements of nineteenth century resulted out of the process of land displacements and the introduction of forest laws.<br/><br/>Statement II : The Indian national movement resolved the problems faced by the tribals.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Statement I is true but Statement II is false"
+        },
+        {
+                "question": "Statement I : The economy of India in the 19th century came to a state of ruin under English East India Company.<br/><br/>Statement II : English East India Company's acquisition of Diwani right led to the miseries of the peasants and those associated with the traditional handicrafts industry of India.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+        },
+        {
+                "question": "In soil, water that is readily available to plant roots is :",
+                "options": [
+                        "gravitational water",
+                        "capillary water",
+                        "hygroscopic water",
+                        "bound water"
+                ],
+                "answer": "capillary water"
+        },
+        {
+                "question": "Blood does <i>not</i> coagulate inside the body due to the presence of :",
+                "options": [
+                        "Haemoglobin",
+                        "Heparin",
+                        "Fibrin",
+                        "Plasma"
+                ],
+                "answer": "Heparin"
+        },
+        {
+                "question": "Which one among the following is responsible for formation of 'Ozone Holes' in the stratosphere ?",
+                "options": [
+                        "Benzopyrene",
+                        "Hydrocarbons",
+                        "Chlorofluorocarbons",
+                        "UV radiation"
+                ],
+                "answer": "Chlorofluorocarbons"
+        },
+        {
+                "question": "Which one among the following groups of items contains only biodegradable items ?",
+                "options": [
+                        "Paper, grass, glass",
+                        "Wood, flower, iron-scrap",
+                        "Sewage, plastic, leather",
+                        "Cow-dung, paddy-husk, vegetable wastes"
+                ],
+                "answer": "Cow-dung, paddy-husk, vegetable wastes"
+        },
+        {
+                "question": "Which organelle in the cell, other than nucleus, contains DNA ?",
+                "options": [
+                        "Endoplasmic Reticulum",
+                        "Golgi Apparatus",
+                        "Lysosome",
+                        "Mitochondria"
+                ],
+                "answer": "Mitochondria"
+        },
+        {
+                "question": "Which one among the following groups of animals maintains constant body temperature in changing environmental conditions ?",
+                "options": [
+                        "Birds",
+                        "Amphibians",
+                        "Fishes",
+                        "Reptiles"
+                ],
+                "answer": "Birds"
+        },
+        {
+                "question": "A person feeds on rice and vegetable made up of potato only. He is likely to suffer from deficiency of :",
+                "options": [
+                        "Carbohydrate and vitamins",
+                        "Proteins",
+                        "Carbohydrate and proteins",
+                        "Proteins and fats"
+                ],
+                "answer": "Proteins"
+        },
+        {
+                "question": "Vaseline was applied to both surfaces of the leaves of a plant. Which of the following process/processes would be affected ?<br/><ol><li>Photosynthesis</li><li>Respiration</li><li>Transpiration</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 3 only",
+                        "2 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "By what mechanism does scent spread all over the room if the lid is opened ?",
+                "options": [
+                        "Pressure in the bottle",
+                        "Compression from the bottle",
+                        "Diffusion",
+                        "Osmosis"
+                ],
+                "answer": "Diffusion"
+        },
+        {
+                "question": "What type of mixture is smoke ?",
+                "options": [
+                        "Solid mixed with a gas",
+                        "Gas mixed with a gas",
+                        "Liquid mixed with a gas",
+                        "Gas mixed with a liquid and a solid"
+                ],
+                "answer": "Solid mixed with a gas"
+        },
+        {
+                "question": "A compound that is a white solid which absorbs water vapour from the air is :",
+                "options": [
+                        "Sodium nitrate",
+                        "Calcium chloride",
+                        "Sodium carbonate",
+                        "Calcium sulphate"
+                ],
+                "answer": "Calcium chloride"
+        },
+        {
+                "question": "What are the elements which are liquids at room temperature and standard pressure ?<br/><ol><li>Helium</li><li>Mercury</li><li>Chlorine</li><li>Bromine</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "2 and 3 only",
+                        "2, 3 and 4",
+                        "2 and 4 only",
+                        "1 and 3"
+                ],
+                "answer": "2 and 4 only"
+        },
+        {
+                "question": "Which one among the following colours has the highest wavelength ?",
+                "options": [
+                        "Violet",
+                        "Green",
+                        "Yellow",
+                        "Red"
+                ],
+                "answer": "Red"
+        },
+        {
+                "question": "Which one among the following is <i>not</i> a correct statement ?",
+                "options": [
+                        "Cathode rays are negatively charged particles",
+                        "Cathode rays are produced from all the gases",
+                        "Electrons are basic constituents of all the atoms",
+                        "Hydrogen ions do not contain any proton"
+                ],
+                "answer": "Hydrogen ions do not contain any proton"
+        },
+        {
+                "question": "$NaOH + HCl \\rightarrow NaCl + H_{2}O$<br/><br/>In the above chemical reaction :",
+                "options": [
+                        "Sodium is oxidized and oxygen is reduced",
+                        "Sodium is oxidized and chlorine is reduced",
+                        "Sodium and hydrogen are oxidized",
+                        "None of them are oxidized or reduced"
+                ],
+                "answer": "None of them are oxidized or reduced"
+        },
+        {
+                "question": "Which element forms the highest number of compounds in the periodic table ?",
+                "options": [
+                        "Carbon",
+                        "Oxygen",
+                        "Silicon",
+                        "Sulphur"
+                ],
+                "answer": "Carbon"
+        },
+        {
+                "question": "Dirty cloths containing grease and oil stains are cleaned by adding detergents to water. Stains are removed because detergent :",
+                "options": [
+                        "reduces drastically the surface tension between water and oil",
+                        "increases the surface tension between water and oil",
+                        "increases the viscosity of water and oil",
+                        "decreases the viscosity in detergent mixed water"
+                ],
+                "answer": "reduces drastically the surface tension between water and oil"
+        },
+        {
+                "question": "Motion of an oscillating liquid column in a U-tube is :",
+                "options": [
+                        "periodic but not simple harmonic",
+                        "non periodic",
+                        "simple harmonic and time period is independent of the density of the liquid",
+                        "simple harmonic and time period depends on the density of the liquid"
+                ],
+                "answer": "simple harmonic and time period is independent of the density of the liquid"
+        },
+        {
+                "question": "A ray of white light strikes the surface of an object. If all the colours are reflected the surface would appear :",
+                "options": [
+                        "Black",
+                        "White",
+                        "Grey",
+                        "Opaque"
+                ],
+                "answer": "White"
+        },
+        {
+                "question": "Magnetic, electrostatic and gravitational forces come under the category of :",
+                "options": [
+                        "non contact forces",
+                        "contact forces",
+                        "frictional forces",
+                        "non frictional forces"
+                ],
+                "answer": "non contact forces"
+        },
+        {
+                "question": "Dispersion process forms spectrum due to white light falling on a prism. The light wave with shortest wavelength :",
+                "options": [
+                        "refracts the most",
+                        "does not change the path",
+                        "refracts the least",
+                        "is reflected by the side of the prism"
+                ],
+                "answer": "refracts the most"
+        },
+        {
+                "question": "The main source of energy in Sun is :",
+                "options": [
+                        "Nuclear fusion",
+                        "Nuclear fission",
+                        "Chemical reaction",
+                        "Mechanical energy"
+                ],
+                "answer": "Nuclear fusion"
+        },
+        {
+                "question": "A liquid initially contracts when cooled down to $4^{\\circ}\\text{C}$ but on further cooling down to $0^{\\circ}\\text{C}$, it expands. The liquid is :",
+                "options": [
+                        "Alcohol",
+                        "Water",
+                        "Molten iron",
+                        "Mercury"
+                ],
+                "answer": "Water"
+        },
+        {
+                "question": "Satellite having the same orbital period as the period of rotation of the Earth about its own axis is known as :",
+                "options": [
+                        "Polar satellite",
+                        "Stationary satellite",
+                        "Geostationary satellite",
+                        "INSAT"
+                ],
+                "answer": "Geostationary satellite"
+        },
+        {
+                "question": "Consider the following sanctuaries of India :<br/><ol><li>Periyar</li><li>Dachigam</li><li>Sariska</li><li>Kanha</li></ol><br/>Which one among the following is the correct sequence of location of the above sanctuaries from south to north ?",
+                "options": [
+                        "1-4-2-3",
+                        "4-1-3-2",
+                        "1-4-3-2",
+                        "3-1-4-2"
+                ],
+                "answer": "1-4-3-2"
+        },
+        {
+                "question": "Which one among the following African countries is <i>not</i> landlocked ?",
+                "options": [
+                        "Zambia",
+                        "Uganda",
+                        "Angola",
+                        "Zimbabwe"
+                ],
+                "answer": "Angola"
+        },
+        {
+                "question": "Which one among the following is a tertiary activity ?",
+                "options": [
+                        "Farming",
+                        "Weaving",
+                        "Manufacturing",
+                        "Trading"
+                ],
+                "answer": "Trading"
+        },
+        {
+                "question": "Chinook is a :",
+                "options": [
+                        "cold wind in Europe",
+                        "tropical desert storm in West Asia",
+                        "warm wind in North America",
+                        "depression in South Africa"
+                ],
+                "answer": "warm wind in North America"
+        },
+        {
+                "question": "The humidity of air measured in percentage is called :",
+                "options": [
+                        "absolute humidity",
+                        "specific humidity",
+                        "relative humidity",
+                        "all of the above"
+                ],
+                "answer": "relative humidity"
+        },
+        {
+                "question": "Cordillera in North America is a :",
+                "options": [
+                        "river basin",
+                        "high plateau",
+                        "inland lake",
+                        "mountain system"
+                ],
+                "answer": "mountain system"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Industrial production)</th><th>List II (Place of production)</th></tr><tr><td>A. Brassware</td><td>1. Kanchipuram</td></tr><tr><td>B. Silk Sarees</td><td>2. Lucknow</td></tr><tr><td>C. Chikkan Embroidery</td><td>3. Moradabad</td></tr><tr><td>D. Sports Goods</td><td>4. Jalandhar</td></tr></table><br/>Code :",
+                "options": [
+                        "A-3, B-1, C-2, D-4",
+                        "A-3, B-2, C-1, D-4",
+                        "A-4, B-2, C-1, D-3",
+                        "A-4, B-1, C-2, D-3"
+                ],
+                "answer": "A-3, B-1, C-2, D-4"
+        },
+        {
+                "question": "Composite volcanic cone is also called strata cone because of the :",
+                "options": [
+                        "alternating sheets of lava and pyroclastic materials",
+                        "uneven streams of lava flow",
+                        "cataclysmic eruption",
+                        "eruption of lava flow from a fissure"
+                ],
+                "answer": "alternating sheets of lava and pyroclastic materials"
+        }
+,
+
+        {
+                "question": "Why is Himalayan region poor in mineral resources ?",
+                "options": [
+                        "Himalayan region is made up of crystalline rocks",
+                        "Displacement of rock strata has disturbed the arrangement of rocks and made it complex",
+                        "The climatic conditions are not suitable for exploration of minerals",
+                        "The rugged terrain makes exploration of minerals difficult and costly"
+                ],
+                "answer": "Displacement of rock strata has disturbed the arrangement of rocks and made it complex"
+        },
+        {
+                "question": "Albedo effect would be relatively higher in :",
+                "options": [
+                        "early morning and late evening",
+                        "early morning only",
+                        "noon",
+                        "late evening only"
+                ],
+                "answer": "early morning and late evening"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Hydroelectric power station)</th><th>List II (Location in map)</th></tr><tr><td>A. Nagarjuna Sagar</td><td>1.</td></tr><tr><td>B. Mettur</td><td>2.</td></tr><tr><td>C. Hirakud</td><td>3.</td></tr><tr><td>D. Sileru</td><td>4.</td></tr></table><br/><img src=\"/images/cds2013ii_q42.png\" alt=\"Map of India with locations 1, 2, 3, 4\"/><br/><br/>Code :",
+                "options": [
+                        "A-3, B-4, C-1, D-2",
+                        "A-3, B-1, C-4, D-2",
+                        "A-2, B-1, C-4, D-3",
+                        "A-2, B-4, C-1, D-3"
+                ],
+                "answer": "A-2, B-1, C-4, D-3"
+        },
+        {
+                "question": "Amarkantak plateau in the Maikal hills marks the origin of the river :",
+                "options": [
+                        "Gandak",
+                        "Chambal",
+                        "Narmada",
+                        "Ghaggar"
+                ],
+                "answer": "Narmada"
+        },
+        {
+                "question": "Which one among the following statements is <i>not</i> correct ?",
+                "options": [
+                        "Solar noon occurs simultaneously at locations with the same longitude",
+                        "One meridian, which is directly under the sun, experiences solar noon at a given time",
+                        "Places having same longitude experience solar noon at different times",
+                        "Solar noon occurs at different times at locations with the same latitude"
+                ],
+                "answer": "Places having same longitude experience solar noon at different times"
+        },
+        {
+                "question": "Oil is found in petroliferous rock. Which one among the following structures demonstrates an ideal trap ?",
+                "options": [
+                        "Horizontal structure",
+                        "Fault structure",
+                        "Synclinal structure",
+                        "Anticlinal structure"
+                ],
+                "answer": "Anticlinal structure"
+        },
+        {
+                "question": "Which one among the following may be considered a reason for India having 'high dependency' ratio ?",
+                "options": [
+                        "High rate of population growth",
+                        "Large section of population is in the age group of 0&mdash;14 years",
+                        "High percentage of population in the age group of 15&mdash;59 years",
+                        "Low pace of human resource development"
+                ],
+                "answer": "Large section of population is in the age group of 0&mdash;14 years"
+        },
+        {
+                "question": "Which of the following statements about Nathu la Pass are correct ?<br/><ol><li>It links Sikkim with Tibet</li><li>It was the main artery of the ancient Silk Route</li><li>It was reopened in the year 2006</li></ol><br/>Select the answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Red soil colour is caused by :",
+                "options": [
+                        "Aluminium compounds",
+                        "Mercury compounds",
+                        "Iron compounds",
+                        "Clay"
+                ],
+                "answer": "Iron compounds"
+        },
+        {
+                "question": "Mid-latitude cyclones :",
+                "options": [
+                        "usually move across North-America from east to west",
+                        "are generally found only over the Ocean",
+                        "generally bring clear skies and little precipitation",
+                        "are formed in regions of strong temperature contrasts"
+                ],
+                "answer": "are formed in regions of strong temperature contrasts"
+        },
+        {
+                "question": "The Westerlies have their origin in the :",
+                "options": [
+                        "Polar highs",
+                        "Subtropical highs",
+                        "Equatorial lows",
+                        "Sub polar lows"
+                ],
+                "answer": "Subtropical highs"
+        },
+        {
+                "question": "The Circle of illumination divides Earth into two hemispheres known as :",
+                "options": [
+                        "East and West",
+                        "North and South",
+                        "Day and Night",
+                        "Summer and Winter"
+                ],
+                "answer": "Day and Night"
+        },
+        {
+                "question": "Which one among the following States does <i>not</i> form part of the Narmada basin ?",
+                "options": [
+                        "Madhya Pradesh",
+                        "Gujarat",
+                        "Rajasthan",
+                        "Maharashtra"
+                ],
+                "answer": "Rajasthan"
+        },
+        {
+                "question": "Which one among the following is the correct sequence of the rivers from north to south ?",
+                "options": [
+                        "Damodar&mdash;Brahmani&mdash;Mahanadi&mdash;Tungabhadra",
+                        "Damodar&mdash;Mahanadi&mdash;Brahmani&mdash;Tungabhadra",
+                        "Brahmani&mdash;Tungabhadra&mdash;Damodar&mdash;Mahanadi",
+                        "Damodar&mdash;Brahmani&mdash;Tungabhadra&mdash;Mahanadi"
+                ],
+                "answer": "Damodar&mdash;Brahmani&mdash;Mahanadi&mdash;Tungabhadra"
+        },
+        {
+                "question": "Which one among the following is a sea without having a coastline ?",
+                "options": [
+                        "North sea",
+                        "Sargasso sea",
+                        "Baltic sea",
+                        "Bering sea"
+                ],
+                "answer": "Sargasso sea"
+        },
+        {
+                "question": "The production function of a firm will change whenever :",
+                "options": [
+                        "input price changes",
+                        "the firm employs more of any input",
+                        "the firm increases its level of output",
+                        "the relevant technology changes"
+                ],
+                "answer": "the relevant technology changes"
+        },
+        {
+                "question": "If the average total cost is declining then :",
+                "options": [
+                        "the marginal cost must be less than the average total cost",
+                        "total cost must be constant",
+                        "the average fixed cost curve must be above the average variable cost curve",
+                        "the marginal cost must be greater than the average total cost"
+                ],
+                "answer": "the marginal cost must be less than the average total cost"
+        },
+        {
+                "question": "In a perfectly competitive economy production and consumption will both be Pareto optimal, if the economy operates at a point where :",
+                "options": [
+                        "there is general equilibrium",
+                        "output levels are below equilibrium",
+                        "output levels are above equilibrium",
+                        "consumption is less than output"
+                ],
+                "answer": "there is general equilibrium"
+        },
+        {
+                "question": "The average fixed cost curve will always be :",
+                "options": [
+                        "a rectangular hyperbola",
+                        "a downward sloping convex to the origin curve",
+                        "a downward sloping straight line",
+                        "a U-shaped curve"
+                ],
+                "answer": "a rectangular hyperbola"
+        },
+        {
+                "question": "The income elasticity of demand for inferior goods is :",
+                "options": [
+                        "less than one",
+                        "less than zero",
+                        "equal to one",
+                        "greater than one"
+                ],
+                "answer": "less than zero"
+        },
+        {
+                "question": "The main functioning of the banking system is to :",
+                "options": [
+                        "accept deposits and provide credit",
+                        "accept deposits and subsidies",
+                        "provide credit and subsidies",
+                        "accept deposits, provide credit and subsidies"
+                ],
+                "answer": "accept deposits and provide credit"
+        },
+        {
+                "question": "Which bank is limited to the needs of agriculture and rural finance ?",
+                "options": [
+                        "SBI",
+                        "NABARD",
+                        "IFC",
+                        "RBI"
+                ],
+                "answer": "NABARD"
+        },
+        {
+                "question": "The effect of a government surplus upon the equilibrium level of NNP (Net National Product) is substantially the same as :",
+                "options": [
+                        "an increase in investment",
+                        "an increase in consumption",
+                        "an increase in saving",
+                        "a decrease in saving"
+                ],
+                "answer": "an increase in saving"
+        },
+        {
+                "question": "The value of money varies :",
+                "options": [
+                        "directly with the interest rate",
+                        "directly with the price level",
+                        "directly with the volume of employment",
+                        "inversely with the price level"
+                ],
+                "answer": "inversely with the price level"
+        },
+        {
+                "question": "Corporation tax is imposed by :",
+                "options": [
+                        "State Government",
+                        "Central Government",
+                        "Local Government",
+                        "State as well as Central Government"
+                ],
+                "answer": "Central Government"
+        },
+        {
+                "question": "The Government of India and Reserve Bank of India have decided to introduce 1 billion pieces of Rs. 10 notes in polymer/plastic on a field trial basis. Which of the following is/are the objectives behind this move ?<br/><ol><li>Increase of the lifetime of the notes</li><li>Combating counterfeiting</li><li>Reducing the cost of minting of currency</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 2 only",
+                        "2 only",
+                        "3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Which Indian musician has recently been awarded with lifetime achievement Grammy award ?",
+                "options": [
+                        "A R Rahman",
+                        "Pt. Ravi Shankar",
+                        "Ustad Amjad Ali Khan",
+                        "Lata Mangeshkar"
+                ],
+                "answer": "Pt. Ravi Shankar"
+        },
+        {
+                "question": "Well known film 'Chittagong', directed by Bedabrata Pain, is mainly based on the life of :",
+                "options": [
+                        "Subodh Roy",
+                        "Binod Bihari Chowdhury",
+                        "Preetilata Wadedar",
+                        "Ganesh Ghosh"
+                ],
+                "answer": "Subodh Roy"
+        },
+        {
+                "question": "Which of the following factors is/are responsible for recent rapid slowdown of Indian economy despite recovering from the global financial crisis ?<br/><ol><li>The boost to demand given by monetary and fiscal stimulus following the crisis was large</li><li>Starting in 2011-12, corporate and infrastructure investment started slowing both as a result of investment bottlenecks as well as the tighter monetary policy</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "In India, the price of petroleum products has been deregulated mainly to :",
+                "options": [
+                        "reduce the burden of subsidies given to the oil companies",
+                        "discourage the exploration of oil reserves in the country",
+                        "discourage the demand for private vehicles",
+                        "curb the use of black money in the economy"
+                ],
+                "answer": "reduce the burden of subsidies given to the oil companies"
+        },
+        {
+                "question": "Consider the following statements :<br/><ol><li>The recent decision of government of India to partially decontrol the sugar industry gives the millers the freedom to sell sugar in open market and removes their obligation to supply sugar at subsidized rates to ration shops</li><li>C Rangarajan panel also suggested decontrolling of sugar industry in India</li></ol><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "British Scientist Robert Edwards, winner of Nobel Prize for Physiology and Medicine, passed away on 10 April 2013. What was so important about him ?",
+                "options": [
+                        "He was the pioneer in the field of cloning",
+                        "He led the human genome project",
+                        "His pioneering works led to the birth of the first test tube baby",
+                        "He discovered the artificial heart"
+                ],
+                "answer": "His pioneering works led to the birth of the first test tube baby"
+        },
+        {
+                "question": "'Silent Spring', considered by many as one among the greatest science books of all time, is written by Rachel Carson. The book deals with :",
+                "options": [
+                        "wild life preservation",
+                        "protection of the environment",
+                        "pollution of the water body",
+                        "none of the above"
+                ],
+                "answer": "protection of the environment"
+        },
+        {
+                "question": "On 8 March 2013 President of India has released a commemorative postage stamp on late Sahir Ludhianvi at Rashtrapati Bhawan. Ludhianvi was :",
+                "options": [
+                        "the translator of the Omar Khayyam's <i>Rubaiyat</i> into Hindi",
+                        "an eminent social activist of India",
+                        "one of the top Urdu dramatists and actor",
+                        "widely acclaimed as a people's poet"
+                ],
+                "answer": "widely acclaimed as a people's poet"
+        },
+        {
+                "question": "V S Ramadevi, who died in Bengaluru on 17 April, 2013, was the Governor of Karnataka and Himachal Pradesh. What was more specific about her ? She was the :",
+                "options": [
+                        "Governor of the two States simultaneously",
+                        "Only female Chief Election Commissioner of India",
+                        "Only female Indian High Commissioner to United Kingdom",
+                        "Governor of Reserve Bank of India"
+                ],
+                "answer": "Only female Chief Election Commissioner of India"
+        },
+        {
+                "question": "The Pulitzer Prize for fiction in the year 2013 has been announced for the book :",
+                "options": [
+                        "'The Orphan Master's Son' authored by Adam Johnson",
+                        "'What We Talk About When We Talk About Anne Frank' authored by Nathan Englander",
+                        "'The Snow Child' authored by Eowyn Ivey",
+                        "None of the above"
+                ],
+                "answer": "'The Orphan Master's Son' authored by Adam Johnson"
+        }
+
+    ,
+
+        {
+                "question": "The Saudi Arabia Government has recently decided to strictly implement a law called Nitaqat law. As a result :",
+                "options": [
+                        "10% jobs in Saudi should be reserved for Saudi nationals",
+                        "50% jobs in Saudi should be reserved for Saudi nationals",
+                        "A foreigner will be allowed to work in Saudi Arabia for a maximum period of 10 years",
+                        "Foreigners' job contracts in Saudi Arabia will be on year to year basis"
+                ],
+                "answer": "10% jobs in Saudi should be reserved for Saudi nationals"
+        },
+        {
+                "question": "Which one among the following was a major decision taken at the fifth BRICS summit held recently ?",
+                "options": [
+                        "Establishment of a new development bank",
+                        "Reformation of the United Nations",
+                        "Common military exercise",
+                        "Cultural exchange among the BRICS countries"
+                ],
+                "answer": "Establishment of a new development bank"
+        },
+        {
+                "question": "With which one among the following countries, did India sign a Memorandum of Understanding on Co-operation in the field of Election Management and Administration (on 12 April 2013 in New Delhi) ?",
+                "options": [
+                        "Japan",
+                        "Mauritius",
+                        "Thailand",
+                        "Sri Lanka"
+                ],
+                "answer": "Mauritius"
+        },
+        {
+                "question": "Which one among the following Indian scientists has been awarded the '2012 award for International Science Co-operation' by Chinese Academy of Sciences ?",
+                "options": [
+                        "K S Srinivasan",
+                        "Sreekumar Banerjee",
+                        "D D Bhawalkar",
+                        "C N R Rao"
+                ],
+                "answer": "C N R Rao"
+        },
+        {
+                "question": "Which one among the following countries has won the ICC Women's World Cup, 2013 held in India ?",
+                "options": [
+                        "India",
+                        "West Indies",
+                        "Australia",
+                        "Sri Lanka"
+                ],
+                "answer": "Australia"
+        },
+        {
+                "question": "Which legendary actor has been awarded the Dada Saheb Phalke Award, 2012 ?",
+                "options": [
+                        "Shashi Kapoor",
+                        "Pran Krishan Sikand",
+                        "Anupam Kher",
+                        "Soumitra Chatterjee"
+                ],
+                "answer": "Pran Krishan Sikand"
+        },
+        {
+                "question": "The 'Thomas Cup' is associated with :",
+                "options": [
+                        "Table Tennis",
+                        "Lawn Tennis",
+                        "Badminton",
+                        "Billiards"
+                ],
+                "answer": "Badminton"
+        },
+        {
+                "question": "Consider the following statements :<br/><ol><li>ISRO has recently given clearance for using the frequency from KU band for using the satellite for internet in trains in India</li><li>KU frequency range is allocated to be exclusively used by satellite communication system</li></ol><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "Which one among the following was the main demand of the '2013 Shahbag Protests' ?",
+                "options": [
+                        "Employment for all above eighteen years",
+                        "Equal rights for men and women",
+                        "Capital punishment for those convicted of crimes against humanity during 1971 Bangladesh Liberation War",
+                        "Introduction of Urdu and Arabic languages as compulsory subjects in primary education"
+                ],
+                "answer": "Capital punishment for those convicted of crimes against humanity during 1971 Bangladesh Liberation War"
+        },
+        {
+                "question": "Which one among the following was the primary reason behind the failure of the Young Bengal Movement in Bengal ?",
+                "options": [
+                        "It did not appeal to educated people",
+                        "Its economic programme was not popular",
+                        "It was too radical",
+                        "It did not have good leaders"
+                ],
+                "answer": "It was too radical"
+        },
+        {
+                "question": "Which of the following statements is/are <i>not</i> correct about <i>Bhakti</i> tradition in South India ?<br/><ol><li>Earliest <i>Bhakti</i> movements in India were led by <i>Alvar</i> and <i>Nayanar</i> saints</li><li><i>Nalayira Divyaprabandham</i>, frequently described as Tamil Veda is an anthology of compositions by the <i>Alvars</i></li><li><i>Karaikkal Ammaiyar</i>, women Alvar saints, supported patriarchal norms</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "3 only",
+                        "2 only"
+                ],
+                "answer": "3 only"
+        },
+        {
+                "question": "<i>Sangam</i> literature formed a very important source for the reconstruction of the history of South India. It was written in :",
+                "options": [
+                        "Tamil",
+                        "Kannada",
+                        "Telugu",
+                        "Malayalam"
+                ],
+                "answer": "Tamil"
+        },
+        {
+                "question": "Which of the following are true of matrilineal societies ?<br/><ol><li>Newly married couple stays with the woman's parents</li><li>As per the rules of inheritance, the property passes from mother to daughter</li><li>Women play a dominant role in the family</li><li>Examples of matrilineal societies are those of the Khasi and Jaintia tribes of Meghalaya</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2, 3 and 4",
+                        "1 and 3 only",
+                        "2 and 4 only",
+                        "1, 2 and 4 only"
+                ],
+                "answer": "1, 2, 3 and 4"
+        },
+        {
+                "question": "The Mansabdari system of the Mughals was a complex system. Its efficient functioning depended upon :<br/><ol><li>The practice of offering the title of 'Mansabdar' to military personnel only</li><li>Proper functioning of the <i>dagh</i> (branding) system</li><li>Proper functioning of the <i>jagirdari</i> system</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "2 and 3 only"
+        },
+        {
+                "question": "Consider the following :<br/>'India would be far more reliable as a base for operations. Moreover the prospect of a settlement will be greatly enhanced by the disappearance of Gandhi, who had for years torpedoed every attempt at a settlement.'<br/>The above statement was made by the British in the context of :",
+                "options": [
+                        "Kheda Satyagraha",
+                        "Civil Disobedience Movement",
+                        "Quit India Movement",
+                        "Non-Cooperation Movement"
+                ],
+                "answer": "Quit India Movement"
+        },
+        {
+                "question": "Who among the following was <i>not</i> associated with the art of painting ?",
+                "options": [
+                        "Abanindranath Tagore",
+                        "Abdur Rahman Chaghatai",
+                        "Nandlal Bose",
+                        "Satish Chandra Mukherjee"
+                ],
+                "answer": "Satish Chandra Mukherjee"
+        },
+        {
+                "question": "Which one among the following statements about Civil Disobedience Movement is correct ?",
+                "options": [
+                        "It started with Gandhiji's march to Champaran",
+                        "Under Gandhi-Irwin agreement Congress agreed to give up Civil Disobedience Movement",
+                        "The British Government was quite soft towards the movement from the beginning",
+                        "There was no violence during the movement"
+                ],
+                "answer": "Under Gandhi-Irwin agreement Congress agreed to give up Civil Disobedience Movement"
+        },
+        {
+                "question": "Which one among the following events was associated with American War of Independence ?",
+                "options": [
+                        "Tennis Court Oath",
+                        "Boston Tea Party",
+                        "Fall of Bastille",
+                        "Reign of Terror"
+                ],
+                "answer": "Boston Tea Party"
+        },
+        {
+                "question": "Which one among the following events was <i>not</i> associated with French Revolution ?",
+                "options": [
+                        "Calling of the Estates General",
+                        "Guillotine",
+                        "Battle of Concord",
+                        "Tennis Court Oath"
+                ],
+                "answer": "Battle of Concord"
+        },
+        {
+                "question": "Consider the following statements about Satyagraha :<br/><ol><li>It was first experimented by Gandhiji in South Africa</li><li>It was first experimented in India at Champaran</li></ol><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "Who among the following first used the word 'Swarajya' in its political sense and accepted Hindi as the national language of India ?",
+                "options": [
+                        "Rammohan Roy",
+                        "Swami Vivekananda",
+                        "Mahatma Gandhi",
+                        "Bal Gangadhar Tilak"
+                ],
+                "answer": "Bal Gangadhar Tilak"
+        },
+        {
+                "question": "Which of the following factors was <i>not</i> a reason behind the occurrence of the Industrial Revolution in England first ?",
+                "options": [
+                        "No part of the country was far from the sea",
+                        "Navigable rivers made inland transport easier",
+                        "In England machines could be operated by wind or water power due to favourable climate condition",
+                        "England had coal, iron and other necessary mineral resources"
+                ],
+                "answer": "In England machines could be operated by wind or water power due to favourable climate condition"
+        },
+        {
+                "question": "Consider the following statements about the causes of success of the American Revolution :<br/><ol><li>The remoteness of the American continent and British ignorance of the American continent led to the success of the Americans</li><li>The fierce spirit of liberty drove the Americans to success</li><li>The American military forces were superior to the British</li></ol><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 only",
+                        "1 and 2",
+                        "2 only",
+                        "1 and 3"
+                ],
+                "answer": "1 and 2"
+        },
+        {
+                "question": "Consider the following statements about the UNO :<br/><ol><li>The creation of the UNO was a reflection of the ongoing quest for international peace during the Second World War</li><li>The Charter of the UN explicitly mentions two vital objectives of the organization : (i) the quest for international peace and (ii) all round welfare of the people of the world</li><li>The UN has resolved all the major global disputes including the Palestine dispute</li></ol><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 and 2",
+                        "1 and 3",
+                        "2 and 3",
+                        "1 only"
+                ],
+                "answer": "1 and 2"
+        },
+        {
+                "question": "Consider the following statements about Scientific Socialism :<br/><ol><li>Karl Marx put forward the theory of Scientific Socialism in Communist Manifesto (1848)</li><li>According to this theory economic conditions can never determine the cause of human history</li></ol><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "1 only"
+        },
+        {
+                "question": "<i>Rajtarangini</i>, authored by Kalhan, describes the history of :",
+                "options": [
+                        "Gujarat",
+                        "Bengal",
+                        "Kashmir",
+                        "Punjab"
+                ],
+                "answer": "Kashmir"
+        },
+        {
+                "question": "Which of the following did <i>not</i> constitute part of the army reforms of Sher Shah ?",
+                "options": [
+                        "Keeping a large army at the centre",
+                        "Introduction of a swiftly moving artillery",
+                        "Cash payment to soldiers",
+                        "Introduction of the practice of branding horses"
+                ],
+                "answer": "Introduction of a swiftly moving artillery"
+        },
+        {
+                "question": "Among the precious stones, the most extensive foreign trade during the Gupta age was that of :",
+                "options": [
+                        "Diamonds",
+                        "Ruby",
+                        "Pearl",
+                        "Sapphire"
+                ],
+                "answer": "Diamonds"
+        },
+        {
+                "question": "Which one among the following statements about the Swadeshi and Revolutionary movements in Bengal is <i>not</i> correct ?",
+                "options": [
+                        "It gave a great push forward to the Indian nationalist movement",
+                        "It gave a great stimulus to indigenous business and industry or swadeshi enterprise",
+                        "The Government of East Bengal and Assam became sympathetic to the revolutionaries",
+                        "It gave a great stimulus to the development of vernacular literature and revolutionary literature in particular"
+                ],
+                "answer": "The Government of East Bengal and Assam became sympathetic to the revolutionaries"
+        },
+        {
+                "question": "The Judge of the High Courts in India is administered oath of office by :",
+                "options": [
+                        "The Chief Justice of the High Court",
+                        "The Governor of the State",
+                        "The President of India",
+                        "The Chief Justice of India"
+                ],
+                "answer": "The Governor of the State"
+        },
+        {
+                "question": "The Governor may recommend the imposition of the President's rule in the State :",
+                "options": [
+                        "on the recommendation of the State legislature",
+                        "on the recommendation of the President",
+                        "on the recommendation of the Chief Minister",
+                        "if he is convinced that the government of the State cannot be carried on in accordance with the provisions of the Constitution of India"
+                ],
+                "answer": "if he is convinced that the government of the State cannot be carried on in accordance with the provisions of the Constitution of India"
+        },
+        {
+                "question": "Which one among the following thinkers argued that Maratha rule in general and Shivaji in particular represented early nationalist consciousness in India ?",
+                "options": [
+                        "Pandita Ramabai",
+                        "M G Ranade",
+                        "Bipin Chandra Pal",
+                        "Gopalkrishna Gokhale"
+                ],
+                "answer": "M G Ranade"
+        }
+
+    ,
+
+        {
+                "question": "The Planning Commission of India has been constituted :",
+                "options": [
+                        "under constitutional provision with specific mention for it",
+                        "through an Act of Parliament",
+                        "through a cabinet decision in this regard",
+                        "through constitutional amendment"
+                ],
+                "answer": "through a cabinet decision in this regard"
+        },
+        {
+                "question": "In the S R Bommai v. Union of India case, which one among the following features of the Constitution of India was upheld by the Supreme Court as a basic structure ?",
+                "options": [
+                        "Liberalism",
+                        "Secularism",
+                        "Dignity of the human person",
+                        "Freedom of religion"
+                ],
+                "answer": "Secularism"
+        },
+        {
+                "question": "Which of the following freedoms is <i>not</i> specifically mentioned in the Constitution of India as a fundamental right but has been subsequently upheld by the Supreme Court as such ?",
+                "options": [
+                        "Freedom of trade, occupation and business",
+                        "Freedom to reside and settle in any part of the country",
+                        "Freedom of association and union",
+                        "Freedom of the press"
+                ],
+                "answer": "Freedom of the press"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Commission/Committee)</th><th>List II (Mandate)</th></tr><tr><td>A. Sachar Committee</td><td>1. Anti-Sikh Riots, 1984</td></tr><tr><td>B. Srikrishna Commission</td><td>2. Socio-economic and educational conditions of Muslims in India</td></tr><tr><td>C. Ranganath Misra Commission</td><td>3. Bombay Communal Riots, 1992</td></tr><tr><td>D. Nanavati Commission</td><td>4. Linguistic and religious minorities in India</td></tr></table><br/>Code :",
+                "options": [
+                        "A-2, B-3, C-4, D-1",
+                        "A-2, B-4, C-3, D-1",
+                        "A-1, B-4, C-3, D-2",
+                        "A-1, B-3, C-4, D-2"
+                ],
+                "answer": "A-2, B-3, C-4, D-1"
+        },
+        {
+                "question": "Which of the following are UNESCO recognized world heritage sites ?<br/><ol><li>Caves of Ajanta</li><li>Temple and caves at Ellora</li><li>Mandapas of Mahabalipuram</li><li>Caves of Kanheri</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 4 only",
+                        "1, 2 and 3",
+                        "1, 3 and 4",
+                        "2, 3 and 4"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Power of the Supreme Court of India to decide the dispute between Centre and State falls under :",
+                "options": [
+                        "Advisory jurisdiction",
+                        "Original jurisdiction",
+                        "Appellate jurisdiction",
+                        "Constitutional jurisdiction"
+                ],
+                "answer": "Original jurisdiction"
+        },
+        {
+                "question": "Which of the following statements about India-China relations is/are correct ?<br/><ol><li>'Look East' policy is a vital part of the relationship</li><li>There is an active defence exchange programme</li><li>Institutional mechanism to share international waters is in place</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "1 only",
+                        "2 and 3 only"
+                ],
+                "answer": "1 only"
+        },
+        {
+                "question": "Which of the following statements is <i>not</i> correct ?",
+                "options": [
+                        "A money bill shall not be introduced in the Council of States",
+                        "The Council of States has no power to reject or amend a money bill",
+                        "The Council of Ministers is responsible to the House of the People and not to the Council of States",
+                        "The House of the People has special powers with respect to the State List compared to the Council of States"
+                ],
+                "answer": "The House of the People has special powers with respect to the State List compared to the Council of States"
+        },
+        {
+                "question": "Electoral disputes arising out of Presidential and Vice-Presidential Elections are settled by :",
+                "options": [
+                        "Election Commission of India",
+                        "Joint Committee of Parliament",
+                        "Supreme Court of India",
+                        "Speaker of Lok Sabha"
+                ],
+                "answer": "Supreme Court of India"
+        },
+        {
+                "question": "Among the following ideals and philosophy, identify those enshrined in the Preamble to the Constitution of India.<br/><ol><li>Sovereign democratic republic</li><li>Socialism and secularism</li><li>Capitalism and free trade</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 2 only",
+                        "1 and 3 only",
+                        "1, 2 and 3",
+                        "2 and 3 only"
+                ],
+                "answer": "1 and 2 only"
+        },
+        {
+                "question": "Which of the following pairs of Constitutional authority and procedure of appointment is/are correctly matched ?<br/><ol><li>President : Elected by an electoral college consisting of elected MLAs and MPs</li><li>Vice-President : Elected by an electoral college consisting of MLAs and MPs</li><li>Speaker : The House of People chooses after its first sitting</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 only",
+                        "1 and 3 only",
+                        "2 and 3 only"
+                ],
+                "answer": "1 and 3 only"
+        },
+        {
+                "question": "In April 2013, an agreement was signed between India and a country which extends the use of training and exercise facilities in India to the army of that country for a further period of five years from August 2013. Sort out the country from among the following :",
+                "options": [
+                        "Malaysia",
+                        "Singapore",
+                        "Myanmar",
+                        "Bangladesh"
+                ],
+                "answer": "Singapore"
+        },
+        {
+                "question": "Consider the following statements :<br/><ol><li>Rafael Nadal won Men's Singles French Open Tennis Tournament 2013 defeating Spanish compatriot David Ferrer</li><li>This is Nadal's maiden French Open title</li></ol><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "1 only"
+        }
+
+    ],
     "2018-II": [
         {
             "question": "Two reactants in a flask at room temperature are producing bubbles of a gas that turn limewater milky. The reactants could be",
