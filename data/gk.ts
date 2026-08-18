@@ -35386,7 +35386,1218 @@ export const gkData: Record<string, Question[]> = {
     
 
     
-]
+    ],
+    "2011-II": [
+        {
+            "question": "Directions :<br/>The following Seven (07) items consist of two statements, statement I and statement II. You are to examine these two statements carefully and select the answers to these items using the code given below :<br/>Code :<br/>(a) Both the statements are individually true and statement II is the correct explanation of statement I<br/>(b) Both the statements are individually true but statement II is not the correct explanation of statement I<br/>(c) Statement I is true but statement II is false<br/>(d) Statement I is false but statement II is true<br/><br/>Statement I : El Nino is a temperature rising phenomenon over the Pacific Ocean and usually causes dry monsoon in South Asia.<br/>Statement II : Tsunamis are usually not noticed as the massive ocean waves move silently but assume destructive form as these travel through shallow waters of continental shelves.",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(b)"
+        },
+        {
+            "question": "Statement I : Anticyclone, which is a high pressure wind system, does not bring about significant change in weather condition.<br/>Statement II : The outward movement of wind from the high pressure centre keeps limited scope for weather disturbance.",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(a)"
+        },
+        {
+            "question": "Statement I : Annie Besant worked together with the Congress and the Muslim League during the Home Rule Movement.<br/>Statement II : Annie Besant felt that this was necessary to get the support of the masses for the Home Rule Movement.",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(a)"
+        },
+        {
+            "question": "Statement I : Deficit financing does not lead to inflation if adopted in small doses.<br/>Statement II : Deficit financing is an often used tool for financing budgetary deficits.",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(b)"
+        },
+        {
+            "question": "Statement I : Oxides of sulfur and nitrogen present in high concentration in air are dissolved in rain drops.<br/>Statement II : Oxyacids of sulfur and nitrogen make rain water acidic.",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(a)"
+        },
+        {
+            "question": "Statement I : On mixing with water, Plaster of Paris hardens.<br/>Statement II : By combining with water, Plaster of Paris is converted into Gypsum.",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(a)"
+        },
+        {
+            "question": "Statement I : All liquids are conductors of electricity.<br/>Statement II : Under the condition of low pressure and high voltage, liquids can be made conducting.",
+            "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+            ],
+            "answer": "(d)"
+        },
+        {
+            "question": "Name the Continents that form a mirror image of each other",
+            "options": [
+                "North America and South America",
+                "Asia and Africa",
+                "Africa and South America",
+                "Europe and Asia"
+            ],
+            "answer": "Africa and South America"
+        },
+        {
+            "question": "How many kilometres are represented by 1&deg; of latitude ?",
+            "options": [
+                "321 km",
+                "211 km",
+                "111 km",
+                "91 km"
+            ],
+            "answer": "111 km"
+        },
+        {
+            "question": "Which one among the following rivers does <i>not</i> flow into the Bay of Bengal ?",
+            "options": [
+                "Mahanadi",
+                "Cauvery",
+                "Tapti",
+                "Godavari"
+            ],
+            "answer": "Tapti"
+        },
+        {
+            "question": "Which one among the following cities never get the vertical rays of the Sun all through the year ?",
+            "options": [
+                "Chennai",
+                "Mumbai",
+                "Kolkata",
+                "Srinagar"
+            ],
+            "answer": "Srinagar"
+        },
+        {
+            "question": "Climate change resulting in the rise of temperature may benefit which of the countries/regions ?",
+            "options": [
+                "South Africa",
+                "East Indies islands comprising of Java, Sumatra and Borneo",
+                "The western coasts of South America",
+                "Russia and Northern Europe"
+            ],
+            "answer": "Russia and Northern Europe"
+        },
+        {
+            "question": "Which of the following statements regarding ozone layer within the atmosphere is/are correct ?<br/><ol><li>It absorbs most of the ultraviolet radiation found in the Sun's rays.</li><li>Chlorofluorocarbons are serious threat to the ozone layer.</li></ol><br/>Select the correct answer using the code given below :",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Both 1 and 2"
+        },
+        {
+            "question": "When we consider 15&deg; meridian on a world map or globe and count them in an eastward direction starting with Greenwich meridian (0&deg;), we find that the time of this meridian is",
+            "options": [
+                "same as Greenwich",
+                "1 hour fast",
+                "1 hour slow",
+                "12 hours fast"
+            ],
+            "answer": "1 hour fast"
+        },
+        {
+            "question": "What is the target of the Millennium Development Goal of the United Nations with respect to Universal Primary Education ?",
+            "options": [
+                "All children both boys and girls would complete a full course primary schooling by 2015",
+                "All children both boys and girls are to be literate by 2050",
+                "All boys should go to school to complete a full course of primary schooling by 2025",
+                "All girls should be enrolled in primary school by 2015"
+            ],
+            "answer": "All children both boys and girls would complete a full course primary schooling by 2015"
+        },
+        {
+            "question": "The broken hills famous for zinc and lead are located in",
+            "options": [
+                "Turkey",
+                "France",
+                "Germany",
+                "Australia"
+            ],
+            "answer": "Australia"
+        },
+        {
+            "question": "Kanha National Park belongs to which one among the following biogeographical areas in the world ?",
+            "options": [
+                "Tropical Sub-humid Forests",
+                "Tropical Humid Forests",
+                "Tropical Dry Forests",
+                "Tropical Moist Forests"
+            ],
+            "answer": "Tropical Dry Forests"
+        },
+        {
+            "question": "'El Nino' associated with the formation of the South West Monsoon of India is",
+            "options": [
+                "an abnormally warm ocean current",
+                "a periodic warm air-mass",
+                "a periodic warm wind",
+                "a periodic low pressure centre"
+            ],
+            "answer": "an abnormally warm ocean current"
+        },
+        {
+            "question": "The thermal equator is found",
+            "options": [
+                "at the equator",
+                "south of the geographical equator",
+                "north of the geographical equator",
+                "at the tropic of cancer"
+            ],
+            "answer": "north of the geographical equator"
+        },
+        {
+            "question": "A nautical mile is equal to",
+            "options": [
+                "5060 feet",
+                "5280 feet",
+                "6060 feet",
+                "6080 feet"
+            ],
+            "answer": "6080 feet"
+        },
+        {
+            "question": "Horse latitudes lie within the atmospheric pressure belts of",
+            "options": [
+                "Polar high",
+                "Equatorial low",
+                "Sub-tropical high",
+                "Sub-polar low"
+            ],
+            "answer": "Sub-tropical high"
+        },
+        {
+            "question": "The warm and dry winds that blow down the steep valleys in Japan are called",
+            "options": [
+                "Zonda",
+                "Yamo",
+                "Tramontane",
+                "Santa Ana"
+            ],
+            "answer": "Yamo"
+        },
+        {
+            "question": "Which of the following statements regarding red soils of India is/are correct ?<br/><ol><li>The colour of the soil is red due to ferric oxide content.</li><li>Red soils are rich in lime, humous and potash.</li><li>They are porous and have friable structure.</li></ol><br/>Select the correct answer using the code given below :",
+            "options": [
+                "1 only",
+                "1 and 3 only",
+                "2 and 3 only",
+                "1, 2 and 3"
+            ],
+            "answer": "1 and 3 only"
+        },
+        {
+            "question": "According to the Census 2011, which one among the following Union Territories has the least population ?",
+            "options": [
+                "Daman and Diu",
+                "Dadra and Nagar Haveli",
+                "Lakshadweep",
+                "Puducherry"
+            ],
+            "answer": "Lakshadweep"
+        },
+        {
+            "question": "Arrange the following oil refineries of India from west to east :<br/><ol><li>Koyali</li><li>Bongaigaon</li><li>Mathura</li><li>Haldia</li></ol><br/>Select the correct answer using the code given below :",
+            "options": [
+                "1 &ndash; 2 &ndash; 3 &ndash; 4",
+                "1 &ndash; 3 &ndash; 4 &ndash; 2",
+                "3 &ndash; 1 &ndash; 2 &ndash; 4",
+                "2 &ndash; 4 &ndash; 3 &ndash; 1"
+            ],
+            "answer": "1 &ndash; 3 &ndash; 4 &ndash; 2"
+        },
+        {
+            "question": "Which one among the following creeks is <i>not</i> associated with the state of Gujarat ?",
+            "options": [
+                "Kori creek",
+                "Godai creek",
+                "Kajhar creek",
+                "Sir creek"
+            ],
+            "answer": "Godai creek"
+        },
+        {
+            "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Local wind)</th><th>List II (Area of prevalence)</th></tr><tr><td>A. Chinook</td><td>1. North African desert</td></tr><tr><td>B. Foehn</td><td>2. Rocky mountain slopes of the USA</td></tr><tr><td>C. Sirocco</td><td>3. Northern slopes of Alps</td></tr><tr><td>D. Mistral</td><td>4. Southern slopes of Alps</td></tr></table><br/>Code :",
+            "options": [
+                "A-2, B-3, C-1, D-4",
+                "A-2, B-1, C-3, D-4",
+                "A-4, B-1, C-3, D-2",
+                "A-4, B-3, C-1, D-2"
+            ],
+            "answer": "A-2, B-3, C-1, D-4"
+        },
+        {
+            "question": "Which one of the following is <i>not</i> a formal agency of social control ?",
+            "options": [
+                "Courts",
+                "Police",
+                "Family",
+                "Teachers"
+            ],
+            "answer": "Family"
+        },
+        {
+            "question": "The term used to describe the process by which an outsider, immigrant or subordinate group becomes indistinguishably integrated into the dominant host society, is known as",
+            "options": [
+                "Accommodation",
+                "Cultural imperialism",
+                "Acculturation",
+                "Adaptation"
+            ],
+            "answer": "Acculturation"
+        },
+        {
+            "question": "Which among the following is/are example/examples of youth unrest in India ?<br/><ol><li>Naxalite movement</li><li>Anti-foreigners movement in Assam</li><li>Anti-Mandal Commission agitation</li></ol><br/>Select the correct answer using the code given below :",
+            "options": [
+                "1, 2 and 3",
+                "2 and 3 only",
+                "2 only",
+                "3 only"
+            ],
+            "answer": "1, 2 and 3"
+        },
+        {
+            "question": "Consider the following information and identify from the code given below the legendary Hollywood actress who is also remembered as a champion for a number of charitable causes, notably the fight against AIDS :<br/><br/><i>She appeared in more than 50 films, and won three Oscars including one for her performance in 'Butterfield 8' and another for 'Who's Afraid of Virginia Woolf ?' The London-born actress was a star at age 12, a bride and a divorcee at 18, a screen goddess at 19 and a widow at 26.</i>",
+            "options": [
+                "Ingrid Bergman",
+                "Elizabeth Taylor",
+                "Katharine Hepburn",
+                "Nicole Kidman"
+            ],
+            "answer": "Elizabeth Taylor"
+        },
+        {
+            "question": "Consider the following statements :<br/><ol><li>National Cadet Corps (NCC) is a pre-independence organization.</li><li>The motto of NCC is 'Unity and Discipline'.</li></ol><br/>Which of the statements given above is/are correct ?",
+            "options": [
+                "1 only",
+                "2 only",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "2 only"
+        },
+        {
+            "question": "On 15th March 2011, foreign ministers of G-8 nations failed to reach an agreement on military action against Libya because :<br/><ol><li>Germany and Russia blocked flight restrictions sought by Britain and France</li><li>French attempt for a no-fly zone could not reach consensus</li><li>United Nations has been non-supportive for any kind of action against Libya</li></ol><br/>Select the correct answer using the code given below :",
+            "options": [
+                "1, 2 and 3",
+                "1 and 2 only",
+                "2 and 3 only",
+                "1 only"
+            ],
+            "answer": "1 and 2 only"
+        },
+
+        {
+                "question": "South Pacific island nation Samoa, positioned to the east of the International Date Line, on May 2011 decided to forego a day and shift to the time zone on its west. The reason for this shifting is to",
+                "options": [
+                        "facilitate smooth internal administration throughout the country",
+                        "attain political stability in the country",
+                        "facilitate trade with Australia and New Zealand",
+                        "promote tourism industry in the country"
+                ],
+                "answer": "facilitate trade with Australia and New Zealand"
+        },
+        {
+                "question": "Which of the following changes were brought in Nepal after the end of monarchy ?<br/><ol><li>The Singha Durbar (Lion Palace) has become official seat of government of Nepal</li><li>Narayanhity Royal Palace has been turned into a public museum</li><li>King's portrait in Nepalese bank-notes, was replaced by the image of Pashupatinath Temple</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 only"
+                ],
+                "answer": "1 and 2 only"
+        },
+        {
+                "question": "Which of the following changes have been brought in Egypt after the recent popular uprising that overthrew President Hosni Mubarak ?<br/><ol><li>Adopting a new constitution</li><li>Reducing presidential terms from 6 years to 4 years</li><li>Limiting the president to two terms</li><li>Presidential candidate must be over 40 years</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 2",
+                        "2, 3 and 4",
+                        "2 and 4 only",
+                        "3 and 4 only"
+                ],
+                "answer": "2, 3 and 4"
+        },
+        {
+                "question": "Which of the following statements regarding Global-INK (Indian Network of Knowledge) is <i>not</i> correct ?",
+                "options": [
+                        "It is an ICT (Information and Communication Technology) enabled platform for next generation knowledge management",
+                        "The network will serve as a strategic 'virtual think tank'",
+                        "The outcome target will be the germination of ideas on development and articulating and mapping out solutions through innovation and technological interventions",
+                        "The network is being developed by Reliance Communication"
+                ],
+                "answer": "The network is being developed by Reliance Communication"
+        },
+        {
+                "question": "In the era of globalization, international migration is one of the biggest challenges of 21st century. To deal with this, which of the following steps have been taken by the government of India ?<br/><ol><li>Establishment of 24/7 helpline to provide information to jobseekers</li><li>Undertaking steps to ratify the UN Convention on Transnational Organized Crime and its protocols</li><li>Implementing e-Governance in emigration management to detect instances of misrepresentation, forgery etc. through real time validation of information on public-private partnership basis</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Which one of the following teams won the maximum number of gold medals in the 34th National Games 2011 held in Jharkhand ?",
+                "options": [
+                        "Manipur",
+                        "Services",
+                        "Haryana",
+                        "Maharashtra"
+                ],
+                "answer": "Services"
+        },
+        {
+                "question": "Who among the following was chosen for the Dadasaheb Phalke Award for the year 2010 ?",
+                "options": [
+                        "K. Balachander",
+                        "D. Ramanaidu",
+                        "V. K. Murthy",
+                        "Adoor Gopalakrishnan"
+                ],
+                "answer": "K. Balachander"
+        },
+        {
+                "question": "Consider the following statements about National Knowledge Commission :<br/><ol><li>It is an advisory body to the Prime Minister constituted as per the provisions of the Constitution of India.</li><li>Mr. Sam Pitroda is the Chairman of the Commission.</li></ol><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "2 only"
+        },
+        {
+                "question": "The 'Shillong Declaration', in news recently, was on",
+                "options": [
+                        "Food Security Act",
+                        "Right to Education Act",
+                        "Prevention of Corruption Act",
+                        "Right to Information Act"
+                ],
+                "answer": "Right to Information Act"
+        },
+        {
+                "question": "In the case of nuclear disaster which of the following options for cooling the nuclear reactors may be adopted ?<br/><ol><li>Pumping of water to the reactors.</li><li>Use of boric acid.</li><li>Taking out the fuel rods and keeping them in a cooling pond.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "3 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Consider the following statements about Euthanasia :<br/><ol><li>It refers to the practice of ending the life in a manner which relieves pain and suffering.</li><li>In the case involving Aruna Shanbaug, the Supreme Court of India has suggested that passive Euthanasia be legalized through the Supreme Court monitored mechanism only.</li><li>Active voluntary Euthanasia is legal in Belgium, Luxembourg and the Netherlands.</li></ol><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 3 only",
+                        "3 only",
+                        "1 and 2 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Which one among the following is <i>not</i> an important factor of climate of an area ?",
+                "options": [
+                        "Latitude",
+                        "Longitude",
+                        "Altitude",
+                        "Distance from the sea"
+                ],
+                "answer": "Longitude"
+        },
+        {
+                "question": "Which of the following condition/conditions must be fulfilled by the NRIs to be eligible to vote in elections in India ?<br/><ol><li>They must be physically present in their place of origin to exercise their franchise.</li><li>NRIs whether they have acquired citizenship of other countries or not are eligible to vote.</li><li>Eligible NRIs have to register by filling up form 6-A with electoral registration office.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 3 only",
+                        "2 only",
+                        "3 only"
+                ],
+                "answer": "1 and 3 only"
+        },
+        {
+                "question": "Which of the following statements regarding the United Nations Peace-keeping Force is/are correct ?<br/><ol><li>The first peacekeeping force was sent to Egypt.</li><li>Peacekeeping force is accountable to the Security Council.</li><li>First women peacekeeping force was sent by India to Liberia.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "3 only",
+                        "1 and 3 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "The first effort at drafting a Dominion Status Constitution for India was made in response to the",
+                "options": [
+                        "Minto-Morley Reforms",
+                        "Montague-Chelmsford Reforms",
+                        "Simon Commission",
+                        "First Round Table Conference"
+                ],
+                "answer": "Simon Commission"
+        },
+        {
+                "question": "The Kamraj Plan was a plan formulated in 1963 by the then",
+                "options": [
+                        "Union Cabinet Minister, whereby a new constitution for the Indian National Congress was proposed",
+                        "Chief Minister of Madras, whereby the senior ministers were asked to leave government and work to rejuvenate the party",
+                        "Chief Minister of Madras, whereby a new set of principles for accepting donations for the party work was proposed",
+                        "Chief Minister of Madras to root out corruption from India"
+                ],
+                "answer": "Chief Minister of Madras, whereby the senior ministers were asked to leave government and work to rejuvenate the party"
+        },
+        {
+                "question": "The Constitution of India divided the states of India in categories A, B, C and D in the year 1950. In this context which of the following statements is correct ?",
+                "options": [
+                        "The Chief Commissioner was the executive head of category A states. The Rajpramukh was the executive head of category B states. The Governor was the executive head of categories C and D states",
+                        "The Rajpramukh was the executive head of category A states. The Chief Commissioner was the executive head of categories B and C states. The Governor was the executive head of the category D states",
+                        "The Governor was the executive head of category A states. The Rajpramukh was the executive head of category B states. The Chief Commissioner was the executive head of categories C and D states",
+                        "The Governor was the executive head of category A states. The Chief Commissioner was the executive head of category B states. The Rajpramukh was the executive head of categories C and D states"
+                ],
+                "answer": "The Governor was the executive head of category A states. The Rajpramukh was the executive head of category B states. The Chief Commissioner was the executive head of categories C and D states"
+        },
+        {
+                "question": "The Constituent Assembly of India was chosen on the basis of the provincial elections of 1946. With the withdrawal of the Muslim League from the Constituent Assembly it turned out that majority of the Assembly members were also members of the Congress. Under that circumstance, how was the Constituent Assembly given a broader social basis ?",
+                "options": [
+                        "By nominating independent members from various minority groups",
+                        "By nominating independent members from various caste and religious groups",
+                        "By nominating independent members of different castes, religious groups and women and also by taking in representatives of the princely states and asking for written submission from the public at large",
+                        "By taking in representatives of the princely states and asking for written submission from the public at large"
+                ],
+                "answer": "By nominating independent members of different castes, religious groups and women and also by taking in representatives of the princely states and asking for written submission from the public at large"
+        },
+        {
+                "question": "What was the 'privy purse' in the context of the history of Modern India ?",
+                "options": [
+                        "A purse given privately by one organization to another",
+                        "A purse given by the government of India to dignitaries for service rendered",
+                        "A grant given by the Government of India to the erstwhile Princes of India",
+                        "A gift given by an erstwhile Prince of India to the Government of India"
+                ],
+                "answer": "A grant given by the Government of India to the erstwhile Princes of India"
+        },
+        {
+                "question": "Which one among the following was <i>not</i> a possible reason for the success of Nadir Shah's military campaign in Delhi ?",
+                "options": [
+                        "Weak Mughal Emperor",
+                        "Lack of strong defence in the North-West Frontier",
+                        "Late preparation for the defence of Delhi",
+                        "Use of superior military technology by the invading army"
+                ],
+                "answer": "Use of superior military technology by the invading army"
+        },
+        {
+                "question": "Which one among the following was <i>not</i> true about the Kerala king Martanda Varma ?",
+                "options": [
+                        "He ruled over Travancore",
+                        "He subdued the feudatories",
+                        "He gave heavy bribes to the European officers to maintain peace",
+                        "He organized a strong modern army"
+                ],
+                "answer": "He gave heavy bribes to the European officers to maintain peace"
+        },
+        {
+                "question": "Which of the following was/were reason/reasons for the success of European trading companies in South India during the 17th Century ?<br/><ol><li>The presence of the Mughals in the south was not as much as in the north</li><li>The Vijaya Nagar kingdom had been overthrown in the late 16th Century</li><li>The south had many small and weak states</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Which one among the following was a reason for which the French could not succeed in India in the 18th Century ?",
+                "options": [
+                        "They sided with the weak Indian sides such as Chanda Sahib and Muzafar Jang",
+                        "Dupleix was called back at a crucial time",
+                        "They conspired against the Indian powers",
+                        "Their trading company was heavily dependent on the French Government"
+                ],
+                "answer": "Their trading company was heavily dependent on the French Government"
+        },
+        {
+                "question": "Which one among the following was the result of the First Anglo-Maratha War of 1775-82 ?",
+                "options": [
+                        "The British won the war",
+                        "The Marathas won the war",
+                        "There was no victory for either side",
+                        "It helped Hyder Ali to gather strength because the British and Marathas were engaged in a mutual war"
+                ],
+                "answer": "There was no victory for either side"
+        },
+        {
+                "question": "Which one among the following is correct about the Doctrine of Lapse ?",
+                "options": [
+                        "It did not allow the Indian rulers to adopt any heir",
+                        "It did not allow an adopted heir to rule a state after the death of the ruler",
+                        "It made the annexation of Indian state compulsory after the death of a ruler",
+                        "It made the annexation of India state compulsory if the adoption of heir had not been approved by the British authorities"
+                ],
+                "answer": "It made the annexation of India state compulsory if the adoption of heir had not been approved by the British authorities"
+        },
+
+        {
+                "question": "In 1856 Awadh would <i>not</i> have been annexed with the British Empire if the Nawab of Awadh had",
+                "options": [
+                        "allied with the British",
+                        "not refused to introduce reforms as suggested by the British",
+                        "fought against the British",
+                        "a natural heir"
+                ],
+                "answer": "not refused to introduce reforms as suggested by the British"
+        },
+        {
+                "question": "Which of the statements given below about Vivekananda are correct ?<br/><ol><li>He believed that Vedanta was fully rational.</li><li>He criticized his countrymen for having lost touch with the outside world.</li><li>He condemned the caste system.</li><li>He considered the Veda to be infallible.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "2, 3 and 4",
+                        "1, 3 and 4",
+                        "1 and 2 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Which of the statements given below about the Champaran Satyagraha is/are correct ?<br/><ol><li>It was related to Indigo plantations.</li><li>It started because the European planters oppressed the Zamindars.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "1 only"
+        },
+        {
+                "question": "Consider the following statements about the Ahmedabad Mill Strike of 1918 :<br/><ol><li>It was related to a dispute between the workers and the European mill owners regarding hours of work.</li><li>Gandhiji advised the workers to go on strike.</li></ol><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "2 only"
+        },
+        {
+                "question": "Which one among the following statements appropriately defines the term 'drain theory' as propounded by Dadabhai Naoroji in his work 'Poverty and un-British Rule in India' ?",
+                "options": [
+                        "That a part of India's national wealth or total annual product was being exported to Britain for which India got no material returns",
+                        "That the resources of India were being utilized in the interest of Britain",
+                        "That the British industrialists were being given an opportunity to invest in India under the protection of the imperial power",
+                        "That the British goods were being imported to India making the country poorer day by day"
+                ],
+                "answer": "That a part of India's national wealth or total annual product was being exported to Britain for which India got no material returns"
+        },
+        {
+                "question": "Which among the following was the most immediate factor for the spread of Swadeshi and boycott of foreign goods during the first decade of the last century ?",
+                "options": [
+                        "Curzon's design to curtail the sphere of local self-government",
+                        "Curzon's attempt to control the Universities",
+                        "Curzon's partition of Bengal",
+                        "Curzon's plan to curb the growing popularity of the Indian National Congress"
+                ],
+                "answer": "Curzon's partition of Bengal"
+        },
+        {
+                "question": "Which of the following statements regarding Permanent Settlement is/are correct ?<br/><ol><li>The Permanent Settlement was introduced in parts of the Madras and Bombay Presidencies.</li><li>The Permanent Settlement created a new class of landlords with hereditary rights on land.</li><li>The landlords created by the Permanent Settlement could never be removed under any circumstance.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "2 only"
+        },
+        {
+                "question": "Gandhiji led the Indian nationalist movement from the front and his leadership was motivated by a wider philosophy he nurtured throughout the course of the movement. Which one among the following was a continuous movement based on this philosophy, and not a specific movement ?",
+                "options": [
+                        "Non-cooperation Movement",
+                        "Swadeshi Movement",
+                        "Quit India Movement",
+                        "Civil Disobedience Movement"
+                ],
+                "answer": "Swadeshi Movement"
+        },
+        {
+                "question": "The Jainas believe that Jainism is the outcome of the teachings of twenty four Tirthankaras. In the light of this statement which one among the following is correct of Vardhamana Mahavira ?",
+                "options": [
+                        "He was the first Tirthankara and the founder of Jainism",
+                        "He was the twenty third Tirthankara, the first twenty two Tirthankaras being considered legendary",
+                        "He was the last and twenty fourth Tirthankara, who was not considered as the founder of the new faith but as a reformer of the existing religious sect",
+                        "He was not one of the twenty four Tirthankaras"
+                ],
+                "answer": "He was the last and twenty fourth Tirthankara, who was not considered as the founder of the new faith but as a reformer of the existing religious sect"
+        },
+        {
+                "question": "The earliest Buddhist literature which deal with the stories of the various birth of Buddha are",
+                "options": [
+                        "Venaya pitakas",
+                        "Sutta pitakas",
+                        "Abhidhamma pitakas",
+                        "Jatakas"
+                ],
+                "answer": "Jatakas"
+        },
+        {
+                "question": "Which one among the following is <i>not</i> a characteristic of Rig-Vedic Aryans ?",
+                "options": [
+                        "They were acquainted with horses, chariots and the use of bronze",
+                        "They were acquainted with the use of iron",
+                        "They were acquainted with the cow, which formed the most important form of wealth",
+                        "They were acquainted with the use of copper and the modern ploughshare"
+                ],
+                "answer": "They were acquainted with the use of iron"
+        },
+        {
+                "question": "Which one among the following statements about United Nations organs is correct ?",
+                "options": [
+                        "Decisions of the General Assembly are binding on all members",
+                        "The term of the non-permanent members of the Security Council is for three years",
+                        "International Court of Justice has 20 Judges elected for a period of five years",
+                        "The Trusteeship Council has been suspended since 1 November 1994"
+                ],
+                "answer": "The Trusteeship Council has been suspended since 1 November 1994"
+        },
+        {
+                "question": "Which one among the following statements about South Asia is <i>not</i> correct ?",
+                "options": [
+                        "All the countries in South Asia are currently democracies",
+                        "SAFTA was signed at the 12th SAARC Summit in Islamabad",
+                        "The US and China play an influential role in the politics of some South Asian States",
+                        "Bangladesh and India have agreements on river water sharing and boundary disputes"
+                ],
+                "answer": "All the countries in South Asia are currently democracies"
+        },
+        {
+                "question": "Which among the following statements about European Union (EU) are correct ?<br/><ol><li>The EU is the world's largest economy.</li><li>The EU has its own flag, anthem and currency.</li><li>The EU's combined armed forces are the second largest in the world.</li><li>The EU has its own Constitution.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 4",
+                        "2 and 3 only",
+                        "3 and 4"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Which one among the following is the distinguishing factor between a pressure group and a political party ?",
+                "options": [
+                        "Pressure groups are confined to a few, while political parties involve larger number of people",
+                        "Pressure groups do not seek active political power, political parties do",
+                        "Pressure groups do not politically motivate people, while political parties do",
+                        "Political parties take political stance, while pressure groups do not bother about political issues"
+                ],
+                "answer": "Pressure groups do not seek active political power, political parties do"
+        },
+        {
+                "question": "Which one among the following pairs of level of government and legislative power is <i>not</i> correctly matched ?",
+                "options": [
+                        "Central government : Union List",
+                        "Local governments : Residuary powers",
+                        "State governments : State List",
+                        "Central and State governments : Concurrent List"
+                ],
+                "answer": "Local governments : Residuary powers"
+        },
+        {
+                "question": "There are different arguments given in favour of power sharing in a democratic political system. Which one of the following is <i>not</i> one of them ?",
+                "options": [
+                        "It reduces conflict among different communities",
+                        "Majority community does not impose its will on others",
+                        "Since all are affected by the policies of the government, they should be consulted in the governance of the country",
+                        "It speeds up the decision making process and improves the chances of unity of the country"
+                ],
+                "answer": "It speeds up the decision making process and improves the chances of unity of the country"
+        },
+        {
+                "question": "Which of the following statements are correct ?<br/><ol><li>The global economy relied on oil for much of the 20th century as a portable and indispensable fuel.</li><li>The immense wealth associated with oil generates political struggles to control it.</li><li>History of petroleum is also the history of war and struggle.</li><li>Nowhere is this more obviously the case of war and struggle than in West Asia and Central America.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2, 3 and 4",
+                        "2 and 4 only",
+                        "1 and 3 only",
+                        "1, 2 and 3 only"
+                ],
+                "answer": "1, 2 and 3 only"
+        },
+        {
+                "question": "Which one among the following is <i>not</i> guaranteed by the Constitution of India ?",
+                "options": [
+                        "Freedom to move freely throughout the country",
+                        "Freedom to assemble peacefully without arms",
+                        "Freedom to own, acquire and dispose of property anywhere in the country",
+                        "Freedom to practice any trade or profession"
+                ],
+                "answer": "Freedom to own, acquire and dispose of property anywhere in the country"
+        },
+        {
+                "question": "Which of the following statements is/are correct ?<br/><br/>Under the provisions of Article 200 of the Constitution of India the Governor of a state may :<br/><ol><li>withhold his assent to a Bill passed by the state legislature.</li><li>reserve the Bill passed by the state legislature for consideration of the President.</li><li>return the Bill, other than a money Bill, for reconsideration of the legislature.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Which of the following are envisaged as being part of the 'Right against Exploitation' in the Constitution of India ?<br/><ol><li>Prohibition of traffic in human beings and forced labour.</li><li>Abolition of untouchability.</li><li>Protection of the interests of the minorities.</li><li>Prohibition of employment of children in factories and mines.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 2",
+                        "1 and 3",
+                        "1 and 4",
+                        "2, 3 and 4"
+                ],
+                "answer": "1 and 4"
+        },
+        {
+                "question": "In which one of the following cases the Supreme Court of India gave verdicts which have a direct bearing on the Centre-State relations ?",
+                "options": [
+                        "Keshavananda Bharati case",
+                        "Vishakha case",
+                        "S. R. Bommai case",
+                        "Indira Sawhney case"
+                ],
+                "answer": "S. R. Bommai case"
+        },
+        {
+                "question": "Consider the following statements about the powers of the President of India :<br/><ol><li>The President can direct that any matter on which decision has been taken by a Minister should be placed before the Council of Ministers.</li><li>The President can call all information relating to proposals for legislation.</li><li>The President has the right to address and send messages to either House of the Parliament.</li><li>All decisions of the Council of Ministers relating to the administration of the Union must be communicated to the President.</li></ol><br/>Which of the statements given above are correct ?",
+                "options": [
+                        "1, 2 and 3 only",
+                        "1 and 3 only",
+                        "2 and 4 only",
+                        "1, 2, 3 and 4"
+                ],
+                "answer": "1, 2, 3 and 4"
+        },
+        {
+                "question": "With reference to the conduct of government business in the Parliament of India, the term 'closure' refers to",
+                "options": [
+                        "suspension of debate at the termination of a day's sitting of the Parliament",
+                        "a rule of legislative procedure under which further debate on a motion can be halted",
+                        "the termination of a parliamentary session",
+                        "refusal on the part of the government to have the opposition look at important documents"
+                ],
+                "answer": "a rule of legislative procedure under which further debate on a motion can be halted"
+        },
+        {
+                "question": "India's market regulator SEBI is on course to relax investment norms for sovereign wealth funds, the investment vehicles which are directly controlled by the government of a country. The main reason behind this move is",
+                "options": [
+                        "the desire of the government of India to attract more foreign investment",
+                        "pressure by foreign governments on India to execute specific mutual agreements on financial services",
+                        "SEBI's desire to create a more level playing field for foreign investors",
+                        "RBI's relevant directives to SEBI"
+                ],
+                "answer": "the desire of the government of India to attract more foreign investment"
+        },
+
+        {
+                "question": "A recent survey (by Bloomberg) shows that the USA has fallen behind emerging markets in Brazil, China and India as the preferred place to invest. Why is it so ?<br/><ol><li>Unstable economic situation of the USA which the global investors feel not likely to improve in the near future.</li><li>Global investors are finding Brazil, China and India to be actually more amenable to foreign investment.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "According to the Administrative Tribunal Act 1985, the Central Administrative Tribunal adjudicates disputes and complaints with respect to the service of persons who are",
+                "options": [
+                        "appointed to public services and posts in connection with the affairs of the Union except members of the defence forces",
+                        "official and servants of the Supreme Court or any High Courts",
+                        "members of the Secretarial staff of the Parliament or any state legislatures",
+                        "members of the defence forces"
+                ],
+                "answer": "appointed to public services and posts in connection with the affairs of the Union except members of the defence forces"
+        },
+        {
+                "question": "Which of the following statements with respect to the judiciary in India is/are correct ?<br/><ol><li>Unlike in the United States, India has not provided for a double system of courts.</li><li>Under the Constitution of India, there is a single integrated system of courts for the Union as well as the states.</li><li>The organisation of the subordinate judiciary varies slightly from state to state.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "1 and 2 only",
+                        "1, 2 and 3",
+                        "2 and 3 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Which of the following Committees are Committees of Parliament ?<br/><ol><li>Public Accounts Committee</li><li>Estimates Committee</li><li>Committee on Public Undertakings</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 2 only",
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "The Chief Election Commissioner of India holds office for a period of",
+                "options": [
+                        "six years",
+                        "during the pleasure of the President",
+                        "for six years or till the age of 65 years, whichever is earlier",
+                        "for five years or till the age of 60 years, whichever is earlier"
+                ],
+                "answer": "for six years or till the age of 65 years, whichever is earlier"
+        },
+        {
+                "question": "Consider the following statements :<br/><ol><li>In India the minimum denomination coin acceptable for transaction is 50 paise.</li><li>Coins below 50 paise is not a legal tender for payment.</li></ol><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "Which of the following statements about the Crime and Criminal Tracking Network System (CCTNS) is/are correct ?<br/><ol><li>It will facilitate real time access of classified criminal data to the law enforcement authorities.</li><li>National Crime Record Bureau is the nodal agency mandated to implement the network in all the states.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "The purpose of Directive Principles of State Policy is to",
+                "options": [
+                        "lay down positive instructions which would guide State Policy at all levels",
+                        "implement Gandhiji's idea for a decentralized state",
+                        "check the use of arbitrary powers by the government",
+                        "promote welfare of the backward sections of the society"
+                ],
+                "answer": "lay down positive instructions which would guide State Policy at all levels"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Five year plan)</th><th>List II (Emphasis)</th></tr><tr><td>A. First</td><td>1. Food security and women empowerment</td></tr><tr><td>B. Second</td><td>2. Heavy industries</td></tr><tr><td>C. Fifth</td><td>3. Agriculture and community development</td></tr><tr><td>D. Ninth</td><td>4. Removal of poverty</td></tr></table><br/>Code :",
+                "options": [
+                        "A-1, B-2, C-4, D-3",
+                        "A-1, B-4, C-2, D-3",
+                        "A-3, B-2, C-4, D-1",
+                        "A-3, B-4, C-2, D-1"
+                ],
+                "answer": "A-3, B-2, C-4, D-1"
+        },
+        {
+                "question": "Consider the following statements about Sinking Fund :<br/><ol><li>It is a method of repayment of public debt.</li><li>It is created by the government out of budgetary revenues every year.</li></ol><br/>Which of the statements given above is/are correct ?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "When you pull out the plug connected to an electrical appliance, you often observe a spark. To which property of the appliance is this related ?",
+                "options": [
+                        "Resistance",
+                        "Inductance",
+                        "Capacitance",
+                        "Wattage"
+                ],
+                "answer": "Inductance"
+        },
+        {
+                "question": "The focal length of a convex lens is",
+                "options": [
+                        "the same for all colours",
+                        "shorter for blue light than for red",
+                        "shorter for red light than for blue",
+                        "maximum for yellow light"
+                ],
+                "answer": "shorter for blue light than for red"
+        },
+        {
+                "question": "If the door of a running refrigerator in a closed room is kept open, what will be the net effect on the room ?",
+                "options": [
+                        "It will cool the room",
+                        "It will heat the room",
+                        "It will make no difference on the average",
+                        "It will make the temperature go up and down"
+                ],
+                "answer": "It will heat the room"
+        },
+        {
+                "question": "When a ball drops onto the floor it bounces. Why does it bounce ?",
+                "options": [
+                        "Newton's third law implies that for every action (drop) there is a reaction (bounce)",
+                        "The floor exerts a force on the ball during the impact",
+                        "The floor is perfectly rigid",
+                        "The floor heats up on impact"
+                ],
+                "answer": "The floor exerts a force on the ball during the impact"
+        },
+        {
+                "question": "Renewable energy can be obtained from",
+                "options": [
+                        "Fossils",
+                        "Radioactive elements",
+                        "Biomass",
+                        "Natural gas"
+                ],
+                "answer": "Biomass"
+        },
+        {
+                "question": "A body has a mass of 6 kg on the Earth; when measured on the Moon, its mass would be",
+                "options": [
+                        "nearly 1 kg",
+                        "less than 1 kg",
+                        "less than 6 kg",
+                        "6 kg"
+                ],
+                "answer": "6 kg"
+        },
+        {
+                "question": "Which one among the following is <i>not</i> included in the basic functions of operating system ?",
+                "options": [
+                        "Job control",
+                        "Job scheduling",
+                        "Memory management",
+                        "Data management"
+                ],
+                "answer": "Job control"
+        },
+        {
+                "question": "Transformer is a kind of appliance that can<br/><ol><li>increase power</li><li>increase voltage</li><li>decrease voltage</li><li>measure current and voltage</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 4",
+                        "4 only",
+                        "2 and 3 only",
+                        "2, 3 and 4"
+                ],
+                "answer": "2 and 3 only"
+        },
+        {
+                "question": "What is the main constituent of a Pearl ?",
+                "options": [
+                        "Calcium carbonate and magnesium carbonate",
+                        "Calcium sulphate only",
+                        "Calcium oxide and calcium sulphate",
+                        "Calcium carbonate only"
+                ],
+                "answer": "Calcium carbonate only"
+        },
+        {
+                "question": "From which one among the following water sources, the water is likely to be contaminated with fluoride ?",
+                "options": [
+                        "Ground water",
+                        "River water",
+                        "Pond water",
+                        "Rain water"
+                ],
+                "answer": "Ground water"
+        },
+        {
+                "question": "Which one among the following will you put into pure water in order to pass electric current through it ?",
+                "options": [
+                        "Kerosene",
+                        "Mustard oil",
+                        "Lemon juice",
+                        "Sugar"
+                ],
+                "answer": "Lemon juice"
+        },
+        {
+                "question": "Gypsum (CaSO<sub>4</sub>.2H<sub>2</sub>O) is added to clinker during cement manufacturing to",
+                "options": [
+                        "decrease the rate of setting of cement",
+                        "bind the particles of calcium silicate",
+                        "facilitate the formation of colloidal gel",
+                        "impart strength to cement"
+                ],
+                "answer": "decrease the rate of setting of cement"
+        },
+        {
+                "question": "Sodium thiosulfate (Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>) solution is used in photography to",
+                "options": [
+                        "remove reduced silver",
+                        "reduce silver bromide (AgBr) grain to silver",
+                        "remove undecomposed AgBr as a soluble silver thiosulfate complex",
+                        "convert the metallic silver to silver salt"
+                ],
+                "answer": "remove undecomposed AgBr as a soluble silver thiosulfate complex"
+        },
+        {
+                "question": "Fire fly gives us cold light by virtue of the phenomenon of",
+                "options": [
+                        "Fluorescence",
+                        "Phosphorescence",
+                        "Chemiluminescence",
+                        "Effervescence"
+                ],
+                "answer": "Chemiluminescence"
+        },
+        {
+                "question": "The Iron Pillar near Qutub Minar draws attention of scientists due to its",
+                "options": [
+                        "Antiquity",
+                        "Glitter",
+                        "Hardness",
+                        "Rustlessness"
+                ],
+                "answer": "Rustlessness"
+        },
+        {
+                "question": "Sacrificial anode protects iron of ships, underground pipelines etc. from rusting, a process known as cathodic protection. Which one of the following metals <i>cannot</i> be used as a sacrificial anode ?",
+                "options": [
+                        "Tin",
+                        "Zinc",
+                        "Magnesium",
+                        "Aluminium"
+                ],
+                "answer": "Tin"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Acid)</th><th>List II (Source)</th></tr><tr><td>A. Lactic acid</td><td>1. Tamarind</td></tr><tr><td>B. Tartaric acid</td><td>2. Orange</td></tr><tr><td>C. Oxalic acid</td><td>3. Tomato</td></tr><tr><td>D. Citric acid</td><td>4. Sour curd</td></tr></table><br/>Code :",
+                "options": [
+                        "A-2, B-3, C-1, D-4",
+                        "A-2, B-1, C-3, D-4",
+                        "A-4, B-3, C-1, D-2",
+                        "A-4, B-1, C-3, D-2"
+                ],
+                "answer": "A-4, B-1, C-3, D-2"
+        },
+        {
+                "question": "Which one among the following will be absorbed fastest through the wall of digestive system ?",
+                "options": [
+                        "Black coffee as a hot beverage",
+                        "DDT taken as a poison",
+                        "Raw alcohol taken as a drink",
+                        "Ice cream as a dessert"
+                ],
+                "answer": "Raw alcohol taken as a drink"
+        },
+        {
+                "question": "One of the occupational health hazards commonly faced by the workers of ceramics, pottery and glass industry is",
+                "options": [
+                        "stone formation in gall bladder",
+                        "melanoma",
+                        "silicosis",
+                        "stone formation in kidney"
+                ],
+                "answer": "silicosis"
+        },
+        {
+                "question": "It has been observed that astronauts lose substantial quantity of calcium through urine during space flight. This is due to",
+                "options": [
+                        "hypergravity",
+                        "microgravity",
+                        "intake of dehydrated food tablet",
+                        "low temperature in cosmos"
+                ],
+                "answer": "microgravity"
+        },
+        {
+                "question": "If we sprinkle common salt on an earthworm, it dies due to",
+                "options": [
+                        "osmotic shock",
+                        "respiratory failure",
+                        "toxic effect of salt",
+                        "closure of pores of skin"
+                ],
+                "answer": "osmotic shock"
+        },
+        {
+                "question": "Cutting and peeling of onions brings tears to the eyes because of the presence of",
+                "options": [
+                        "sulfur in the cell",
+                        "carbon in the cell",
+                        "fat in the cell",
+                        "aminoacid in the cell"
+                ],
+                "answer": "sulfur in the cell"
+        },
+        {
+                "question": "The anti-malarial drug Quinine is made from a plant. The plant is",
+                "options": [
+                        "Neem",
+                        "Eucalyptus",
+                        "Cinnamon",
+                        "Cinchona"
+                ],
+                "answer": "Cinchona"
+        },
+        {
+                "question": "Endosulfon, which has been in news these days, is",
+                "options": [
+                        "a pesticide",
+                        "a fertilizer",
+                        "a sulfa drug",
+                        "an antibiotic"
+                ],
+                "answer": "a pesticide"
+        },
+        {
+                "question": "The cat can survive fall from a height much more than human or any other animal. It is because the cat",
+                "options": [
+                        "can immediately adjust itself to land on all four paws and bend the legs to absorb the impact of falling",
+                        "has elastic bones",
+                        "has thick and elastic skin",
+                        "also gets injury equally with other animals but has tremendous endurance, body resistance and speedy recovery"
+                ],
+                "answer": "can immediately adjust itself to land on all four paws and bend the legs to absorb the impact of falling"
+        },
+        {
+                "question": "Development of Goitre (enlarged thyroid gland) is mainly due to deficiency of",
+                "options": [
+                        "Sodium",
+                        "Iodine",
+                        "Calcium",
+                        "Iron"
+                ],
+                "answer": "Iodine"
+        },
+        {
+                "question": "To suspect HIV/AIDS in a young individual, which one among the following symptoms is mostly associated with ?",
+                "options": [
+                        "Long standing jaundice and chronic liver disease",
+                        "Severe anemia",
+                        "Chronic diarrhoea",
+                        "Severe persistent headache"
+                ],
+                "answer": "Chronic diarrhoea"
+        }
+
+    
+
+    
+
+    
+    ]
 };
 
 export default gkData;
