@@ -25772,6 +25772,1221 @@ export const gkData: Record<string, Question[]> = {
     }
 
     ]
+,
+    "2015-II": [
+    {
+        "question": "<b>Statement I :</b><br/>India's offshore and deep sea fish catch is very poor considering the marine potential.<br/><br/><b>Statement II :</b><br/>Indian coast does not have many gulfs, bays, estuaries and backwaters.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+            "Both the statements are individually true, but Statement II is <i>not</i> the correct explanation of Statement I.",
+            "Statement I is true, but Statement II is false.",
+            "Statement I is false, but statement II is true."
+        ],
+        "answer": "Statement I is true, but Statement II is false."
+    },
+    {
+        "question": "<b>Statement I :</b><br/>Tides are the rise and fall of sea levels caused by the combined effects of the gravitational forces exerted by the Moon and the Sun, and the rotation of the Earth.<br/><br/><b>Statement II :</b><br/>Earth rotates from the West towards the East once in 24 hours with respect to the Sun.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+            "Both the statements are individually true, but Statement II is <i>not</i> the correct explanation of Statement I.",
+            "Statement I is true, but Statement II is false.",
+            "Statement I is false, but statement II is true."
+        ],
+        "answer": "Both the statements are individually true, but Statement II is <i>not</i> the correct explanation of Statement I."
+    },
+    {
+        "question": "<b>Statement I :</b><br/>Sideral day is shorter than Solar day.<br/><br/><b>Statement II :</b><br/>The motion of the Earth in its orbit around the Sun is termed as revolution.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+            "Both the statements are individually true, but Statement II is <i>not</i> the correct explanation of Statement I.",
+            "Statement I is true, but Statement II is false.",
+            "Statement I is false, but statement II is true."
+        ],
+        "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I."
+    },
+    {
+        "question": "<b>Statement I :</b><br/>When a gun is fired it recoils, i.e., it pushes back, with much less velocity than the velocity of the bullet.<br/><br/><b>Statement II :</b><br/>Velocity of the recoiling gun is less because the gun is much heavier than the bullet.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+            "Both the statements are individually true, but Statement II is <i>not</i> the correct explanation of Statement I.",
+            "Statement I is true, but Statement II is false.",
+            "Statement I is false, but statement II is true."
+        ],
+        "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I."
+    },
+    {
+        "question": "In an observation, &alpha;-particles, &beta;-particles and &gamma;-rays have same energies. Their penetrating power in a given medium in increasing order will be",
+        "options": [
+            "&alpha;, &beta;, &gamma;",
+            "&beta;, &gamma;, &alpha;",
+            "&alpha;, &gamma;, &beta;",
+            "&beta;, &alpha;, &gamma;"
+        ],
+        "answer": "&alpha;, &beta;, &gamma;"
+    },
+    {
+        "question": "The Earth without rotational movement would result into<br/><ol><li>no sun-rise and sun-set.</li><li>no occurrence of day and night cycle.</li><li>only one season.</li></ol><br/>Select the correct answer using the code given below",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "When hard water is evaporated completely, the white solid remains in the container. It may be due to the presence of<br/><ol><li>Carbonates of Ca and Mg</li><li>Sulphates of Ca and Mg</li><li>Chlorides of Ca and Mg</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "3 only",
+            "1 and 3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which one among the following statements is correct ?",
+        "options": [
+            "Prokaryotic cells possess nucleus.",
+            "Cell membrane is present both in plant and animal cells.",
+            "Mitochondria and chloroplasts are not found in eukaryotic cells.",
+            "Ribosomes are present in eukaryotic cells only."
+        ],
+        "answer": "Cell membrane is present both in plant and animal cells."
+    },
+    {
+        "question": "A person standing 1 m in front of a plane mirror approaches the mirror by 40 cm. The new distance between the person and his image in the plane mirror is",
+        "options": [
+            "60 cm",
+            "1&middot;2 m",
+            "1&middot;4 m",
+            "2&middot;0 m"
+        ],
+        "answer": "1&middot;2 m"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Ocean current)</th><th>List II (Location in Map)</th></tr><tr><td>A. Guinea current</td><td>1. Location 1 (NW Africa coast)</td></tr><tr><td>B. Oyashio current</td><td>2. Location 2 (Gulf of Guinea)</td></tr><tr><td>C. Canaries current</td><td>3. Location 3 (North Pacific, Kamchatka coast)</td></tr><tr><td>D. Kuroshio current</td><td>4. Location 4 (East Asia, Japan coast)</td></tr></table><br/><img src='/images/cds2015ii_q10.png' alt='World Map with Ocean Currents'/><br/><br/>Code :",
+        "options": [
+            "A-4, B-3, C-1, D-2",
+            "A-2, B-3, C-1, D-4",
+            "A-2, B-1, C-3, D-4",
+            "A-4, B-1, C-3, D-2"
+        ],
+        "answer": "A-2, B-3, C-1, D-4"
+    },
+    {
+        "question": "Which one among the following compounds has same equivalent weight and molecular weight ?",
+        "options": [
+            "H<sub>2</sub>SO<sub>4</sub>",
+            "CaCl<sub>2</sub>",
+            "Na<sub>2</sub>SO<sub>4</sub>",
+            "NaCl"
+        ],
+        "answer": "NaCl"
+    },
+    {
+        "question": "Which one among the following statements is <i>not</i> true for Mammals ?",
+        "options": [
+            "They possess hair on the body.",
+            "Some of them lay eggs.",
+            "Their heart is three chambered.",
+            "Some are aquatic."
+        ],
+        "answer": "Their heart is three chambered."
+    },
+    {
+        "question": "Arrange the following layers of atmosphere vertically from the surface of the Earth :<br/><ol><li>Mesosphere</li><li>Troposphere</li><li>Stratosphere</li><li>Thermosphere</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1-2-3-4",
+            "2-1-3-4",
+            "2-3-1-4",
+            "3-4-2-1"
+        ],
+        "answer": "2-3-1-4"
+    },
+    {
+        "question": "A metallic plate sticks firmly on the mouth of a water vessel made from another metal. By way of heating, one can detach the plate from the vessel. This is because heat expands",
+        "options": [
+            "the vessel only",
+            "both the vessel and the plate equally",
+            "the vessel more than the plate",
+            "the vessel and contracts the plate"
+        ],
+        "answer": "the vessel more than the plate"
+    },
+    {
+        "question": "Electricity is produced through dry cell from",
+        "options": [
+            "chemical energy",
+            "thermal energy",
+            "mechanical energy",
+            "nuclear energy"
+        ],
+        "answer": "chemical energy"
+    },
+    {
+        "question": "In human digestive system, the process of digestion starts in",
+        "options": [
+            "Oesophagus",
+            "Buccal cavity",
+            "Duodenum",
+            "Stomach"
+        ],
+        "answer": "Buccal cavity"
+    },
+    {
+        "question": "Consider the contour plot given below :<br/><br/><img src='/images/cds2015ii_q17.png' alt='Contour plot'/><br/><br/>The above contours of an area indicate several relief features. Which one among the following relief features is <i>not</i> depicted here ?",
+        "options": [
+            "Steep slope",
+            "River valley",
+            "Conical hill",
+            "Gentle slope"
+        ],
+        "answer": "Conical hill"
+    },
+    {
+        "question": "Which one among the following fuels is used in gas welding ?",
+        "options": [
+            "LPG",
+            "Ethylene",
+            "Methane",
+            "Acetylene"
+        ],
+        "answer": "Acetylene"
+    },
+    {
+        "question": "In respect of the difference of the gravitational force from electric and magnetic forces, which one of the following statements is true ?",
+        "options": [
+            "Gravitational force is stronger than the other two.",
+            "Gravitational force is attractive only, whereas the electric and the magnetic forces are attractive as well as repulsive.",
+            "Gravitational force has a very short range.",
+            "Gravitational force is a long range force, while the other two are short range forces."
+        ],
+        "answer": "Gravitational force is attractive only, whereas the electric and the magnetic forces are attractive as well as repulsive."
+    },
+    {
+        "question": "Which one among the following is a micronutrient present in soil for various crops ?",
+        "options": [
+            "Calcium",
+            "Manganese",
+            "Magnesium",
+            "Potassium"
+        ],
+        "answer": "Manganese"
+    },
+    {
+        "question": "Arrange the following tributaries of river Indus from North to South :<br/><ol><li>Chenab</li><li>Jhelum</li><li>Ravi</li><li>Sutlej</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "4-3-1-2",
+            "2-3-1-4",
+            "1-2-3-4",
+            "2-1-3-4"
+        ],
+        "answer": "2-1-3-4"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Industry)</th><th>List II (Location)</th></tr><tr><td>A. Railway equipment</td><td>1. Kochi</td></tr><tr><td>B. Automobile</td><td>2. Ludhiana</td></tr><tr><td>C. Ship-building</td><td>3. Bhilai</td></tr><tr><td>D. Bicycle</td><td>4. Jabalpur</td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-4, C-1, D-2",
+            "A-3, B-1, C-4, D-2",
+            "A-2, B-1, C-4, D-3",
+            "A-2, B-4, C-1, D-3"
+        ],
+        "answer": "A-3, B-4, C-1, D-2"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Air Pollutant)</th><th>List II (Effect)</th></tr><tr><td>A. Chlorofluorocarbon</td><td>1. Acid rain</td></tr><tr><td>B. Sulphur dioxide</td><td>2. Depletion in ozone layer in the atmosphere</td></tr><tr><td>C. Lead compound</td><td>3. Harmful for human nervous system</td></tr><tr><td>D. Carbon dioxide</td><td>4. Topmost contribution to greenhouse effect</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-3, C-1, D-2",
+            "A-4, B-1, C-3, D-2",
+            "A-2, B-1, C-3, D-4",
+            "A-2, B-3, C-1, D-4"
+        ],
+        "answer": "A-2, B-1, C-3, D-4"
+    },
+    {
+        "question": "Creation of something from nothing is against the law of",
+        "options": [
+            "constant proportions",
+            "conservation of mass-energy",
+            "multiple proportions",
+            "conservation of momentum"
+        ],
+        "answer": "conservation of mass-energy"
+    },
+    {
+        "question": "Which one of the following diseases in humans can spread through air ?",
+        "options": [
+            "Dengue",
+            "Tuberculosis",
+            "HIV-AIDS",
+            "Goitre"
+        ],
+        "answer": "Tuberculosis"
+    },
+    {
+        "question": "Seismic gaps are",
+        "options": [
+            "parts of plate boundaries in oceans where tsunamis occur frequently.",
+            "sections of plate boundaries that have ruptured repeatedly in the recent past.",
+            "sections of plate boundaries that have not ruptured in the recent past.",
+            "plate boundaries having no volcanic activity."
+        ],
+        "answer": "sections of plate boundaries that have not ruptured in the recent past."
+    },
+    {
+        "question": "In the absence of Cold Labrador Current, which one among the following would happen ?",
+        "options": [
+            "There will be no North-East Atlantic fishing grounds",
+            "There will be no North-West Atlantic fishing grounds",
+            "There will be no fishing ground in the North Atlantic Ocean",
+            "Semi-arid condition of the Atlantic coast of the USA and Canada would prevail"
+        ],
+        "answer": "There will be no North-West Atlantic fishing grounds"
+    },
+    {
+        "question": "An electron and a proton are circulating with same speed in circular paths of equal radius. Which one among the following will happen, if the mass of a proton is about 2,000 times that of an electron ?",
+        "options": [
+            "The centripetal force required by the electron is about 2,000 times more than that required by the proton",
+            "The centripetal force required by the proton is about 2,000 times more than that required by the electron",
+            "No centripetal force is required for any charged particle",
+            "Equal centripetal force acts on both the particles as they rotate in the same circular path"
+        ],
+        "answer": "The centripetal force required by the proton is about 2,000 times more than that required by the electron"
+    },
+    {
+        "question": "Which one among the following metals is prominently used in mobile phone batteries ?",
+        "options": [
+            "Copper",
+            "Zinc",
+            "Nickel",
+            "Lithium"
+        ],
+        "answer": "Lithium"
+    },
+    {
+        "question": "Which one of the following is the most appropriate and correct practice from the point of view of a healthy environment ?",
+        "options": [
+            "Burning of plastic wastes to keep the environment clean",
+            "Burning of dry and fallen leaves in a garden or field",
+            "Treatment of domestic sewage before its release",
+            "Use of chemical fertilizers in agricultural fields"
+        ],
+        "answer": "Treatment of domestic sewage before its release"
+    }
+,
+
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Type of Grass)</th><th>List II (Country)</th></tr><tr><td>A. Llanos</td><td>1. Australia</td></tr><tr><td>B. Prairies</td><td>2. Venezuela</td></tr><tr><td>C. Pampas</td><td>3. USA</td></tr><tr><td>D. Downs</td><td>4. Argentina</td></tr></table><br/>Code :",
+        "options": [
+            "A-1, B-4, C-3, D-2",
+            "A-1, B-3, C-4, D-2",
+            "A-2, B-4, C-3, D-1",
+            "A-2, B-3, C-4, D-1"
+        ],
+        "answer": "A-2, B-3, C-4, D-1"
+    },
+    {
+        "question": "Who among the following proposed that atom is indivisible ?",
+        "options": [
+            "Dalton",
+            "Berzelius",
+            "Rutherford",
+            "Avogadro"
+        ],
+        "answer": "Dalton"
+    },
+    {
+        "question": "Tank irrigation is commonly found in South-Central parts of India. What could be the reason ?<br/><ol><li>Insufficient shallow ground water</li><li>Rocky plateau with impervious surface depression</li><li>Undulating terrain helps in accumulation of rain water in depression or man-made tank</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following is/are the reason(s) behind Gujarat being the leading producer of Salt in India ?<br/><ol><li>The long length of coastline</li><li>Long duration of hot and dry conditions</li><li>Presence of gulf areas</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "2 only",
+            "1, 2 and 3",
+            "1 and 3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "An object is raised to a height of 3 m from the ground. It is then allowed to fall on to a table 1 m high from ground level. In this context, which one among the following statements is correct ?",
+        "options": [
+            "Its potential energy decreases by two-thirds its original value of total energy.",
+            "Its potential energy decreases by one-third its original value of total energy.",
+            "Its kinetic energy increases by two-thirds, while potential energy increases by one-third.",
+            "Its kinetic energy increases by one-third, while potential energy decreases by one-third."
+        ],
+        "answer": "Its potential energy decreases by two-thirds its original value of total energy."
+    },
+    {
+        "question": "Ozone layer of the Earth's atmosphere is important for living organisms because it",
+        "options": [
+            "prevents entry of ultra-violet rays",
+            "prevents entry of X-rays",
+            "maintains level of oxygen on Earth",
+            "prevents acid rain on Earth"
+        ],
+        "answer": "prevents entry of ultra-violet rays"
+    },
+    {
+        "question": "If 82&deg; 30' east longitude (Allahabad) shows 6 : 00 am of Sunday (local time), what would be the local time of Florida (USA) located on 82&deg; west longitude ?",
+        "options": [
+            "6 : 58 pm of Saturday",
+            "7 : 02 pm of Sunday",
+            "6 : 58 am of Sunday",
+            "7 : 02 pm of Saturday"
+        ],
+        "answer": "7 : 02 pm of Saturday"
+    },
+    {
+        "question": "Consider the following statements with regard to cold waves in winter season in northern India :<br/><ol><li>There is lack of maritime influence.</li><li>Northern India is nearer to the Himalayan region.</li><li>Air mass comes from polar regions to northern India.</li></ol><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 and 3",
+            "1 and 3",
+            "1 and 2"
+        ],
+        "answer": "1 and 2"
+    },
+    {
+        "question": "Which one among the following processes is <i>not</i> part of a chemical weathering ?",
+        "options": [
+            "Hydration",
+            "Exfoliation",
+            "Oxidation",
+            "Solution"
+        ],
+        "answer": "Exfoliation"
+    },
+    {
+        "question": "Two pieces of conductor of same material and of equal length are connected in series with a cell. One of the two pieces has cross-sectional area double that of the other. Which one of the following statements is correct in this regard ?",
+        "options": [
+            "The thicker one will allow stronger current to pass through it.",
+            "The thinner one would allow stronger current to pass through it.",
+            "Same amount of electric current would pass through both the pieces producing more heat in the thicker one.",
+            "Same amount of electric current would pass through both the pieces producing more heat in the thinner one."
+        ],
+        "answer": "Same amount of electric current would pass through both the pieces producing more heat in the thinner one."
+    },
+    {
+        "question": "How many elements are there in the 5<sup>th</sup> period of modern periodic table ?",
+        "options": [
+            "2",
+            "8",
+            "18",
+            "36"
+        ],
+        "answer": "18"
+    },
+    {
+        "question": "Which one of the following statements regarding water cycle is correct ?",
+        "options": [
+            "Transpiration by plants does not contribute to cloud formation.",
+            "Only evaporation of surface water of rivers and oceans is responsible for cloud formation.",
+            "Rainfall does not contribute in maintenance of underground water table.",
+            "Underground water may also be connected to surface water."
+        ],
+        "answer": "Underground water may also be connected to surface water."
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Ocean current)</th><th>List II (Coast)</th></tr><tr><td>A. Humboldt</td><td>1. Namibia - Angola</td></tr><tr><td>B. North Atlantic Drift</td><td>2. Chile - Peru</td></tr><tr><td>C. Benguela</td><td>3. Mozambique - Madagascar</td></tr><tr><td>D. Agulhas</td><td>4. United Kingdom - Norway</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-1, C-4, D-3",
+            "A-2, B-4, C-1, D-3",
+            "A-3, B-4, C-1, D-2",
+            "A-3, B-1, C-4, D-2"
+        ],
+        "answer": "A-2, B-4, C-1, D-3"
+    },
+    {
+        "question": "The horizontal wind circulation near the Earth's surface is due to the<br/><ol><li>pressure gradient.</li><li>frictional force.</li><li>coriolis force.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "A wire-bound standard resistor uses manganin or constantan. It is because",
+        "options": [
+            "these alloys are cheap and easily available",
+            "they have high resistivity",
+            "they have low resistivity",
+            "they have resistivity which almost remains unchanged with temperature"
+        ],
+        "answer": "they have resistivity which almost remains unchanged with temperature"
+    },
+    {
+        "question": "Which one among the following is used in making lead pencils ?",
+        "options": [
+            "Charcoal",
+            "Graphite",
+            "Coke",
+            "Carbon black"
+        ],
+        "answer": "Graphite"
+    },
+    {
+        "question": "Which one among the following structures or cells is <i>not</i> present in connective tissues ?",
+        "options": [
+            "Chondrocytes",
+            "Axon",
+            "Collagen fibre",
+            "Lymphocytes"
+        ],
+        "answer": "Axon"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Sanctuary)</th><th>List II (State)</th></tr><tr><td>A. Sharavati Valley</td><td>1. Gujarat</td></tr><tr><td>B. Satkosia Gorge</td><td>2. Goa</td></tr><tr><td>C. Pirotan Island</td><td>3. Odisha</td></tr><tr><td>D. Bhagwan Mahavir</td><td>4. Karnataka</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-1, C-3, D-4",
+            "A-4, B-1, C-3, D-2",
+            "A-4, B-3, C-1, D-2",
+            "A-2, B-3, C-1, D-4"
+        ],
+        "answer": "A-4, B-3, C-1, D-2"
+    },
+    {
+        "question": "Sodium metal should be stored in",
+        "options": [
+            "Alcohol",
+            "Kerosene oil",
+            "Water",
+            "Hydrochloric acid"
+        ],
+        "answer": "Kerosene oil"
+    },
+    {
+        "question": "The word 'vaccination' has been derived from a Latin word which relates to",
+        "options": [
+            "Pig",
+            "Horse",
+            "Cow",
+            "Dog"
+        ],
+        "answer": "Cow"
+    },
+    {
+        "question": "Which of the following characteristic(s) describes the nature of religion according to the Rig Veda ?<br/><ol><li>Rig Vedic religion can be described as naturalistic polytheism.</li><li>There are striking similarities between the Rig Vedic religion and the ideas in the Iranian Avesta.</li><li>Vedic sacrifices were conducted in the house of the priest who was called <i>yajaman</i>.</li><li>Vedic sacrifices were of two kinds &mdash; those conducted by the householder and those that required ritual specialists.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "3 only",
+            "1 and 2 only",
+            "1, 2, 3 and 4",
+            "1, 2 and 4 only"
+        ],
+        "answer": "1, 2 and 4 only"
+    },
+    {
+        "question": "Which of the following statement(s) about caste movements in early 20<sup>th</sup> century Kerala is/are <i>false</i> ?<br/><ol><li>Kerala's first modern novel <i>Indulekha</i> attacked the social dominance of Nambudiri Brahmans in Kerala.</li><li>C.V. Raman Pillai's novel <i>Marthanda Varma</i> was written against the exploitation of peasants by Nair landlords.</li><li>Sree Narayana Guru was one of the founders of the Sree Narayana Dharma Paripalana Yogam that was engaged in the upliftment of the Ezhavas in Kerala.</li><li>Dr. Palpu, the first Ezhava graduate, was one of the founders of the Sree Narayana Dharma Paripalana Yogam that was engaged in the upliftment of the Ezhavas in Kerala.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "1 and 3",
+            "2 only",
+            "2 and 4"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "In which of the following cases did the Supreme Court rule that Constitutional Amendments were also laws under Article 13 of the Constitution of India, which could be declared void for being inconsistent with Fundamental Rights ?",
+        "options": [
+            "Keshavanand Bharati Case",
+            "Golaknath Case",
+            "Minerva Mills Case",
+            "Maneka Gandhi Case"
+        ],
+        "answer": "Golaknath Case"
+    },
+    {
+        "question": "Which of the following statement(s) is/are <i>not</i> correct for the Ninth Schedule of the Constitution of India ?<br/><ol><li>It was inserted by the first amendment in 1951.</li><li>It includes those laws which are beyond the purview of judicial review.</li><li>It was inserted by the 42<sup>nd</sup> Amendment.</li><li>The laws in the Ninth Schedule are primarily those which pertain to the matters of national security.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "3 and 4",
+            "3 only"
+        ],
+        "answer": "3 and 4"
+    },
+    {
+        "question": "Which one among the following was the theme of the International Day of the Preservation of the Ozone Layer-2014 ?",
+        "options": [
+            "Ozone Day &ndash; A healthy atmosphere, the future we want",
+            "Protecting our atmosphere for generations to come",
+            "HCFC phase out : a unique opportunity",
+            "Ozone Layer Protection : The Mission Goes On"
+        ],
+        "answer": "Ozone Layer Protection : The Mission Goes On"
+    },
+    {
+        "question": "Which one of the following categories of persons is <i>not</i> treated at par so far as the availability of Fundamental Rights is concerned ?",
+        "options": [
+            "Members of the armed forces",
+            "Members of the forces charged with the responsibility of maintenance of public order",
+            "Members of the forces employed in connection with the communication systems set up in the country",
+            "Members of the forces employed in connection with the communication systems set up for maintenance of public order"
+        ],
+        "answer": "Members of the forces employed in connection with the communication systems set up in the country"
+    },
+    {
+        "question": "Notification regarding commencement or cessation of a state of war is the responsibility of",
+        "options": [
+            "Ministry of Home Affairs",
+            "Ministry of Defence",
+            "Ministry of External Affairs",
+            "None of the above"
+        ],
+        "answer": "Ministry of External Affairs"
+    },
+    {
+        "question": "Which of the following statements about Mahatma Gandhi's South African experiences (1893 &ndash; 1914) is/are true ?<br/><ol><li>Muslim merchants were actively involved in Gandhian political movements in South Africa.</li><li>In 1906, Gandhi led a campaign in Cape Town against the ordinance on compulsory registration and passes for Indians.</li><li>Gandhi began his political career with struggles against the imposition of excessive taxes on Indians in Cape Town.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "3 only",
+            "1, 2 and 3",
+            "1 only"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which of the following sets of newspapers reflected the concerns of educated Indian Muslims during the Khilafat Movement ?",
+        "options": [
+            "Comrade and Hamdard",
+            "Comrade and Hindustan Times",
+            "Zamindar and Muslim Voice",
+            "Comrade, Hamdard, Zamindar and Al Hilal"
+        ],
+        "answer": "Comrade, Hamdard, Zamindar and Al Hilal"
+    },
+    {
+        "question": "Which of the following statements is/are correct ?<br/><ol><li>The Marxist theory repudiates the idea of the atomised and alienated individual.</li><li>Marxism upholds the idea of the natural rights of men and individuals.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    }
+
+    ,
+
+    {
+        "question": "Which one among the following was <i>not</i> an outcome of the fifth BRICS summit held in Durban in South Africa in March 2013 ?",
+        "options": [
+            "Signing of two agreements on Extending Credit Facility in Local Currencies and BRICS Multilateral Letter of Credit Confirmation Facility",
+            "Proclamation of establishment of BRICS-led New Development Bank",
+            "Creation of a safety net through a Contingent Reserve Arrangement (CRA) among BRICS countries",
+            "Setting up of BRICS Business Council and BRICS Think Tank Council"
+        ],
+        "answer": "Signing of two agreements on Extending Credit Facility in Local Currencies and BRICS Multilateral Letter of Credit Confirmation Facility"
+    },
+    {
+        "question": "Seeking to revive historic ties, the Indian Air Force has gifted a vintage Dakota Aircraft from its museum to (September 2014)",
+        "options": [
+            "the Pakistan Air Force",
+            "the Bangladesh Air Force",
+            "the Chinese Air Force",
+            "the Sri Lankan Air Force"
+        ],
+        "answer": "the Bangladesh Air Force"
+    },
+    {
+        "question": "Which one of the following statements is <i>incorrect</i> ?",
+        "options": [
+            "The Armed Forces Tribunal has the power to adjudicate disputes relating to conditions of service of persons subject to the Army Act, 1950.",
+            "Findings and sentences of court martial can be challenged before the Armed Forces Tribunal.",
+            "The Chairperson and members of the Armed Forces Tribunal shall be appointed only after consultation with the Chief Justice of India.",
+            "The Chairperson and members of the Armed Forces Tribunal can be removed only after consultation with the Chief Justice of India."
+        ],
+        "answer": "The Chairperson and members of the Armed Forces Tribunal can be removed only after consultation with the Chief Justice of India."
+    },
+    {
+        "question": "In recent plans, certain words/phrases were used in the title of the plan along with 'growth'. They are<br/><ol><li>Inclusive</li><li>Faster</li><li>More inclusive</li><li>Sustainable</li><li>More sustainable</li></ol><br/>Which combination is true of the Twelfth Five Year Plan (2012 &ndash; 17) ?",
+        "options": [
+            "1, 2 and 3",
+            "1, 4 and 5",
+            "2, 3 and 4",
+            "1, 2 and 4"
+        ],
+        "answer": "2, 3 and 4"
+    },
+    {
+        "question": "Which of the following statements about the social reformer, Raja Rammohun Roy, is <i>false</i> ?",
+        "options": [
+            "Rammohun Roy belonged to the gentry class whose power had been diminished because of the imposition of the Permanent Settlement.",
+            "He studied both Vedantic Monism and Christian Unitarianism.",
+            "He translated the Upanishads into Bengali.",
+            "His first organization was the Atmiya Sabha, founded in Calcutta in 1815."
+        ],
+        "answer": "Rammohun Roy belonged to the gentry class whose power had been diminished because of the imposition of the Permanent Settlement."
+    },
+    {
+        "question": "Which of the following characteristics about the state of Travancore in 18<sup>th</sup> century Kerala is/are correct ?<br/><ol><li>Travancore was ruled by Marthanda Varma from 1729 to 1758.</li><li>Travancore built a strong army and defeated the Dutch in 1741.</li><li>Travancore was an important centre of learning.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "2 only",
+            "1, 2 and 3",
+            "1 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "A Parliamentry Democracy is one where<br/><ol><li>a balance of popular participation and elite rule takes place.</li><li>the government is responsible not to the public but to the elected representatives.</li><li>the parliamentarians are delegated the responsibility of thinking and acting on behalf of their constituents.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 and 3 only",
+            "2 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following is <i>not</i> a central tenet of Socialism ?",
+        "options": [
+            "Historical Materialism",
+            "Dialectical Materialism",
+            "Alienation and Class Struggle",
+            "Individual Freedom"
+        ],
+        "answer": "Individual Freedom"
+    },
+    {
+        "question": "'And Then One Day : A Memoir' is an autobiography of",
+        "options": [
+            "Kamal Hasan",
+            "Shahrukh Khan",
+            "Naseeruddin Shah",
+            "Karan Johar"
+        ],
+        "answer": "Naseeruddin Shah"
+    },
+    {
+        "question": "Inclusion strategy does <i>not</i> focus on",
+        "options": [
+            "reduction of inequality",
+            "reduction of poverty",
+            "diversifying livelihood for tribal population",
+            "getting poorer countries closer"
+        ],
+        "answer": "getting poorer countries closer"
+    },
+    {
+        "question": "When martial law is imposed, Parliament <b>cannot</b> make law in respect of which one of the following matters ?",
+        "options": [
+            "Indemnify any person in respect of any act done by him in connection with the maintenance of order in the area where martial law was in force",
+            "Parliament can by law validate any sentence passed when martial law was in force in the area",
+            "A law of Parliament can validate forfeiture ordered when martial law was in force in the area",
+            "Any act done under martial law can be validated by Parliament by law"
+        ],
+        "answer": "Any act done under martial law can be validated by Parliament by law"
+    },
+    {
+        "question": "<i>Upari</i> refers to which one of the following ?",
+        "options": [
+            "A form of Marathi poetry that emerged during the Maratha period",
+            "A category of tenancy tenure held under the Maratha regime",
+            "A court official during Maratha rule",
+            "A group of peasants who rebelled against their oppressive landlords under Maratha rule"
+        ],
+        "answer": "A category of tenancy tenure held under the Maratha regime"
+    },
+    {
+        "question": "Which of the following is/are the characteristic(s) of the <i>Sannyasi and Fakir</i> uprisings ?<br/><ol><li>These uprisings refer to a series of skirmishes between the English East India Company and a group of sannyasis and fakirs.</li><li>One reason for the uprising was the ban on free movement of the sannyasis along pilgrimage routes.</li><li>In the course of the uprisings in 1773, Warren Hastings issued a proclamation banishing all sannyasis from Bengal and Bihar.</li><li>Are contemporaneous with the Non-Cooperation Movement.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "1 and 3 only",
+            "1, 2 and 3",
+            "2 and 4 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which among the following features of a federal system is <i>not</i> found in the Indian Political System ?",
+        "options": [
+            "Dual citizenship",
+            "Distribution of powers between the Federal and the State Governments",
+            "Supremacy of the Constitution",
+            "Authority of the Courts to interpret the Constitution"
+        ],
+        "answer": "Dual citizenship"
+    },
+    {
+        "question": "Which of the following is <i>not</i> true of Article 32 of the Indian Constitution ?",
+        "options": [
+            "It gives the Supreme Court and the High Courts the power to issue writs for the enforcement of Fundamental Rights.",
+            "It is included in Part III of the Indian Constitution and is therefore itself a Fundamental Right.",
+            "Dr. Ambedkar called it the 'very soul of the Indian Constitution'.",
+            "An aggrieved person has no right to complain under Article 32 where a Fundamental Right has not been violated."
+        ],
+        "answer": "It gives the Supreme Court and the High Courts the power to issue writs for the enforcement of Fundamental Rights."
+    },
+    {
+        "question": "Which of the following statements is/are correct ?<br/><ol><li>Professor Kamal Bawa was conferred with the Midori Prize (2014) for biodiversity for his research on climate change in the Himalayas.</li><li>Midori Prize is an annual international prize given to an individual for outstanding contribution to the conservation and sustainable use of biodiversity at global, regional or local levels.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct ?",
+        "options": [
+            "The Central Government is empowered to issue a notification to specify any service in a State as a service of vital importance to the community.",
+            "Such a notification remains valid for six months.",
+            "Every command given by a superior officer casts a duty on all persons subject to the Army Act, 1950, the Air Force Act, 1950 or the Navy Act, 1957 to obey the command when such a notification is in force.",
+            "The provisions of the Armed Forces (Emergency Duties) Act, 1947 are applicable in connection with vital services imposed in an emergency on the armed forces."
+        ],
+        "answer": "Such a notification remains valid for six months."
+    },
+    {
+        "question": "The Central Industrial Security Force is under the administrative control of which of the following ministries ?",
+        "options": [
+            "Ministry of Heavy Industries and Public Enterprises",
+            "Headquarters of the Integrated Joint Staff",
+            "Ministry of Home Affairs",
+            "PMO"
+        ],
+        "answer": "Ministry of Home Affairs"
+    },
+    {
+        "question": "Which of the following features of the State of Arcot in 18<sup>th</sup> century South India are correct ?<br/><ol><li>The founders of the dynasty that ruled Arcot were Daud Khan Panni and Sa'adatullah Khan.</li><li>Arcot became the site of a protracted struggle between the English and Dutch East India Companies from the 1740s.</li><li>Decentralization was a key feature of the State of Arcot in the 18<sup>th</sup> century.</li><li>The other major State to emerge in South India at this time was Mysore.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 4",
+            "3 and 4 only",
+            "2 and 4 only"
+        ],
+        "answer": "1, 2 and 4"
+    },
+    {
+        "question": "Which of the following statements about the musical culture in 18<sup>th</sup> and 19<sup>th</sup> century North India is/are <i>not</i> correct :<br/><ol><li>The period was marked by the growing eminence of Sadarang Neamat Khan who introduced the <i>khayal</i> form.</li><li>A large number of musicians moved out of regional centres to Delhi where they hoped they would receive more employment and patronage.</li><li>The period was marked by the formation of specific region based <i>gharanas</i>.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "1, 2 and 3",
+            "2 only",
+            "2 and 3 only"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Which of the following is/are <i>not</i> the characteristic(s) of the First Past The Post System (FPTP) ?<br/><ol><li>It is a majoritarian system where minorities are likely to remain unrepresented.</li><li>A candidate may win an election even if he/she gets less than the majority of the votes cast.</li><li>It generates proportionality between the votes cast and the seats won.</li><li>It always leads to a two party system and a stable and accountable government.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "3 and 4",
+            "1 and 2",
+            "2 and 3",
+            "4 only"
+        ],
+        "answer": "3 and 4"
+    },
+    {
+        "question": "Which of the following statements is/are <i>not</i> true for the category of the Overseas Citizens of India (OCI) inserted by the amendment to the Citizenship Act of India in 2003 ?<br/><ol><li>It gives dual citizenship to Persons of Indian Origin (PIO) who are citizens of another country.</li><li>It gives Persons of Indian Origin (PIO) who are citizens of another country, an OCI card without citizenship.</li><li>It permits the OCI to vote in general elections in India.</li><li>It allows the OCI to travel to India without visa.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2",
+            "1 and 3",
+            "3 only",
+            "2 and 4"
+        ],
+        "answer": "1 and 3"
+    },
+    {
+        "question": "Which of the following is/are the objective(s) of National AYUSH Mission, approved by the Union Cabinet recently ?<br/><ol><li>Improvement of AYUSH education through enhancement in the number of upgraded educational institutions.</li><li>Better access to AYUSH services through increase in the AYUSH hospitals and dispensaries, availability of drugs and manpower.</li><li>Providing sustained availability of quality raw material for AYUSH system of medicine.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 only",
+            "1 and 2 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following statement(s) with regard to the Armed Forces (Special Powers) Act, 1958 is/are correct ?<br/><ol><li>The Act is applicable only to the States of Manipur, Tripura and Nagaland.</li><li>A person taken into custody under the above Act must be handed over to the officer-in-charge of the nearest police station with least possible delay.</li><li>An area can be declared as a disturbed area under the above Act only when the State Government is of the opinion that the use of the armed forces in aid of civil power is necessary to contain a dangerous condition in the concerned area.</li></ol><br/>Select the correct answer by using the code given below :",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2 only",
+            "3 only",
+            "2 only"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Indian Coast Guard is",
+        "options": [
+            "a branch of the Indian Navy",
+            "an organization under the Central Board of Excise and Customs",
+            "an organization under the Ministry of Defence",
+            "a para-military force under the Ministry of Home Affairs"
+        ],
+        "answer": "an organization under the Ministry of Defence"
+    }
+
+    ,
+
+    {
+        "question": "Which of the following statements about the musical culture in 18<sup>th</sup> and 19<sup>th</sup> century South India is/are correct ?<br/><ol><li>Musical developments were spearheaded by the Arcot court.</li><li>Tanjavur replaced Madras as the cultural capital of classical music in the second half of the nineteenth century.</li><li>Three great composers, Tyagaraja, Diksitar and Syama Sastri experimented with the <i>kriti</i> form to set the foundations for modern Carnatic music.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 3 only",
+            "2 only",
+            "3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "3 only"
+    },
+    {
+        "question": "Which of the following statements about visual culture in 18<sup>th</sup> and early 19<sup>th</sup> century North India is/are correct ?<br/><ol><li>Painters from Patna and Murshidabad flocked to Calcutta and produced water colours in the English mode.</li><li>Landscape and portraiture became extremely important at this time.</li><li>The artists Zayan-al-Din, Bhawani Das and Ram Das were adopted by the English East India Company to produce albums of Indian birds and animals.</li><li>While Indians were influenced by European artistic styles, European artists did not visit regional courts.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1, 3 and 4",
+            "4 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "The power to decide the date of an election to a State Legislative Assembly rests with the",
+        "options": [
+            "President of India",
+            "Chief Minister and his/her Cabinet",
+            "Election Commission of India",
+            "Parliament"
+        ],
+        "answer": "Election Commission of India"
+    },
+    {
+        "question": "Which among the following is <i>not</i> an aspect of Gender Mainstreaming (GM) ?",
+        "options": [
+            "GM was established as a global strategy for achieving gender equality by the United Nations.",
+            "It was adopted in 1995 in the Beijing Platform of Action.",
+            "It requires a review of government policy in all sectors for eliminating gender disparity.",
+            "GM was followed by the Convention on the Elimination of all forms of Discrimination Against Women (CEDAW)."
+        ],
+        "answer": "GM was followed by the Convention on the Elimination of all forms of Discrimination Against Women (CEDAW)."
+    },
+    {
+        "question": "The 3<sup>rd</sup> Meeting of the SAARC Culture Ministers, convened in New Delhi on September 25, 2014, unanimously resolved<br/><ol><li>to declare 2015 &ndash; 16 as the SAARC Year of Cultural Heritage.</li><li>that Bamiyan will be the SAARC cultural capital for 2015 &ndash; 16.</li><li>to promote SAARC culture online by launching a dedicated SAARC website on culture, with emphasis on digitization of rare manuscripts, rare books and other articles of intangible cultural value.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3",
+            "1 and 3 only",
+            "2 and 3 only",
+            "2 only"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "Information under the RTI Act, 2005 can be provided in respect of",
+        "options": [
+            "National Security Council Secretariat",
+            "Assam Rifles",
+            "Border Road Development Board",
+            "Border Road Organisation"
+        ],
+        "answer": "Border Road Organisation"
+    },
+    {
+        "question": "Who acts as the chairman of the Chiefs of Staff Committee ?",
+        "options": [
+            "The President of India in his capacity as the commander-in-chief",
+            "The Prime Minister",
+            "The Defence Minister",
+            "The senior-most Chief of Staff"
+        ],
+        "answer": "The senior-most Chief of Staff"
+    },
+    {
+        "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Editor)</th><th>List II (Journal/Newspaper)</th></tr><tr><td>A. S.A. Dange</td><td>1. Labour-Kisan Gazette</td></tr><tr><td>B. Muzaffar Ahmed</td><td>2. Inquilab</td></tr><tr><td>C. Ghulam Hussain</td><td>3. Navayug</td></tr><tr><td>D. M. Singaravelu</td><td>4. The Socialist</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-3, C-2, D-1",
+            "A-4, B-2, C-3, D-1",
+            "A-1, B-2, C-3, D-4",
+            "A-1, B-3, C-2, D-4"
+        ],
+        "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+        "question": "Which of the following was/were connected primarily to the communist ideology ?<br/><ol><li>Kirti Kisan Party</li><li>Labour Swaraj Party</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which of the following statements is <i>not</i> true ?",
+        "options": [
+            "The General Agreement on Tariffs and Trade (GATT) had regulated global trade since 1947.",
+            "GATT was replaced by the World Trade Organisation (WTO) in 1995.",
+            "The Most Favoured Nation principle under GATT provided that preferential trading agreements reached with one country should be extended to other countries.",
+            "The WTO has been able to cover in its agreements the agriculture and textile sectors which are the principal concerns for the Least Developed Countries (LDCs)."
+        ],
+        "answer": "The Most Favoured Nation principle under GATT provided that preferential trading agreements reached with one country should be extended to other countries."
+    },
+    {
+        "question": "Which of the following is <i>not</i> a part of contemporary Indian foreign policy in relationships with its neighbours ?",
+        "options": [
+            "Look East policy for linking up with South-East Asia via Myanmar",
+            "Panchsheel",
+            "Non-alignment",
+            "SAARC"
+        ],
+        "answer": "Panchsheel"
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>The Nirmal Bharat Abhiyan is restructured into the Swachh Bharat Mission.</li><li>The Swachh Bharat Mission has two sub-Missions &ndash; Union Territories and States.</li></ol><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which one of the following statements is correct ?",
+        "options": [
+            "The President cannot pardon a person sentenced by a Court Martial.",
+            "The supreme command of the defence forces of the Union vests in the President, but its exercise has to be regulated by law.",
+            "A person awarded rigorous imprisonment cannot be compelled to do hard work as this would amount to violation of Article 23 of the Constitution of India.",
+            "The Armed Forces Tribunal Act, 2007 excludes the powers of the High Courts under Article 226 of the Constitution of India in relation to service matters of persons in the armed forces."
+        ],
+        "answer": "The supreme command of the defence forces of the Union vests in the President, but its exercise has to be regulated by law."
+    },
+    {
+        "question": "Demand for a commodity refers to",
+        "options": [
+            "Desire for that commodity",
+            "Need for that commodity",
+            "Quantity demanded of that commodity",
+            "Quantity demanded at certain price during any particular period of time"
+        ],
+        "answer": "Quantity demanded at certain price during any particular period of time"
+    },
+    {
+        "question": "The interest of the British Government of India in Afghanistan in the nineteenth century came about in order to",
+        "options": [
+            "make use of the natural resources of Afghanistan.",
+            "ensure that the Russian empire did not have an influence over Afghanistan.",
+            "increase the reach of the British Empire.",
+            "establish a monopoly over the markets of Afghanistan."
+        ],
+        "answer": "ensure that the Russian empire did not have an influence over Afghanistan."
+    },
+    {
+        "question": "What was the common element among (i) G.D. Birla (ii) Ambalal Sarabhai and (iii) Walchand Hirachand ?",
+        "options": [
+            "They were leading members of the socialist movement in India",
+            "They were Indian industrialists",
+            "They were nationalist leaders",
+            "All of the above"
+        ],
+        "answer": "They were Indian industrialists"
+    },
+    {
+        "question": "Which of the following is <i>not</i> true for SAFTA (South Asian Free Trade Area) ?",
+        "options": [
+            "It is a step towards a South Asian customs union and common market.",
+            "The agreement came into effect in 2006.",
+            "The SAFTA is a trade liberalisation regime.",
+            "The SAFTA agreement takes precedence over any other agreement a member country may have with states outside SAFTA."
+        ],
+        "answer": "The SAFTA agreement takes precedence over any other agreement a member country may have with states outside SAFTA."
+    },
+    {
+        "question": "Which of the following is <i>not</i> a laid down principle of the Panchsheel ?",
+        "options": [
+            "Mutual respect for each other's territorial integrity",
+            "Mutual non-aggression",
+            "Mutual support for each other in world forum",
+            "Mutual non-interference in each other's internal affairs"
+        ],
+        "answer": "Mutual support for each other in world forum"
+    },
+    {
+        "question": "Which of the following statements is/are correct ?<br/><ol><li>'Yudh Abhyas 2014' was an India - USA military exercise.</li><li>'Yudh Abhyas 2014' was conducted in Himachal Pradesh.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "An exceptional demand curve is one that slopes",
+        "options": [
+            "downward to the right",
+            "upward to the right",
+            "horizontally",
+            "upward to the left"
+        ],
+        "answer": "upward to the right"
+    },
+    {
+        "question": "What was the claim to fame of Dr. Dwarka Nath Kotnis ?",
+        "options": [
+            "He provided succour to the poor",
+            "He set up hospitals in the difficult to reach regions of India",
+            "He was a leading Indian nationalist",
+            "He laid down his life providing medical help to the Eighth Route Army"
+        ],
+        "answer": "He laid down his life providing medical help to the Eighth Route Army"
+    },
+    {
+        "question": "Which of the following is <i>not</i> true about the Convention on the Elimination of all forms of Discrimination Against Women (CEDAW) ?",
+        "options": [
+            "It defines what constitutes discrimination aganist women and sets up an agenda for national action",
+            "It was adopted in 1979 by the United Nations",
+            "It commits States to undertake measures to end discrimination in their legal system",
+            "India is not a ratifying country and is therefore not legally bound to put its provisions into practice"
+        ],
+        "answer": "India is not a ratifying country and is therefore not legally bound to put its provisions into practice"
+    },
+    {
+        "question": "Consider the following statements with regard to the First Renewable Energy Global Investors Meet and Expo (2015) :<br/><ol><li>This is a follow-up to the 'Make in India' initiative.</li><li>The central theme of the meet is to attract large scale investments in the renewable energy sector in India.</li></ol><br/>Which of the statements given above is/are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "When two goods are completely interchangeable, they are",
+        "options": [
+            "Perfect substitutes",
+            "Perfect complements",
+            "Giffen goods",
+            "Veblen goods"
+        ],
+        "answer": "Perfect substitutes"
+    },
+    {
+        "question": "Which would be the most appropriate description concerning the Punjab Naujawan Bharat Sabha ?<br/><br/>It aspired to",
+        "options": [
+            "do political work among youth, peasants and workers.",
+            "spread the philosophy of revolution among students.",
+            "initiate discussions regarding anti-imperialism among workers.",
+            "help the formation of a Trade Union Movement in Punjab."
+        ],
+        "answer": "do political work among youth, peasants and workers."
+    },
+    {
+        "question": "The Sixth Schedule of the Indian Constitution contains provisions for the administration of Tribal areas. Which of the following States is <i>not</i> covered under this Schedule ?",
+        "options": [
+            "Assam",
+            "Manipur",
+            "Meghalaya",
+            "Tripura"
+        ],
+        "answer": "Manipur"
+    },
+    {
+        "question": "Which of the following statements is/are correct with regard to the Living Planet Report - 2014 (Species and Spaces, People and Places) released by World Wildlife Fund (WWF) ?<br/><ol><li>The Living Planet Index (LPI), which measures more than 10,000 representative populations of mammals, birds, reptiles, amphibians and fish, has declined by 52% since 1970.</li><li>The most dramatic regional LPI decrease occurred in Africa.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Rise in the price of a commodity means",
+        "options": [
+            "rise in the value of currency only",
+            "fall in the value of currency only",
+            "rise in the value of commodity only",
+            "fall in the value of currency and rise in the value of commodity"
+        ],
+        "answer": "fall in the value of currency and rise in the value of commodity"
+    },
+    {
+        "question": "The Tungbhadra river provided sustenance to which empire ?",
+        "options": [
+            "Chola",
+            "Vijayanagara",
+            "Vakataka",
+            "Pandya"
+        ],
+        "answer": "Vijayanagara"
+    }
+
+    ,
+
+    {
+        "question": "Which empire did Niccolo de Conti, Abdur Razzaq, Afanasy Nikitin and Fernao Nuniz visit ?",
+        "options": [
+            "The empire of Kannauj",
+            "Vijayanagara empire",
+            "Hoysala empire",
+            "Rashtrakuta empire"
+        ],
+        "answer": "Vijayanagara empire"
+    },
+    {
+        "question": "The Supreme Court guidelines issued in the Vishaka Case pertain to",
+        "options": [
+            "domestic violence",
+            "rape and sexual violence",
+            "sexual harassment at the work place",
+            "trafficking in women"
+        ],
+        "answer": "sexual harassment at the work place"
+    },
+    {
+        "question": "Which one of the following statements is <i>incorrect</i> ?",
+        "options": [
+            "India does not have a Chief of Defence Staff.",
+            "India does not have a Permanent Chairman, Chiefs of Staff Committee.",
+            "India has a Chairman, Chiefs of Staff Committee who functions as Chief of the Defence Staff.",
+            "India has a Chairman, Chiefs of Staff Committee who does not function as Chief of the Defence Staff."
+        ],
+        "answer": "India has a Chairman, Chiefs of Staff Committee who functions as Chief of the Defence Staff."
+    },
+    {
+        "question": "Which among the following teams won the Duleep Trophy Cricket Tournament, 2014 ?",
+        "options": [
+            "East Zone",
+            "Central Zone",
+            "West Zone",
+            "South Zone"
+        ],
+        "answer": "Central Zone"
+    },
+    {
+        "question": "Which of the following statements is/are true with regard to the newly launched <i>Vanbandhu Kalyan Yojana</i> ?<br/><ol><li>Under the scheme, Centre will provide ₹ 10 crore each for every State and Union Territory of the country for the development of various facilities for the tribals.</li><li>The scheme mainly focuses on bridging infrastructural gaps and gap in human development indices between Scheduled Tribes and other Social Groups.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Which of the following statements with regard to the proposed Asian Infrastructure Investment Bank is/are correct ?<br/><ol><li>India is one of the founding members of the Bank.</li><li>The Bank is to be headquartered in Shanghai.</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    }
+
+    ]
 };
 
 export default gkData;
