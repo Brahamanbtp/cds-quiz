@@ -24563,6 +24563,1215 @@ export const gkData: Record<string, Question[]> = {
     }
 
     ]
+,
+    "2016-I": [
+    {
+        "question": "Which one of the following is considered as 'good cholesterol' with reference to individuals facing the risk of cardio-vascular diseases and hypertension ?",
+        "options": [
+            "High Density Lipoprotein (HDL)",
+            "Low Density Lipoprotein (LDL)",
+            "Triglyceride",
+            "Fatty acids"
+        ],
+        "answer": "High Density Lipoprotein (HDL)"
+    },
+    {
+        "question": "Which of the following pairs of vitamin and disease is / are correctly matched ?<br/><ol><li>Vitamin A : Rickets</li><li>Vitamin B<sub>1</sub> : Beriberi</li><li>Vitamin C : Scurvy</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "The rate of change of momentum of a body is equal to the resultant :",
+        "options": [
+            "energy",
+            "power",
+            "force",
+            "impulse"
+        ],
+        "answer": "force"
+    },
+    {
+        "question": "After a hot sunny day, people sprinkle water on the roof-top because :",
+        "options": [
+            "water helps air around the roof-top to absorb the heat instantly",
+            "water has lower specific heat capacity",
+            "water is easily available",
+            "water has large latent heat of vaporisation"
+        ],
+        "answer": "water has large latent heat of vaporisation"
+    },
+    {
+        "question": "Consider the following map of India :<br/><br/><img src='/images/cds2016i_q5.png' alt='Map of India'/><br/><br/>The areas marked in the map given above account for the production of which one of the following cash crops ?",
+        "options": [
+            "Cotton",
+            "Groundnut",
+            "Sugarcane",
+            "Tobacco"
+        ],
+        "answer": "Cotton"
+    },
+    {
+        "question": "Pir Panjal Range in the Himalayas is a part of :",
+        "options": [
+            "Shiwalik",
+            "Trans Himalaya",
+            "Central Himalaya",
+            "Lesser Himalaya"
+        ],
+        "answer": "Lesser Himalaya"
+    },
+    {
+        "question": "Consider the following statements regarding laterite soils of India :<br/><ol><li>Laterite soils are generally red in colour</li><li>Laterite soils are rich in nitrogen and potash</li><li>Laterite soils are well developed in Rajasthan and UP</li><li>Tapioca and cashew nuts grow well in this soil</li></ol><br/>Which of the statements given above is / are correct?",
+        "options": [
+            "1 only",
+            "2, 3 and 4",
+            "1 and 4 only",
+            "1, 2 and 4"
+        ],
+        "answer": "1 and 4 only"
+    },
+    {
+        "question": "Which of the following statements regarding Mediterranean and Monsoon climate is / are correct ?<br/><ol><li>Precipitation in Mediterranean climate is in winter while in Monsoon climate it is mostly in summer</li><li>The annual range of temperature in Mediterranean climate is higher than the Monsoon climate</li><li>Rainy and dry seasons are found in both the climates</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 3 only"
+    },
+    {
+        "question": "The handle of pressure cookers is made of plastic because it should be made non-conductor of heat. The plastic used there is the first man-made plastic, which is :",
+        "options": [
+            "Polythene",
+            "Terylene",
+            "Nylon",
+            "Bakelite"
+        ],
+        "answer": "Bakelite"
+    },
+    {
+        "question": "Methyl Isocyanate gas, which was involved in the disaster in Bhopal in December 1984, was used in the Union Carbide factory for production of :",
+        "options": [
+            "Dyes",
+            "Detergents",
+            "Explosives",
+            "Pesticides"
+        ],
+        "answer": "Pesticides"
+    },
+    {
+        "question": "The Germplasm is required for the propagation of plants and animals. Germplasm is the :<br/><ol><li>genetic resources</li><li>seeds or tissues for breeding</li><li>egg and sperm repository</li><li>a germ cell's determining zone</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "1, 2 and 3",
+            "2 and 3 only",
+            "2 and 4"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Dengue virus is known to cause low platelet count in blood of patient by :<br/><ol><li>interfering in the process of platelet production in bone marrow</li><li>infecting endothelial cells</li><li>binding with platelets</li><li>accumulating platelets in intestine</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "3 and 4",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "The SI unit of mechanical power is :",
+        "options": [
+            "Joule",
+            "Watt",
+            "Newton-second",
+            "Joule-second"
+        ],
+        "answer": "Watt"
+    },
+    {
+        "question": "Two systems are said to be in thermal equilibrium if and only if :",
+        "options": [
+            "there can be a heat flow between them even if they are at different temperatures",
+            "there cannot be a heat flow between them even if they are at different temperatures",
+            "there is no heat flow between them",
+            "their temperatures are slightly different"
+        ],
+        "answer": "there is no heat flow between them"
+    },
+    {
+        "question": "'German silver' is used to make decorative articles, coinage metal, ornaments etc. The name is given because :",
+        "options": [
+            "it is an alloy of copper and contains silver as one of its components",
+            "Germans were the first to use silver",
+            "its appearance is like silver",
+            "it is an alloy of silver"
+        ],
+        "answer": "its appearance is like silver"
+    },
+    {
+        "question": "Plants contain a variety of sterols like stigmasterol, ergosterol, sitosterol etc., which very closely resemble cholesterol. These plant sterols are referred as :",
+        "options": [
+            "Phytosterols",
+            "Calciferols",
+            "Ergocalciferols",
+            "Lumisterols"
+        ],
+        "answer": "Phytosterols"
+    },
+    {
+        "question": "With which one of the following countries, India has signed an MoU under the International Cooperation on Brahmaputra and Sutluj rivers ?",
+        "options": [
+            "Pakistan",
+            "China",
+            "Bangladesh",
+            "Nepal"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "Headquarters of which one among the following Railway Zones in India is situated at the highest elevation from the mean sea level ?",
+        "options": [
+            "East Central Railway",
+            "South Eastern Railway",
+            "South Western Railway",
+            "West Central Railway"
+        ],
+        "answer": "South Western Railway"
+    },
+    {
+        "question": "Stalactites and stalagmites are features of:",
+        "options": [
+            "glacial topography",
+            "volcanic topography",
+            "karst topography",
+            "fluvial topography"
+        ],
+        "answer": "karst topography"
+    },
+    {
+        "question": "Which one of the following is the correct sequence of the given planets in increasing order of their size (diameter) ?",
+        "options": [
+            "Mars - Venus - Earth - Mercury - Uranus",
+            "Mercury - Mars - Venus - Earth - Uranus",
+            "Mercury - Mars - Venus - Uranus - Earth",
+            "Venus - Mercury - Mars - Earth - Uranus"
+        ],
+        "answer": "Mercury - Mars - Venus - Earth - Uranus"
+    },
+    {
+        "question": "In artificial insemination (AI) process, which of the following is / are introduced into the uterus of the female ?",
+        "options": [
+            "Egg only",
+            "Fertilized egg",
+            "Sperm only",
+            "Egg and sperm"
+        ],
+        "answer": "Sperm only"
+    },
+    {
+        "question": "Genetically modified (GM) crops contain modified genetic material due to :<br/><ol><li>introduction of new DNA</li><li>removal of existing DNA</li><li>introduction of RNA</li><li>introduction of new traits</li></ol><br/>Select the correct answer using the code given below:",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "3 and 4",
+            "1, 2 and 4"
+        ],
+        "answer": "1, 2 and 4"
+    },
+    {
+        "question": "Which one of the following statements is correct ? The velocity of sound :",
+        "options": [
+            "does not depend upon the nature of media",
+            "is maximum in gases and minimum in liquids",
+            "is maximum in solids and minimum in liquids",
+            "is maximum in solids and minimum in gases"
+        ],
+        "answer": "is maximum in solids and minimum in gases"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "Sound waves in gases are longitudinal in nature",
+            "Sound waves having frequency below 20 Hz are known as ultrasonic waves",
+            "Sound waves having higher amplitudes are louder",
+            "Sound waves with high audible frequencies are sharp"
+        ],
+        "answer": "Sound waves having frequency below 20 Hz are known as ultrasonic waves"
+    },
+    {
+        "question": "Which one of the following vitamins has a role in blood clotting ?",
+        "options": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin D",
+            "Vitamin K"
+        ],
+        "answer": "Vitamin K"
+    },
+    {
+        "question": "Vitamin B<sub>12</sub> deficiency causes pernicious anemia. Animals cannot synthesize vitamin B<sub>12</sub>. Humans must obtain all their vitamin B<sub>12</sub> from their diet. The complexing metal ion in vitamin B<sub>12</sub> is :",
+        "options": [
+            "Mg<sup>2+</sup> (Magnesium ion)",
+            "Fe<sup>2+</sup> (Iron ion)",
+            "Co<sup>3+</sup> (Cobalt ion)",
+            "Zn<sup>2+</sup> (Zinc ion)"
+        ],
+        "answer": "Co<sup>3+</sup> (Cobalt ion)"
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>Most of the coal and the ferrous group of minerals in India occur in the peninsula, south of the Vindhyas</li><li>The peninsular India once formed part of the super-continent which included Australia, Antarctica, Africa and South America</li></ol><br/>Which of the statements given above is / are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "The Mahatma Gandhi National Marine Park is located in :",
+        "options": [
+            "Pirotan Island",
+            "Rameswaram",
+            "Ganga Sagar Island",
+            "Port Blair"
+        ],
+        "answer": "Port Blair"
+    },
+    {
+        "question": "Which of the following statements is / are correct ?<br/><ol><li>The earth is nearest to the Sun at Perihelion, which generally occurs on January 3</li><li>The earth is farthest away from the Sun at Perihelion, which generally occurs on July 4</li><li>The earth is farthest away from the Sun at Aphelion, which generally occurs on July 4</li><li>The earth is nearest to the Sun at Aphelion, which generally occurs on January 3</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 and 4",
+            "1 and 3",
+            "1 and 2"
+        ],
+        "answer": "1 and 3"
+    },
+    {
+        "question": "Which one of the following islands is of volcanic origin ?",
+        "options": [
+            "Reunion island",
+            "Andaman & Nicobar islands",
+            "Lakshadweep islands",
+            "Maldives"
+        ],
+        "answer": "Reunion island"
+    },
+    {
+        "question": "Glucose is a source of energy. Which one of the following types of molecule is Glucose ?",
+        "options": [
+            "Carbohydrate",
+            "Protein",
+            "Fat",
+            "Nucleic acid"
+        ],
+        "answer": "Carbohydrate"
+    },
+    {
+        "question": "The living content of cell is called protoplasm. It is composed of :",
+        "options": [
+            "Cytoplasm only",
+            "Cytoplasm and nucleoplasm",
+            "Nucleoplasm only",
+            "Cytoplasm, nucleoplasm and other organelles"
+        ],
+        "answer": "Cytoplasm, nucleoplasm and other organelles"
+    },
+    {
+        "question": "Norman Borlaug won Nobel Peace Prize for his contributions in :<br/><ol><li>development of high-yielding crops.</li><li>modernization of irrigation infrastructure.</li><li>introduction of synthetic fertilizers and pesticides.</li></ol><br/>Select the correct answer using the code given below:",
+        "options": [
+            "1 only",
+            "2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "A myopic person has a power of &minus;1.25 Dioptre. What is the focal length and nature of his lens ?",
+        "options": [
+            "50 cm and convex lens",
+            "80 cm and convex lens",
+            "50 cm and concave lens",
+            "80 cm and concave lens"
+        ],
+        "answer": "80 cm and concave lens"
+    },
+    {
+        "question": "A piece of ice, 100 g in mass is kept at 0 &deg;C. The amount of heat it requires to melt at 0 &deg;C is (take latent heat of melting of ice to be 333.6 J/g):",
+        "options": [
+            "750.6 J",
+            "83.4 J",
+            "33360 J",
+            "3.336 J"
+        ],
+        "answer": "33360 J"
+    },
+    {
+        "question": "Which one of the following hormones contains peptide chain?",
+        "options": [
+            "Oxytocin",
+            "Corticotropin",
+            "Insulin",
+            "Cortisone"
+        ],
+        "answer": "Insulin"
+    },
+    {
+        "question": "Which one of the following is an example of chemical change ?",
+        "options": [
+            "Burning of paper",
+            "Magnetization of soft iron",
+            "Dissolution of cane sugar in water",
+            "Preparation of ice cubes from water"
+        ],
+        "answer": "Burning of paper"
+    },
+    {
+        "question": "Which one of the following is the cause of long-term sea-level change?",
+        "options": [
+            "Atmospheric disturbance",
+            "Change in marine water density",
+            "Melting of icebergs",
+            "Melting of ice sheets"
+        ],
+        "answer": "Melting of ice sheets"
+    },
+    {
+        "question": "Consider the following tributaries of river Brahmaputra :<br/><ol><li>Lohit</li><li>Tista</li><li>Subansiri</li><li>Sankosh</li></ol><br/>Arrange the above rivers from west to east:",
+        "options": [
+            "2-4-3-1",
+            "2-3-4-1",
+            "4-2-3-1",
+            "3-1-2-4"
+        ],
+        "answer": "2-4-3-1"
+    },
+    {
+        "question": "Which one of the following is the reason due to which the wind in the southern hemisphere is deflected towards its left ?",
+        "options": [
+            "Difference in the water masses of northern and southern hemisphere",
+            "Temperature and pressure variations",
+            "Inclined axis of the Earth",
+            "Rotation of the Earth"
+        ],
+        "answer": "Rotation of the Earth"
+    },
+    {
+        "question": "The 'eye' of the cyclone has :",
+        "options": [
+            "abnormally high temperature and lowest pressure",
+            "abnormally low temperature and pressure",
+            "clear sky and lowest temperature",
+            "dense cloud cover and low pressure"
+        ],
+        "answer": "abnormally high temperature and lowest pressure"
+    },
+    {
+        "question": "Which of the following statements is / are correct ?<br/><ol><li>Acid rain reacts with buildings made from limestone</li><li>Burning of sulphur containing coal can contribute to acid rain</li><li>Eutrophication is an effective measure to control pollution</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which one of the following statements about bar magnet is correct ?",
+        "options": [
+            "The pole strength of the north-pole of a bar magnet is larger than that of the south-pole",
+            "When a piece of bar magnet is bisected perpendicular to its axis, the north and south poles get separated",
+            "When a piece of bar magnet is bisected perpendicular to its axis, two new bar magnets are formed",
+            "The poles of a bar magnet are unequal in magnitude and opposite in nature"
+        ],
+        "answer": "When a piece of bar magnet is bisected perpendicular to its axis, two new bar magnets are formed"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "Hydrogen is an element",
+            "Hydrogen is the lightest element",
+            "Hydrogen has no isotopes",
+            "Hydrogen and oxygen form an explosive mixture"
+        ],
+        "answer": "Hydrogen has no isotopes"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "Atoms of different elements may have same mass numbers",
+            "Atoms of an element may have different mass numbers",
+            "All the atoms of an element have same number of protons",
+            "All the atoms of an element will always have same number of neutrons"
+        ],
+        "answer": "All the atoms of an element will always have same number of neutrons"
+    },
+    {
+        "question": "Which of the following statements regarding chemical industry in India is / are correct ?<br/><ol><li>Chemical industry is one of the oldest industries in India</li><li>Dyestuff sector is one of the important segments of chemical industry</li><li>Textile industry accounts for the largest consumption of dyestuffs</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following statements about India's scientific and research mission in Antarctica is / are correct?<br/><ol><li>The first scientific base station in Antarctica was Dakshin Gangotri</li><li>Dakshin Gangotri is now being used as supply base and transit camp</li><li>The Maitri station is manned throughout the year for scientific activities</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    }
+,
+
+    {
+        "question": "The synthetic rubber has replaced natural rubber for domestic and industrial purposes. Which one of the following is the main reason behind that ?",
+        "options": [
+            "Natural rubber is unable to meet the growing demand of different industries",
+            "Natural rubber is grown in tropical countries only",
+            "Raw material for synthetic rubber is easily available",
+            "Natural rubber is not durable"
+        ],
+        "answer": "Natural rubber is unable to meet the growing demand of different industries"
+    },
+    {
+        "question": "A person rings a metallic bell near a strong concrete wall. He hears the echo after 0.3 s. If the sound moves with a speed of 340 m/s, how far is the wall from him?",
+        "options": [
+            "102 m",
+            "11 m",
+            "51 m",
+            "30 m"
+        ],
+        "answer": "51 m"
+    },
+    {
+        "question": "Arrange the following popular hill stations of India in terms of their height (from highest to the lowest) from the mean sea level :<br/><ol><li>Mussoorie</li><li>Shimla</li><li>Ooty</li><li>Darjeeling</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "3-2-4-1",
+            "3-1-4-2",
+            "2-3-4-1",
+            "2-4-1-3"
+        ],
+        "answer": "3-2-4-1"
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>In <i>Hind Swaraj</i>, Mahatma Gandhi formulates a conception of good life for the individual as well as the society</li><li><i>Hind Swaraj</i> was the outcome of the experience of Gandhi's prolonged struggle against Colonial Raj in India</li></ol><br/>Which of the statements given above is / are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which of the following is / are Constitutional Body / Bodies ?<br/><ol><li>National Commission for Scheduled Tribes</li><li>National Commission for Women</li><li>National Commission for Minorities</li><li>National Human Rights Commission</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "1, 3 and 4 only",
+            "3 and 4 only",
+            "1, 2, 3 and 4"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which of the following statements relating to the Bandung Conference on Afro-Asian Resurgence (1955) are correct ?<br/><ol><li>Bandung Conference was organized by Indonesia, Myanmar (Burma), Ceylon (Sri Lanka), India, and Pakistan in which 29 countries representing more than half of the world's population sent delegates</li><li>The Conference reflected the five sponsors' dissatisfaction with what they regarded as a reluctance by the Western powers to consult with them on decisions affecting Asia</li><li>The Conference was concerned over tension between the People's Republic of China and the United States</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Who among the following archaeologists was the first to identify similarities between a pre-Harappan culture and the mature Harappan culture ?",
+        "options": [
+            "Amalananda Ghosh",
+            "Rakhaldas Banerji",
+            "Daya Ram Sahni",
+            "Sir John Marshall"
+        ],
+        "answer": "Amalananda Ghosh"
+    },
+    {
+        "question": "Which one of the following is the common element between the Kailasanatha Temple at Ellora and the Shore Temple at Mamallapuram ?",
+        "options": [
+            "Both are examples of Nagara architecture",
+            "Both are carved out from solid rocks",
+            "Both are Gupta period temples",
+            "Both were built under the patronage of Pallava Kings"
+        ],
+        "answer": "Both are carved out from solid rocks"
+    },
+    {
+        "question": "Which of the following is / are <i>not</i> depicted in the Rajput paintings ?<br/><ol><li>The stories of Krishna</li><li><i>Ragas</i> and <i>Raginis</i></li><li>The deeds of Hamza</li><li>The deeds of Babur</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3",
+            "2, 3 and 4",
+            "3 and 4 only",
+            "4 only"
+        ],
+        "answer": "3 and 4 only"
+    },
+    {
+        "question": "Which one of the following Five Year Plans had a high priority to bring inflation under control and to achieve stability in the economic situation ?",
+        "options": [
+            "Fourth Plan (1969-74)",
+            "Fifth Plan (1974-79)",
+            "Sixth Plan (1980-85)",
+            "Seventh Plan (1985-90)"
+        ],
+        "answer": "Fourth Plan (1969-74)"
+    },
+    {
+        "question": "Which of the following statement(s) is / are true with respect to Phillips Curve ?<br/><ol><li>It shows the trade-off between unemployment and inflation</li><li>The downward sloping curve of Phillips Curve is generally held to be valid only in the short run</li><li>In the long run, Phillips Curve is usually thought to be horizontal at the non-accelerating inflation rate of unemployment (NAIRU)</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which one of the following nations is <i>not</i> a member of the Eurasian Economic Union ?",
+        "options": [
+            "Belarus",
+            "Russia",
+            "Kazakhstan",
+            "Uzbekistan"
+        ],
+        "answer": "Uzbekistan"
+    },
+    {
+        "question": "BRICS leaders signed the agreement to establish a New Development Bank at the summit held in :",
+        "options": [
+            "New Delhi, India (2012)",
+            "Durban, South Africa (2013)",
+            "Fortaleza, Brazil (2014)",
+            "Ufa, Russia (2015)"
+        ],
+        "answer": "Fortaleza, Brazil (2014)"
+    },
+    {
+        "question": "Shishu, Kishor and Tarun are the schemes of :",
+        "options": [
+            "Regional Rural Banks.",
+            "Micro Units Development & Refinance Agency Ltd. (MUDRA).",
+            "Small Industries Development Bank of India.",
+            "Industrial Development Bank of India."
+        ],
+        "answer": "Micro Units Development & Refinance Agency Ltd. (MUDRA)."
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>The President of India shall have the power to appoint and remove the Speaker of Lok Sabha</li><li>The Speaker has to discharge the functions of his office himself throughout his term and cannot delegate his functions to the Deputy Speaker during his absence from the station or during his illness</li></ol><br/>Which of the statements given above is / are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Neither 1 nor 2"
+    },
+    {
+        "question": "The Second Administrative Reforms Commission (2005) was concerned with :",
+        "options": [
+            "reforms in institutional arrangements for good governance",
+            "reforms in the Indian Penal Code and the Criminal Justice System",
+            "creating an ombudsman mechanism for reduction of corruption in public life",
+            "devising new measures for urban governance and management"
+        ],
+        "answer": "reforms in institutional arrangements for good governance"
+    },
+    {
+        "question": "As per the Constitution of India, the Writ of Prohibition relates to an order :<br/><ol><li>issued against judicial and quasi-judicial authority</li><li>to prohibit an inferior Court from proceeding in a particular case where it has no jurisdiction to try</li><li>to restrain a person from holding a public office to which he is not entitled</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which one among the following was <i>not</i> an attribute of Samudragupta described in <i>Prayag Prashasti</i> ?",
+        "options": [
+            "Sharp and polished intellect",
+            "Accomplished sculptor",
+            "Fine musical performances",
+            "Poetical talent of a genius"
+        ],
+        "answer": "Accomplished sculptor"
+    },
+    {
+        "question": "Kamandaka's <i>Nitisara</i> is a contribution to :",
+        "options": [
+            "Logic and Philosophy",
+            "Mathematics",
+            "Political morality",
+            "Grammar"
+        ],
+        "answer": "Political morality"
+    },
+    {
+        "question": "The <i>Lilavati</i> of Bhaskara is a standard text on :",
+        "options": [
+            "Mathematics",
+            "Surgery",
+            "Poetics",
+            "Linguistics"
+        ],
+        "answer": "Mathematics"
+    },
+    {
+        "question": "Which of the following statement(s) are true with respect to the concept of 'EFFICIENCY' as used in mainstream economics ?<br/><ol><li>Efficiency occurs when no possible reorganisation of production can make anyone better off without making someone else worse off</li><li>An economy is clearly inefficient if it is inside the Production Possibility Frontier (PPF)</li><li>At a minimum, an efficient economy is on its Production Possibility Frontier (PPF)</li><li>The terms such as 'Pareto Efficiency', 'Pareto Optimality' and 'Allocative Efficiency' are all essentially one and the same which denote 'efficiency in resource allocation'</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 4 only",
+            "1 and 3 only",
+            "2 and 3 only",
+            "1, 2, 3 and 4"
+        ],
+        "answer": "1, 2, 3 and 4"
+    },
+    {
+        "question": "The first summit of the Forum for India-Pacific Islands Cooperation (FIPIC) was held in :",
+        "options": [
+            "Jaipur",
+            "Suva",
+            "New Delhi",
+            "Port Moresby"
+        ],
+        "answer": "Suva"
+    },
+    {
+        "question": "Which one of the following island nations went for Parliamentary elections in the month of August 2015 ?",
+        "options": [
+            "Maldives",
+            "Fiji",
+            "Sri Lanka",
+            "Singapore"
+        ],
+        "answer": "Sri Lanka"
+    },
+    {
+        "question": "Which one of the following nations has faced severe economic crisis in the year 2015 resulting in default in repayment of IMF loan?",
+        "options": [
+            "China",
+            "Greece",
+            "Ireland",
+            "Belgium"
+        ],
+        "answer": "Greece"
+    },
+    {
+        "question": "Who among the following Prime Ministers of India were defeated by a vote of No Confidence ?<br/><ol><li>Morarji Desai</li><li>Viswanath Pratap Singh</li><li>H.D. Deve Gowda</li><li>Atal Bihari Vajpayee</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2, 3 and 4",
+            "1, 2 and 3 only",
+            "2, 3 and 4 only",
+            "1 and 4 only"
+        ],
+        "answer": "2, 3 and 4 only"
+    },
+    {
+        "question": "Which of the following statements regarding Rajya Sabha is / are correct ?<br/><ol><li>The maximum permissible strength of Rajya Sabha is 250</li><li>In Rajya Sabha, 238 members are elected indirectly from the States and Union Territories</li><li>It shares legislative powers equally with Lok Sabha in matters such as creation of All India Services</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which of the following statements relating to the office of the President of India are correct ?<br/><ol><li>The President has the power to grant pardon to a criminal in special cases</li><li>The President can promulgate ordinances even when the Parliament is in session</li><li>The President can dissolve the Rajya Sabha during emergency</li><li>The President has the power to nominate two members in the Lok Sabha from the Anglo Indian community</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2",
+            "1 and 4 only",
+            "3 and 4 only",
+            "1, 3 and 4"
+        ],
+        "answer": "1 and 4 only"
+    },
+    {
+        "question": "The followers of Gorakhnath were called :",
+        "options": [
+            "Jogis",
+            "Nath-Panthis",
+            "Tantriks",
+            "Sanyasis"
+        ],
+        "answer": "Nath-Panthis"
+    },
+    {
+        "question": "What were the 12 states of the Sikh confederacy called ?",
+        "options": [
+            "Misl",
+            "Gurmata",
+            "Sardari",
+            "Rakhi"
+        ],
+        "answer": "Misl"
+    },
+    {
+        "question": "Which of the statements given below is / are correct ?<br/><ol><li>The ideal of a common civil code is set forth in Article 44 of the Constitution of India</li><li>In certain respects, the High Courts in India have been given more extensive powers than the Supreme Court</li><li>The Supreme Court of India, the first fully independent Court for the country, was set up under the Constitution of India in 1950</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 only",
+            "3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following is / are the example(s) of Transfer Payment(s) ?<br/><ol><li>Unemployment Allowance</li><li>Payment of Salary</li><li>Social Security Payments</li><li>Old age Pension</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 3 only",
+            "1, 2 and 3 only",
+            "1, 3 and 4 only",
+            "None of the above"
+        ],
+        "answer": "1, 3 and 4 only"
+    },
+    {
+        "question": "The Erawan shrine, which witnessed a major bomb blast in August 2015, is located at :",
+        "options": [
+            "Singapore",
+            "Bangkok",
+            "Kuala Lumpur",
+            "Kabul"
+        ],
+        "answer": "Bangkok"
+    },
+    {
+        "question": "Who among the following is the first Indian sportsperson to reach the finals in the World Badminton Championship (Women) in 2015 ?",
+        "options": [
+            "Jwala Gutta",
+            "Saina Nehwal",
+            "P.V. Sindhu",
+            "Madhumita Bisht"
+        ],
+        "answer": "Saina Nehwal"
+    },
+    {
+        "question": "Which one of the following Articles / Schedules in the Constitution of India deals with Autonomous District Councils ?",
+        "options": [
+            "Eighth Schedule",
+            "Article 370",
+            "Sixth Schedule",
+            "Article 250"
+        ],
+        "answer": "Sixth Schedule"
+    },
+    {
+        "question": "Which of the following statements with regard to UID / Aadhar Card are correct?<br/><ol><li>It is a 12 digit unique form of identification for all residents of India</li><li>It is an identity number along with the biometric information of the individuals</li><li>It is a national identity and citizenship card</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "2 and 3 only",
+            "1 and 2 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which of the following statements about Comptroller and Auditor General of India (CAG) are correct ?<br/><ol><li>The CAG will hold office for a period of six years from the date he assumes the office. He shall vacate office on attaining the age of 65 years, if earlier than the expiry of the 6 year term</li><li>The powers of CAG are derived from the Constitution of India</li><li>The CAG is a multi-member body appointed by the President of India in consultation with the Prime Minister and the Council of Ministers</li><li>The CAG may be removed by the President only on an address from both Houses of Parliament, on the grounds of proved misbehavior or incapacity</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 4",
+            "1, 2 and 3",
+            "3 and 4",
+            "1 and 2 only"
+        ],
+        "answer": "1, 2 and 4"
+    },
+    {
+        "question": "Human Development Report for each year at global level is published by :",
+        "options": [
+            "WTO",
+            "World Bank",
+            "UNDP",
+            "IMF"
+        ],
+        "answer": "UNDP"
+    },
+    {
+        "question": "Which one among the following statements about the coins of the Gupta rulers is correct ?",
+        "options": [
+            "The obverse and reverse, both, had only the king's portrait and date",
+            "The obverse and reverse, both, had only an image of a deity and date",
+            "The obverse generally had king's portrait and reverse had an image of a deity or a motif",
+            "The obverse generally had king's portrait and reverse always had a date"
+        ],
+        "answer": "The obverse generally had king's portrait and reverse had an image of a deity or a motif"
+    },
+    {
+        "question": "The <i>agrahara</i> in early India was:",
+        "options": [
+            "the name of a village or land granted to Brahmins",
+            "the garland of flowers of Agar",
+            "the grant of land to officers and soldiers",
+            "land or village settled by Vaishya farmers"
+        ],
+        "answer": "the name of a village or land granted to Brahmins"
+    },
+    {
+        "question": "Which of the following statements relating to the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 are correct ?<br/><ol><li>The Act recognizes forest rights of forest dwelling Scheduled Tribes who have been occupying the forest land before October 25, 1980</li><li>The onus of implementation of the Act lies at the level of the State / UT Governments</li><li>The Act seeks to recognize and vest certain forest rights in the forest dwelling Scheduled Tribes and other traditional forest dwellers</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "Leander Paes won the US Open Mixed Doubles Tennis Title (2015) partnering with :",
+        "options": [
+            "Kristina Mladenovic",
+            "Flavia Pennetta",
+            "Martina Hingis",
+            "Sania Mirza"
+        ],
+        "answer": "Martina Hingis"
+    },
+    {
+        "question": "Who among the following is the winner of the World Food Prize (year 2015)?",
+        "options": [
+            "Sanjaya Rajaram",
+            "Baldev Singh Dhillon",
+            "Sir Fazle Hasan Abed",
+            "Rajendra Singh Paroda"
+        ],
+        "answer": "Sir Fazle Hasan Abed"
+    },
+    {
+        "question": "In which one of the following judgments of the Constitutional Bench of the Supreme Court of India, the 'rarest of rare' principle in the award of death penalty was first laid down ?",
+        "options": [
+            "Bachan Singh v. State of Punjab (1980)",
+            "Gopalanachari v. State of Kerala (1980)",
+            "Dr. Upendra Baxi v. State of UP (1983)",
+            "Tukaram v. State of Maharashtra (1979)"
+        ],
+        "answer": "Bachan Singh v. State of Punjab (1980)"
+    }
+
+    ,
+
+    {
+        "question": "Consider the following statements about the President of India:<br/><ol><li>The President has the right to address and send message to the Council of Ministers to elicit specific information</li><li>The President can call for information relating to proposals for legislation</li><li>All decisions of the Council of Ministers relating to administration of the Union must be communicated to the President</li></ol><br/>Which of the statements given above are correct ?",
+        "options": [
+            "1 and 3 only",
+            "2 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "In which one of the following cases, the Constitutional validity of the Muslim Women (Protection of Rights of Divorce) Act 1986, was upheld by the Supreme Court of India ?",
+        "options": [
+            "Muhammad Ahmed Khan v. Shah Bano Begum",
+            "Danial Latifi v. Union of India",
+            "Mary Roy v. State of Kerala",
+            "Shankari Prasad v. Union of India"
+        ],
+        "answer": "Danial Latifi v. Union of India"
+    },
+    {
+        "question": "Which of the following statements about the Vijayanagara Empire is / are true?<br/><ol><li>The kings claimed to rule on behalf of the God Virupaksha</li><li>Rulers used the title 'Hindu Suratrama' to indicate their close links with Gods</li><li>All royal orders were signed in Kannada, Sanskrit and Tamil</li><li>Royal portrait sculpture was now displayed in temples</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "4 only",
+            "1 and 2 only",
+            "1, 2 and 3",
+            "1, 2 and 4"
+        ],
+        "answer": "1, 2 and 4"
+    },
+    {
+        "question": "<i>Iqta</i> in medieval India meant:",
+        "options": [
+            "land assigned to religious personnel for spiritual purposes",
+            "land revenue from different territorial units assigned to army officers",
+            "charity for educational and cultural activities",
+            "the rights of the zamindar"
+        ],
+        "answer": "land revenue from different territorial units assigned to army officers"
+    },
+    {
+        "question": "Which one of the following books was <i>not</i> illustrated with paintings in Akbar's court ?",
+        "options": [
+            "<i>Hamzanama</i>",
+            "<i>Razmnama</i>",
+            "<i>Baburnama</i>",
+            "<i>Tarikh-i-Alfi</i>"
+        ],
+        "answer": "<i>Baburnama</i>"
+    },
+    {
+        "question": "Which of the following is <i>not</i> a 'Public Good' ?",
+        "options": [
+            "Electricity",
+            "National Defence",
+            "Light House",
+            "Public Parks"
+        ],
+        "answer": "Electricity"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> among the aims of the Second Five Year Plan (1956-57 to 1960-61) ?",
+        "options": [
+            "Rapid industrialization with particular emphasis on the development of basic and heavy industries",
+            "Large expansion of employment opportunities",
+            "Achieve self-sufficiency in food grains and increase agricultural production to meet the requirements of industry and exports",
+            "Reduction of inequalities in income and wealth and a more even distribution of economic power"
+        ],
+        "answer": "Achieve self-sufficiency in food grains and increase agricultural production to meet the requirements of industry and exports"
+    },
+    {
+        "question": "The National Policy for Children, 2013 recognizes every person as a child below the age of :",
+        "options": [
+            "12 years",
+            "14 years",
+            "16 years",
+            "18 years"
+        ],
+        "answer": "18 years"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a monitorable target of the <i>Beti Bachao Beti Padhao Abhiyan</i> ?",
+        "options": [
+            "Provide girls' toilet in every school in 100 Child Sex Ratio (CSR) districts by the year 2017",
+            "100 percent girls' enrolment in secondary education by the year 2020",
+            "Promote a protective environment for girl children through implementation of Protection of Children from Sexual Offences (POCSO)Act, 2012",
+            "Train Elected Representatives / Grassroot functionaries as Community Champions to mobilize communities to improve CSR and promote girl's education"
+        ],
+        "answer": "100 percent girls' enrolment in secondary education by the year 2020"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an objective of the <i>Rashtriya Uchchatar Shiksha Abhiyan</i> (RUSA)?",
+        "options": [
+            "Improve the overall quality of private educational institutions",
+            "Ensure reforms in the affiliation, academic and examination systems",
+            "Correct regional imbalances in access to higher education",
+            "Create an enabling atmosphere in the higher educational institutions to devote themselves to research and innovations"
+        ],
+        "answer": "Improve the overall quality of private educational institutions"
+    },
+    {
+        "question": "Which of the following statements with regard to preventive detention in India is / are correct ?<br/><ol><li>The detenue has no rights other than those mentioned in clauses (4) and (5) of Article 22 of Constitution of India</li><li>The detenue has a right to challenge the detention order on the ground that he was already in jail when the detention order was passed</li><li>The detenue can claim bail on the ground that he has been in prison beyond twenty-four hours without an order of the magistrate</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 2 only",
+            "2 only",
+            "3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "A Member of Lok Sabha does <i>not</i> become disqualified to continue as a Member of the House if the Member :",
+        "options": [
+            "voluntarily gives up his / her membership of the political party from which he / she was elected",
+            "is expelled by the political party from which he / she had been elected to the House",
+            "joins a political party after being elected as an independent candidate",
+            "abstains from voting contrary to the direction by his / her political party"
+        ],
+        "answer": "is expelled by the political party from which he / she had been elected to the House"
+    },
+    {
+        "question": "Which one of the following languages is <i>not</i> recognized in the Eighth Schedule to the Constitution of India ?",
+        "options": [
+            "English",
+            "Sanskrit",
+            "Urdu",
+            "Nepali"
+        ],
+        "answer": "English"
+    },
+    {
+        "question": "Which kingdom did the temple of Hazara Rama belong to ?",
+        "options": [
+            "Avadh",
+            "Travancore",
+            "Vijayanagara",
+            "Ahom"
+        ],
+        "answer": "Vijayanagara"
+    },
+    {
+        "question": "Consider the following statements about votive inscriptions in the second century BC :<br/><ol><li>They record gifts made to religious institutions</li><li>They tell us about the idea of transference of the meritorious results of the action of one person to another person</li></ol><br/>Which of the statements given above is / are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>Abhinavagupta wrote a comprehensive treatise called the <i>Tantraloka</i> which systematically presents the teachings of the <i>Kula</i> and <i>Trika</i> systems</li><li>The <i>Samaraichchakaha</i> by Haribhadra Suri written in Gujarat around the eighth century is technically not a tantric work but is saturated with tantric ideas and practices</li></ol><br/>Which of the statements given above is / are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which of the following is/are example(s) of 'Near Money' ?<br/><ol><li>Treasury Bill</li><li>Credit Card</li><li>Savings accounts and small time deposits</li><li>Retail money market mutual funds</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "1, 2 and 3",
+            "1, 3 and 4"
+        ],
+        "answer": "1, 3 and 4"
+    },
+    {
+        "question": "Which one of the following terms is used in Economics to denote a technique for avoiding a risk by making a counteracting transaction ?",
+        "options": [
+            "Dumping",
+            "Hedging",
+            "Discounting",
+            "Deflating"
+        ],
+        "answer": "Hedging"
+    },
+    {
+        "question": "'Citizenfour', the 87<sup>th</sup> Academy Award winner in the category of documentary feature, is based on the life of :",
+        "options": [
+            "Abraham Lincoln",
+            "Albert Einstein",
+            "Edward Snowden",
+            "Laura Poitras"
+        ],
+        "answer": "Edward Snowden"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a thrust area in the Railway Budget 2015-16 ?",
+        "options": [
+            "Online booking of disposable bed rolls",
+            "Defence Travel System to eliminate Warrants",
+            "180 days in advance ticket booking facility for passengers",
+            "Bio-toilets"
+        ],
+        "answer": "180 days in advance ticket booking facility for passengers"
+    },
+    {
+        "question": "Which one of the following services of India Post has permanently been discontinued ?",
+        "options": [
+            "Money Order",
+            "Telegram",
+            "Postal Life Insurance",
+            "Inland Letter"
+        ],
+        "answer": "Telegram"
+    },
+    {
+        "question": "The category of 'Overseas Citizens of India' was entered in the Citizenship Act of India through an amendment in the year :",
+        "options": [
+            "1986",
+            "1992",
+            "1996",
+            "2003"
+        ],
+        "answer": "2003"
+    },
+    {
+        "question": "The Right to Education was added to the Fundamental Rights in the Constitution of India through the :",
+        "options": [
+            "Constitution (86<sup>th</sup> Amendment) Act, 2002",
+            "Constitution (93<sup>rd</sup> Amendment) Act, 2005",
+            "Constitution (87<sup>th</sup> Amendment) Act, 2003",
+            "Constitution (97<sup>th</sup> Amendment) Act, 2011"
+        ],
+        "answer": "Constitution (86<sup>th</sup> Amendment) Act, 2002"
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>The inscriptions on the pillar at Rummindei give vivid details of Ashoka's <i>Dhamma</i></li><li>The Nigalisagar inscription records the fact of Ashoka having visited the Konagamana stupa</li></ol><br/>Which of the statements given above is / are correct ?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Consider the following statements :<br/><ol><li>The province of Assam was created in the year 1911</li><li>Eleven districts comprising Assam were separated from the Lieutenant Governorship of Bengal and established as an independent administration under a Chief Commissioner in the year 1874</li></ol><br/>Which of the statements given above is / are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Which of the following statements is / are true ?<br/><ol><li>Faxian's <i>Gaoseng Faxian Zhuan</i> was the earliest first-hand Chinese account of Buddhist sites and practices in India</li><li>Faxian was only 25 years old at the time of writing the text</li><li>Faxian's main aim in coming to India was to obtain and take back texts containing monastic rules</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1, 2 and 3",
+            "2 only",
+            "1 and 3 only",
+            "3 only"
+        ],
+        "answer": "1 and 3 only"
+    },
+    {
+        "question": "Which of the following statements are correct ?<br/><ol><li>Ability to pay principle of taxation holds that the amount of taxes people pay should relate to their income or wealth</li><li>The Benefit Principle of taxation states that individuals should be taxed in proportion to the benefit they receive from Government programmes</li><li>A progressive tax takes a larger share of tax from poor families than it does from rich families</li><li>Indirect taxes have the advantage of being cheaper and easier to collect</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 and 3 only",
+            "2 and 4 only",
+            "1, 2 and 4 only",
+            "1, 2, 3 and 4"
+        ],
+        "answer": "1, 2 and 4 only"
+    },
+    {
+        "question": "Which of the following statement(s) is /are <i>false</i> ?<br/><ol><li>Wage Boards are tripartite in nature, with representatives from workers, employers and independent members</li><li>Except for the Wage Boards for Journalists and Non-Journalists, all the other wage boards are statutory in nature</li><li>Second National Commission on Labour has recommended against the utility of wage boards</li></ol><br/>Select the correct answer using the code given below :",
+        "options": [
+            "1 only",
+            "2 only",
+            "1 and 2 only",
+            "1, 2 and 3"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "The rank of Major General in Indian Army is equivalent to :",
+        "options": [
+            "Air Marshal in Indian Air Force",
+            "Rear Admiral in Indian Navy",
+            "Air Commodore in Indian Air Force",
+            "Commodore in Indian Navy"
+        ],
+        "answer": "Rear Admiral in Indian Navy"
+    },
+    {
+        "question": "Among the currently operational Indian Satellites, there is <i>no</i> :",
+        "options": [
+            "Communication satellite",
+            "Navigation satellite",
+            "Earth observation satellite",
+            "Jupiter orbiter satellite"
+        ],
+        "answer": "Jupiter orbiter satellite"
+    }
+
+    ]
 };
 
 export default gkData;
