@@ -28151,6 +28151,1220 @@ export const gkData: Record<string, Question[]> = {
         "answer": "Sri Lanka"
     }
 
+    ],
+    "2014-II": [
+        {
+                "question": "The upper and lower portions in common type of bi-focal lenses are respectively",
+                "options": [
+                        "concave and convex",
+                        "convex and concave",
+                        "both concave of different focal lengths",
+                        "both convex of different focal lengths"
+                ],
+                "answer": "concave and convex"
+        },
+        {
+                "question": "Tungsten is used for the construction of filament in electric bulb because of its",
+                "options": [
+                        "high specific resistance",
+                        "low specific resistance",
+                        "high light emitting power",
+                        "high melting point"
+                ],
+                "answer": "high melting point"
+        },
+        {
+                "question": "Inactive Nitrogen and Argon gases are usually used in electric bulbs in order to",
+                "options": [
+                        "increase the intensity of light emitted",
+                        "increase the life of the filament",
+                        "make the emitted light coloured",
+                        "make the production of bulb economical"
+                ],
+                "answer": "increase the life of the filament"
+        },
+        {
+                "question": "In the phenomenon of dispersion of light, the light wave of shortest wavelength is",
+                "options": [
+                        "accelerated and refracted the most",
+                        "slowed down and refracted the most",
+                        "accelerated and refracted the least",
+                        "slowed down and refracted the least"
+                ],
+                "answer": "slowed down and refracted the most"
+        },
+        {
+                "question": "An oscilloscope is an instrument which allows us to see waves produced by",
+                "options": [
+                        "visible light",
+                        "X-rays",
+                        "sound",
+                        "Gamma rays"
+                ],
+                "answer": "sound"
+        },
+        {
+                "question": "The distribution of electrons into different orbits of an atom, as suggested by Bohr, is",
+                "options": [
+                        "2 electrons in the K-orbit, 6 electrons in the L-orbit, 18 electrons in the M-orbit",
+                        "2 electrons in the K-orbit, 8 electrons in the L-orbit, 32 electrons in the M-orbit",
+                        "2 electrons in the K-orbit, 8 electrons in the L-orbit, 18 electrons in the M-orbit",
+                        "2 electrons in the K-orbit, 8 electrons in the L-orbit, 16 electrons in the M-orbit"
+                ],
+                "answer": "2 electrons in the K-orbit, 8 electrons in the L-orbit, 18 electrons in the M-orbit"
+        },
+        {
+                "question": "Carbon or Graphite rods are used in atomic reactors as moderators for sustained nuclear chain reaction through nuclear fission process. In this process",
+                "options": [
+                        "the neutrons are made fast",
+                        "the protons are made fast",
+                        "the neutrons are made slow",
+                        "the protons are made slow"
+                ],
+                "answer": "the neutrons are made slow"
+        },
+        {
+                "question": "The distance-time graph for an object is shown above. Which one of the following statements holds true for this object?<br/><br/><img src='/images/cds2014ii_q8.png' alt='Distance-time graph'/>",
+                "options": [
+                        "The object is moving with uniform speed",
+                        "The object is at rest",
+                        "The object is having non-linear motion",
+                        "The object is moving with non-uniform speed"
+                ],
+                "answer": "The object is at rest"
+        },
+        {
+                "question": "For a harmonic oscillator, the graph between momentum <i>p</i> and displacement <i>q</i> would come out as",
+                "options": [
+                        "a straight line",
+                        "a parabola",
+                        "a circle",
+                        "an ellipse"
+                ],
+                "answer": "an ellipse"
+        },
+        {
+                "question": "Which one among the following is the generic name of the causal organism of Elephantiasis?",
+                "options": [
+                        "Filaria",
+                        "Microfilaria",
+                        "<i>Wuchereria bancrofti</i>",
+                        "<i>Culex pipiens</i>"
+                ],
+                "answer": "<i>Wuchereria bancrofti</i>"
+        },
+        {
+                "question": "Which one among the following statements is <i>not</i> correct?",
+                "options": [
+                        "Pulses are rich in proteins",
+                        "Milk is a rich source of Vitamin A",
+                        "Cereals are very poor source of carbohydrates",
+                        "Vegetables are rich source of minerals"
+                ],
+                "answer": "Cereals are very poor source of carbohydrates"
+        },
+        {
+                "question": "Which of the statements given below are correct?<br/><ol><li>A person having blood group 'A' can donate blood to persons having blood group 'A' and blood group 'AB'.</li><li>A person having blood group 'AB' can donate blood to persons having blood groups 'A', 'B', 'AB' or 'O'.</li><li>A person with blood group 'O' can donate blood to persons having any blood group.</li><li>A person with blood group 'O' can receive blood from the person of any of the blood groups.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2, 3 and 4",
+                        "1 and 2 only",
+                        "3 and 4 only",
+                        "1 and 3 only"
+                ],
+                "answer": "1 and 3 only"
+        },
+        {
+                "question": "Which one among the following is the correct pathway for the elimination of urine?",
+                "options": [
+                        "Kidneys, Ureters, Bladder, Urethra",
+                        "Kidneys, Urethra, Bladder, Ureters",
+                        "Urethra, Ureters, Bladder, Kidneys",
+                        "Bladder, Ureters, Kidneys, Urethra"
+                ],
+                "answer": "Kidneys, Ureters, Bladder, Urethra"
+        },
+        {
+                "question": "Which of the following parts are found in both plant and animal cells?",
+                "options": [
+                        "Cell membrane, Chloroplast, Vacuole",
+                        "Cell wall, Nucleus, Vacuole",
+                        "Cell membrane, Cytoplasm, Nucleus",
+                        "Cell wall, Chloroplast, Cytoplasm"
+                ],
+                "answer": "Cell membrane, Cytoplasm, Nucleus"
+        },
+        {
+                "question": "Which of the following statements is/are correct?<br/><ol><li>Coronary artery supplies blood to heart muscles.</li><li>Pulmonary vein supplies blood to lungs.</li><li>Hepatic artery supplies blood to kidneys.</li><li>Renal vein supplies blood to kidneys.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "2 and 4",
+                        "1, 3 and 4"
+                ],
+                "answer": "1 and 2 only"
+        },
+        {
+                "question": "Which of the following was the theme of World Environment Day 2014?",
+                "options": [
+                        "Green Economy. Does it include you?",
+                        "Think. Eat. Save",
+                        "Many Species. One Planet. One Future",
+                        "Small Islands and Climate Change"
+                ],
+                "answer": "Small Islands and Climate Change"
+        },
+        {
+                "question": "Which one of the following types of pesticides is convenient to control stored grain pests?",
+                "options": [
+                        "Systemic pesticides",
+                        "Fumigants",
+                        "Contact poisons",
+                        "Stomach poisons"
+                ],
+                "answer": "Fumigants"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Animal)</th><th>List II (Phyla)</th></tr><tr><td>A. Ascaris</td><td>1. Mammalia</td></tr><tr><td>B. Malarial parasite</td><td>2. Arthropoda</td></tr><tr><td>C. Housefly</td><td>3. Nematoda</td></tr><tr><td>D. Cow</td><td>4. Protozoa</td></tr></table><br/>Code :",
+                "options": [
+                        "A-3, B-4, C-2, D-1",
+                        "A-3, B-2, C-4, D-1",
+                        "A-1, B-2, C-4, D-3",
+                        "A-1, B-4, C-2, D-3"
+                ],
+                "answer": "A-3, B-4, C-2, D-1"
+        },
+        {
+                "question": "Which one among the following pairs is <i>not</i> correctly matched?",
+                "options": [
+                        "Sandal wood plant : Partial root parasite",
+                        "Cuscuta : Parasite",
+                        "Nepenthes : Carnivorous",
+                        "Mushrooms : Autotroph"
+                ],
+                "answer": "Mushrooms : Autotroph"
+        },
+        {
+                "question": "Which one among the following cattle breed produces highest amount of milk?",
+                "options": [
+                        "Brown Swiss",
+                        "Holstein",
+                        "Dutch belted",
+                        "Blaarkop"
+                ],
+                "answer": "Holstein"
+        },
+        {
+                "question": "Bagasse, a by-product of sugar manufacturing industry, is used for the production of",
+                "options": [
+                        "glass",
+                        "paper",
+                        "rubber",
+                        "cement"
+                ],
+                "answer": "paper"
+        },
+        {
+                "question": "The main constituent of Gobar gas is",
+                "options": [
+                        "Ethane",
+                        "Methane",
+                        "Propane",
+                        "Acetylene"
+                ],
+                "answer": "Methane"
+        },
+        {
+                "question": "Which of the following is a good lubricant?",
+                "options": [
+                        "Diamond powder",
+                        "Graphite powder",
+                        "Molten carbon",
+                        "Alloy of carbon and iron"
+                ],
+                "answer": "Graphite powder"
+        },
+        {
+                "question": "In Tritium (T), the number of protons (P) and neutrons (N) respectively are",
+                "options": [
+                        "1 P and 1 N",
+                        "1 P and 2 N",
+                        "1 P and 3 N",
+                        "2 P and 1 N"
+                ],
+                "answer": "1 P and 2 N"
+        },
+        {
+                "question": "When carbon dioxide is passed through lime water, the solution turns milky, but, on prolonged passage, the solution turns clear. This is because",
+                "options": [
+                        "the calcium carbonate formed initially is converted to soluble calcium bicarbonate on passage of more carbon dioxide",
+                        "the reaction is reversible and lime water is regenerated",
+                        "the calcium bicarbonate formed initially is converted to soluble calcium carbonate on passage of more carbon dioxide",
+                        "the initially formed insoluble compound is soluble in carbonic acid"
+                ],
+                "answer": "the calcium carbonate formed initially is converted to soluble calcium bicarbonate on passage of more carbon dioxide"
+        },
+        {
+                "question": "The form of carbon known as graphite",
+                "options": [
+                        "is harder than diamond",
+                        "contains a higher percentage of carbon than diamond",
+                        "is a better electrical conductor than diamond",
+                        "has equal carbon-to-carbon distances in all directions"
+                ],
+                "answer": "is a better electrical conductor than diamond"
+        },
+        {
+                "question": "Which one among the following is an example of chemical change?",
+                "options": [
+                        "The melting of an ice cube",
+                        "The boiling of gasoline",
+                        "The frying of an egg",
+                        "Attraction of an iron nail to a magnet"
+                ],
+                "answer": "The frying of an egg"
+        },
+        {
+                "question": "Which of the following is <i>not</i> correct about Baking Soda?",
+                "options": [
+                        "It is used in soda-acid fire extinguisher",
+                        "It is added for faster cooking",
+                        "It is a corrosive base",
+                        "It neutralizes excess acid in the stomach"
+                ],
+                "answer": "It is a corrosive base"
+        },
+        {
+                "question": "Chromium oxide in paints makes the colour of paint",
+                "options": [
+                        "Green",
+                        "White",
+                        "Red",
+                        "Blue"
+                ],
+                "answer": "Green"
+        },
+        {
+                "question": "Which of the following are the most important reason/reasons of flood becoming a destructive natural hazard in the Ganga-Brahmaputra valley?<br/><ol><li>Due to population pressure more and more people are living in flood prone areas</li><li>Increased frequency and magnitude of landslide and soil erosion in the upper catchments</li><li>Increase in the amount and intensity of rainfall in the north-western part of India</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1 and 2 only"
+        },
+        {
+                "question": "Arrange the following states of India on the basis of conferring statehood (starting from the earliest) :<br/><ol><li>Arunachal Pradesh</li><li>Nagaland</li><li>Sikkim</li><li>Meghalaya</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "2 - 4 - 3 - 1",
+                        "2 - 1 - 4 - 3",
+                        "4 - 1 - 3 - 2",
+                        "4 - 1 - 2 - 3"
+                ],
+                "answer": "2 - 4 - 3 - 1"
+        },
+        {
+                "question": "Plate tectonics is a scientific theory that describes the large scale motions of Earth's lithosphere. Which one among the following statements regarding Plate tectonics is <i>not</i> correct?",
+                "options": [
+                        "Tectonic plates are composed of Oceanic lithosphere and thicker Continental lithosphere",
+                        "Tectonic plates are able to move because the Earth's lithosphere has a higher strength than the underlying asthenosphere",
+                        "The Earth's lithosphere is broken up into Tectonic Plates",
+                        "Along divergent plate boundaries, subduction carries plates into the mantle"
+                ],
+                "answer": "Along divergent plate boundaries, subduction carries plates into the mantle"
+        },
+        {
+                "question": "Consider the diagram given below :<br/><br/><img src='/images/cds2014ii_q33.png' alt='Pressure conditions diagram'/><br/><br/>The above diagram represents the pressure conditions of three different places, viz., A, B and C. Which of the following is the correct direction of movement of winds?",
+                "options": [
+                        "Blow from B towards A and C",
+                        "Blow from C towards A and B",
+                        "Blow from B to A and from A to C",
+                        "Blow from B to C and C to B"
+                ],
+                "answer": "Blow from B towards A and C"
+        },
+        {
+                "question": "Consider the following statements regarding ground water in India :<br/><ol><li>The large scale exploitation of ground water is done with the help of tube-wells.</li><li>The demand for ground water started increasing with the advent of green revolution.</li><li>The total replenishable ground water reserves is highest in the hilly tracts of Sikkim, Nagaland and Tripura.</li></ol><br/>Which of the statements given above is/are correct?",
+                "options": [
+                        "1 and 2 only",
+                        "1 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1 and 2 only"
+        }
+,
+
+        {
+                "question": "Union Government in June 2014 granted Navaratna status to<br/><ol><li>Engineers India Ltd.</li><li>Coal India Ltd.</li><li>India Trade Promotion Organization</li><li>National Buildings Construction Corporation Ltd.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2, 3 and 4",
+                        "2 and 3 only",
+                        "1 and 4 only",
+                        "1, 2 and 3 only"
+                ],
+                "answer": "1 and 4 only"
+        },
+        {
+                "question": "MONEX is associated with",
+                "options": [
+                        "Montreal experiment",
+                        "Monetary experiment",
+                        "Lunar experiment",
+                        "Monsoon experiment"
+                ],
+                "answer": "Monsoon experiment"
+        },
+        {
+                "question": "Which one of the following would have happened if the Himalayas did <i>not</i> exist?",
+                "options": [
+                        "Monsoon rains would have taken place in winter months",
+                        "Coastal India would have experienced Mediterranean climate",
+                        "North Indian plain would have been much cooler in winter",
+                        "North western part of India would have experienced humid condition"
+                ],
+                "answer": "North Indian plain would have been much cooler in winter"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Phenomenon)</th><th>List II (Date)</th></tr><tr><td>A. Summer solstice</td><td>1. 21st June</td></tr><tr><td>B. Winter solstice</td><td>2. 22nd December</td></tr><tr><td>C. Vernal Equinox</td><td>3. 23rd September</td></tr><tr><td>D. Autumnal Equinox</td><td>4. 21st March</td></tr></table><br/>Code :",
+                "options": [
+                        "A-1, B-4, C-2, D-3",
+                        "A-1, B-2, C-4, D-3",
+                        "A-3, B-2, C-4, D-1",
+                        "A-3, B-4, C-2, D-1"
+                ],
+                "answer": "A-1, B-2, C-4, D-3"
+        },
+        {
+                "question": "Which of the following statements regarding jhum cultivation in India are correct?<br/><ol><li>It is largely practised in North-Eastern Indian states.</li><li>It is referred to as 'slash and burn' technique.</li><li>In it, the fertility of soil is exhausted in a few years.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Arrange the following features formed by rivers in its course starting from upstream :<br/><ol><li>Meanders</li><li>Falls</li><li>Delta</li><li>Oxbow Lake</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "2 - 1 - 3 - 4",
+                        "2 - 1 - 4 - 3",
+                        "1 - 2 - 3 - 4",
+                        "1 - 4 - 2 - 3"
+                ],
+                "answer": "2 - 1 - 4 - 3"
+        },
+        {
+                "question": "Which of the following statements relating to Indian agriculture is/are correct?<br/><ol><li>India has the World's largest cropped area.</li><li>Cropping pattern is dominated by cereal crop.</li><li>The average size of an Indian farm holding is too small for several agricultural operations.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Collision-Coalescence process of precipitation is applicable to",
+                "options": [
+                        "clouds which extend beyond freezing level",
+                        "those clouds which do not extend beyond the freezing level",
+                        "all types of clouds",
+                        "cumulonimbus cloud"
+                ],
+                "answer": "those clouds which do not extend beyond the freezing level"
+        },
+        {
+                "question": "Arrange the following tiger reserves of India from North to South :<br/><ol><li>Indravati</li><li>Dudhwa</li><li>Bandipur</li><li>Similipal</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "3 - 4 - 1 - 2",
+                        "4 - 2 - 3 - 1",
+                        "2 - 4 - 1 - 3",
+                        "2 - 1 - 4 - 3"
+                ],
+                "answer": "2 - 4 - 1 - 3"
+        },
+        {
+                "question": "Which of the following is/are basically meant to be deployed in the northern borders of India for monitoring the borders and also to stop smuggling and illegal immigration ?<br/><ol><li>Assam Rifles</li><li>Border Security Force</li><li>Indo Tibet Border Police</li><li>National Security Guards</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "2 and 3",
+                        "1 and 2",
+                        "3 only",
+                        "4"
+                ],
+                "answer": "3 only"
+        },
+        {
+                "question": "Which of the following is/are the potential threat to safety of large dams ?<br/><ol><li>Urbanisation near dam sites</li><li>Flash floods in catchment area</li><li>Seismic activities in surrounding area</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "2 and 3 only"
+        },
+        {
+                "question": "The Equatorial region has no other season except summer. What could be the reason?<br/><ol><li>The length of day and night is more or less equal over the year</li><li>The Earth's rotational velocity is maximum at the Equator</li><li>The coriolis force is zero at the Equator</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1 only"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Hill range of Central India)</th><th>List II (Location in map)</th></tr><tr><td>A. Satpura</td><td>1. Location 1</td></tr><tr><td>B. Mahadeo</td><td>2. Location 2</td></tr><tr><td>C. Vindhya</td><td>3. Location 3</td></tr><tr><td>D. Maikala</td><td>4. Location 4</td></tr></table><br/><img src='/images/cds2014ii_q47.png' alt='Map of Central India'/><br/><br/>Code :",
+                "options": [
+                        "A-4, B-3, C-1, D-2",
+                        "A-4, B-1, C-3, D-2",
+                        "A-2, B-1, C-3, D-4",
+                        "A-2, B-3, C-1, D-4"
+                ],
+                "answer": "A-2, B-3, C-1, D-4"
+        },
+        {
+                "question": "Consider the following statements relating to the Non-Alignment Movement :<br/><ol><li>The Non-Aligned Movement (NAM) was created and founded during the collapse of the colonial system and the independence struggles of the peoples of Africa, Asia, Latin America and other regions of the world and at the height of the Cold War.</li><li>The First Summit of the Movement of Non-Aligned Countries was convened by the leaders of India, Indonesia, Egypt, Syria and Yugoslavia at Belgrade on September 1 &ndash; 6, 1961.</li><li>During the early days of the Movement, its actions were a key factor in the decolonization process, which led later to the attainment of freedom by many countries and to the founding of several new sovereign States.</li><li>The fundamental principle of the movement is to maintain equal distance from both the super powers by joining the military alliances of both the blocs.</li></ol><br/>Which of the statements given above are correct?",
+                "options": [
+                        "1, 2 and 3",
+                        "2 and 3 only",
+                        "1, 3 and 4",
+                        "1 and 2 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Consider the following statements relating to the World Bank :<br/><ol><li>The World Bank was established in 1946, which is headquartered in New York.</li><li>The World Bank Group has set for itself the goal to end extreme poverty from the World by 2030.</li><li>The World Bank is a vital source of financial and technical assistance to developing countries around the world. It is not a bank in the ordinary sense but a unique partnership to reduce poverty and support development.</li><li>The World Bank Group comprises five institutions managed by their member countries in order to promote shared prosperity by fostering the income growth of the bottom 40% for every country.</li></ol><br/>Which of the statements given above are correct?",
+                "options": [
+                        "1, 2 and 3",
+                        "2, 3 and 4",
+                        "1, 3 and 4",
+                        "2 and 4 only"
+                ],
+                "answer": "2, 3 and 4"
+        },
+        {
+                "question": "Which of the following statements about International Monetary Fund (IMF) are correct?<br/><ol><li>The IMF is a United Nations specialized agency.</li><li>The IMF was founded at the Bretton Woods Conference in 1944 to secure international monetary cooperation.</li><li>The objective of the IMF is to stabilize currency exchange rates, and to expand international liquidity (access to hard currencies).</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "1 and 3 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Consider the following statements relating to the World Trade Organization (WTO):<br/><ol><li>The WTO deals with the global rules of trade between nations.</li><li>The goal of the WTO is to help producers of goods and services, exporters, and importers conduct their business.</li><li>The WTO, which is a successor body of the General Agreement on Tariffs and Trade, came into being following the Uruguay Round of Negotiations.</li><li>The WTO distances itself in framing of rules on trade in intellectual property rights.</li></ol><br/>Which of the statements given above are correct?",
+                "options": [
+                        "1, 2 and 3",
+                        "2, 3 and 4",
+                        "1, 2 and 4",
+                        "1 and 3 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Consider the following statements about local government in India :<br/><ol><li>Article 40 of Indian Constitution provides for the State to organize village panchayats and endow them with such powers and authority as may be necessary to make them function as units of self-government.</li><li>The 73rd and 74th Constitution Amendments inserted Part IX and IX A in the Constitution.</li><li>The provisions in Parts IX and IX A of Indian Constitution are more or less parallel and analogous.</li><li>The 73rd Constitution Amendment is applicable to all states irrespective of size of population.</li></ol><br/>Which of the statements given above are correct?",
+                "options": [
+                        "1 and 2 only",
+                        "1, 2 and 3 only",
+                        "3 and 4 only",
+                        "1, 2, 3 and 4"
+                ],
+                "answer": "1, 2 and 3 only"
+        },
+        {
+                "question": "Which of the following is <i>not</i> correct regarding the 2014 FIFA Football World Cup?",
+                "options": [
+                        "'We Are One' is the official song",
+                        "'Dar um Jeito (We Will Find A Way)' is the official anthem",
+                        "Brazil is the first country to host a World Cup for the second time",
+                        "For the first time two consecutive World Cups are not hosted in Europe"
+                ],
+                "answer": "Brazil is the first country to host a World Cup for the second time"
+        },
+        {
+                "question": "World Bank in June 2014 released a study report on India's Power Sector titled 'More Power to India : The Challenge of Electricity Distribution'. Which of the following is/are the key recommendation(s) of the report?<br/><ol><li>Ensure regulatory autonomy, effectiveness and accountability for utilities and regulators</li><li>Insulate utilities from State Governments to prevent interference with internal operations</li><li>Scrap the Electricity Act 2003 in order to improve the revenue generation of the power distribution companies</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "2 only",
+                        "1 and 3 only"
+                ],
+                "answer": "1 and 2 only"
+        },
+        {
+                "question": "Which of the following is/are department(s) in Ministry of Defence?<br/><ol><li>Department of Defence</li><li>Department of Defence Research and Development</li><li>Department of Defence Production</li><li>Department of Defence Finance</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 2 only",
+                        "1, 2 and 3",
+                        "2, 3 and 4",
+                        "1 only"
+                ],
+                "answer": "1, 2 and 3"
+        }
+
+    ,
+
+        {
+                "question": "Consider the following statements about State Election Commission :<br/><ol><li>The State Election Commissioner shall be appointed by the Governor of the State.</li><li>The State Election Commission shall have the power of even preparing the electoral rolls besides the power of superintendence, direction and control of election to the panchayats.</li><li>The State Election Commissioner cannot be removed in any manner from his office until he demits himself or completes his tenure.</li></ol><br/>Which of the above statements is/are correct?",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 only"
+                ],
+                "answer": "1 and 2 only"
+        },
+        {
+                "question": "Which of the following is/are Para-military Force(s) of India?<br/><ol><li>Indian Coast Guard</li><li>Assam Rifles</li><li>Directorate General of Resettlement</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1, 2 and 3",
+                        "1 and 3 only",
+                        "2 only",
+                        "1 and 2 only"
+                ],
+                "answer": "2 only"
+        },
+        {
+                "question": "'Garuda-V', concluded recently, is a joint exercise between the Air Forces of India and",
+                "options": [
+                        "Japan",
+                        "Canada",
+                        "Russia",
+                        "France"
+                ],
+                "answer": "France"
+        },
+        {
+                "question": "Which of the following statements about Indian Judiciary is <i>not</i> correct?",
+                "options": [
+                        "The Constitution of India has not provided for double system of courts as in the United States",
+                        "The organization of the subordinate judiciary in India varies slightly from State to State",
+                        "Every State in India has separate High Court",
+                        "The Supreme Court has issued direction to constitute an All India Judicial Service to bring about uniformity in designation of officers in criminal and civil side"
+                ],
+                "answer": "Every State in India has separate High Court"
+        },
+        {
+                "question": "Which among the following about the Rangarajan Panel Report on poverty estimation (submitted in July, 2014) is/are correct?<br/><ol><li>The report states that three out of ten people in India are poor</li><li>The report endorsed the Tendulkar committee suggestion on determining poverty line in India</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "1 only"
+        },
+        {
+                "question": "In May 2014, an agreement for credit of US $ 24 million (equivalent) from World Bank for additional financing for Uttarakhand Rural Water Supply and Sanitation Project was signed. The objective/objectives of the agreement was/were<br/><ol><li>To improve the effectiveness of rural water supply and sanitation (RWSS) services through decentralization</li><li>To restore services of damaged schemes in the disaster affected areas in the State of Uttarakhand</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "Which of the following statements about India-Sri Lanka relations is/are correct?<br/><ol><li>India and Sri Lanka have a Free Trade Agreement.</li><li>India has emerged as the highest exporter to Sri Lanka as on May 2014.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "Which among the following is/are correct statement about Malawi?<br/><ol><li>Malawi is a landlocked country in southeast Africa that was formerly known as Nyasaland</li><li>It has presidential system with unitary form of government</li><li>Malawi's economy is highly dependent on agriculture and majority of the population is rural</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 and 3 only",
+                        "1, 2 and 3",
+                        "1 and 3 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Consider the following statements about FIFA :<br/><ol><li>It is an association governed by Swiss law, founded in 1904 and based in Zurich.</li><li>FIFA has been engaging with its stakeholders and other institutions to find sensible ways of addressing environmental issues and mitigate the negative environmental impacts linked to its activities.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "Consider the following statements about SAARC :<br/><ol><li>The SAARC Secretariat is located at Kathmandu.</li><li>The Secretariat is headed by the Secretary General, who is appointed by the Council of Ministers from Member States in alphabetical order for a three year term.</li><li>The Secretary General is assisted by eight Directors on deputation from the Member States.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 and 3 only",
+                        "1, 2 and 3",
+                        "1 and 3 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Consider the following statements on SAFTA :<br/><ol><li>SAFTA is a trade liberalisation programme among the South-Eastern countries of Asia.</li><li>According to SAFTA, the Ministerial Council shall meet at least once every year or more often as and when considered necessary by the Contracting States.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "2 only"
+        },
+        {
+                "question": "Consider the following statements on Bay of Bengal Initiative for Multi-sectoral Technical and Economic Cooperation (BIMSTEC) :<br/><ol><li>BIMSTEC has seven members &ndash; Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka and Thailand.</li><li>BIMSTEC provides a link between South Asia and South East Asia by way of economic cooperation and linkages in identified areas of cooperation.</li><li>BIMSTEC was rechristened as BISTEC in the year 2014.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "1 and 2 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1 and 2 only"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Training institute)</th><th>List II (Location)</th></tr><tr><td>A. National Academy of Direct Taxes</td><td>1. Hyderabad</td></tr><tr><td>B. Rafi Ahmed Kidwai National Postal Academy</td><td>2. Nagpur</td></tr><tr><td>C. Sardar Vallabhbhai Patel National Police Academy</td><td>3. Dehradun</td></tr><tr><td>D. Indira Gandhi National Forest Academy</td><td>4. Ghaziabad</td></tr></table><br/>Code :",
+                "options": [
+                        "A-2, B-4, C-1, D-3",
+                        "A-2, B-1, C-4, D-3",
+                        "A-3, B-4, C-1, D-2",
+                        "A-3, B-1, C-4, D-2"
+                ],
+                "answer": "A-2, B-4, C-1, D-3"
+        },
+        {
+                "question": "The Patola weave was traditionally done in",
+                "options": [
+                        "Pochampally and Kanchipuram",
+                        "Surat and Patan",
+                        "Dacca and Benares",
+                        "Benares and Paithan"
+                ],
+                "answer": "Surat and Patan"
+        },
+        {
+                "question": "Which of the following about the principles of Panchsheel are correct?<br/><ol><li>These are a set of five principles governing relations between States</li><li>The assumption of Panchsheel was that newly independent States after decolonization would be able to develop a new and more principled approach to international relations</li><li>The first formal codification in treaty form was done in an agreement between China and India</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1, 2 and 3",
+                        "1 and 3 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Consider the following statements :<br/><ol><li>Government of India has recently upgraded the National Industrial Classification from NIC-1987 to NIC-2008.</li><li>NIC is an essential statistical standard for developing and maintaining comparable database according to economic activities.</li></ol><br/>Which of the statements given above is/are correct?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "V M Dandekar and Neel Kanth Rath were well-known for their",
+                "options": [
+                        "study on the spread of the Green Revolution",
+                        "advocacy of nuclear power",
+                        "advocacy of liberalization",
+                        "study on poverty in India"
+                ],
+                "answer": "study on poverty in India"
+        },
+        {
+                "question": "Marco Polo's trip to India (1271 AD) earned much fame in Europe on account of",
+                "options": [
+                        "his having discovered a safe route to India",
+                        "his having established amicable relations with many Kings of India",
+                        "his account of commercial, religious and social conditions in the East",
+                        "All of the above"
+                ],
+                "answer": "his account of commercial, religious and social conditions in the East"
+        },
+        {
+                "question": "Consider the following statements about the recently concluded field exercise <i>Sarvada Vijay</i> :<br/><ol><li>It was a joint exercise of Indian Army, Navy and Air Force.</li><li>The overall aim of the exercise was to practise conventional cross-border thrusts into enemy territory.</li></ol><br/>Which of the statements given above is/are correct?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "2 only"
+        },
+        {
+                "question": "Which one among the following is a state-of-the-art acoustic sensor-based target training system developed by the CSIR for shooters of the Indian Army?",
+                "options": [
+                        "SHANKH",
+                        "DHVANI",
+                        "NISHAN",
+                        "PRAHAR"
+                ],
+                "answer": "DHVANI"
+        },
+        {
+                "question": "Which of the statements given below about the Mughal rule in India is <i>false</i>?",
+                "options": [
+                        "Peasant communities were a united and homogeneous group",
+                        "There was an abundance of food grain",
+                        "The State encouraged those crops that brought in more revenue",
+                        "Most regions produced two crops in a year"
+                ],
+                "answer": "Peasant communities were a united and homogeneous group"
+        },
+        {
+                "question": "The Ghadar party, formed in the USA, was determined to start a revolt in India. Which among the following provinces did the party choose to begin its armed revolt?",
+                "options": [
+                        "Punjab",
+                        "Bengal",
+                        "United Provinces",
+                        "Bihar"
+                ],
+                "answer": "Punjab"
+        },
+        {
+                "question": "The ruins of the Vijayanagara at Hampi were brought to light in 1800 by",
+                "options": [
+                        "Colonel Colin Mackenzie",
+                        "Sir John Shore",
+                        "Andrew Fraser",
+                        "John Marshall"
+                ],
+                "answer": "Colonel Colin Mackenzie"
+        },
+        {
+                "question": "Consider the following statements about colonial economy of Vietnam (Indo-China) :<br/><ol><li>The colonial economy in Vietnam was primarily based on rice cultivation and rubber plantations.</li><li>All the rubber plantations in Vietnam were owned and controlled by a small Vietnamese elite.</li><li>Indentured Vietnamese labour was widely used in the rubber plantations.</li><li>Indentured labourers worked on the basis of contracts that did not specify any rights of labourers but gave immense power to the employers.</li></ol><br/>Which of the statements given above is/are correct?",
+                "options": [
+                        "1, 3 and 4",
+                        "1 and 4 only",
+                        "2 and 3",
+                        "1 only"
+                ],
+                "answer": "1, 3 and 4"
+        }
+
+    ,
+
+        {
+                "question": "Which of the four linguistic regions in South India remained unaffected by the Non-Cooperation Movement (1921-22)?",
+                "options": [
+                        "Kerala",
+                        "Tamil Nadu",
+                        "Andhra Pradesh",
+                        "Karnataka"
+                ],
+                "answer": "Karnataka"
+        },
+        {
+                "question": "Which of the following statements about the penetration of English into Bengal is/are correct?<br/><ol><li>Job Charnock arrived in Sutanati in August 1690 and laid the foundation of Calcutta which later became the heart of the British Indian Empire.</li><li>The French East India Company built a fort near the Fort William in Calcutta.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "1 only"
+        },
+        {
+                "question": "Under the forceful thrust of British rule, a rapid transformation of the Indian economy took place. In this context, which of the following statements is/are correct?<br/><ol><li>Indian economy was transformed into a colonial economy in the 19th century whose structure was determined by Britain's fast developing industrial economy.</li><li>The influx of cheap Indian products into England gave a great blow to English textile industries.</li><li>The 19th century saw the collapse of the traditional Indian village economy and fresh economic alignment along commercial lines.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 3",
+                        "1 only",
+                        "2 only",
+                        "1 and 2"
+                ],
+                "answer": "1 and 3"
+        },
+        {
+                "question": "Which of the following statements is/are correct?<br/><ol><li>Early Buddhist literature is generally composed of the canonical text.</li><li>The Buddhist schools classify their canonical literature as only the Pitakas.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "1 only"
+        },
+        {
+                "question": "Manipur clinched the 20th Senior National Women's Football Championships title 2014 by defeating",
+                "options": [
+                        "Assam",
+                        "Odisha",
+                        "West Bengal",
+                        "Kerala"
+                ],
+                "answer": "Odisha"
+        },
+        {
+                "question": "Statement I : The twelfth century witnessed the emergence of a new movement in Karnataka led by a Brahmana named Basavanna.<br/><br/>Statement II : The Lingayats worshipped Shiva in his manifestation as a Linga.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+        },
+        {
+                "question": "Statement I : Ram Mohan Roy in his famous work <i>Gift to Monotheism</i> put forward weighty arguments against belief in many Gods and for the worship of a single God.<br/><br/>Statement II : Ram Mohan Roy in his <i>Precepts of Jesus</i> tried to separate the moral and philosophic message of the New Testament.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+        },
+        {
+                "question": "Statement I : The Bethune School, founded in Calcutta in 1849 was the first fruit of the powerful movement for women's education that arose in the 1840s and 1850s.<br/><br/>Statement II : The first step in giving modern education to girls was undertaken by Vidyasagar in 1800.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Statement I is true but Statement II is false"
+        },
+        {
+                "question": "Statement I : The annexation of Awadh by Lord Dalhousie in 1856 adversely affected the financial conditions of the sepoys.<br/><br/>Statement II : The sepoys had to pay higher taxes on the land where their family members stayed in Awadh.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+        },
+        {
+                "question": "Statement I : During indigestion, Milk of Magnesia is taken to get rid of pain in the stomach.<br/><br/>Statement II : Milk of Magnesia is a base and it neutralizes the excess acid in the stomach.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+        },
+        {
+                "question": "Statement I : A tsunami is a series of water waves caused by the displacement of a large volume of water of an Ocean.<br/><br/>Statement II : A tsunami can be generated when thrust faults associated with convergent or destructive plate boundaries move abruptly.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+        },
+        {
+                "question": "Statement I : The Atacama is the driest among the deserts of the World.<br/><br/>Statement II : The aridity of the Atacama is explained by its location between two mountain chains of sufficient height to prevent moisture advection from either the Pacific or the Atlantic Ocean.<br/><br/>Code :",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+        },
+        {
+                "question": "Which one among the following pairs is <i>not</i> correctly matched?",
+                "options": [
+                        "When total product increases at an increasing rate : Marginal product increases",
+                        "When total product increases at a diminishing rate : Marginal product declines",
+                        "When total product reaches its maximum : Marginal product becomes zero",
+                        "When total product begins to decline : Marginal product becomes positive"
+                ],
+                "answer": "When total product begins to decline : Marginal product becomes positive"
+        },
+        {
+                "question": "The way total output changes due to change in all inputs in same proportion is known as law of",
+                "options": [
+                        "Returns to scale",
+                        "Diminishing returns",
+                        "Increasing returns",
+                        "Constant returns"
+                ],
+                "answer": "Returns to scale"
+        },
+        {
+                "question": "Which of the following statements is/are true?<br/><ol><li>If increase in demand and supply are of equal magnitude, the price will remain unchanged, but the equilibrium quantity will increase.</li><li>If increase in demand is of greater magnitude than increase in supply, both equilibrium price and equilibrium quantity will increase.</li><li>If increase in supply is of greater magnitude than increase in demand, equilibrium price will fall but equilibrium quantity will increase.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "A market in which there are large numbers of sellers of a particular product, but each seller sells somewhat differentiated but close products is termed as",
+                "options": [
+                        "Perfect competition",
+                        "Monopoly",
+                        "Monopolistic competition",
+                        "Oligopoly"
+                ],
+                "answer": "Monopolistic competition"
+        },
+        {
+                "question": "The value of all final goods and services produced by the normal residents of a country and their property, whether operating within the domestic territory of the country or outside in a year is termed as",
+                "options": [
+                        "Gross National Income",
+                        "Net National Income",
+                        "Gross Domestic Product",
+                        "Net Domestic Product"
+                ],
+                "answer": "Gross National Income"
+        },
+        {
+                "question": "Which of the following statements are correct?<br/><ol><li>When marginal revenue is positive, total revenue increases with increase in output.</li><li>When marginal revenue is zero, total revenue is maximum.</li><li>When marginal revenue becomes negative, total revenue falls with increase in output.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "National product at factor cost is equal to",
+                "options": [
+                        "Domestic product + Net factor income from abroad",
+                        "National product at market prices &ndash; indirect taxes + subsidies",
+                        "Gross domestic product &ndash; depreciation",
+                        "National product at market prices + indirect taxes + subsidies"
+                ],
+                "answer": "National product at market prices &ndash; indirect taxes + subsidies"
+        },
+        {
+                "question": "Which of the following theories form the basis of international trade?<br/><ol><li>Absolute cost difference</li><li>Comparative cost difference</li><li>Opportunity cost</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "1 and 2 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Which one among the following is <i>not</i> a source of tax revenue for the Central Government in India?",
+                "options": [
+                        "Income tax",
+                        "Customs duties",
+                        "Service tax",
+                        "Motor Vehicle tax"
+                ],
+                "answer": "Motor Vehicle tax"
+        },
+        {
+                "question": "Which of the following does <i>not</i> form part of current account of Balance of Payments?",
+                "options": [
+                        "Export and import of goods",
+                        "Export and import of services",
+                        "Income receipts and payments",
+                        "Capital receipts and payments"
+                ],
+                "answer": "Capital receipts and payments"
+        },
+        {
+                "question": "Novak Djokovic, who won the Men's Wimbledon Tennis Open Tournament 2014, is from",
+                "options": [
+                        "Serbia",
+                        "Spain",
+                        "Switzerland",
+                        "England"
+                ],
+                "answer": "Serbia"
+        },
+        {
+                "question": "The technique of inducing rain from cloud is called",
+                "options": [
+                        "Cloud computing",
+                        "Cloud control",
+                        "Cloud engineering",
+                        "Cloud seeding"
+                ],
+                "answer": "Cloud seeding"
+        },
+        {
+                "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List I (Founder/First Director)</th><th>List II (Premier Research Institute)</th></tr><tr><td>A. Vikram Sarabhai</td><td>1. Indian Statistical Institute</td></tr><tr><td>B. Homi J Bhabha</td><td>2. Jawaharlal Nehru Centre for Advanced Scientific Research</td></tr><tr><td>C. C N R Rao</td><td>3. Tata Institute of Fundamental Research</td></tr><tr><td>D. P C Mahalanobis</td><td>4. Physical Research Laboratory</td></tr></table><br/>Code :",
+                "options": [
+                        "A-4, B-3, C-2, D-1",
+                        "A-4, B-2, C-3, D-1",
+                        "A-1, B-3, C-2, D-4",
+                        "A-1, B-2, C-3, D-4"
+                ],
+                "answer": "A-4, B-3, C-2, D-1"
+        },
+        {
+                "question": "Which of the following statements about Marrakesh Treaty is/are correct?<br/><ol><li>The main goal of the treaty is to create a set of mandatory limitations and exceptions for the benefits of the blind and visually impaired.</li><li>India has ratified the treaty.</li><li>The treaty has come into force from July 2014.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "1 and 2 only",
+                        "2 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1 and 2 only"
+        },
+        {
+                "question": "Consider the following statements about GAGAN (GPS Aided Geo Augmented Navigation) system :<br/><ol><li>It offers free enhanced satellite navigation signals over India which are ten times more precise than GPS.</li><li>It was developed jointly by ISRO and NASA.</li></ol><br/>Which of the statements given above is/are correct?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "1 only"
+        },
+        {
+                "question": "Andaman and Nicobar Command is",
+                "options": [
+                        "a Command of the Indian Army",
+                        "a regional Command of the Indian Coast Guard",
+                        "an integrated theater Command operating directly under the Chiefs of Staff Committee",
+                        "a joint Command of the Indian Navy and the Indian Air Force"
+                ],
+                "answer": "an integrated theater Command operating directly under the Chiefs of Staff Committee"
+        }
+
+    ,
+
+        {
+                "question": "<i>Arihant</i> is a",
+                "options": [
+                        "Multi barrel rocket launcher",
+                        "Airborne Early Warning and Control System",
+                        "Unmanned Combat Aerial Vehicle",
+                        "Nuclear-powered ballistic missile submarine"
+                ],
+                "answer": "Nuclear-powered ballistic missile submarine"
+        },
+        {
+                "question": "Which one among the following is <i>not</i> a Command of the Indian Army?",
+                "options": [
+                        "South-Western Command",
+                        "South-Eastern Command",
+                        "Army Training Command",
+                        "Central Command"
+                ],
+                "answer": "South-Eastern Command"
+        },
+        {
+                "question": "Master Chief Petty Officer is a rank in the",
+                "options": [
+                        "Indian Navy",
+                        "Military Engineering Service",
+                        "The Army Aviation Corps",
+                        "Indian Air Force"
+                ],
+                "answer": "Indian Navy"
+        },
+        {
+                "question": "'Project Seabird' is connected with",
+                "options": [
+                        "Greenfield naval base at West Coast of India",
+                        "Anti pirate operation at Somalia",
+                        "Indian Navy's island development project",
+                        "Shipyard in Kutch district, Gujarat"
+                ],
+                "answer": "Greenfield naval base at West Coast of India"
+        },
+        {
+                "question": "Consider the following statements about world's first Modern Slavery Bill, published in June 2014 by the British House of Commons :<br/><ol><li>This is the first of its kind bill in Europe which specifically addresses slavery and trafficking in the 21st century.</li><li>The Bill fixes the maximum sentence available for the most serious offenders up to 14 years.</li></ol><br/>Which of the statements given above is/are correct?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "1 only"
+        },
+        {
+                "question": "<i>Operation Kachhapa</i> is an NGO initiative for the conservation of",
+                "options": [
+                        "Hawksbill turtles",
+                        "Olive Ridley sea turtles",
+                        "Green turtles",
+                        "Leatherback turtles"
+                ],
+                "answer": "Olive Ridley sea turtles"
+        },
+        {
+                "question": "Consider the following statements about 'Project Mausam' :<br/><ol><li>The Project was launched in June 2014 by the Ministry of External Affairs.</li><li>At the macro level, the project aims to re-connect and re-establish communications between countries of the Indian Ocean world, which would lead to an enhanced understanding of cultural values and concerns; while at the micro level, the focus is on understanding national cultures in their regional maritime milieu.</li></ol><br/>Which of the statements given above is/are correct?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "2 only"
+        },
+        {
+                "question": "Which of the following is <i>not</i> the recommendation of the Arvind Mayaram Committee on Rationalizing the FDI/FPI definition (June 2014)?",
+                "options": [
+                        "Foreign investment of 10 per cent or more in a listed company will be treated as foreign direct investment (FDI)",
+                        "In a particular company, an investor can hold the investments either under the FPI (Foreign Portfolio Investment) route or under the FDI route, but not both",
+                        "Any investment by way of equity shares, compulsorily convertible preference shares/debentures which is less than 10 per cent of the post-issue paid up equity capital of a company shall be treated as FPI",
+                        "On NRI Investors, the Committee recommended treating non-repatriable investment as FDI"
+                ],
+                "answer": "On NRI Investors, the Committee recommended treating non-repatriable investment as FDI"
+        },
+        {
+                "question": "Consider the following statements about Star Alliance Network :<br/><ol><li>Established in the year 1997, it is the leading global airline network with the highest number of member airlines, daily flights, destinations and countries flown to.</li><li>Air India has recently joined the Star Alliance in a bid to garner more revenue.</li></ol><br/>Which of the statements given above is/are correct?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "Which of the following statements is/are correct?<br/><ol><li>In June 2014, the World Heritage Committee has inscribed the Great Himalayan National Park Conservation Area (GHNPCA) on the World Heritage List on the basis of UNESCO Guidelines.</li><li>The Great Himalayan National Park (GHNP) is located in Sikkim.</li></ol><br/>Select the correct answer using the code given below :",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "1 only"
+        },
+        {
+                "question": "<i>Baiji</i> oil refinery is located at",
+                "options": [
+                        "Iran",
+                        "Iraq",
+                        "South Sudan",
+                        "Russia"
+                ],
+                "answer": "Iraq"
+        },
+        {
+                "question": "Consider the following statements :<br/><ol><li>World Vitiligo Day is observed on 25th June every year.</li><li>Vitiligo is a progressive skin disease.</li></ol><br/>Which of the statements given above is/are correct?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Both 1 and 2"
+        },
+        {
+                "question": "Stepwell <i>Rani-ki-Vav</i> was approved as a World Heritage Site by the UNESCO recently. It is located at",
+                "options": [
+                        "Rajasthan",
+                        "Gujarat",
+                        "Madhya Pradesh",
+                        "Maharashtra"
+                ],
+                "answer": "Gujarat"
+        }
+
     ]
 };
 
