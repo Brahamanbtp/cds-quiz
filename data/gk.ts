@@ -23348,6 +23348,1221 @@ export const gkData: Record<string, Question[]> = {
     }
 
     ]
+,
+    "2016-II": [
+    {
+        "question": "Which one of the following gases is released mostly from landfills in urban areas?",
+        "options": [
+            "Nitrogen",
+            "Hydrogen",
+            "Methane",
+            "Oxygen"
+        ],
+        "answer": "Methane"
+    },
+    {
+        "question": "Which one of the following is most sensitive to environmental change?",
+        "options": [
+            "Amphibian",
+            "Reptile",
+            "Mammal",
+            "Insect"
+        ],
+        "answer": "Amphibian"
+    },
+    {
+        "question": "Which one of the following is the largest source of electricity in India?",
+        "options": [
+            "Hydropower plants",
+            "Nuclear power plants",
+            "Thermal power plants",
+            "Wind energy"
+        ],
+        "answer": "Thermal power plants"
+    },
+    {
+        "question": "The HIV virus weakens the immunity of a person because it destroys",
+        "options": [
+            "mast cells",
+            "platelets",
+            "erythrocytes",
+            "lymphocytes"
+        ],
+        "answer": "lymphocytes"
+    },
+    {
+        "question": "Which one of the following air pollutants combines with the haemoglobin of human blood and reduces its oxygen-carrying capacity, leading to suffocation and may cause even death?",
+        "options": [
+            "Chlorofluorocarbon",
+            "Fly ash",
+            "Carbon monoxide",
+            "Sulphur dioxide"
+        ],
+        "answer": "Carbon monoxide"
+    },
+    {
+        "question": "An irregular mode of reproduction resulting in the development of an embryo without fertilization is called<br/><ol><li>Parthenogenesis</li><li>Apogamy</li><li>Sporophytic budding</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an allotrope of carbon?",
+        "options": [
+            "Coal",
+            "Diamond",
+            "Graphite",
+            "Graphene"
+        ],
+        "answer": "Coal"
+    },
+    {
+        "question": "In paper manufacturing, degumming of the raw material is done using",
+        "options": [
+            "sulphuric acid",
+            "bleaching powder",
+            "caustic soda",
+            "nitric acid"
+        ],
+        "answer": "caustic soda"
+    },
+    {
+        "question": "Dolomite powder is applied in some agricultural lands. The purpose of applying it is to",
+        "options": [
+            "increase the pH of the soil",
+            "lower the pH of the soil",
+            "increase the phosphorus content of the soil",
+            "increase the nitrogen content of the soil"
+        ],
+        "answer": "increase the pH of the soil"
+    },
+    {
+        "question": "Deficiency of fluoride leads to which one of the following health problems?",
+        "options": [
+            "Tooth caries",
+            "Mottling of tooth",
+            "Bending of bones",
+            "Stiffening of joints"
+        ],
+        "answer": "Tooth caries"
+    },
+    {
+        "question": "Excessive use of which of the following fertilizers may be responsible for the presence of a toxic substance in groundwater?",
+        "options": [
+            "Nitrogen",
+            "Phosphate only",
+            "Potassium only",
+            "Phosphate and potassium"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "Which one of the following elements does <i>not</i> form solid hydrogen carbonate?",
+        "options": [
+            "Sodium",
+            "Potassium",
+            "Caesium",
+            "Lithium"
+        ],
+        "answer": "Lithium"
+    },
+    {
+        "question": "According to Census 2011, which one of the following is the correct sequence of States in decreasing order of their total size of population?",
+        "options": [
+            "Kerala, Jharkhand, Assam, Punjab",
+            "Jharkhand, Kerala, Assam, Punjab",
+            "Kerala, Jharkhand, Punjab, Assam",
+            "Jharkhand, Kerala, Punjab, Assam"
+        ],
+        "answer": "Kerala, Jharkhand, Assam, Punjab"
+    },
+    {
+        "question": "With reference to earthquakes, which of the following statements are correct?<br/><ol><li>Earthquakes largely occur along the converging plate boundaries.</li><li>Point of origin of earthquake in lithosphere is known as focus/hypocentre.</li><li>Intensity of earthquake decreases with distance from the epicentre.</li><li>Epicentre of earthquake always remains over continents only.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 and 4"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following pairs of Indian State and tribal population are correct?<br/><ol><li>Madhya Pradesh : Largest tribal population</li><li>Mizoram : Highest percentage of tribal population out of the total population of the State</li><li>Chhattisgarh : Second largest tribal population after Madhya Pradesh</li><li>Arunachal Pradesh : Second highest percentage of tribal population out of the total population of the State after Mizoram</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "2 and 4 only",
+            "1, 2 and 3",
+            "2, 3 and 4"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "The spring constant of a spring depends on its",
+        "options": [
+            "length only",
+            "material only",
+            "length and its diameter",
+            "thickness, its diameter and its material"
+        ],
+        "answer": "thickness, its diameter and its material"
+    },
+    {
+        "question": "In the gamma decay of a nucleus",
+        "options": [
+            "the mass number of the nucleus changes whereas its atomic number does not change",
+            "the mass number of the nucleus does not change whereas its atomic number changes",
+            "both the mass number and the atomic number of the nucleus change",
+            "neither the mass number nor the atomic number of the nucleus changes"
+        ],
+        "answer": "neither the mass number nor the atomic number of the nucleus changes"
+    },
+    {
+        "question": "In a bipolar junction transistor",
+        "options": [
+            "all the three regions (the emitter, the base and the collector) have equal concentrations of impurity",
+            "the emitter has the least concentration of impurity",
+            "the collector has the least concentration of impurity",
+            "the base has the least concentration of impurity"
+        ],
+        "answer": "the base has the least concentration of impurity"
+    },
+    {
+        "question": "The pressure exerted by a 760 mm column of mercury at 0 &deg;C is known as",
+        "options": [
+            "1 pascal",
+            "1 atmosphere",
+            "1 bar",
+            "1 poise"
+        ],
+        "answer": "1 atmosphere"
+    },
+    {
+        "question": "Which one of the following physical quantities has the same dimensions as that of Planck's constant <i>h</i>?",
+        "options": [
+            "Linear momentum",
+            "Angular momentum",
+            "Force",
+            "Potential energy"
+        ],
+        "answer": "Angular momentum"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "The response of the ear to sound of increasing intensity is approximately logarithmic.",
+            "The sensitivity of the human ear does not vary with the frequency of the sound.",
+            "When two or more waves traverse the same medium, the displacement of any element of the medium is the algebraic sum of the displacements due to each wave.",
+            "Longitudinal waves can travel in all media—solids, liquids and gases."
+        ],
+        "answer": "The sensitivity of the human ear does not vary with the frequency of the sound."
+    },
+    {
+        "question": "Which one of the following hormones is essential for the uptake of glucose by cells in the human body?",
+        "options": [
+            "GH",
+            "TSH",
+            "Insulin",
+            "Cortisol"
+        ],
+        "answer": "Insulin"
+    },
+    {
+        "question": "Which of the following cells do <i>not</i> contain nucleus?<br/><ol><li>Root hair cells</li><li>Red blood cells</li><li>Platelets</li><li>Monocytes</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1, 2 and 4",
+            "2, 3 and 4"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "Biological catalysts are protein molecules which<br/><ol><li>speed up a chemical reaction</li><li>remain unchanged after reaction</li><li>function optimally at 37 &deg;C</li><li>do not have an enzymatic activity</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1, 3 and 4"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "'Altitude sickness' is caused at high altitude due to",
+        "options": [
+            "high partial pressure of oxygen",
+            "low partial pressure of oxygen",
+            "low level of haemoglobin",
+            "high partial pressure of carbon dioxide"
+        ],
+        "answer": "low partial pressure of oxygen"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Element)</th><th>List-II (Property/Use)</th></tr><tr><td>A. Mg</td><td>1. Gives red colour to flame</td></tr><tr><td>B. Ca</td><td>2. Sulphate compound used in medicine to examine the alimentary canal of a patient</td></tr><tr><td>C. Sr</td><td>3. Traps the energy of sunlight in photosynthesis</td></tr><tr><td>D. Ba</td><td>4. Control of muscle contraction</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-4, C-1, D-3",
+            "A-2, B-1, C-4, D-3",
+            "A-3, B-4, C-1, D-2",
+            "A-3, B-1, C-4, D-2"
+        ],
+        "answer": "A-3, B-4, C-1, D-2"
+    },
+    {
+        "question": "Which one of the following statements is correct?",
+        "options": [
+            "The oxidation number for hydrogen is always zero.",
+            "The oxidation number for hydrogen is always +1.",
+            "The oxidation number for hydrogen is always &minus;1.",
+            "Hydrogen can have more than one oxidation number."
+        ],
+        "answer": "Hydrogen can have more than one oxidation number."
+    },
+    {
+        "question": "In case of a standard hydrogen electrode",
+        "options": [
+            "absolute electrode potential is not zero",
+            "absolute electrode potential is zero",
+            "both absolute and standard electrode potential values are zero",
+            "electrode potential is zero only at 25 &deg;C"
+        ],
+        "answer": "absolute electrode potential is not zero"
+    },
+    {
+        "question": "The elemental composition of an adult human body by mass is",
+        "options": [
+            "C > O > H > N",
+            "O > C > H > N",
+            "N > C > H > O",
+            "N > C > O > H"
+        ],
+        "answer": "O > C > H > N"
+    },
+    {
+        "question": "With regard to water transportation in India, which of the following statements are correct?<br/><ol><li>Headquarters of Central Inland Water Transport Corporation is located at Delhi.</li><li>Headquarters of Inland Waterways Authority of India is located at Noida.</li><li>National Inland Navigation Institute is located at Kolkata.</li><li>First National Inland Waterway was between Haldia and Allahabad.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "2 and 3",
+            "2 and 4 only",
+            "1, 2 and 4"
+        ],
+        "answer": "2 and 4 only"
+    },
+    {
+        "question": "If the latitude and longitudinal extent of an Indian State/UT is 15&deg;48'00'' N to 14&deg;53'15'' N and 74&deg;20'13'' E to 74&deg;40'33'' E, then which one of the following is that State/UT?",
+        "options": [
+            "Puducherry",
+            "Chandigarh",
+            "Goa",
+            "Delhi"
+        ],
+        "answer": "Goa"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Railway Zone)</th><th>List-II (Headquarters)</th></tr><tr><td>A. North Eastern Railway</td><td>1. Kolkata</td></tr><tr><td>B. East Central Railway</td><td>2. Bilaspur</td></tr><tr><td>C. South East Central Railway</td><td>3. Hajipur</td></tr><tr><td>D. South Eastern Railway</td><td>4. Gorakhpur</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-2, C-3, D-1",
+            "A-1, B-3, C-2, D-4",
+            "A-1, B-2, C-3, D-4",
+            "A-4, B-3, C-2, D-1"
+        ],
+        "answer": "A-4, B-3, C-2, D-1"
+    }
+,
+
+    {
+        "question": "Which of the following statements concerning atmosphere of the Earth are correct?<br/><ol><li>In stratosphere, temperature increases with altitude.</li><li>In mesosphere, temperature decreases with altitude.</li><li>The lowest temperature of the atmosphere is recorded in the upper part of mesosphere.</li><li>Tropopause is an isothermal zone.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3 only",
+            "3 and 4 only",
+            "1, 2, 3 and 4"
+        ],
+        "answer": "1, 2, 3 and 4"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Place)</th><th>List-II (Industry)</th></tr><tr><td>A. Bongaigaon</td><td>1. Paper</td></tr><tr><td>B. Koraput</td><td>2. Machine tools</td></tr><tr><td>C. Pinjore</td><td>3. Aircraft</td></tr><tr><td>D. Sirpur</td><td>4. Petrochemical</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-2, C-3, D-1",
+            "A-4, B-3, C-2, D-1",
+            "A-1, B-2, C-3, D-4",
+            "A-1, B-3, C-2, D-4"
+        ],
+        "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a tributary of the river Ganga?",
+        "options": [
+            "Son",
+            "Mahananda",
+            "Teesta",
+            "Sharada"
+        ],
+        "answer": "Teesta"
+    },
+    {
+        "question": "Which one of the following pairs of lakes is connected by Soo Canal?",
+        "options": [
+            "Superior and Michigan",
+            "Superior and Huron",
+            "Huron and Ontario",
+            "Huron and Erie"
+        ],
+        "answer": "Superior and Huron"
+    },
+    {
+        "question": "In total internal reflection, the light travels from",
+        "options": [
+            "rarer to denser medium and it occurs with no loss of intensity",
+            "denser to rarer medium and it occurs with no loss of intensity",
+            "rarer to denser medium and it occurs with loss of intensity",
+            "denser to rarer medium and it occurs with loss of intensity"
+        ],
+        "answer": "denser to rarer medium and it occurs with no loss of intensity"
+    },
+    {
+        "question": "The energy of a photon, whose momentum is 10 MeV/c, where c is the speed of light, is given by",
+        "options": [
+            "10 MeV",
+            "100 MeV",
+            "1 MeV",
+            "0&middot;1 MeV"
+        ],
+        "answer": "10 MeV"
+    },
+    {
+        "question": "Liquids and gases never show",
+        "options": [
+            "diamagnetic property",
+            "paramagnetic property",
+            "ferromagnetic property",
+            "electromagnetic property"
+        ],
+        "answer": "ferromagnetic property"
+    },
+    {
+        "question": "Light travels in a straight line (rectilinear propagation of light). This statement does hold if the medium of travel for light is",
+        "options": [
+            "of variable refractive index",
+            "made up of slabs of different refractive indices",
+            "homogeneous and transparent",
+            "inhomogeneous and transparent"
+        ],
+        "answer": "homogeneous and transparent"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Strait)</th><th>List-II (Water Body)</th></tr><tr><td>A. Strait of Hormuz</td><td>1. Java Sea</td></tr><tr><td>B. Strait of Bab-el-Mandeb</td><td>2. Andaman Sea</td></tr><tr><td>C. Strait of Malacca</td><td>3. Red Sea</td></tr><tr><td>D. Strait of Sunda</td><td>4. Gulf of Persia</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-2, C-3, D-1",
+            "A-1, B-3, C-2, D-4",
+            "A-1, B-2, C-3, D-4",
+            "A-4, B-3, C-2, D-1"
+        ],
+        "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Ocean Current)</th><th>List-II (Country)</th></tr><tr><td>A. Agulhas Current</td><td>1. Peru</td></tr><tr><td>B. Humboldt Current</td><td>2. South Africa</td></tr><tr><td>C. Labrador Current</td><td>3. Argentina</td></tr><tr><td>D. Falkland Current</td><td>4. Canada</td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-4, C-1, D-2",
+            "A-2, B-1, C-4, D-3",
+            "A-3, B-1, C-4, D-2",
+            "A-2, B-4, C-1, D-3"
+        ],
+        "answer": "A-2, B-1, C-4, D-3"
+    },
+    {
+        "question": "Which one of the following fishing banks is located off the coast of the United Kingdom?",
+        "options": [
+            "Great Fisher Bank",
+            "Grand Banks",
+            "Dogger Bank",
+            "Reed Bank"
+        ],
+        "answer": "Dogger Bank"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Power Plant)</th><th>List-II (State)</th></tr><tr><td>A. Satpura</td><td>1. Maharashtra</td></tr><tr><td>B. Dhuvaran</td><td>2. Uttarakhand</td></tr><tr><td>C. Tanakpur</td><td>3. Gujarat</td></tr><tr><td>D. Dabhol</td><td>4. Madhya Pradesh</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-3, C-2, D-1",
+            "A-1, B-3, C-2, D-4",
+            "A-1, B-2, C-3, D-4",
+            "A-4, B-2, C-3, D-1"
+        ],
+        "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+        "question": "Which of the following statements regarding soil is/are correct?<br/><ol><li>Alluvial soils are rich in nitrogen content.</li><li>Black soils are rich in iron and lime but deficient in nitrogen.</li><li>Laterite soils are rich in iron and aluminium but deficient in nitrogen and potassium.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "3 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "Position of the Sun, Earth and Moon in a straight line of 180&deg; angle is known as syzygy.",
+            "Syzygy conjunction causes solar eclipse.",
+            "Syzygy opposition causes lunar eclipse.",
+            "Syzygy conjunction occurs at the time of perihelion only."
+        ],
+        "answer": "Syzygy conjunction occurs at the time of perihelion only."
+    },
+    {
+        "question": "Which one of the following is <i>not</i> related to wind erosion?",
+        "options": [
+            "Wind gap",
+            "Zeugen",
+            "Dreikanter",
+            "Demoiselle"
+        ],
+        "answer": "Wind gap"
+    },
+    {
+        "question": "Which one of the following is correct?",
+        "options": [
+            "Guindy National Park is known for tiger reserve.",
+            "Namdapha National Park is meant for lion conservation.",
+            "Jaldapara is a biosphere reserve.",
+            "Rann of Kutch is a Wild Ass Sanctuary."
+        ],
+        "answer": "Rann of Kutch is a Wild Ass Sanctuary."
+    },
+    {
+        "question": "Which one of the following statements concerning the natural vegetation of India is <i>not</i> correct?",
+        "options": [
+            "Sal is found in moist deciduous forests.",
+            "Casuarina is largely found along the coastal region of Tamil Nadu.",
+            "Deodar is a coniferous species of tree.",
+            "Shola forests are found mainly on the upper reaches of Himalaya."
+        ],
+        "answer": "Shola forests are found mainly on the upper reaches of Himalaya."
+    },
+    {
+        "question": "Which one of the following statements concerning research centres in India is <i>not</i> correct?",
+        "options": [
+            "Rajiv Gandhi Centre for Biotechnology is located at Kolkata.",
+            "Central Arid Zone Research Institute is located at Jodhpur.",
+            "Centre for Social Forestry and Eco-Rehabilitation is located at Allahabad.",
+            "Institute of Forest Productivity is located at Ranchi."
+        ],
+        "answer": "Rajiv Gandhi Centre for Biotechnology is located at Kolkata."
+    },
+    {
+        "question": "<b>Directions :</b><br/><br/>The following <b>three (3)</b> items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below.<br/><br/><i>Code :</i><br/><br/>(a) Both the statements are individually true and Statement II is the correct explanation of Statement I<br/>(b) Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I<br/>(c) Statement I is true but Statement II is false<br/>(d) Statement I is false but Statement II is true<br/><br/><b>Statement I :</b><br/>The <i>Pahi-kashta</i> peasants were non-resident cultivators cultivating lands on a contractual basis.<br/><br/><b>Statement II :</b><br/>The <i>Pahi-kashta</i> peasants worked under the temptation of favourable terms of revenue or the compulsion of economic distress.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+    },
+    {
+        "question": "<b>Statement I :</b><br/>The <i>Zamindars</i> were an exploitative class in Mughal India.<br/><br/><b>Statement II :</b><br/>The <i>Zamindars</i> often received the support of the peasantry in a large number of agrarian uprisings in North India in the seventeenth century.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+    },
+    {
+        "question": "<b>Statement I :</b><br/>King Ashoka abolished capital punishment and disbanded his army.<br/><br/><b>Statement II :</b><br/>After Kalinga War, Ashoka was remorseful and became a Buddhist.",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Statement I is false but Statement II is true"
+    },
+    {
+        "question": "Which one of the following does <i>not</i> signify a battle tank?",
+        "options": [
+            "T-55",
+            "T-155",
+            "T-72",
+            "T-90"
+        ],
+        "answer": "T-155"
+    },
+    {
+        "question": "Which of the following Gods are also known as <i>Lokapalas</i> or the Guardians of the Universe?",
+        "options": [
+            "Yama, Indra, Varuna and Kubera",
+            "Indra, Varuna, Skanda and Kubera",
+            "Indra, Varuna, Yama and Brahma",
+            "Yama, Shiva, Kubera and Indra"
+        ],
+        "answer": "Yama, Indra, Varuna and Kubera"
+    },
+    {
+        "question": "Which among the following Acts were repealed by Article 395 of the Constitution of India?<br/><ol><li>The Government of India Act, 1935</li><li>The Indian Independence Act, 1947</li><li>The Abolition of Privy Council Jurisdiction Act, 1949</li><li>The Government of India Act, 1919</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1 and 3 only",
+            "1, 2 and 3 only",
+            "1, 2, 3 and 4"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "On 26th November, 1949, which of the following provisions of the Constitution of India came into effect?<br/><ol><li>Citizenship</li><li>Elections</li><li>Provisional Parliament</li><li>Fundamental Rights</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "2, 3 and 4",
+            "1, 2 and 3",
+            "1 and 3 only",
+            "1 and 2 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following statements regarding the Constituent Assembly of India is/are correct?<br/><ol><li>The Assembly was elected indirectly by the members of the Provincial Legislative Assemblies.</li><li>The elections were held on the basis of Universal Adult Franchise.</li><li>The scheme of election was laid down by the Cabinet Delegation.</li><li>The distribution of seats was done on the basis of the Mountbatten Plan.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1, 2 and 3",
+            "2 and 4",
+            "1 and 3 only"
+        ],
+        "answer": "1 and 3 only"
+    }
+
+    ,
+
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "Centre for Science and Environment in a recent study found that a number of commonly available brands of prepackaged breads tested positive for potassium bromate and potassium iodate.",
+            "Food Safety and Standards Authority of India recommended to the Health Ministry to remove potassium bromate from the list of permissible food additives.",
+            "The Union Government banned the use of potassium bromate as a food additive on the basis of the above recommendation.",
+            "Potassium bromate is a neurotoxin."
+        ],
+        "answer": "Potassium bromate is a neurotoxin."
+    },
+    {
+        "question": "Which of the following voted for Brexit in June 2016?",
+        "options": [
+            "England and Scotland",
+            "England and Wales",
+            "Scotland and Northern Ireland",
+            "Wales and Northern Ireland"
+        ],
+        "answer": "England and Wales"
+    },
+    {
+        "question": "Which one of the following statements about reusable space vehicle of ISRO is <i>not</i> correct?",
+        "options": [
+            "In June 2016, ISRO successfully launched India's first reusable space vehicle.",
+            "The space vehicle was launched from Satish Dhawan Space Centre at Sriharikota in Andhra Pradesh.",
+            "The reusable launch vehicle climbed to a height of 65 km before automatically steering back for landing.",
+            "The vehicle was initially boosted by a rocket that contained liquid fuel."
+        ],
+        "answer": "The vehicle was initially boosted by a rocket that contained liquid fuel."
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "BrahMos is a supersonic cruise missile made by India and Russian Federation.",
+            "The name BrahMos came from two rivers, Brahmaputra of India and Moskva of Russia.",
+            "Indian military scientists were capable of integrating BrahMos cruise missile with Sukhoi-30 MKI fighter.",
+            "Defence Research and Development Organization is the manufacturer of Sukhoi-30 MKI fighter."
+        ],
+        "answer": "Defence Research and Development Organization is the manufacturer of Sukhoi-30 MKI fighter."
+    },
+    {
+        "question": "Which one of the following sources tells us about women protesting against the infidelity of their husbands or the neglect of the wife and children by the male head of the household?",
+        "options": [
+            "The <i>Kitab-ul-Hind</i>",
+            "Documents belonging to the Village Panchayats of Rajasthan, Gujarat and Maharashtra",
+            "Sculptures from Mandor",
+            "The <i>Ain-i-Akbari</i> of Abul Fazl"
+        ],
+        "answer": "Documents belonging to the Village Panchayats of Rajasthan, Gujarat and Maharashtra"
+    },
+    {
+        "question": "The All India Census was<br/><ol><li>first attempted in 1872</li><li>regularly undertaken since 1881</li><li>always undertaken as a five-year exercise</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Historian)</th><th>List-II (Book)</th></tr><tr><td>A. Sumit Sarkar</td><td>1. <i>The Rise and Growth of Economic Nationalism in India</i></td></tr><tr><td>B. Shahid Amin</td><td>2. <i>A Rule of Property for Bengal</i></td></tr><tr><td>C. Ranajit Guha</td><td>3. <i>The Swadeshi Movement in Bengal, 1903-1908</i></td></tr><tr><td>D. Bipan Chandra</td><td>4. <i>Event, Metaphor, Memory&mdash;Chauri Chaura, 1922-1992</i></td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-4, C-2, D-1",
+            "A-3, B-2, C-4, D-1",
+            "A-1, B-2, C-4, D-3",
+            "A-1, B-4, C-2, D-3"
+        ],
+        "answer": "A-3, B-4, C-2, D-1"
+    },
+    {
+        "question": "What form of Shiva is most prominent in the Brihadeshvara Temple built by the Chola dynasty?",
+        "options": [
+            "Harihara",
+            "Bhairava",
+            "Rudra",
+            "Tripurantaka"
+        ],
+        "answer": "Tripurantaka"
+    },
+    {
+        "question": "The basic structure doctrine with regard to the Constitution of India relates to<br/><ol><li>the power of judicial review</li><li>the judgment in Kesavananda Bharati case (1973)</li><li>the constraints on Article 368 of the Constitution of India</li><li>the judgment in Golaknath case (1967)</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3 only",
+            "1, 2, 3 and 4",
+            "1 and 3 only",
+            "2 and 4 only"
+        ],
+        "answer": "1, 2 and 3 only"
+    },
+    {
+        "question": "Which of the following fundamental rights as enshrined in the Constitution of India belong only to the citizens?<br/><ol><li>Article 19 (Protection of right to freedom of speech)</li><li>Article 21 (Protection of life and personal liberty)</li><li>Article 15 (Prohibition of discrimination)</li><li>Article 16 (Equality of opportunity)</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "2, 3 and 4",
+            "1, 3 and 4",
+            "1 and 4 only"
+        ],
+        "answer": "1, 3 and 4"
+    },
+    {
+        "question": "A citizen of India will lose his or her citizenship if he or she<br/><ol><li>renounces Indian citizenship</li><li>voluntarily acquires the citizenship of another country</li><li>marries a citizen of another country</li><li>criticizes the Government</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "2, 3 and 4",
+            "1 and 2 only",
+            "1 and 4"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct with respect to protection of individuals being tried for offences?",
+        "options": [
+            "A confession can never be used as evidence against the accused.",
+            "The accused must have violated an existing law.",
+            "An accused cannot be tried and punished for the same offence again.",
+            "The quantum of punishment must be provided in law as it existed on the date of commission of an offence."
+        ],
+        "answer": "A confession can never be used as evidence against the accused."
+    },
+    {
+        "question": "Neil O'Brien, who died recently, was a famous",
+        "options": [
+            "journalist",
+            "billiards player",
+            "dramatist",
+            "quiz master"
+        ],
+        "answer": "quiz master"
+    },
+    {
+        "question": "Consider the following statement :<br/><br/>&quot;If you feel you are trapped in a black hole, don't give up. There is a way out.&quot;<br/><br/>Who among the following made the above statement?",
+        "options": [
+            "Albert Einstein",
+            "Stephen Hawking",
+            "C. V. Raman",
+            "Abdus Salam"
+        ],
+        "answer": "Stephen Hawking"
+    },
+    {
+        "question": "Recently the Government of India cleared the proposal for the production of 18 indigenous 'Dhanush' artillery guns to be produced in India by",
+        "options": [
+            "Indian Army",
+            "US Army",
+            "Indian Ordnance Factory Board",
+            "Indian and US Army jointly"
+        ],
+        "answer": "Indian Ordnance Factory Board"
+    },
+    {
+        "question": "Who among the following won the Men's Singles Title in the Australian Open Tennis Tournament, 2016?",
+        "options": [
+            "Jamie Murray",
+            "Bruno Soares",
+            "Novak Djokovic",
+            "Andy Murray"
+        ],
+        "answer": "Novak Djokovic"
+    },
+    {
+        "question": "Which of the following statements about the philosopher Shankara is/are true?<br/><ol><li>Shankara espoused a form of Vedanta called Advaita.</li><li>He elaborated on the philosophy of Gaudapada.</li><li>Shankara tried to demonstrate that the Upanishads and Brahmasutras contain a unified, systematic philosophy.</li><li>Shankara founded the Amanaya Mathas.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1, 2 and 3",
+            "3 and 4",
+            "4 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following statements about the Deccan Riots of 1875 is/are true?<br/><ol><li>The Deccan Riots resulted in protection for peasants through the Deccan Agriculturalists Relief Act of 1879.</li><li>The riots did not spread to the whole of Maharashtra because of prompt suppression by the British.</li><li>The British were unable to contain the riots and they spread throughout Maharashtra.</li><li>The cotton boom in the Deccan that had been caused by the artificial demand generated by the American Civil War caused the impoverishment of the peasants.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 3",
+            "2 and 4 only",
+            "1, 2 and 4"
+        ],
+        "answer": "1, 2 and 4"
+    },
+    {
+        "question": "Why are the Gypsies regarded as of Indian origin?<br/><ol><li>They follow Indian religious practices.</li><li>Their language, called Romani, is an Indo-Aryan language.</li><li>They believe that they came from India.</li><li>Epigraphic evidence locates their original home in Uttar Pradesh.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 4 only",
+            "2 only",
+            "1, 2 and 4",
+            "2 and 3"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "The term <i>Upari</i> refers to which one of the following?",
+        "options": [
+            "A category of proprietary tenure under the Mughal rule",
+            "A category of tenancy tenure under the Maratha rule",
+            "A soldier in the Maratha army",
+            "A village headman in the Mughal period"
+        ],
+        "answer": "A category of tenancy tenure under the Maratha rule"
+    },
+    {
+        "question": "The 'water frame' of Richard Arkwright was a device for",
+        "options": [
+            "producing a new type of painting",
+            "irrigating fields for rice cultivation",
+            "producing strong threads of yarn",
+            "the faster movement of steamships"
+        ],
+        "answer": "producing strong threads of yarn"
+    },
+    {
+        "question": "The 'four great needs' of the people as identified by the Guomindang were",
+        "options": [
+            "clothing, food, housing and transportation",
+            "education, food, housing and health care",
+            "food, housing, education and employment",
+            "employment, housing, education and health care"
+        ],
+        "answer": "clothing, food, housing and transportation"
+    }
+
+    ,
+
+    {
+        "question": "Which one of the following was the earlier name of Tokyo?",
+        "options": [
+            "Osaka",
+            "Kyoto",
+            "Samurai",
+            "Edo"
+        ],
+        "answer": "Edo"
+    },
+    {
+        "question": "The epic, <i>Silappadikaram</i> refers to the",
+        "options": [
+            "story of Rama",
+            "Jaina elements in the storyline",
+            "culture of Sri Lankan Buddhists",
+            "cult of <i>Shakti</i> worship"
+        ],
+        "answer": "Jaina elements in the storyline"
+    },
+    {
+        "question": "<i>Rakshasa</i> type of marriage is",
+        "options": [
+            "marriage by purchase",
+            "marriage by capture",
+            "marriage by giving dowry",
+            "marriage by seduction"
+        ],
+        "answer": "marriage by capture"
+    },
+    {
+        "question": "Who among the following was defeated by Chile to won the Copa America Football Championship, 2016?",
+        "options": [
+            "Colombia",
+            "Argentina",
+            "Ecuador",
+            "Peru"
+        ],
+        "answer": "Argentina"
+    },
+    {
+        "question": "Which one of the following is the highest altitude zoo in the world?",
+        "options": [
+            "Cheyenne Mountain Zoo",
+            "Pandit G. B. Pant High Altitude Zoo",
+            "Himalayan Zoological Park, Gangtok",
+            "Padmaja Naidu Himalayan Zoological Park"
+        ],
+        "answer": "Padmaja Naidu Himalayan Zoological Park"
+    },
+    {
+        "question": "Which one of the following statements about the Missile Technology Control Regime is <i>not</i> correct?",
+        "options": [
+            "The Missile Technology Control Regime is an informal and voluntary partnership initially formed among G-7 countries.",
+            "Members of the Missile Technology Control Regime prevent the proliferation of missile and unmanned aerial vehicle technology capable of carrying above 500 kg payload for more than 300 km.",
+            "China applied to join the Regime but members did not offer the membership.",
+            "No other country outside the membership follows the Regime rules."
+        ],
+        "answer": "No other country outside the membership follows the Regime rules."
+    },
+    {
+        "question": "The first Tejas squadron of Indian Air Force consists of",
+        "options": [
+            "20 aircrafts with 4 in reserve",
+            "100 aircrafts with 10 in reserve",
+            "20 aircrafts with no reserve",
+            "25 aircrafts with 5 in reserve"
+        ],
+        "answer": "20 aircrafts with 4 in reserve"
+    },
+    {
+        "question": "The headquarters of 'Economic and Social Commission for Asia and the Pacific' is located at",
+        "options": [
+            "Singapore",
+            "Manila",
+            "Bangkok",
+            "Hong Kong"
+        ],
+        "answer": "Bangkok"
+    },
+    {
+        "question": "Which of the following with regard to the term 'bank run' is correct?",
+        "options": [
+            "The net balance of money a bank has in its chest at the end of the day's business",
+            "The ratio of bank's total deposits and total liabilities",
+            "A panic situation when the deposit holders start withdrawing cash from the banks",
+            "The period in which a bank creates highest credit in the market"
+        ],
+        "answer": "A panic situation when the deposit holders start withdrawing cash from the banks"
+    },
+    {
+        "question": "Which of the following will be the outcome if an economy is under the inflationary pressure?<br/><ol><li>Domestic currency heads for depreciation.</li><li>Exports become less competitive with imports getting costlier.</li><li>Cost of borrowing decreases.</li><li>Bondholders get benefitted.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2",
+            "2 and 3",
+            "1 and 3 only",
+            "1, 3 and 4"
+        ],
+        "answer": "1 and 2"
+    },
+    {
+        "question": "According to the Classical Theory of Employment, deviations from the state of full employment are",
+        "options": [
+            "purely temporary in nature",
+            "permanent in nature",
+            "imaginary situations",
+            "normal situations"
+        ],
+        "answer": "purely temporary in nature"
+    },
+    {
+        "question": "Capital deepening refers to",
+        "options": [
+            "going for more fixed capital per worker",
+            "emphasis on social overhead capital",
+            "constant capital-output ratio",
+            "increasing capital-output ratio"
+        ],
+        "answer": "going for more fixed capital per worker"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct with respect to Article 32 of the Constitution of India?",
+        "options": [
+            "It provides remedies to citizens for the enforcement of fundamental rights.",
+            "It is a part of fundamental rights.",
+            "The Supreme Court cannot refuse a writ petition under Article 32 on the ground of delay.",
+            "Protection under Article 32 also applies to the enforcement of ordinary law which has nothing to do with the fundamental rights."
+        ],
+        "answer": "Protection under Article 32 also applies to the enforcement of ordinary law which has nothing to do with the fundamental rights."
+    },
+    {
+        "question": "Which one of the following writs is issued by the Supreme Court to secure the freedom of a person upon unlawful arrest?",
+        "options": [
+            "<i>Habeas Corpus</i>",
+            "<i>Mandamus</i>",
+            "<i>Certiorari</i>",
+            "<i>Quo Warranto</i>"
+        ],
+        "answer": "<i>Habeas Corpus</i>"
+    },
+    {
+        "question": "According to the provisions of the Constitution of India, which one of the following is <i>not</i> a fundamental duty?",
+        "options": [
+            "To respect the National Flag",
+            "To defend the country",
+            "To provide education to one's child",
+            "To promote village and cottage industries"
+        ],
+        "answer": "To promote village and cottage industries"
+    },
+    {
+        "question": "Under Article 352 of the Constitution of India, an emergency can be declared if security of any part of India is threatened by<br/><ol><li>war</li><li>external aggression</li><li>armed rebellion</li><li>internal disturbance</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "2, 3 and 4",
+            "1, 3 and 4",
+            "1 and 2 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> true of the Protection of Women from Domestic Violence Act, 2005?",
+        "options": [
+            "This Act provides civil remedies to protect a woman subjected to domestic violence.",
+            "Only women can make a complaint under this legislation.",
+            "Relief may be sought only against the husband or a male live-in partner with whom the woman has lived in a domestic relationship.",
+            "The Act includes not just wives but also women in marriage-like relationships."
+        ],
+        "answer": "Relief may be sought only against the husband or a male live-in partner with whom the woman has lived in a domestic relationship."
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "Creation of National Investment and Infrastructure Fund (NIIF) was announced in the Union Budget, 2015-16.",
+            "NIIF is a fund for enhancing infrastructure facility in the country.",
+            "NIIF and NIF (National Investment Fund) are the names of the same organization.",
+            "NIIF can have more than one alternative investment fund."
+        ],
+        "answer": "NIIF and NIF (National Investment Fund) are the names of the same organization."
+    },
+    {
+        "question": "Which one of the following is <i>not</i> correct in respect of Andaman and Nicobar Command?",
+        "options": [
+            "It is the first integrated theatre command in India.",
+            "Its headquarters is at Port Blair.",
+            "It is commanded by a three-star officer.",
+            "It was set up by the British during the Second World War."
+        ],
+        "answer": "It was set up by the British during the Second World War."
+    },
+    {
+        "question": "Who is the Chairman of the Chiefs of Staff Committee?",
+        "options": [
+            "The Chief of Army Staff",
+            "The Chief of Naval Staff",
+            "The Chief of Air Staff",
+            "The member who has been the longest on the Committee"
+        ],
+        "answer": "The member who has been the longest on the Committee"
+    },
+    {
+        "question": "Jammu and Kashmir Rifles is",
+        "options": [
+            "an infantry regiment of the Indian Army",
+            "a battalion of the Rashtriya Rifles",
+            "the name of the Armed Police of the State of Jammu and Kashmir",
+            "a paramilitary force under the Ministry of Home Affairs"
+        ],
+        "answer": "an infantry regiment of the Indian Army"
+    },
+    {
+        "question": "Which one of the following is correct?",
+        "options": [
+            "Infantry Regiment is also known as the Mechanized Infantry Regiment.",
+            "Corps of Electrical and Mechanical Engineers is subsumed in the Corps of Engineers.",
+            "Army Medical Corps and Army Dental Corps are two divisions of the Army Service Corps.",
+            "Army has its own Corps of Air Defence."
+        ],
+        "answer": "Army has its own Corps of Air Defence."
+    },
+    {
+        "question": "Which one of the following is <i>not</i> one of the Commands of the Indian Army?",
+        "options": [
+            "South Western Command",
+            "North Eastern Command",
+            "Central Command",
+            "Army Training Command (ARTRAC)"
+        ],
+        "answer": "North Eastern Command"
+    },
+    {
+        "question": "Which one of the following statements is correct?",
+        "options": [
+            "The rank of Second Lieutenant has been abolished.",
+            "The Chief of Army Staff carries the rank of Field Marshal.",
+            "All officers posted to Andaman and Nicobar Islands wear the ranks of the Indian Navy.",
+            "The rank of Major General is higher than the rank of Lieutenant General."
+        ],
+        "answer": "The rank of Second Lieutenant has been abolished."
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an Air Defence Missile system?",
+        "options": [
+            "Akash",
+            "Trishul",
+            "Tatra",
+            "Astra"
+        ],
+        "answer": "Tatra"
+    },
+    {
+        "question": "Which one of the following statements is correct with respect to the composition of national income in India?",
+        "options": [
+            "The share of manufacturing sector has declined.",
+            "The share of services sector has increased sharply.",
+            "The share of agriculture has remained static.",
+            "The share of services sector has declined."
+        ],
+        "answer": "The share of services sector has increased sharply."
+    },
+    {
+        "question": "In India, the term 'hot money' is used to refer to",
+        "options": [
+            "Currency + Reserves with the RBI",
+            "Net GDR",
+            "Net Foreign Direct Investment",
+            "Foreign Portfolio Investment"
+        ],
+        "answer": "Foreign Portfolio Investment"
+    },
+    {
+        "question": "Which of the following is/are credit rating agency/agencies in India?",
+        "options": [
+            "CRISIL",
+            "CARE",
+            "ICRA",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Who among the following is the Chairman of the Fourteenth Finance Commission?",
+        "options": [
+            "C. Rangarajan",
+            "Vijay Kelkar",
+            "Y. V. Reddy",
+            "Rakesh Mohan"
+        ],
+        "answer": "Y. V. Reddy"
+    },
+    {
+        "question": "The members of NAFTA are",
+        "options": [
+            "USA, Canada and Mexico",
+            "USA, Canada and India",
+            "USA, Canada and Japan",
+            "USA, UK and India"
+        ],
+        "answer": "USA, Canada and Mexico"
+    },
+    {
+        "question": "Which of the following are constitutional provisions and laws for the protection of the rights of the Scheduled Castes in India?<br/><ol><li>Article 17 of the Constitution of India</li><li>The Protection of Civil Rights Act, 1955</li><li>The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2 and 3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> true about the powers of the Supreme Court?",
+        "options": [
+            "The Supreme Court has original and exclusive jurisdiction in inter-governmental disputes.",
+            "The Supreme Court has advisory jurisdiction on a question of law or fact which may be referred to it by the President of India.",
+            "The Supreme Court has the power to review its own judgment or order.",
+            "The Supreme Court has the exclusive power to issue writs to protect the fundamental rights of the people."
+        ],
+        "answer": "The Supreme Court has the exclusive power to issue writs to protect the fundamental rights of the people."
+    }
+
+    ,
+
+    {
+        "question": "The Sixth Schedule of the Constitution of India pertains to the administration of tribal areas in which of the following States?",
+        "options": [
+            "Assam, Meghalaya, Tripura and Mizoram",
+            "Meghalaya, Tripura, Manipur and Mizoram",
+            "Assam, Manipur, Meghalaya and Tripura",
+            "Manipur, Meghalaya, Tripura and Arunachal Pradesh"
+        ],
+        "answer": "Assam, Meghalaya, Tripura and Mizoram"
+    },
+    {
+        "question": "Which one of the following statements with regard to the Ninth Schedule of the Constitution of India is <i>not</i> correct?",
+        "options": [
+            "It was inserted by the Constitution (First Amendment) Act, 1951.",
+            "The Acts and Regulations specified in the Ninth Schedule shall become void on the ground that it violates a fundamental right in Part III of the Constitution.",
+            "The Supreme Court has the power of judicial review of an Act included in the Ninth Schedule on the doctrine of basic structure.",
+            "The appropriate Legislature can repeal or amend an Act specified in the Ninth Schedule."
+        ],
+        "answer": "The Acts and Regulations specified in the Ninth Schedule shall become void on the ground that it violates a fundamental right in Part III of the Constitution."
+    },
+    {
+        "question": "Consider the following statements about Harappan cities :<br/><ol><li>Roads were not always absolutely straight and did not always cross one another at right angles.</li><li>A striking feature is the uniformity in the average size of the bricks for houses and for city walls.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Term)</th><th>List-II (Meaning)</th></tr><tr><td>A. Kurinchi</td><td>1. Pastoral region</td></tr><tr><td>B. Palai</td><td>2. Seashore</td></tr><tr><td>C. Neytal</td><td>3. Arid region</td></tr><tr><td>D. Mullai</td><td>4. Mountainous region</td></tr></table><br/>Code :",
+        "options": [
+            "A-1, B-2, C-3, D-4",
+            "A-1, B-3, C-2, D-4",
+            "A-4, B-3, C-2, D-1",
+            "A-4, B-2, C-3, D-1"
+        ],
+        "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+        "question": "Which of the following statements with regard to the conduct of elections in India is/are <i>not</i> correct?<br/><ol><li>The responsibility for the preparation of the electoral rolls is vested in the Election Commission of India.</li><li>The Model Code of Conduct comes into existence as soon as the date of the election is announced.</li><li>The laws relating to delimitation of constituencies are made by the Election Commission of India.</li><li>No election shall be called in question except by an election petition.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "3 only",
+            "1, 2 and 4",
+            "1, 2 and 3",
+            "4 only"
+        ],
+        "answer": "3 only"
+    },
+    {
+        "question": "Which one of the following statements with regard to the National Commission for Scheduled Tribes is <i>not</i> correct?",
+        "options": [
+            "The Union and every State Government shall consult the Commission on all major policy matters affecting Scheduled Tribes.",
+            "All the reports of the Commission and its recommendations shall be laid only before Lok Sabha.",
+            "The Commission, while investigating any matter, has all the powers of a Civil Court.",
+            "The Commission has the power to regulate its own procedures."
+        ],
+        "answer": "All the reports of the Commission and its recommendations shall be laid only before Lok Sabha."
+    },
+    {
+        "question": "The right to form associations and unions is a right",
+        "options": [
+            "guaranteed to everybody",
+            "to freedom guaranteed to citizens only",
+            "to equality before law",
+            "to life and personal liberty"
+        ],
+        "answer": "to freedom guaranteed to citizens only"
+    },
+    {
+        "question": "Some Indian territory was transferred in 2015 to Bangladesh by following which procedure?",
+        "options": [
+            "By an agreement between the Government of India and the Government of Bangladesh",
+            "By a legislation passed by the Parliament amending Schedule 1 to the Constitution of India",
+            "By amending Schedule 1 to the Constitution of India by exercising amending power of the Parliament",
+            "By amending Schedule 1 to the Constitution of India by exercising amending power of the Parliament and ratification by sixteen State Legislatures"
+        ],
+        "answer": "By amending Schedule 1 to the Constitution of India by exercising amending power of the Parliament"
+    }
+
+    ]
 };
 
 export default gkData;
