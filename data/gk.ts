@@ -26987,6 +26987,1171 @@ export const gkData: Record<string, Question[]> = {
     }
 
     ]
+,
+    "2015-I": [
+    {
+        "question": "Genetic screening is",
+        "options": [
+            "analysis of DNA to check the presence of a particular gene in a person",
+            "analysis of gene in a population",
+            "pedigree analysis",
+            "screening of infertility in parents"
+        ],
+        "answer": "analysis of DNA to check the presence of a particular gene in a person"
+    },
+    {
+        "question": "Which of the following are the major factors responsible for the monsoon type of climate in India?<br/><ol><li>Location</li><li>Thermal contrast</li><li>Upper air circulation</li><li>The Himalayan Mountains</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 4 only",
+            "1, 2, 3 and 4",
+            "2, 3 and 4 only",
+            "1, 2 and 3 only"
+        ],
+        "answer": "1, 2, 3 and 4"
+    },
+    {
+        "question": "Consider the following Indian States :<br/><ol><li>Chhattisgarh</li><li>Telangana</li><li>Andhra Pradesh</li><li>Uttarakhand</li><li>Tamil Nadu</li></ol><br/>Which among the States given above are the largest and smallest respectively (in terms of geographical area)?",
+        "options": [
+            "3 and 4",
+            "3 and 2",
+            "1 and 4",
+            "2 and 5"
+        ],
+        "answer": "3 and 4"
+    },
+    {
+        "question": "Who among the following is considered as the father of genetic engineering?",
+        "options": [
+            "Philip Drinker",
+            "Paul Berg",
+            "Thomas Addison",
+            "Alpheus S. Packard Jr."
+        ],
+        "answer": "Paul Berg"
+    },
+    {
+        "question": "Which of the following cause(s) variation in the genetic material of progeny?<br/><ol><li>Sexual reproduction</li><li>Asexual reproduction</li><li>Mutations</li><li>Epigenetic changes</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "2 only",
+            "1, 2 and 3",
+            "1, 3 and 4",
+            "1 and 3 only"
+        ],
+        "answer": "1 and 3 only"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Plant)</th><th>List-II (Natural vegetation type)</th></tr><tr><td>A. Ebony</td><td>1. Moist deciduous</td></tr><tr><td>B. Shisham</td><td>2. Himalayan moist</td></tr><tr><td>C. Walnut</td><td>3. Alpine</td></tr><tr><td>D. Birch</td><td>4. Tropical evergreen</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-1, C-2, D-3",
+            "A-4, B-2, C-1, D-3",
+            "A-3, B-2, C-1, D-4",
+            "A-3, B-1, C-2, D-4"
+        ],
+        "answer": "A-4, B-1, C-2, D-3"
+    },
+    {
+        "question": "Cobalt is associated with",
+        "options": [
+            "growth hormone",
+            "vitamin B<sub>12</sub>",
+            "hemoglobin",
+            "intestinal enzymes"
+        ],
+        "answer": "vitamin B<sub>12</sub>"
+    },
+    {
+        "question": "Absorption of water in the human body can be found in<br/><ol><li>renal tubule in kidney</li><li>hepatic cells in liver</li><li>large intestine</li><li>pancreatic duct</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "1 and 3 only",
+            "2 and 4",
+            "3 only"
+        ],
+        "answer": "1 and 3 only"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Geological time scale)</th><th>List-II (Life-form)</th></tr><tr><td>A. Pleistocene</td><td>1. Mammals</td></tr><tr><td>B. Paleocene</td><td>2. Human genus</td></tr><tr><td>C. Permian</td><td>3. Invertebrates</td></tr><tr><td>D. Cambrian</td><td>4. Frogs</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-1, C-4, D-3",
+            "A-2, B-4, C-1, D-3",
+            "A-3, B-4, C-1, D-2",
+            "A-3, B-1, C-4, D-2"
+        ],
+        "answer": "A-2, B-1, C-4, D-3"
+    },
+    {
+        "question": "Measles is a disease caused by",
+        "options": [
+            "bacteria",
+            "virus",
+            "protozoa",
+            "worm"
+        ],
+        "answer": "virus"
+    },
+    {
+        "question": "Neutrophils and lymphocytes originate from",
+        "options": [
+            "kidney tubule",
+            "spleen",
+            "bone marrow",
+            "lymph node"
+        ],
+        "answer": "bone marrow"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Climate)</th><th>List-II (Characteristic)</th></tr><tr><td>A. Mediterranean</td><td>1. Temperature cycle is moderated by marine influence</td></tr><tr><td>B. Marine west coast</td><td>2. Warm summers and cold winters with three months below freezing. Very large annual temperature range</td></tr><tr><td>C. Dry mid-latitude</td><td>3. Strong temperature cycle with large annual range. Warm summers to hot and cold winters to very cold</td></tr><tr><td>D. Moist continental</td><td>4. Temperature range is moderate with warm to hot summers and mild winters</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-1, C-3, D-4",
+            "A-2, B-3, C-1, D-4",
+            "A-4, B-3, C-1, D-2",
+            "A-4, B-1, C-3, D-2"
+        ],
+        "answer": "A-4, B-1, C-3, D-2"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Weathering type)</th><th>List-II (Landform/Process)</th></tr><tr><td>A. Chemical weathering</td><td>1. Till</td></tr><tr><td>B. Mechanical weathering</td><td>2. Oxidation</td></tr><tr><td>C. Glacial deposits</td><td>3. Plant roots</td></tr><tr><td>D. Deposition by ground-water</td><td>4. Stalactite</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-3, C-1, D-4",
+            "A-2, B-1, C-3, D-4",
+            "A-4, B-1, C-3, D-2",
+            "A-4, B-3, C-1, D-2"
+        ],
+        "answer": "A-2, B-3, C-1, D-4"
+    },
+    {
+        "question": "The mandate of the scheme entitled 'Directly Observed Treatment, Short-Course (DOTS)' launched by WHO is to ensure that",
+        "options": [
+            "doctors treat patients with medicine for a short duration",
+            "doctors do not start treatment without a trial",
+            "patients complete their course of drug",
+            "patients voluntarily take vaccines"
+        ],
+        "answer": "patients complete their course of drug"
+    },
+    {
+        "question": "If a ship has to go from Chennai to Kochi, it has to go around Sri Lanka rather than crossing through the Palk Strait. Why?",
+        "options": [
+            "The Palk Strait has disputed islands and the Sri Lankan Navy does not allow the ships to cross through",
+            "It is too shallow for ships to cross",
+            "Shipping is prohibited through the Strait due to its religious significance connected with the epic <i>Ramayana</i>",
+            "The around Sri Lanka route is actually shorter than crossing through the Palk Strait"
+        ],
+        "answer": "It is too shallow for ships to cross"
+    },
+    {
+        "question": "Penicillin inhibits synthesis of bacterial",
+        "options": [
+            "cell wall",
+            "protein",
+            "RNA",
+            "DNA"
+        ],
+        "answer": "cell wall"
+    },
+    {
+        "question": "Which of the following State capitals of North-East India is/are connected by Indian Railways?<br/><ol><li>Imphal</li><li>Agartala</li><li>Kohima</li><li>Aizawl</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "2 and 4",
+            "1, 3 and 4",
+            "2 only"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Most antibiotics target bacterial parasites interfering with various factors of growth or metabolism such as<br/><ol><li>synthesis of cell wall</li><li>bacterial protein synthesis</li><li>synthesis of nuclear membrane</li><li>mitochondrial function</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "1 and 4",
+            "2 and 3 only",
+            "1 and 2 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Region)</th><th>List-II (State)</th></tr><tr><td>A. Baghelkhand</td><td>1. West Bengal</td></tr><tr><td>B. Kuttanad</td><td>2. Madhya Pradesh</td></tr><tr><td>C. Saurashtra</td><td>3. Kerala</td></tr><tr><td>D. Rarh</td><td>4. Gujarat</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-3, C-4, D-1",
+            "A-2, B-4, C-3, D-1",
+            "A-1, B-3, C-4, D-2",
+            "A-1, B-4, C-3, D-2"
+        ],
+        "answer": "A-2, B-3, C-4, D-1"
+    },
+    {
+        "question": "Which of the following statements with regard to Portland cement are correct?<br/><ol><li>Silica imparts strength to cement.</li><li>Alumina makes the cement quick setting.</li><li>Excess of lime increases the strength of cement.</li><li>Calcium sulphate decreases the initial setting time of cement.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "2 and 4 only",
+            "1 and 3",
+            "1, 2 and 4",
+            "1 and 2 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (City)</th><th>List-II (Earthquake zone)</th></tr><tr><td>A. Kolkata</td><td>1. Zone V</td></tr><tr><td>B. Guwahati</td><td>2. Zone IV</td></tr><tr><td>C. Delhi</td><td>3. Zone III</td></tr><tr><td>D. Chennai</td><td>4. Zone II</td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-2, C-1, D-4",
+            "A-3, B-1, C-2, D-4",
+            "A-4, B-1, C-2, D-3",
+            "A-4, B-2, C-1, D-3"
+        ],
+        "answer": "A-3, B-1, C-2, D-4"
+    },
+    {
+        "question": "Red phosphorus is used in the manufacture of safety matches. This is due to the fact that",
+        "options": [
+            "it shows phosphorescence",
+            "at ordinary temperature, it is less reactive than other varieties of phosphorus",
+            "it cannot be converted to white phosphorus on heating",
+            "it does not react with halogen on heating"
+        ],
+        "answer": "at ordinary temperature, it is less reactive than other varieties of phosphorus"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Lake)</th><th>List-II (Type)</th></tr><tr><td>A. Ashtamudi Kayal</td><td>1. Residual (sweet water)</td></tr><tr><td>B. Himayat Sagar</td><td>2. Lagoon</td></tr><tr><td>C. Dal Lake</td><td>3. Glacial</td></tr><tr><td>D. Tsomgo Lake</td><td>4. Artificial (sweet water)</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-3, C-4, D-1",
+            "A-2, B-4, C-1, D-3",
+            "A-1, B-4, C-3, D-2",
+            "A-1, B-3, C-4, D-2"
+        ],
+        "answer": "A-2, B-4, C-1, D-3"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Exponent)</th><th>List-II (Law)</th></tr><tr><td>A. John Dalton</td><td>1. Law of definite proportion by volume</td></tr><tr><td>B. Joseph Proust</td><td>2. Law of multiple proportion</td></tr><tr><td>C. Antoine Lavoisier</td><td>3. Law of definite proportion by weight</td></tr><tr><td>D. Joseph Louis Gay-Lussac</td><td>4. Law of conservation of mass</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-3, C-4, D-1",
+            "A-2, B-4, C-3, D-1",
+            "A-1, B-4, C-3, D-2",
+            "A-1, B-3, C-4, D-2"
+        ],
+        "answer": "A-2, B-3, C-4, D-1"
+    }
+,
+
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Farming area)</th><th>List-II (State)</th></tr><tr><td>A. Doab</td><td>1. Assam</td></tr><tr><td>B. Char</td><td>2. Karnataka</td></tr><tr><td>C. Maidan</td><td>3. Punjab</td></tr><tr><td>D. Terai</td><td>4. Uttar Pradesh</td></tr></table><br/>Code :",
+        "options": [
+            "A-3, B-2, C-1, D-4",
+            "A-3, B-1, C-2, D-4",
+            "A-4, B-1, C-2, D-3",
+            "A-4, B-2, C-1, D-3"
+        ],
+        "answer": "A-3, B-1, C-2, D-4"
+    },
+    {
+        "question": "Which of the following is <i>not</i> gaseous air pollutant?",
+        "options": [
+            "Oxides of sulphur",
+            "Oxides of nitrogen",
+            "Hydrocarbon",
+            "Smoke"
+        ],
+        "answer": "Smoke"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Steel mill)</th><th>List-II (State)</th></tr><tr><td>A. Kalinganagar</td><td>1. West Bengal</td></tr><tr><td>B. Vijayanagar</td><td>2. Tamil Nadu</td></tr><tr><td>C. Salem</td><td>3. Odisha</td></tr><tr><td>D. Durgapur</td><td>4. Karnataka</td></tr></table><br/>Code :",
+        "options": [
+            "A-1, B-4, C-2, D-3",
+            "A-1, B-2, C-4, D-3",
+            "A-3, B-4, C-2, D-1",
+            "A-3, B-2, C-4, D-1"
+        ],
+        "answer": "A-3, B-4, C-2, D-1"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "Water starts boiling when its vapour pressure becomes equal to atmospheric pressure.",
+            "Water is known as universal solvent.",
+            "Permanent hardness of water is due to presence of MgCl<sub>2</sub>, CaCl<sub>2</sub>, MgSO<sub>4</sub> and CaSO<sub>4</sub>.",
+            "Density of ice is greater than that of water."
+        ],
+        "answer": "Density of ice is greater than that of water."
+    },
+    {
+        "question": "Which one of the following is the pattern of circulation around a low-pressure area in the northern hemisphere?",
+        "options": [
+            "Counter-clockwise and away from the centre",
+            "Clockwise and away from the centre",
+            "Counter-clockwise and towards the centre",
+            "Clockwise and towards the centre"
+        ],
+        "answer": "Counter-clockwise and towards the centre"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> true for diamond?",
+        "options": [
+            "Each carbon atom is linked to four other carbon atoms",
+            "Three-dimensional network structure of carbon atoms is formed",
+            "It is used as an abrasive for sharpening hard tools",
+            "It can be used as a lubricant"
+        ],
+        "answer": "It can be used as a lubricant"
+    },
+    {
+        "question": "Which one of the following statements about the atmosphere is correct?",
+        "options": [
+            "The atmosphere has definite upper limits but gradually thins until it becomes imperceptible.",
+            "The atmosphere has no definite upper limits but gradually thins until it becomes imperceptible.",
+            "The atmosphere has definite upper limits but gradually thickens until it becomes imperceptible.",
+            "The atmosphere has no definite upper limits but gradually thickens until it becomes imperceptible."
+        ],
+        "answer": "The atmosphere has no definite upper limits but gradually thins until it becomes imperceptible."
+    },
+    {
+        "question": "The atomic theory of matter was first proposed by",
+        "options": [
+            "John Dalton",
+            "Rutherford",
+            "J. J. Thomson",
+            "Niels Bohr"
+        ],
+        "answer": "John Dalton"
+    },
+    {
+        "question": "Which one among the following statements about diastrophism is correct?",
+        "options": [
+            "The forces may be so slow and gradual that they pass unnoticed for a long period of time.",
+            "The forces may be both slow and sudden that they pass for a short period of time.",
+            "The forces may be sudden and so fast that they pass unnoticed for a long period of time.",
+            "The forces may be slow but for a short period of time."
+        ],
+        "answer": "The forces may be so slow and gradual that they pass unnoticed for a long period of time."
+    },
+    {
+        "question": "A body is falling freely under the action of gravity alone in vacuum. Which one of the following remains constant during the fall?",
+        "options": [
+            "Potential energy",
+            "Kinetic energy",
+            "Total linear momentum",
+            "Total mechanical energy"
+        ],
+        "answer": "Total mechanical energy"
+    },
+    {
+        "question": "X-rays are",
+        "options": [
+            "deflected by an electric field but not by a magnetic field",
+            "deflected by a magnetic field but not by an electric field",
+            "deflected by both a magnetic field and an electric field",
+            "not deflected by an electric field or a magnetic field"
+        ],
+        "answer": "not deflected by an electric field or a magnetic field"
+    },
+    {
+        "question": "Which one of the following minerals contains mostly silica?",
+        "options": [
+            "Mica",
+            "Quartz",
+            "Olivine",
+            "Pyroxene"
+        ],
+        "answer": "Quartz"
+    },
+    {
+        "question": "The focal length of the lens of a normal human eye is about",
+        "options": [
+            "25 cm",
+            "1 m",
+            "2&middot;5 mm",
+            "2&middot;5 cm"
+        ],
+        "answer": "2&middot;5 cm"
+    },
+    {
+        "question": "Which one of the following statements is correct?",
+        "options": [
+            "Cold fronts move at slower rate than warm fronts and therefore cannot overtake the warm fronts.",
+            "Cold fronts normally move faster than warm fronts and therefore frequently overtake the warm fronts.",
+            "Cold fronts move at slower rate, and eventually they are overtaken by the warm fronts.",
+            "Cold fronts move faster than warm fronts but they cannot overtake the warm fronts."
+        ],
+        "answer": "Cold fronts normally move faster than warm fronts and therefore frequently overtake the warm fronts."
+    },
+    {
+        "question": "Which one of the following physical quantities is the same for molecules of all gases at a given temperature?",
+        "options": [
+            "Speed",
+            "Mass",
+            "Kinetic energy",
+            "Momentum"
+        ],
+        "answer": "Kinetic energy"
+    },
+    {
+        "question": "Newton's laws of motion do not hold good for objects",
+        "options": [
+            "at rest",
+            "moving slowly",
+            "moving with high velocity",
+            "moving with velocity comparable to velocity of light"
+        ],
+        "answer": "moving with velocity comparable to velocity of light"
+    },
+    {
+        "question": "Which of the following elements are found in highest and lowest quantities respectively in the crust of the earth?",
+        "options": [
+            "Oxygen and silicon",
+            "Calcium and sodium",
+            "Sodium and magnesium",
+            "Oxygen and magnesium"
+        ],
+        "answer": "Oxygen and magnesium"
+    },
+    {
+        "question": "Which one of the following statements is <i>not</i> correct?",
+        "options": [
+            "Weight of a body is different on different planets.",
+            "Mass of a body on the earth, on the moon and in empty space is the same.",
+            "Weightlessness of a body occurs when the gravitational forces acting on it are counter-balanced.",
+            "Weight and mass of a body are equal at sea level on the surface of the earth."
+        ],
+        "answer": "Weight and mass of a body are equal at sea level on the surface of the earth."
+    },
+    {
+        "question": "A brick is thrown vertically from an aircraft flying two kilometres above the earth. The brick will fall with a",
+        "options": [
+            "constant speed",
+            "constant velocity",
+            "constant acceleration",
+            "constant speed for some time then with constant acceleration as it nears the earth"
+        ],
+        "answer": "constant acceleration"
+    },
+    {
+        "question": "This item consists of two statements, Statement I and Statement II.<br/><br/>Statement I :<br/>The Kuroshio is a warm north-flowing ocean current on the west side of the North Pacific Ocean.<br/><br/>Statement II :<br/>Presence of a number of volcanoes at the bottom of the Sea of Japan is responsible for the Kuroshio becoming warm.<br/><br/>Examine these two statements carefully and select the answer to the item using the code given below.<br/><br/><i>Code :</i>",
+        "options": [
+            "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+            "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Statement I is true but Statement II is false"
+    },
+    {
+        "question": "The outside rearview mirror of modern automobiles is marked with warning 'objects in mirror are closer than they appear'. Such mirrors are",
+        "options": [
+            "plane mirrors",
+            "concave mirrors with very large focal lengths",
+            "concave mirrors with very small focal lengths",
+            "convex mirrors"
+        ],
+        "answer": "convex mirrors"
+    },
+    {
+        "question": "A Bill is deemed to be a 'Money Bill' if it has any provisions dealing with<br/><ol><li>imposition, abolition, remission, alteration or regulation of any tax</li><li>appropriation of money from the Consolidated Fund of India</li><li>imposition of fines or other pecuniary penalties</li><li>payment of fee for licences or fee for service rendered</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1, 3 and 4",
+            "1, 2 and 3",
+            "2 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Consider the following statements about Alauddin Khalji's market policy :<br/><ol><li>He placed markets under the control of a high officer called 'Shahna' for strictly controlling the shopkeepers and prices.</li><li>In order to ensure a regular supply of cheap food grains, he ordered the land revenue from Doab region to be paid directly to the State.</li></ol><br/>Which of the statements given above is/are correct?",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a part of service sector in India?",
+        "options": [
+            "Transport",
+            "Construction",
+            "Hotels and restaurants",
+            "Insurance"
+        ],
+        "answer": "Construction"
+    },
+    {
+        "question": "Which of the following is/are <i>not</i> central feature(s) of Article 343 of the Constitution of India?<br/><ol><li>Hindi in Devanagari Script shall be the national language of the Union.</li><li>The official language of the Union shall be Hindi in Devanagari Script.</li><li>English language shall continue to be used for official purposes within States.</li><li>If two or more States agree, Hindi language should be the official language of communication between the States.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 3 and 4",
+            "2 and 4 only",
+            "2, 3 and 4",
+            "2 only"
+        ],
+        "answer": "1, 3 and 4"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Term)</th><th>List-II (Meaning)</th></tr><tr><td>A. Mihrab</td><td>1. Stepped pulpit</td></tr><tr><td>B. Mimbar</td><td>2. Direction towards the Kaba for prayer</td></tr><tr><td>C. Khutba</td><td>3. Arch</td></tr><tr><td>D. Kibla</td><td>4. Sermon</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-1, C-4, D-3",
+            "A-2, B-4, C-1, D-3",
+            "A-3, B-4, C-1, D-2",
+            "A-3, B-1, C-4, D-2"
+        ],
+        "answer": "A-3, B-1, C-4, D-2"
+    },
+    {
+        "question": "Under flexible exchange rate system, the exchange rate is determined",
+        "options": [
+            "predominantly by market mechanism",
+            "by the Central Bank",
+            "as a weighted index of a group of currencies",
+            "by the World Trade Organization"
+        ],
+        "answer": "predominantly by market mechanism"
+    },
+    {
+        "question": "After the general elections, the Pro tem Speaker is",
+        "options": [
+            "elected by the Lok Sabha",
+            "appointed by the President of India",
+            "appointed by the Chief Justice of the Supreme Court",
+            "the senior most member of the Lok Sabha"
+        ],
+        "answer": "appointed by the President of India"
+    }
+
+    ,
+
+    {
+        "question": "Which of the following is/are <i>not</i> central tenet(s) of the Constitution of India?<br/><ol><li>Prohibits discrimination on grounds of religion</li><li>Gives official status to certain religions</li><li>Provides freedom to profess any religion</li><li>Ensures equality of all citizens within religious communities</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "3 and 4 only",
+            "2, 3 and 4",
+            "2 only"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "The 'Sur Sagar' is",
+        "options": [
+            "a medieval treatise on music composed by Tansen",
+            "a poetic work of Surdas",
+            "memories of Bahadur Shah Zafar",
+            "None of the above"
+        ],
+        "answer": "a poetic work of Surdas"
+    },
+    {
+        "question": "Private investment in Indian agriculture is mostly on labour-saving mechanization. This could be a response to",
+        "options": [
+            "rising productivity of agricultural sector",
+            "rising inequality in agriculture",
+            "rising wages and tighter labour market",
+            "debt write-off by the Government"
+        ],
+        "answer": "rising wages and tighter labour market"
+    },
+    {
+        "question": "Which of the following facts are related to Burma (Myanmar)?<br/><ol><li>It shares its borders with India, China, Bangladesh and Vietnam.</li><li>It is ruled by a military government.</li><li>The National League for Democracy was not allowed to contest the elections held in the year 2010.</li><li>Myanmar is a member of ASEAN.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 3",
+            "2, 3 and 4",
+            "1, 2 and 4",
+            "1 and 2 only"
+        ],
+        "answer": "2, 3 and 4"
+    },
+    {
+        "question": "Who among the following was <i>not</i> a painter at Akbar's Court?",
+        "options": [
+            "Daswanth",
+            "Abdus Samad",
+            "Kalyan Das",
+            "Basawan"
+        ],
+        "answer": "Kalyan Das"
+    },
+    {
+        "question": "Which one of the following is the major source of gross tax revenue (GTR) for the Government of India?",
+        "options": [
+            "Income tax",
+            "Corporation tax",
+            "Customs duty",
+            "Service tax"
+        ],
+        "answer": "Corporation tax"
+    },
+    {
+        "question": "Which of the following are members of BRICS?",
+        "options": [
+            "Bhutan, Russia, India, China and Sri Lanka",
+            "Brazil, Russia, India, China and South Africa",
+            "Brazil, Russia, Indonesia, China and Singapore",
+            "Bangladesh, Republic of Korea, Indonesia, Canada and Sri Lanka"
+        ],
+        "answer": "Brazil, Russia, India, China and South Africa"
+    },
+    {
+        "question": "After the death of Shivaji, there was a fight for succession between",
+        "options": [
+            "Shambhaji and the widow of Shivaji",
+            "Shambhaji and Bajirao",
+            "Rajaram and Shambhaji",
+            "None of them"
+        ],
+        "answer": "Rajaram and Shambhaji"
+    },
+    {
+        "question": "Which one of the following is a non-renewable resource?",
+        "options": [
+            "Solar energy",
+            "Coal",
+            "Water",
+            "Fisheries"
+        ],
+        "answer": "Coal"
+    },
+    {
+        "question": "The 'Panchsheel Agreement' for peaceful coexistence was signed between",
+        "options": [
+            "India and Bhutan",
+            "India and Nepal",
+            "India and China",
+            "India and Pakistan"
+        ],
+        "answer": "India and China"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Author)</th><th>List-II (Work)</th></tr><tr><td>A. Somadeva</td><td>1. Malavikagnimitra</td></tr><tr><td>B. Kalidasa</td><td>2. Kathasaritsagara</td></tr><tr><td>C. Bhasa</td><td>3. Chaurapanchasika</td></tr><tr><td>D. Bilhana</td><td>4. Svapnavasavadatta</td></tr></table><br/>Code :",
+        "options": [
+            "A-2, B-1, C-4, D-3",
+            "A-3, B-4, C-1, D-2",
+            "A-2, B-4, C-1, D-3",
+            "A-3, B-1, C-4, D-2"
+        ],
+        "answer": "A-2, B-1, C-4, D-3"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> an example of externalities?",
+        "options": [
+            "Pollution of air by a cement factory",
+            "Health hazard caused to the person due to smoking by himself/herself",
+            "Smoke coming out of neighbour's vehicle",
+            "Increase in land price of adjacent plots due to construction of a road by the Government"
+        ],
+        "answer": "Health hazard caused to the person due to smoking by himself/herself"
+    },
+    {
+        "question": "'Rio + 20' is the short name for",
+        "options": [
+            "Millennium Development Goals",
+            "United Nations Conference on Sustainable Development",
+            "Earth Summit",
+            "Post-2015 Development Agenda"
+        ],
+        "answer": "United Nations Conference on Sustainable Development"
+    },
+    {
+        "question": "Patanjali was",
+        "options": [
+            "a philosopher of the 'Yogachara' school",
+            "the author of a book on Ayurveda",
+            "a philosopher of the 'Madhyamika' school",
+            "the author of a commentary on Panini's Sanskrit grammar"
+        ],
+        "answer": "the author of a commentary on Panini's Sanskrit grammar"
+    },
+    {
+        "question": "Which of the following statements in the context of income-environment relationship is/are correct?<br/><ol><li>Pollution trends tend to follow an inverse-U shaped relationship across different stages of economic development.</li><li>In the beginning stage, pollution increases due to urbanization and industrialization.</li><li>In the later stage, pollution declines due to structural changes towards services sector.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "1, 2 and 3",
+            "2 and 3 only"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a member of MERCOSUR (Southern Common Market)?",
+        "options": [
+            "Argentina",
+            "Paraguay",
+            "Uruguay",
+            "Chile"
+        ],
+        "answer": "Chile"
+    },
+    {
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (King)</th><th>List-II (Region)</th></tr><tr><td>A. Shashanka</td><td>1. Assam</td></tr><tr><td>B. Kharavela</td><td>2. Maharashtra</td></tr><tr><td>C. Simuka</td><td>3. Orissa</td></tr><tr><td>D. Bhaskara Varman</td><td>4. Bengal</td></tr></table><br/>Code :",
+        "options": [
+            "A-4, B-2, C-3, D-1",
+            "A-1, B-3, C-2, D-4",
+            "A-4, B-3, C-2, D-1",
+            "A-1, B-2, C-3, D-4"
+        ],
+        "answer": "A-4, B-3, C-2, D-1"
+    },
+    {
+        "question": "Which one of the following represents a progressive tax structure?",
+        "options": [
+            "Tax rate is the same across all incomes",
+            "Tax rate increases as income increases",
+            "Tax rate decreases as income increases",
+            "Each household pays equal amount of tax"
+        ],
+        "answer": "Tax rate increases as income increases"
+    },
+    {
+        "question": "The Constitution of India guarantees freedom of thought and expression to all its citizens subject to<br/><ol><li>implementation of Directive Principles</li><li>Fundamental Duties</li><li>Right to Equality</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "2 and 3 only",
+            "1 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "In ancient India, the 'Yaudheyas' were",
+        "options": [
+            "a sect of the Buddhism",
+            "a sect of the Jainism",
+            "a republican tribe",
+            "Vassals of the Cholas"
+        ],
+        "answer": "a republican tribe"
+    },
+    {
+        "question": "Which one of the following is an example of a 'natural monopoly'?",
+        "options": [
+            "Indian Airlines",
+            "Delhi Jal Board",
+            "Delhi Transport Corporation",
+            "Steel Authority of India"
+        ],
+        "answer": "Delhi Jal Board"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a component of the Realist Theory?",
+        "options": [
+            "The State is the preeminent actor",
+            "State sovereignty is important for the affirmation of juridical authority over territory",
+            "The primary objective of all States is survival",
+            "Survival can be assured in cooperation with international organizations"
+        ],
+        "answer": "Survival can be assured in cooperation with international organizations"
+    },
+    {
+        "question": "The <i>Dashakumaracharita</i> or 'Tales of Ten Princes' was composed by",
+        "options": [
+            "Bhatti",
+            "Banabhatta",
+            "Bhasa",
+            "Dandin"
+        ],
+        "answer": "Dandin"
+    },
+    {
+        "question": "What is meant by price discrimination?",
+        "options": [
+            "Increase in price of a commodity over time",
+            "A situation where the same product is sold to different consumers for different prices",
+            "Subsidization of a product by the Government to sell it at a lower price",
+            "General decrease in price of a commodity over time"
+        ],
+        "answer": "A situation where the same product is sold to different consumers for different prices"
+    },
+    {
+        "question": "Which one of the following does <i>not</i> form part of Immanuel Kant's theory of 'perpetual peace'?",
+        "options": [
+            "Republican Constitutionalism",
+            "Federal contract among States to abolish war",
+            "World Government",
+            "Transformation of individual consciousness"
+        ],
+        "answer": "World Government"
+    },
+    {
+        "question": "Borobudur is the site of",
+        "options": [
+            "a huge temple of Vishnu and Shiva in Java, built in the 12th Century AD",
+            "an enormous Stupa in Java, built in the 8th Century AD",
+            "a magnificent palace of a Chola King in Tamil Nadu",
+            "a Jain Monastery in Gujarat"
+        ],
+        "answer": "an enormous Stupa in Java, built in the 8th Century AD"
+    }
+
+    ,
+
+    {
+        "question": "What is meant by 'Public Good'?",
+        "options": [
+            "A commodity produced by the Government",
+            "A commodity whose benefits are indivisibly spread among the entire community",
+            "A Government scheme that benefits the poor households",
+            "Any commodity that is very popular among general public"
+        ],
+        "answer": "A commodity whose benefits are indivisibly spread among the entire community"
+    },
+    {
+        "question": "Which one of the following statements about the process of the Parliament to make new States is <i>not</i> correct?",
+        "options": [
+            "The Parliament may by law form a new State and alter the boundaries or names of existing States.",
+            "A Bill to this effect cannot be introduced in the Parliament except on the recommendation of the President.",
+            "A Bill to this effect may be referred by the President to the Legislature of the affected State.",
+            "Such a law will fall under the purview of Article 368."
+        ],
+        "answer": "Such a law will fall under the purview of Article 368."
+    },
+    {
+        "question": "Which one of the following statements with regard to India's economy between 1814 to 1860 is <i>not</i> correct?",
+        "options": [
+            "Between 1814 and 1850, four commodities dominated India's exports&mdash;raw silk, opium, cotton and indigo.",
+            "Between 1814 and 1860, five commodities dominated India's exports&mdash;raw silk, opium, cotton, indigo and jute.",
+            "Indigo and raw silk required processing techniques.",
+            "Indigo and raw silk were financed by foreign capital."
+        ],
+        "answer": "Between 1814 and 1860, five commodities dominated India's exports&mdash;raw silk, opium, cotton, indigo and jute."
+    },
+    {
+        "question": "In view of the fact that kerosene is an inferior good in India, what is/are its implication(s)?<br/><ol><li>As households get richer, they consume less kerosene.</li><li>Over time there is a decline in quality of kerosene.</li><li>Government needs to stop subsidies on kerosene.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Which of the following statements with regard to citizenship provisions of the Constitution of India is/are correct?<br/><ol><li>No person shall be a citizen of India by virtue of Article 5, or be deemed to be a citizen of India by virtue of Article 6 or Article 8, if he/she has voluntarily acquired the citizenship of any foreign State.</li><li>The Parliament has power to make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2"
+    },
+    {
+        "question": "The protection against arrest and detention under Article 22 of the Constitution of India is <i>not</i> available to<br/><ol><li>an enemy alien</li><li>a person detained under a preventive detention law</li><li>a foreigner</li><li>an overseas citizen of India</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "1, 3 and 4",
+            "1, 2 and 3",
+            "3 and 4 only"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which of the following statements about the Hastings Plan of 1772 is/are correct?<br/><ol><li>Each district was to have a civil and a criminal Court.</li><li>The Judges were helped by native assessors who were skilled in Hindu and Islamic laws.</li><li>The Sadar Diwani Adalat was mainly meant to settle mercantile cases exceeding ₹ 10,000 in value.</li><li>These Courts did not put into place any procedural improvements.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2",
+            "3 and 4",
+            "2 and 4",
+            "2 only"
+        ],
+        "answer": "1 and 2"
+    },
+    {
+        "question": "Which of the following statements about the formation of the Indian National Congress are true?<br/><ol><li>The Indian National Congress was formed at a national convention held in Calcutta in December 1885 under the Presidency of Motilal Nehru.</li><li>The Safety Valve Theory regarding the formation of the Indian National Congress emerged from a biography of A. O. Hume written by William Wedderburn.</li><li>An early decision was that the President would be from the same region where the session was to be held.</li><li>W. C. Banerjee was the first President of the Indian National Congress.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 4",
+            "2 and 3",
+            "2 and 4 only",
+            "1 and 3"
+        ],
+        "answer": "2 and 4 only"
+    },
+    {
+        "question": "Which of the following factors led to a decline in inflation rate in India during 2014&ndash;2015?<br/><ol><li>Persistent decline in crude oil prices</li><li>Softness in global prices of tradables such as edible oils and coal</li><li>Tight monetary policy pursued by the Reserve Bank of India</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Freedom of conscience under the Constitution of India is subject to<br/><ol><li>public order, morality and health</li><li>a law providing for social welfare and reform</li><li>opening Hindu religious institutions of a public character to all Hindus</li><li>defamation or incitement to an offence</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2, 3 and 4",
+            "1, 2 and 3 only",
+            "3 and 4 only",
+            "1 and 2 only"
+        ],
+        "answer": "1, 2 and 3 only"
+    },
+    {
+        "question": "Which of the following Fundamental Rights is/are available to non-citizens?<br/><ol><li>Equality before Law</li><li>Right against Discrimination</li><li>Equality of Opportunity</li><li>Protection of Life and Personal Liberty</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 4 only",
+            "1, 2 and 4",
+            "2 and 3"
+        ],
+        "answer": "1 and 4 only"
+    },
+    {
+        "question": "Which of the following statements about the formation of the Constituent Assembly is/are correct?<br/><ol><li>The members of the Constituent Assembly were chosen on the basis of the provincial elections of 1946.</li><li>The Constituent Assembly did not include representatives of the Princely States.</li><li>The discussions within the Constituent Assembly were not influenced by opinions expressed by the public.</li><li>In order to create a sense of collective participation, submissions were solicited from the public.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 and 3",
+            "3 and 4",
+            "1 and 4"
+        ],
+        "answer": "1 and 4"
+    },
+    {
+        "question": "Which of the following statements about Jyotirao Phule's Satyashodhak Samaj Movement in Maharashtra is/are true?<br/><ol><li>The Satyashodhak Samaj was set up in 1873.</li><li>Phule argued that Brahmins were the progeny of 'alien' Aryans.</li><li>Phule's focus on the Kunbi peasantry in the 1880s and 1890s led to a privileging of Maratha identity.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "2 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3"
+    },
+    {
+        "question": "Which of the following laws have been repealed by the Constitution of India?<br/><ol><li>The Government of India Act, 1935</li><li>The Indian Independence Act, 1947</li><li>The Abolition of Privy Council Jurisdiction Act, 1949</li><li>The Preventive Detention Act, 1950</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 and 2 only",
+            "2 and 4 only",
+            "1 and 3",
+            "1, 2 and 4"
+        ],
+        "answer": "1 and 2 only"
+    },
+    {
+        "question": "Which of the following statements about Maulvi Ahmadullah Shah, who played an important part in the Revolt of 1857, is/are correct?<br/><ol><li>He was popularly known as Danka Shah or the Maulvi with a drum.</li><li>He fought in the famous Battle of Chinhat.</li><li>He was killed by British troops under the command of Henry Lawrence.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "1 and 3",
+            "2 and 3",
+            "1 and 2"
+        ],
+        "answer": "1 and 2"
+    },
+    {
+        "question": "A writ of Habeas Corpus for the release of a person can be issued<br/><ol><li>where the arrest or detention has taken place in contravention of the procedure established by law</li><li>to secure the release of a person imprisoned on a criminal charge</li><li>where the arrest has taken place for contempt of Court or the Parliament</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "1 only",
+            "1 and 2 only"
+        ],
+        "answer": "1 only"
+    },
+    {
+        "question": "Who among the following is the author of the autobiography entitled <i>Aamar Katha</i> (1913)?",
+        "options": [
+            "Satyajit Ray",
+            "Rassundari Devi",
+            "Ganesh Chandra Ghosh",
+            "Binodini Dasi"
+        ],
+        "answer": "Binodini Dasi"
+    },
+    {
+        "question": "Which one of the following statements about the Companies Act, 2013 is <i>not</i> correct?",
+        "options": [
+            "The Act regulates the corporate sector to make it accountable.",
+            "It provides for Corporate Social Responsibility.",
+            "It provides more opportunities for new entrepreneurs.",
+            "It enables wide application of Information Technology."
+        ],
+        "answer": "It provides more opportunities for new entrepreneurs."
+    },
+    {
+        "question": "Which one of the following changes has <i>not</i> been made to the Citizenship Act of India by the Amendment in 2015?",
+        "options": [
+            "The Overseas Citizens of India will now be called the Overseas Citizens of India Cardholders",
+            "The Non-Resident Indians are entitled to vote in elections in India",
+            "The Persons of Indian Origin have been placed at par with the Overseas Citizens of India",
+            "The Persons of Indian Origin are now entitled to lifelong visa to visit India"
+        ],
+        "answer": "The Non-Resident Indians are entitled to vote in elections in India"
+    },
+    {
+        "question": "Name the French revolutionary who wrote <i>Declaration of the Rights of Woman and Female Citizen</i>.",
+        "options": [
+            "Olympe de Gouges",
+            "Nancy Ruhling",
+            "Maximilien Robespierre",
+            "Mary Wollstonecraft"
+        ],
+        "answer": "Olympe de Gouges"
+    },
+    {
+        "question": "Which one of the following statements about Electoral Government in India is <i>not</i> correct?",
+        "options": [
+            "The superintendence, direction and control of elections are vested in the Election Commission of India.",
+            "There is one general electoral roll for every territorial constituency.",
+            "The Parliament has the power to make laws relating to the delimitation of constituencies.",
+            "The Supreme Court of India has the authority to scrutinize the validity of a law relating to delimitation of constituencies."
+        ],
+        "answer": "The Supreme Court of India has the authority to scrutinize the validity of a law relating to delimitation of constituencies."
+    },
+    {
+        "question": "The electronic voting machines are developed jointly with<br/><ol><li>Bharat Heavy Electricals Limited</li><li>Bharat Electronics Limited</li><li>Electronics Corporation of India Limited</li><li>Bharat Sanchar Nigam Limited</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1, 2 and 3",
+            "2 and 3 only",
+            "2 and 4",
+            "3 and 4"
+        ],
+        "answer": "2 and 3 only"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> a recommendation of the Fourteenth Finance Commission?",
+        "options": [
+            "Share of States in Central Divisible Pool is increased from 32 per cent to 42 per cent",
+            "Area under forest cover is an important variable in distribution of States' share among States",
+            "Fiscal discipline is dropped as a variable in distribution of States' share among States",
+            "Sector specific grant is recommended as in the previous Finance Commissions"
+        ],
+        "answer": "Sector specific grant is recommended as in the previous Finance Commissions"
+    },
+    {
+        "question": "Khan Shaheb Osman Ali Stadium is located at",
+        "options": [
+            "Karachi",
+            "Dhaka",
+            "Fatullah",
+            "Chittagong"
+        ],
+        "answer": "Fatullah"
+    },
+    {
+        "question": "May 31 is celebrated as 'World No Tobacco Day' by the World Health Organization. Which one of the following was the theme of the 'World No Tobacco Day, 2015'?",
+        "options": [
+            "Raise taxes on tobacco",
+            "Stop illicit trade of tobacco products",
+            "Ban tobacco advertising, promotion and sponsorship",
+            "Tobacco-free youth"
+        ],
+        "answer": "Stop illicit trade of tobacco products"
+    }
+
+    ,
+
+    {
+        "question": "Government of which one of the following States has (in May 2015) decided to withdraw the Armed Forces (Special Powers) Act from the State?",
+        "options": [
+            "Tripura",
+            "Assam",
+            "Nagaland",
+            "Arunachal Pradesh"
+        ],
+        "answer": "Tripura"
+    },
+    {
+        "question": "Which of the following statements with regard to New Development Bank BRICS, formerly referred to as the BRICS Development Bank, is/are correct?<br/><ol><li>The Headquarters of the Bank is situated at Moscow, Russia.</li><li>K. V. Kamath is the first President of the Bank.</li></ol><br/>Select the correct answer using the code given below.",
+        "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "answer": "2 only"
+    },
+    {
+        "question": "Weibo is a social media platform popularly used in",
+        "options": [
+            "South Korea",
+            "China",
+            "Thailand",
+            "Japan"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "Who is the current Vice Chairperson of NITI Aayog?",
+        "options": [
+            "Raghuram Rajan",
+            "Arvind Panagariya",
+            "Bibek Debroy",
+            "V. K. Saraswat"
+        ],
+        "answer": "Arvind Panagariya"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> provided regular budgetary support by the Ministry of Defence?",
+        "options": [
+            "Himalayan Mountaineering Institute, Darjeeling",
+            "Institute for Defence Studies and Analyses, New Delhi",
+            "Armed Forces Tribunal",
+            "United Service Institution of India, New Delhi"
+        ],
+        "answer": "United Service Institution of India, New Delhi"
+    },
+    {
+        "question": "In April 2015, India and France agreed to conclude an inter-governmental agreement in respect of which one of the following platforms?",
+        "options": [
+            "Rafale Medium Multirole Combat Aircraft",
+            "Scorpene Submarines",
+            "Infantry Mobility Vehicles",
+            "Precision Guided Munitions System"
+        ],
+        "answer": "Rafale Medium Multirole Combat Aircraft"
+    },
+    {
+        "question": "Which one of the following statements is <i>incorrect</i>?",
+        "options": [
+            "India is the third largest importer of the defence equipment.",
+            "India meets more than 50 per cent of its requirement of the defence equipment through imports.",
+            "Defence budget for 2015&ndash;2016 accounts for less than 2 per cent of the GDP.",
+            "Certain financial powers are delegated to the Vice Chief of Army Staff for capital acquisitions."
+        ],
+        "answer": "India is the third largest importer of the defence equipment."
+    },
+    {
+        "question": "'Arihant' is the name of",
+        "options": [
+            "an infantry combat vehicle",
+            "a ballistic missile",
+            "an attack helicopter",
+            "a nuclear powered submarine"
+        ],
+        "answer": "a nuclear powered submarine"
+    },
+    {
+        "question": "Where was the 14th Asia Security Summit (Shangri-La Dialogue) held in May 2015?",
+        "options": [
+            "Beijing",
+            "Bangkok",
+            "Jakarta",
+            "Singapore"
+        ],
+        "answer": "Singapore"
+    },
+    {
+        "question": "Which one of the following is <i>not</i> correct about the Defence Research and Development Organization (DRDO)?",
+        "options": [
+            "DRDO was formed in the year 1958",
+            "It is a network of 10 laboratories engaged in developing defence technologies",
+            "DRDO operates under the Ministry of Defence",
+            "Some of its major products include development missiles, armaments, light combat aircrafts, etc."
+        ],
+        "answer": "It is a network of 10 laboratories engaged in developing defence technologies"
+    },
+    {
+        "question": "'Red Flag' is the name of a joint exercise between India and which one of the following countries?",
+        "options": [
+            "China",
+            "Saudi Arabia",
+            "USA",
+            "Japan"
+        ],
+        "answer": "USA"
+    },
+    {
+        "question": "In November 2014, which one of India's neighbouring countries allowed a Chinese submarine to dock at one of its ports?",
+        "options": [
+            "Bangladesh",
+            "Sri Lanka",
+            "Maldives",
+            "Pakistan"
+        ],
+        "answer": "Sri Lanka"
+    }
+
+    ]
 };
 
 export default gkData;
