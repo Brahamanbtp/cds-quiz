@@ -1,6 +1,1170 @@
 import type { Question } from "@/types/Question";
 
 export const gkData: Record<string, Question[]> = {
+    "2013-I": [
+            {
+                    "question": "Which one among the following has been included as a parameter for the first time under the National Ambient Air Quality Standards (NAAQS) based on Central Pollution Control Board and IIT, Kanpur research, WHO guidelines and European Union limits and practices?",
+                    "options": [
+                            "Sulphur dioxide",
+                            "Oxides of nitrogen",
+                            "Ozone",
+                            "Carbon monoxide"
+                    ],
+                    "answer": "Ozone"
+            },
+            {
+                    "question": "Fourth BRICS Summit, held in New Delhi in March 2012, deliberated on the challenges faced by India for sustainable growth. Which one among the following is <i>not</i> a part of the formulated challenges?",
+                    "options": [
+                            "Improvements required in public sector management",
+                            "Inclusive growth",
+                            "Improvements required in physical infrastructure",
+                            "Development in the agricultural sector"
+                    ],
+                    "answer": "Improvements required in public sector management"
+            },
+            {
+                    "question": "ONGC Videsh (the State-owned oil and gas company of India) recently (September 2012) signed a definitive agreement with",
+                    "options": [
+                            "Russia",
+                            "Azerbaijan",
+                            "Iran",
+                            "South Sudan"
+                    ],
+                    "answer": "Azerbaijan"
+            },
+            {
+                    "question": "Which one among the following regarding G-20 is <i>not</i> correct?",
+                    "options": [
+                            "A group of developed countries",
+                            "An integral part of the United Nations",
+                            "Outside the World Bank and IMF",
+                            "An offshoot of G-7"
+                    ],
+                    "answer": "An integral part of the United Nations"
+            },
+            {
+                    "question": "Which one among the following countries initiated the process of Fourth Wave of Democratic Transition?",
+                    "options": [
+                            "Libya",
+                            "Afghanistan",
+                            "Tunisia",
+                            "Morocco"
+                    ],
+                    "answer": "Tunisia"
+            },
+            {
+                    "question": "Some atheists, skeptics and non-believers called to celebrate 'December 25' as Newtonmas Day instead of observing Christmas Day. The reason they propose that",
+                    "options": [
+                            "both Isaac Newton and Jesus Christ were great",
+                            "Isaac Newton was born on 25th December",
+                            "'Skeptic Society' was founded on 25th December",
+                            "Isaac Newton was a deep believer of Christianity"
+                    ],
+                    "answer": "Isaac Newton was born on 25th December"
+            },
+            {
+                    "question": "European Union's Annual Sakharov Prize for Freedom of Thought for 2012 has been won by",
+                    "options": [
+                            "Guillermo Fariñas from Cuba",
+                            "Nasrin Sotoudeh and Jafar Panahi from Iran",
+                            "Ali Farzat from Syria and Mohamed Bouazizi from Tunisia",
+                            "Asmaa Mahfouz and Ahmed al-Senussi from Egypt and Libya respectively"
+                    ],
+                    "answer": "Nasrin Sotoudeh and Jafar Panahi from Iran"
+            },
+            {
+                    "question": "The <i>Rohingya</i> are the minorities of",
+                    "options": [
+                            "South Africa",
+                            "Canada",
+                            "Myanmar",
+                            "Bhutan"
+                    ],
+                    "answer": "Myanmar"
+            },
+            {
+                    "question": "Consider the following statements :<br/>During the last week of November 2012, Palestinian engineers dug up the tomb of Yasser Arafat. This was done primarily to<br/><ol><li>place the remains of Yasser Arafat in a mosque compound</li><li>confirm the prevailing suspicion that Israel had poisoned him</li></ol><br/>Which of the statements given above is/are correct?",
+                    "options": [
+                            "1 only",
+                            "2 only",
+                            "Both 1 and 2",
+                            "Neither 1 nor 2"
+                    ],
+                    "answer": "2 only"
+            },
+            {
+                    "question": "Rafael Nadal won the French Open Tennis Title, 2012. He defeated",
+                    "options": [
+                            "Andy Murray",
+                            "Roger Federer",
+                            "Novak Djokovic",
+                            "David Ferrer"
+                    ],
+                    "answer": "Novak Djokovic"
+            },
+            {
+                    "question": "Which one among the following was added in the year 2012 in the list of World Heritage Sites of the UNESCO?",
+                    "options": [
+                            "Western Ghats",
+                            "Agra Fort",
+                            "Ajanta Caves",
+                            "Meenakshi Temple"
+                    ],
+                    "answer": "Western Ghats"
+            },
+            {
+                    "question": "Which one among the following is <i>not</i> a salient feature of the Companies Bill as amended in the year 2012?",
+                    "options": [
+                            "For spending the amount earmarked for corporate social responsibility, the company shall give preferences to local areas where it operates",
+                            "Punishment for falsely inducing a person to enter into an agreement with bank or financial institution with a view to obtaining credit facilities",
+                            "There is no limit in respect of companies in which a person may be appointed as auditor",
+                            "Independent directors shall be excluded for the purpose of computing 'one-third of retiring directors'"
+                    ],
+                    "answer": "There is no limit in respect of companies in which a person may be appointed as auditor"
+            },
+            {
+                    "question": "FDI in Multi-Brand Retail Trade (MBRT) in all products is now permitted in India subject to<br/><ol><li>a ceiling of 51%</li><li>minimum amount to be brought in as FDI by the foreign investor is US $ 100 million</li><li>at least 50% of the procurement of manufactured/processed products should be sourced from 'small industries'</li><li>retail sales locations set up only in cities with a population of more than 10 lacs</li></ol><br/>Select the correct condition/conditions using the code given below.",
+                    "options": [
+                            "1, 2, 3 and 4",
+                            "1 and 4 only",
+                            "2 only",
+                            "1, 2 and 4 only"
+                    ],
+                    "answer": "1, 2 and 4 only"
+            },
+            {
+                    "question": "Why was Kaushik Basu, the ex-economic advisor to the Prime Minister of India, in news recently?<br/>He was appointed as",
+                    "options": [
+                            "the President of the IMF",
+                            "the President of the World Bank",
+                            "the Economic Advisor of the United Nations",
+                            "the Chief Economist of the World Bank"
+                    ],
+                    "answer": "the Chief Economist of the World Bank"
+            },
+            {
+                    "question": "Who among the following was selected for the prestigious Indira Gandhi Prize for Peace, Disarmament and Development, 2012?",
+                    "options": [
+                            "Ellen Johnson Sirleaf",
+                            "Ela Bhatt",
+                            "Luiz Inacio Lula da Silva",
+                            "Sheikh Hasina"
+                    ],
+                    "answer": "Ellen Johnson Sirleaf"
+            },
+            {
+                    "question": "Consider the following statements about Malala Yousafzai :<br/><ol><li>In November 2012, she was awarded with the Bravery Award by the World Peace and Prosperity Foundation.</li><li>The United Nations declared November 10 as 'Malala Day' in honour of her contribution in the field of girls' education.</li></ol><br/>Which of the statements given above is/are correct?",
+                    "options": [
+                            "1 only",
+                            "2 only",
+                            "Both 1 and 2",
+                            "Neither 1 nor 2"
+                    ],
+                    "answer": "Both 1 and 2"
+            },
+            {
+                    "question": "The President of India on 20th November, 2012 released a commemorative postage stamp on the occasion of Ramgopal Maheswari's birth centenary year celebration. Which of the following statements regarding Ramgopal Maheswari is/are correct?<br/><ol><li>He is regarded as a doyen of journalism in India.</li><li>He was a trusted aid of Netaji Subhash Chandra Bose and helped him in mobilizing the forces of Indian National Army in Kohima.</li></ol><br/>Select the correct answer using the code given below.",
+                    "options": [
+                            "1 only",
+                            "2 only",
+                            "Both 1 and 2",
+                            "Neither 1 nor 2"
+                    ],
+                    "answer": "1 only"
+            },
+            {
+                    "question": "Mention the odd man out.",
+                    "options": [
+                            "Didier Drogba",
+                            "Oliver Kahn",
+                            "Lionel Messi",
+                            "Cristiano Ronaldo"
+                    ],
+                    "answer": "Oliver Kahn"
+            },
+            {
+                    "question": "Why was Australian cricketer Michael Clarke in news recently?",
+                    "options": [
+                            "He scored three triple hundreds in the year 2012",
+                            "He broke Sir Don Bradman and Ricky Ponting's records by scoring four 200 plus runs in test cricket in a calendar year",
+                            "He remained not out in his test appearances in the year 2012",
+                            "He had four double-century partnerships in his last four consecutive test appearances in the year 2012"
+                    ],
+                    "answer": "He broke Sir Don Bradman and Ricky Ponting's records by scoring four 200 plus runs in test cricket in a calendar year"
+            },
+            {
+                    "question": "The Government of India has recently made it mandatory for oil marketing companies to blend 5% ethanol with petrol. Which of the following is/are the likely consequence/consequences of the policy?<br/><ol><li>Lower India's dependence on fossil oil</li><li>Reduce fuel import bill</li></ol><br/>Select the correct answer using the code given below.",
+                    "options": [
+                            "1 only",
+                            "2 only",
+                            "Both 1 and 2",
+                            "Neither 1 nor 2"
+                    ],
+                    "answer": "Both 1 and 2"
+            },
+            {
+                    "question": "Consider the following statements regarding e-courts, launched recently in India :<br/><ol><li>They will facilitate hearing of cases via videoconferencing.</li><li>They will follow the same procedures that are laid out for the bench for hearing appeals in an open court.</li></ol><br/>Which of the statements given above is/are correct?",
+                    "options": [
+                            "1 only",
+                            "2 only",
+                            "Both 1 and 2",
+                            "Neither 1 nor 2"
+                    ],
+                    "answer": "Both 1 and 2"
+            },
+            {
+                    "question": "Who among the following is the author of the book, <i>Sachin : Born to Bat&#8212;The Journey of Cricket's Ultimate Centurian</i>?",
+                    "options": [
+                            "Khalid A H Ansari",
+                            "Boria Majumdar",
+                            "Kiran Nagarkar",
+                            "Ed Hawkins"
+                    ],
+                    "answer": "Khalid A H Ansari"
+            },
+            {
+                    "question": "Who among the following is/are the Indian writer(s) short-listed for the DSC Prize for South Asian Literature for the year 2013?<br/><ol><li>Amitabh Ghosh</li><li>Jeet Thayil</li><li>Uday Prakash</li></ol><br/>Select the correct answer using the code given below.",
+                    "options": [
+                            "1, 2 and 3",
+                            "1 and 2 only",
+                            "2 and 3 only",
+                            "1 only"
+                    ],
+                    "answer": "1, 2 and 3"
+            }
+    ,
+
+        {
+                "question": "Consider the following statement :<br/><i>\"Rich countries have largely cheated the developing countries of the 30 billion dollar of funds they had committed to transfer to the poor ones between 2010 and 2012.\"</i><br/>Which one among the following relating to the above statement is <i>not</i> correct?",
+                "options": [
+                        "The above statement is a report out of Oxfam research",
+                        "The developed nations only provided one-third of the total funding",
+                        "Green Peace International stated that it is a 'false start' than a 'fast start'",
+                        "Oxfam's research report says that levels of public climate finance are set to fall in the year 2013 compared to past three years"
+                ],
+                "answer": "Green Peace International stated that it is a 'false start' than a 'fast start'"
+        },
+        {
+                "question": "Which one among the following statements about Barack Obama is <i>not</i> correct?",
+                "options": [
+                        "In the year 2012, he was elected as the President of USA for the second time defeating the Republican candidate Mitt Romney",
+                        "He is the first African-American President of USA",
+                        "He is the first Democratic President since Franklin D. Roosevelt to twice win the majority of the popular vote in USA presidential election",
+                        "He is the only American President who won the Nobel Peace Prize"
+                ],
+                "answer": "He is the only American President who won the Nobel Peace Prize"
+        },
+        {
+                "question": "During the last part of November 2012, there was a severe fire accident which took away the lives of more than hundred people in Bangladesh. The accident occurred inside a",
+                "options": [
+                        "textile factory",
+                        "jute factory",
+                        "polythene manufacturing factory",
+                        "cement factory"
+                ],
+                "answer": "textile factory"
+        },
+        {
+                "question": "Who among the following was declared as the immediate future President of China in the 18th National Congress of the Communist Party of China held in November 2012?",
+                "options": [
+                        "Zhang Dejiang",
+                        "Xi Jinping",
+                        "Liu Yunshan",
+                        "Li Keqiang"
+                ],
+                "answer": "Xi Jinping"
+        },
+        {
+                "question": "Which one among the following statements about Grigori Perelman is <i>not</i> correct?",
+                "options": [
+                        "He is a genius from Russia",
+                        "He rejected the offer of professorship in Princeton and Stanford University",
+                        "He works in the area of Cosmology",
+                        "He has refused to accept the 'Fields Medal' and the 'Millennium Prize' recently"
+                ],
+                "answer": "He works in the area of Cosmology"
+        },
+        {
+                "question": "Nobel Prize in Chemistry for the year 2012 was given for the work on",
+                "options": [
+                        "G-protein coupled receptors",
+                        "human stem cell cloning",
+                        "antimalarial vaccine",
+                        "neurotransmitters"
+                ],
+                "answer": "G-protein coupled receptors"
+        },
+        {
+                "question": "'Global Dimming' means",
+                "options": [
+                        "gradual increase of the temperature of ionosphere",
+                        "gradual loss of biodiversity hot spots",
+                        "gradual reduction in the amount of global direct irradiance at the earth surface",
+                        "gradual increase in the melting of ice in polar regions"
+                ],
+                "answer": "gradual reduction in the amount of global direct irradiance at the earth surface"
+        },
+        {
+                "question": "Outstanding historian Eric Hobsbawm who expired on 1st October, 2012, has authored a large number of books. The title of his famous autobiography is",
+                "options": [
+                        "Bandits",
+                        "Uncommon People : Resistance, Rebellion and Jazz",
+                        "The New Century : In Conversation with Antonio Polito",
+                        "Interesting Times : A Twentieth-Century Life"
+                ],
+                "answer": "Interesting Times : A Twentieth-Century Life"
+        },
+        {
+                "question": "Which of the following institutions was/were asked by the Government of India to provide official estimates of black (unaccounted) money held by Indians, both in India and abroad?<br/><ol><li>National Institute of Public Finance and Policy</li><li>National Council of Applied Economic Research</li><li>National Institute of Financial Management</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1 only",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "The concept which tries to ascertain the actual deficit in the revenue account after adjusting for expenditure of capital nature is termed as",
+                "options": [
+                        "revenue deficit",
+                        "effective revenue deficit",
+                        "fiscal deficit",
+                        "primary deficit"
+                ],
+                "answer": "effective revenue deficit"
+        },
+        {
+                "question": "Which one among the following programmes has now been restructured as the National Rural Livelihood Mission?",
+                "options": [
+                        "Swarna Jayanti Shahri Rozgar Yojana",
+                        "Swarna Jayanti Gram Swarozgar Yojana",
+                        "Janshree Bima Yojana",
+                        "Rashtriya Swasthya Bima Yojana"
+                ],
+                "answer": "Swarna Jayanti Gram Swarozgar Yojana"
+        },
+        {
+                "question": "Which of the following are included in the category of direct tax in India?<br/><ol><li>Corporation Tax</li><li>Tax on Income</li><li>Wealth Tax</li><li>Customs Duty</li><li>Excise Duty</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1, 2 and 3",
+                        "1, 2, 4 and 5",
+                        "2 and 3 only",
+                        "1, 3, 4 and 5"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "Which one among the following is a fixed cost to a manufacturing firm in the short run?",
+                "options": [
+                        "Insurance on buildings",
+                        "Overtime payment to workers",
+                        "Cost of energy",
+                        "Cost of raw materials"
+                ],
+                "answer": "Insurance on buildings"
+        },
+        {
+                "question": "The government can influence private sector expenditure by<br/><ol><li>taxation</li><li>subsidies</li><li>macroeconomic policies</li><li>grants</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1, 2, 3 and 4",
+                        "1, 2 and 4 only",
+                        "1, 2 and 3 only",
+                        "3 and 4 only"
+                ],
+                "answer": "1, 2, 3 and 4"
+        },
+        {
+                "question": "Which of the following occupations are included under secondary sector as per the national income accounts?<br/><ol><li>Manufacturing</li><li>Construction</li><li>Gas and water supply</li><li>Mining and quarrying</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1, 2, 3 and 4",
+                        "1, 2 and 4 only",
+                        "1, 2 and 3 only",
+                        "3 and 4 only"
+                ],
+                "answer": "1, 2 and 3 only"
+        },
+        {
+                "question": "The sharp depreciation of rupee in the Forex market in the year 2011 was due to<br/><ol><li>flight to safety by foreign investors</li><li>meltdown in European markets</li><li>inflation in emerging market economies</li><li>lag effect of monetary policy tightening</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1, 2 and 3 only",
+                        "1, 2 and 4 only",
+                        "3 and 4 only",
+                        "1, 2, 3 and 4"
+                ],
+                "answer": "1, 2 and 3 only"
+        },
+        {
+                "question": "The lower growth of coal production in India during 2011-2012 was primarily due to<br/><ol><li>environmental restrictions</li><li>non-availability of forestry clearance</li><li>poor law and order situation in coal-producing States</li><li>excessive rainfall in coal-mining areas</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1, 2, 3 and 4",
+                        "1, 2 and 3 only",
+                        "2, 3 and 4 only",
+                        "1 and 4 only"
+                ],
+                "answer": "1, 2, 3 and 4"
+        },
+        {
+                "question": "Human Poverty Index (HPI) developed by UNDP is based on which of the following deprivations?<br/><ol><li>Income deprivation</li><li>Literacy deprivation</li><li>Social services deprivation</li><li>Employment deprivation</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1, 2, 3 and 4",
+                        "1, 2 and 3 only",
+                        "1, 3 and 4 only",
+                        "2 and 4 only"
+                ],
+                "answer": "1, 2 and 3 only"
+        },
+        {
+                "question": "In the Gupta age, Varahamihira wrote the famous book, <i>Brihat Samhita</i>. It was a treatise on",
+                "options": [
+                        "Astronomy",
+                        "Statecraft",
+                        "Ayurvedic system of medicine",
+                        "Economics"
+                ],
+                "answer": "Astronomy"
+        },
+        {
+                "question": "The highly polished monolithic Ashokan Pillars were carved out of single pieces of a buff-coloured sandstone, usually mined from the quarries of",
+                "options": [
+                        "Chunar near Mirzapur",
+                        "Lauriya in Nandangarh",
+                        "Sarnath near Varanasi",
+                        "Udayagiri near Bhubaneswar"
+                ],
+                "answer": "Chunar near Mirzapur"
+        },
+        {
+                "question": "Which one among the following statements with regard to the National Security Council (NSC) of India is <i>not</i> correct?",
+                "options": [
+                        "It is a three-tiered organization",
+                        "The Deputy Chairman of the Planning Commission is its member",
+                        "It is the apex body looking exclusively the security concerns of the country",
+                        "RAW and Intelligence Bureau (India) report to NSC"
+                ],
+                "answer": "RAW and Intelligence Bureau (India) report to NSC"
+        },
+        {
+                "question": "The fortification of Calcutta by the British in 1756 was regarded by the Nawab of Bengal, Siraj-ud-daulah, as",
+                "options": [
+                        "growth of large-scale British trade",
+                        "an attack upon his sovereignty",
+                        "insecurity of the British in India",
+                        "British control over Bengal"
+                ],
+                "answer": "an attack upon his sovereignty"
+        }
+
+    ,
+
+        {
+                "question": "Between 1309 and 1311, Malik Kafur led two campaigns in South India. The significance of the expeditions lies in it that<br/><ol><li>they reflected a high degree of boldness and spirit of adventure on the part of the Delhi rulers</li><li>the invaders returned to Delhi with untold wealth</li><li>they provided fresh geographical knowledge</li><li>Ala-ud-din promoted Malik Kafur to the rank of <i>Malik-naib</i> or Vice-Regent of the Empire</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1 and 3 only",
+                        "1, 2 and 4 only",
+                        "2 and 4 only",
+                        "1, 2, 3 and 4"
+                ],
+                "answer": "1, 2, 3 and 4"
+        },
+        {
+                "question": "Ibn Batuta's work, <i>Rihla</i>, completed in 1355, is",
+                "options": [
+                        "an autobiography",
+                        "an account of the Delhi Sultans from Aibek to Ghiyas-ud-din Tughluq",
+                        "a religious text",
+                        "an account of trade with Morocco"
+                ],
+                "answer": "an autobiography"
+        },
+        {
+                "question": "Several socio-political organizations were formed in the 19th and 20th Centuries in India. <i>Anjuman-e-Khawatin-e-Islam</i> founded in the year 1914 was",
+                "options": [
+                        "All India Muslim Ladies Conference",
+                        "a radical wing of the All India Muslim League",
+                        "All India Muslim Students' Conference",
+                        "All India Islamic Conference"
+                ],
+                "answer": "All India Muslim Ladies Conference"
+        },
+        {
+                "question": "British colonialism in India saw the emergence of new cities. Calcutta, now Kolkata, was one of the first cities. Which of the following villages were amalgamated to form the city of Calcutta?",
+                "options": [
+                        "Midnapur, Chittagong, Burdwan",
+                        "24-Parganas, Kalikata, Thakurgaon",
+                        "Sutanuti, Kalikata, Gobindapur",
+                        "Midnapur, Thakurgaon, Gobindapur"
+                ],
+                "answer": "Sutanuti, Kalikata, Gobindapur"
+        },
+        {
+                "question": "What was <i>Ziyarat</i> in the language of the Sufis?",
+                "options": [
+                        "Pilgrimage to the tombs of Sufi saints for seeking <i>barkat</i> (spiritual grace)",
+                        "Reciting divine name",
+                        "Offering free kitchens run on <i>futuh</i> (unasked for charity)",
+                        "Setting up of <i>auqaf</i> (charitable trusts)"
+                ],
+                "answer": "Pilgrimage to the tombs of Sufi saints for seeking <i>barkat</i> (spiritual grace)"
+        },
+        {
+                "question": "Which of the following was/were <i>not</i> related to Buddha's life?<br/><ol><li>Kanthaka</li><li>Alara Kalama</li><li>Channa</li><li>Goshala Maskariputra</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1 only",
+                        "4 only",
+                        "1 and 2",
+                        "3 and 4"
+                ],
+                "answer": "4 only"
+        },
+        {
+                "question": "<b>Statement I :</b><br/>There was great exodus of Jaina monks under the leadership of Bhadrabahu to the Deccan following severe famine in the Ganga Valley towards the end of Chandragupta's reign.<br/><b>Statement II :</b><br/>Chandragupta Maurya joined the Jaina order as a monk.<br/><b>Code :</b>",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+        },
+        {
+                "question": "<b>Statement I :</b><br/>Mahavira initially joined a group of ascetics called <i>Nirgranthas</i>.<br/><b>Statement II :</b><br/>The sect was founded 200 years earlier by Parsva.<br/><b>Code :</b>",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+        },
+        {
+                "question": "<b>Statement I :</b><br/>Lomash Rishi and Sudama caves in the Barabar Hills, modelled on wooden architectural prototypes, are examples of the earliest cave architecture in India.<br/><b>Statement II :</b><br/>Barabar Hills caves were dedicated by Chandragupta Maurya to Ajivika monks.<br/><b>Code :</b>",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Statement I is true but Statement II is false"
+        },
+        {
+                "question": "<b>Statement I :</b><br/>Sculptures of the Gandhara School stylistically are typically linked to the Graeco-Roman and the Parthian art of Iran.<br/><b>Statement II :</b><br/>The earliest stone Buddha images in the Swat Valley pre-dated the Kushana period which suggests that certain iconographic conventions were already well-established in the pre-Kushana period.<br/><b>Code :</b>",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I"
+        },
+        {
+                "question": "<b>Statement I :</b><br/>The Permanent Zamindari Settlement of land created a new class of landlords.<br/><b>Statement II :</b><br/>The new class of landlords became strong political allies of the British and were interested in the continuance of British dominion.<br/><b>Code :</b>",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+        },
+        {
+                "question": "<b>Statement I :</b><br/>Chlorine radicals (Cl&#183;) initiate the chain reaction for ozone depletion.<br/><b>Statement II :</b><br/>Gaseous hypochlorous acid and chlorine are photolysed by sunlight.<br/><b>Code :</b>",
+                "options": [
+                        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                        "Both the statements are individually true but Statement II is <i>not</i> the correct explanation of Statement I",
+                        "Statement I is true but Statement II is false",
+                        "Statement I is false but Statement II is true"
+                ],
+                "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I"
+        },
+        {
+                "question": "Which chemical was an important symbol in our struggle for freedom?",
+                "options": [
+                        "Glucose",
+                        "Fertilizer",
+                        "Medicine",
+                        "Sodium chloride"
+                ],
+                "answer": "Sodium chloride"
+        },
+        {
+                "question": "Which one among the following is responsible for the expansion of water in the ocean?",
+                "options": [
+                        "Carbon dioxide",
+                        "Nitrogen dioxide",
+                        "Carbon monoxide",
+                        "Sulphur dioxide"
+                ],
+                "answer": "Carbon dioxide"
+        },
+        {
+                "question": "Food cans are coated with tin but not with zinc because",
+                "options": [
+                        "zinc is costlier than tin",
+                        "zinc has a higher melting point than tin",
+                        "zinc is more reactive than tin",
+                        "tin is more reactive than zinc"
+                ],
+                "answer": "zinc is more reactive than tin"
+        },
+        {
+                "question": "Which allotropy of carbon is in rigid three-dimensional structures?",
+                "options": [
+                        "Graphite",
+                        "Fullerene",
+                        "Diamond",
+                        "Carbon black"
+                ],
+                "answer": "Diamond"
+        },
+        {
+                "question": "What is the role of positive catalyst in a chemical reaction?",
+                "options": [
+                        "It increases the rate of reaction",
+                        "It decreases the rate of reaction",
+                        "It increases the yield of the products",
+                        "It provides better purity of the products"
+                ],
+                "answer": "It increases the rate of reaction"
+        },
+        {
+                "question": "Why hard water does <i>not</i> give lather with soap?",
+                "options": [
+                        "Hard water contains Ca and Mg ions which form precipitate with soap",
+                        "Hard water contains sulphate and chloride ions which form precipitate",
+                        "pH of hard water is high",
+                        "pH of hard water is less"
+                ],
+                "answer": "Hard water contains Ca and Mg ions which form precipitate with soap"
+        },
+        {
+                "question": "Which one among the following metals is used in fireworks to make a brilliant white light?",
+                "options": [
+                        "Sodium",
+                        "Magnesium",
+                        "Aluminium",
+                        "Silver"
+                ],
+                "answer": "Magnesium"
+        },
+        {
+                "question": "Which of the following gases in the atmosphere is/are responsible for acid rains?<br/><ol><li>Oxides of sulphur</li><li>Oxides of nitrogen</li><li>Oxides of carbon</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1 and 2 only",
+                        "1 and 3 only",
+                        "2 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1 and 2 only"
+        },
+        {
+                "question": "Which one among the following gases readily combines with the haemoglobin of the blood?",
+                "options": [
+                        "Methane",
+                        "Nitrogen dioxide",
+                        "Carbon monoxide",
+                        "Sulphur dioxide"
+                ],
+                "answer": "Carbon monoxide"
+        },
+        {
+                "question": "In human, which one among the following, with reference to breathing, is correct?",
+                "options": [
+                        "During inhalation, diaphragm relaxes",
+                        "During exhalation, thorax cavity expands",
+                        "During inhalation, intra-pleural pressure becomes more negative",
+                        "Unlike inhalation, normal exhalation is an active process"
+                ],
+                "answer": "During inhalation, intra-pleural pressure becomes more negative"
+        },
+        {
+                "question": "Dual-energy X-ray absorptiometry (DEXA) is used to measure",
+                "options": [
+                        "spread of solid tumour",
+                        "bone density",
+                        "ulcerous growth in stomach",
+                        "extent of brain haemorrhage"
+                ],
+                "answer": "bone density"
+        },
+        {
+                "question": "Human blood is a viscous fluid. This viscosity is due to",
+                "options": [
+                        "proteins in blood",
+                        "platelets in plasma",
+                        "sodium in serum",
+                        "RBC and WBC in blood"
+                ],
+                "answer": "proteins in blood"
+        },
+        {
+                "question": "Cancer is more common in older people because",
+                "options": [
+                        "their immune systems have degenerated",
+                        "the supply of certain hormones declines with age",
+                        "their bodies are unable to adjust to the changing environment",
+                        "they have accumulated more mutations"
+                ],
+                "answer": "they have accumulated more mutations"
+        },
+        {
+                "question": "What would happen if human blood becomes acidic (low pH)?",
+                "options": [
+                        "Oxygen-carrying capacity of haemoglobin is increased",
+                        "Oxygen-carrying capacity of haemoglobin is decreased",
+                        "RBC count increases",
+                        "RBC count decreases"
+                ],
+                "answer": "Oxygen-carrying capacity of haemoglobin is decreased"
+        },
+        {
+                "question": "Which one among the following statements about blood transfusion is correct?<br/>Blood group B can give blood to",
+                "options": [
+                        "blood group B, and receive from group AB",
+                        "blood groups B and AB, and receive from group B",
+                        "blood groups B and AB, and receive from group A",
+                        "blood group O, and receive from group B"
+                ],
+                "answer": "blood groups B and AB, and receive from group B"
+        },
+        {
+                "question": "Confirmation of the presence of Higgs boson will justify",
+                "options": [
+                        "both the standard model and superstring theory",
+                        "the unification of all the four fundamental forces",
+                        "the steady-state model of the universe",
+                        "the mass of the fundamental particles"
+                ],
+                "answer": "the mass of the fundamental particles"
+        },
+        {
+                "question": "The gastrointestinal hormones namely secretin and cholecystokinin secreted by duodenal epithelium activate respectively which organs to discharge their secretions?",
+                "options": [
+                        "Pancreas and gallbladder",
+                        "Gallbladder and stomach",
+                        "Pancreas and stomach",
+                        "Stomach and small intestine"
+                ],
+                "answer": "Pancreas and gallbladder"
+        },
+        {
+                "question": "Milk is unique in its nutritive value. However, it is a poor source of",
+                "options": [
+                        "calcium",
+                        "iron",
+                        "copper",
+                        "sodium"
+                ],
+                "answer": "iron"
+        },
+        {
+                "question": "Consider the following statements regarding antibiotics :<br/><ol><li>They are used to destroy disease-causing bacteria.</li><li>They can be applied to the skin, swallowed or injected to fight microorganisms inside the body.</li><li>They are effective against disease-causing viruses.</li><li>The first antibiotic to be discovered was tetracycline.</li></ol><br/>Which of the statements given above is/are correct?",
+                "options": [
+                        "1 and 2 only",
+                        "1, 2 and 4",
+                        "2, 3 and 4",
+                        "1 only"
+                ],
+                "answer": "1 and 2 only"
+        },
+        {
+                "question": "In terms of magnetic properties, oxygen belongs to",
+                "options": [
+                        "magnetic materials",
+                        "ferromagnetic materials",
+                        "paramagnetic materials",
+                        "diamagnetic materials"
+                ],
+                "answer": "paramagnetic materials"
+        }
+
+    ,
+
+        {
+                "question": "Light-emitting diode (LED) converts",
+                "options": [
+                        "light energy into electrical energy",
+                        "electrical energy into light energy",
+                        "thermal energy into light energy",
+                        "mechanical energy into electrical energy"
+                ],
+                "answer": "electrical energy into light energy"
+        },
+        {
+                "question": "The Celsius temperature is a/an",
+                "options": [
+                        "relative temperature",
+                        "absolute temperature",
+                        "specific temperature",
+                        "approximate temperature"
+                ],
+                "answer": "relative temperature"
+        },
+        {
+                "question": "The gas used in a refrigerator is",
+                "options": [
+                        "cooled down on flowing",
+                        "heated up on flowing",
+                        "cooled down when compressed",
+                        "cooled down when expanded"
+                ],
+                "answer": "cooled down when expanded"
+        },
+        {
+                "question": "If two conducting spheres are separately charged and then brought in contact",
+                "options": [
+                        "the total energy of the two spheres is conserved",
+                        "the total charge on the two spheres is conserved",
+                        "both the total energy and the total charge are conserved",
+                        "the final potential is always the mean of the original potential of the two spheres"
+                ],
+                "answer": "the total charge on the two spheres is conserved"
+        },
+        {
+                "question": "Which type/types of pen uses/use capillary action in addition to gravity for flow of ink?",
+                "options": [
+                        "Fountain pen",
+                        "Ballpoint pen only",
+                        "Gel pen only",
+                        "Both ballpoint pen and gel pen"
+                ],
+                "answer": "Fountain pen"
+        },
+        {
+                "question": "Nearly 30% of the solar radiations return back to the space without contributing anything to the earth's surface temperature. This amount of radiation is known as",
+                "options": [
+                        "black body",
+                        "tropopause",
+                        "earth's albedo",
+                        "mesopause"
+                ],
+                "answer": "earth's albedo"
+        },
+        {
+                "question": "The crew and passengers of a flying aircraft suffer generally from chronic obstructive pulmonary disease due to the effect of",
+                "options": [
+                        "solar radiation",
+                        "ozone concentration",
+                        "nitrogen oxide",
+                        "particulate pollutant"
+                ],
+                "answer": "ozone concentration"
+        },
+        {
+                "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Agent)</th><th>List-II (Disease)</th></tr><tr><td>A. Arsenic</td><td>1. Fluorosis</td></tr><tr><td>B. Fluoride</td><td>2. Melanosis</td></tr><tr><td>C. Dust</td><td>3. Presbycusis</td></tr><tr><td>D. Noise</td><td>4. Silicosis</td></tr></table><br/>Code :",
+                "options": [
+                        "A-3, B-1, C-4, D-2",
+                        "A-3, B-4, C-1, D-2",
+                        "A-2, B-1, C-4, D-3",
+                        "A-2, B-4, C-1, D-3"
+                ],
+                "answer": "A-2, B-1, C-4, D-3"
+        },
+        {
+                "question": "Which of the following statements regarding recycling is/are correct?<br/><ol><li>Recycling is just the collection and separation of the waste materials.</li><li>Recycling is the collection and separation of the materials from the waste stream and their subsequent processing to produce a marketable product.</li><li>Recycling leads to reduction of waste disposal cost.</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1 only",
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3"
+                ],
+                "answer": "2 and 3"
+        },
+        {
+                "question": "Which one among the following Indian rivers originates in Maharashtra and flows through Karnataka and Andhra Pradesh to meet the Bay of Bengal in Andhra coast?",
+                "options": [
+                        "Mahanadi",
+                        "Cauvery",
+                        "Krishna",
+                        "Godavari"
+                ],
+                "answer": "Krishna"
+        },
+        {
+                "question": "The planetary winds that blow from the subtropical high-pressure belts to the Equator are known as",
+                "options": [
+                        "westerlies",
+                        "doldrums",
+                        "polar winds",
+                        "trade winds"
+                ],
+                "answer": "trade winds"
+        },
+        {
+                "question": "Which one among the following statements about the International Date Line is <i>not</i> correct?",
+                "options": [
+                        "The International Date Line is largely based on the 180&deg; meridian",
+                        "The difference in time between the places just either side of the International Date Line is almost one day",
+                        "The difference in time to the extent of one day on either side of the International Date Line is caused by inclined axis of the earth",
+                        "The International Date Line mostly passes through the Pacific Ocean"
+                ],
+                "answer": "The difference in time to the extent of one day on either side of the International Date Line is caused by inclined axis of the earth"
+        },
+        {
+                "question": "If the time of a place located on 165&deg; E meridian is 11:00 p.m. on Sunday, what would be the time at the place located on 165&deg; W meridian?",
+                "options": [
+                        "11:00 p.m. on Sunday",
+                        "12:00 noon on Sunday",
+                        "1:00 a.m. on Sunday",
+                        "11:00 p.m. on Saturday"
+                ],
+                "answer": "1:00 a.m. on Sunday"
+        },
+        {
+                "question": "Which one among the following is <i>not</i> an igneous rock?",
+                "options": [
+                        "Granite",
+                        "Basalt",
+                        "Gabbro",
+                        "Gneiss"
+                ],
+                "answer": "Gneiss"
+        },
+        {
+                "question": "The Karewas of Kashmir refers to which among the following types of deposits?",
+                "options": [
+                        "Aeolian and glacial",
+                        "Fluvial",
+                        "Lacustrine",
+                        "Volcanic"
+                ],
+                "answer": "Lacustrine"
+        },
+        {
+                "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Place)</th><th>List-II (Location in Map)</th></tr><tr><td>A. Kollam</td><td><img src=\"/images/cds2013i_q98_map.png\" alt=\"Map\"/></td></tr><tr><td>B. Tuticorin</td><td></td></tr><tr><td>C. Ongole</td><td></td></tr><tr><td>D. Nellore</td><td></td></tr></table><br/>Code :",
+                "options": [
+                        "A-2, B-3, C-4, D-1",
+                        "A-2, B-4, C-3, D-1",
+                        "A-1, B-4, C-3, D-2",
+                        "A-1, B-3, C-4, D-2"
+                ],
+                "answer": "A-2, B-3, C-4, D-1"
+        },
+        {
+                "question": "On which one among the following islands does the Negrito tribe called 'the Onge' live?",
+                "options": [
+                        "North Andaman",
+                        "Little Andaman",
+                        "Little Nicobar",
+                        "Great Nicobar"
+                ],
+                "answer": "Little Andaman"
+        },
+        {
+                "question": "Veliconda Hills, which is a part of Eastern Ghats, is situated in",
+                "options": [
+                        "Odisha",
+                        "Tamil Nadu",
+                        "Karnataka",
+                        "Andhra Pradesh"
+                ],
+                "answer": "Andhra Pradesh"
+        },
+        {
+                "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br/><br/><table><tr><th>List-I (Cement Production Centre)</th><th>List-II (State)</th></tr><tr><td>A. Sikka</td><td>1. Karnataka</td></tr><tr><td>B. Bhadrawati</td><td>2. Jharkhand</td></tr><tr><td>C. Ranchi</td><td>3. Gujarat</td></tr><tr><td>D. Kurnool</td><td>4. Andhra Pradesh</td></tr></table><br/>Code :",
+                "options": [
+                        "A-3, B-1, C-2, D-4",
+                        "A-3, B-2, C-1, D-4",
+                        "A-4, B-1, C-2, D-3",
+                        "A-4, B-2, C-1, D-3"
+                ],
+                "answer": "A-3, B-1, C-2, D-4"
+        },
+        {
+                "question": "Consider the following statements :<br/><ol><li>In any nation, human development outcomes are a function of economic growth, social policy and poverty reduction measures at the macro-level.</li><li>The expansion of human development in terms of health and education attainment, reduction of income poverty and economic growth is linked in a synergistic manner.</li><li>Investment in health and education can enhance human functioning which can eventually alleviate income poverty by improving employability.</li><li>Resources generated through income poverty reduction and economic growth can be used to enhance human development.</li></ol><br/>Which of the statements given above are logical and correct?",
+                "options": [
+                        "1 and 2 only",
+                        "3 and 4 only",
+                        "1, 2, 3 and 4",
+                        "1, 2 and 3 only"
+                ],
+                "answer": "1, 2, 3 and 4"
+        }
+
+    ,
+
+        {
+                "question": "Whether India is experiencing inclusive growth in the true sense can be assessed by looking at<br/><ol><li>the economic growth indicators of the different States of India</li><li>whether different social groups like the SCs, STs and Minorities are getting excluded from the development process</li><li>whether the government's various flagship programmes are reaching the socially excluded</li><li>State-by-State human development profile</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1 only",
+                        "2, 3 and 4",
+                        "2 and 4 only",
+                        "1, 2, 3 and 4"
+                ],
+                "answer": "1, 2, 3 and 4"
+        },
+        {
+                "question": "Besides representation, the Parliament of India is also a deliberative body with diverse functions. Which one among the following is <i>not</i> a function of the Parliament of India?",
+                "options": [
+                        "Ventilating the grievances of the people",
+                        "Executing major policy decisions",
+                        "Holding the government accountable for its actions and expenditure",
+                        "Amending the Constitution"
+                ],
+                "answer": "Executing major policy decisions"
+        },
+        {
+                "question": "Which one among the following statements is <i>not</i> correct?",
+                "options": [
+                        "The right conferred by Article 32 cannot be suspended except by virtue of Article 359 (1) of the Constitution of India",
+                        "The enforcement of Articles 20 and 21 cannot be suspended",
+                        "Punishments can be prescribed by a State legislation for offences under Part III of the Constitution of India",
+                        "The Fundamental Rights can be abrogated by law made by the Parliament with regard to members of the forces charged with the maintenance of public order"
+                ],
+                "answer": "Punishments can be prescribed by a State legislation for offences under Part III of the Constitution of India"
+        },
+        {
+                "question": "The Government of India Act, 1919<br/><ol><li>established a bicameral legislature at the Centre</li><li>introduced dyarchy in the provincial executive</li><li>introduced a federal system of government in India</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1, 2 and 3",
+                        "1 and 2 only"
+                ],
+                "answer": "1 and 2 only"
+        },
+        {
+                "question": "Which one among the following is a Fundamental Duty of citizens under the Constitution of India?",
+                "options": [
+                        "To provide friendly cooperation to the people of the neighbouring countries",
+                        "To visit the monuments of national importance",
+                        "To defend the country and render national service when called upon to do so",
+                        "To know more and more about the religions of India"
+                ],
+                "answer": "To defend the country and render national service when called upon to do so"
+        },
+        {
+                "question": "Who among the following was <i>not</i> associated with the foundation of the All India Trade Union Congress?",
+                "options": [
+                        "N. M. Joshi",
+                        "Lajpat Rai",
+                        "V. V. Giri",
+                        "Joseph Baptista"
+                ],
+                "answer": "V. V. Giri"
+        },
+        {
+                "question": "India's Look East Policy was conceived in the early 1990s at a time when India was in the process of adjusting to the post-Cold War watershed changes in the international geostrategic environment. The Look East Policy<br/><ol><li>reflects both historical imperatives and contemporary compulsion of the post-Cold War new world order</li><li>seeks to optimize India's synergies in the extended Asia-Pacific neighbourhood</li><li>has led to India's participation in Asia-Pacific forums like ASEAN, East Asia Summit, BIMSTEC and other institutions</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1, 2 and 3",
+                        "2 only"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "In his lectures on nationalism, Rabindranath Tagore argued that<br/><ol><li>nationalism frees men and women from narrow loyalties and bonds, and connects them to wider and better community of fellowship</li><li>nationalism will foster a feeling of rootedness and cultural belonging, and put an end to warmongering</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "Neither 1 nor 2"
+        },
+        {
+                "question": "Several nationalist leaders in India wrote commentaries on the <i>Bhagavad Gita</i> to argue the case for an ethical foundation to Indian nationalism. Who among the following is an <i>exception</i> to it?",
+                "options": [
+                        "Sri Aurobindo",
+                        "Mahatma Gandhi",
+                        "Bal Gangadhar Tilak",
+                        "Rammanohar Lohia"
+                ],
+                "answer": "Rammanohar Lohia"
+        },
+        {
+                "question": "Which one among the following Committees of the Parliament of India has <i>no</i> members of the Rajya Sabha?",
+                "options": [
+                        "Public Accounts Committee",
+                        "Estimates Committee",
+                        "Public Undertakings Committee",
+                        "Departmentally Related Standing Committee on Finance"
+                ],
+                "answer": "Estimates Committee"
+        },
+        {
+                "question": "Which one among the following is <i>not</i> a constitutional body in India?",
+                "options": [
+                        "Comptroller and Auditor General",
+                        "National Commissioner for Linguistic Minorities",
+                        "National Commission for Scheduled Castes",
+                        "National Human Rights Commission"
+                ],
+                "answer": "National Human Rights Commission"
+        },
+        {
+                "question": "Consider the following statements :<br/><ol><li>The anti-defection law bans an elected member from voting against the explicit mandate of his/her party.</li><li>The anti-defection provisions do not apply if one-third of the members of a party disobey the mandate of the party and constitute themselves as a separate party.</li></ol><br/>Which of the statements given above is/are correct?",
+                "options": [
+                        "1 only",
+                        "2 only",
+                        "Both 1 and 2",
+                        "Neither 1 nor 2"
+                ],
+                "answer": "1 only"
+        },
+        {
+                "question": "The Constituent Assembly of India convened to prepare the Constitution of India appointed a sub-committee headed by Gopinath Bordoloi. Which of the following recommendations was/were made by the Committee?<br/><ol><li>Fifth Schedule for the North-East Frontier (Assam) Tribal and Excluded Areas</li><li>Constitution of District Councils in all autonomous districts of Assam</li><li>Sixth Schedule for the North-East Frontier (Assam) Tribal and Excluded Areas</li><li>Demarcation of territories in North-East India</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1 only",
+                        "1, 2 and 3",
+                        "2 and 3 only",
+                        "4"
+                ],
+                "answer": "2 and 3 only"
+        },
+        {
+                "question": "How does participatory budgeting seek to make the functioning of local governance institutions more transparent and accountable?<br/><ol><li>By allowing citizens to deliberate and negotiate over the distribution of public resources</li><li>By allowing citizens to play a direct role in deciding how and where resources should be spent</li><li>By allowing historically excluded citizens with access to important decision-making venues</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "3 only",
+                        "1, 2 and 3"
+                ],
+                "answer": "1, 2 and 3"
+        },
+        {
+                "question": "<i>Janani Suraksha Yojana (JSY)</i> was proposed by the Central Government under the overall umbrella of National Rural Health Mission (NRHM). Which of the following are the objectives of the scheme?<br/><ol><li>Provision of better diet for pregnant women from BPL families</li><li>To reduce overall maternal mortality ratio and infant mortality rate</li><li>To provide cash assistance with antenatal care during the pregnancy period</li><li>To provide institutional care during delivery and immediate postpartum period in a health centre</li></ol><br/>Select the correct answer using the code given below.",
+                "options": [
+                        "1, 2, 3 and 4",
+                        "1, 2 and 3 only",
+                        "1 and 4 only",
+                        "2, 3 and 4 only"
+                ],
+                "answer": "2, 3 and 4 only"
+        },
+        {
+                "question": "Who amongst the following was put on trial for genocidal war at the United Nations International War Crime Tribunal?",
+                "options": [
+                        "Augusto Pinochet",
+                        "Paul Kagame",
+                        "Slobodan Milosevic",
+                        "Ne Win"
+                ],
+                "answer": "Slobodan Milosevic"
+        },
+        {
+                "question": "Which one among the following countries redefined the principles of 'Pancashila' for the purpose of domestic politics?",
+                "options": [
+                        "Ghana",
+                        "China",
+                        "Indonesia",
+                        "Sri Lanka"
+                ],
+                "answer": "Indonesia"
+        },
+        {
+                "question": "The Parliament of India passed the Panchayats (Extension to Scheduled Areas) Law popularly known as PESA Law. Which one among the following statements regarding PESA Law is <i>not</i> correct?",
+                "options": [
+                        "PESA was meant to provide self-governance in the scheduled areas",
+                        "PESA disempowers Gram Sabhas",
+                        "PESA protects the interests of the tribals",
+                        "PESA conducts public hearings to protect inheritance rights of the tribals"
+                ],
+                "answer": "PESA disempowers Gram Sabhas"
+        }
+
+    ],
     "2013-II": [
         {
                 "question": "Statement I : Typical laterite soils in India are generally fertile.<br/><br/>Statement II : Laterite soils generally experience leaching.<br/><br/>Code :",
