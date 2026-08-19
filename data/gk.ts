@@ -13566,7 +13566,7 @@ export const gkData: Record<string, Question[]> = {
             "answer": "100 N.s and 500 J"
         },
         {
-            "question": "An electrical circuit having combinations of resistances and capacitance is given below. The current, flowing through the circuit will be<br/><br/><img src=\"/images/2022-II-gk-q25.jpg\" alt=\"Circuit diagram\" />",
+            "question": "An electrical circuit having combinations of resistances and capacitance is given below. The current, flowing through the circuit will be<br/><br/><img src=\"/images/2022-II-gk-q25.png\" alt=\"Circuit diagram\" />",
             "options": [
                 "1 A",
                 "2 A",
@@ -40606,7 +40606,7 @@ export const gkData: Record<string, Question[]> = {
             "answer": "Rwanda"
         },
         {
-            "question": "In the map given above four petro-chemical centres are marked with numbers. Match them with the following four places and select the correct answer using the code given below:<br/><img src=\"\images\cds2009ii_q38.png\"/><br/><br/>A. Koyali<br/>B. Trombay<br/>C. Jamnagar<br/>D. Mangalore<br/><br/>Code :",
+            "question": "In the map given above four petro-chemical centres are marked with numbers. Match them with the following four places and select the correct answer using the code given below:<br/><img src=\"/images/cds2009ii_q38.png\"/><br/><br/>A. Koyali<br/>B. Trombay<br/>C. Jamnagar<br/>D. Mangalore<br/><br/>Code :",
             "options": [
                 "A-2, B-3, C-1, D-4",
                 "A-2, B-1, C-3, D-4",
@@ -41589,7 +41589,7 @@ export const gkData: Record<string, Question[]> = {
             "answer": "Digboi"
         },
         {
-            "question": "<img src=\"\images\cds2009i_q15.png\" /> <br/><br/ > The shaded area in the map given above is the major producer of which one of the following?",
+            "question": "<img src=\"/images/cds2009i_q15.png\" /> <br/><br/ > The shaded area in the map given above is the major producer of which one of the following?",
             "options": [
                 "Cotton",
                 "Groundnut",
