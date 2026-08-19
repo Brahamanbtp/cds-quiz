@@ -9015,6 +9015,1222 @@ const englishData: Record<string, Question[]> = {
             "answer": "obstruction"
         }
     ]
+,
+    "2009-I": [
+        {
+                "direction": "Each of the following <i>twenty three</i> items consists of a word in capital letters followed by four words or groups of words. Select the word or group of words that is most <i>similar</i> in meaning to the word in capital letters.",
+                "question": "GENIAL",
+                "options": [
+                        "Generous",
+                        "Wonderful",
+                        "Liberal",
+                        "Friendly and cheerful"
+                ],
+                "answer": "Friendly and cheerful"
+        },
+        {
+                "question": "REVAMP",
+                "options": [
+                        "Retreat",
+                        "Reconstruct",
+                        "Retrial",
+                        "Retrace"
+                ],
+                "answer": "Reconstruct"
+        },
+        {
+                "question": "RESCIND",
+                "options": [
+                        "Reunite",
+                        "Repeal",
+                        "Reserve",
+                        "Reproach"
+                ],
+                "answer": "Repeal"
+        },
+        {
+                "question": "RESPLENDENT",
+                "options": [
+                        "Wonderful",
+                        "Dazzling",
+                        "Beautiful",
+                        "Respectful"
+                ],
+                "answer": "Dazzling"
+        },
+        {
+                "question": "CORPULENT",
+                "options": [
+                        "Fleshy",
+                        "Thin",
+                        "Stout",
+                        "Bony"
+                ],
+                "answer": "Fleshy"
+        },
+        {
+                "question": "ACRIMONY",
+                "options": [
+                        "Disagreement",
+                        "Despondency",
+                        "Bitterness",
+                        "Difference"
+                ],
+                "answer": "Bitterness"
+        },
+        {
+                "question": "CANTANKEROUS",
+                "options": [
+                        "Bad tempered",
+                        "Full of contempt",
+                        "Very sick",
+                        "Very envious"
+                ],
+                "answer": "Bad tempered"
+        },
+        {
+                "question": "FELICITY",
+                "options": [
+                        "Peace",
+                        "Comfort",
+                        "Faithfulness",
+                        "Great happiness"
+                ],
+                "answer": "Great happiness"
+        },
+        {
+                "question": "UNRUFFLED",
+                "options": [
+                        "Simple",
+                        "Indifferent",
+                        "Sluggish",
+                        "Calm"
+                ],
+                "answer": "Calm"
+        },
+        {
+                "question": "FELINE",
+                "options": [
+                        "Feminine",
+                        "Cat-like",
+                        "Ferocious",
+                        "Ugly and clumsy"
+                ],
+                "answer": "Cat-like"
+        },
+        {
+                "question": "TENUOUS",
+                "options": [
+                        "Being tenacious",
+                        "Not substantial",
+                        "Gross",
+                        "Popular"
+                ],
+                "answer": "Not substantial"
+        },
+        {
+                "question": "EXQUISITE",
+                "options": [
+                        "Highly refined",
+                        "Too costly",
+                        "Extemporaneous",
+                        "Exotic"
+                ],
+                "answer": "Highly refined"
+        },
+        {
+                "question": "WRESTED",
+                "options": [
+                        "Took by force",
+                        "Took away easily",
+                        "Lost narrowly",
+                        "Won easily"
+                ],
+                "answer": "Took by force"
+        },
+        {
+                "question": "EXPOSTULATED",
+                "options": [
+                        "Requested",
+                        "Quarrelled ferociously",
+                        "Remonstrated",
+                        "Appealed with good reason"
+                ],
+                "answer": "Remonstrated"
+        },
+        {
+                "question": "PLACATE",
+                "options": [
+                        "Implore",
+                        "Flatter",
+                        "Pacify",
+                        "Compensate"
+                ],
+                "answer": "Pacify"
+        },
+        {
+                "question": "PERPETUAL",
+                "options": [
+                        "Contagious",
+                        "Continuous",
+                        "Perplexing",
+                        "Perennial"
+                ],
+                "answer": "Continuous"
+        },
+        {
+                "question": "DAUNTLESS",
+                "options": [
+                        "Praiseworthy",
+                        "Effortless and smooth",
+                        "Fearless and determined",
+                        "Unceasing"
+                ],
+                "answer": "Fearless and determined"
+        },
+        {
+                "question": "SEETHING",
+                "options": [
+                        "Dissatisfied",
+                        "Be agitated",
+                        "Noisy",
+                        "Soothing"
+                ],
+                "answer": "Be agitated"
+        },
+        {
+                "question": "STINGY",
+                "options": [
+                        "Violent",
+                        "Miserly",
+                        "Cautious",
+                        "Quarrelsome"
+                ],
+                "answer": "Miserly"
+        },
+        {
+                "question": "EXULTATION",
+                "options": [
+                        "Extinction",
+                        "Anxiety",
+                        "Jubilation",
+                        "Expectation"
+                ],
+                "answer": "Jubilation"
+        },
+        {
+                "question": "DOUGHTY",
+                "options": [
+                        "Dastardly",
+                        "Deceptive",
+                        "Flabby",
+                        "Valiant"
+                ],
+                "answer": "Valiant"
+        },
+        {
+                "question": "OBVIATE",
+                "options": [
+                        "Delaying the solution of a problem",
+                        "To remove a difficulty",
+                        "Make obstruction",
+                        "Supercede"
+                ],
+                "answer": "To remove a difficulty"
+        },
+        {
+                "question": "SACRILEGE",
+                "options": [
+                        "Offering sacrifice",
+                        "Privilege",
+                        "Blasphemy",
+                        "Being sacred"
+                ],
+                "answer": "Blasphemy"
+        },
+        {
+                "direction": "In this Section you have <i>Six</i> short passages. After each passage, you will find several questions based on the passage. First, read a passage, and then answer the questions based on it. You are required to select your answers based on the contents of the passage and opinion of the author only.<br/><br/><b>PASSAGE I</b><br/>Ah ! whatever could be said was said. All held him guilty. Even his own mother who claimed to understand him the best. All had betrayed him in his hour of need. Yet, there he was, still with a sparkling hope and knew that the truth must prevail. In the cold, dark and damp cell he never for a moment lost faith in God and goodness and was waiting anxiously for an angel to come, plead non guilty for him and free him of his miseries.",
+                "question": "Three of the following statements indicate that he had a sparkling hope. Which statement does not?",
+                "options": [
+                        "He had never lost faith in God",
+                        "He was sure there was goodness",
+                        "He could have evidence in his favour",
+                        "He knew that the truth must prevail"
+                ],
+                "answer": "He could have evidence in his favour"
+        },
+        {
+                "question": "Whatever others said about him, he",
+                "options": [
+                        "Betrayed no one",
+                        "Thought over the problem",
+                        "Never lost faith in goodness",
+                        "Raised his voice against injustice"
+                ],
+                "answer": "Never lost faith in goodness"
+        },
+        {
+                "question": "In the dark dungeon he always waited for",
+                "options": [
+                        "His mother",
+                        "The jailer",
+                        "The verdict freeing him of his miseries",
+                        "The angel to come and plead for him"
+                ],
+                "answer": "The angel to come and plead for him"
+        },
+        {
+                "question": "The truth must prevail means",
+                "options": [
+                        "He was true",
+                        "Angel will reveal truth",
+                        "Truth always wins in the end",
+                        "We must plead for the truth"
+                ],
+                "answer": "Truth always wins in the end"
+        },
+        {
+                "direction": "In this Section you have <i>Six</i> short passages. After each passage, you will find several questions based on the passage. First, read a passage, and then answer the questions based on it. You are required to select your answers based on the contents of the passage and opinion of the author only.<br/><br/><b>PASSAGE II</b><br/>Once while travelling by the local bus, I got a seat beside a very strange man. He seemed interested in every passenger aboard. He would stare at a person, scribble some odd mathematical notations on his long notebook and then move on to the next. Being quite interested in what he was doing I asked him what all those notations meant and then came the startling reply. He saw a man's face not as a single unit but as thousands of squares put together. He was in fact a statistical expert and a budding artist learning the art of graphics.",
+                "question": "The man was scribbling down",
+                "options": [
+                        "The figures of co-passengers",
+                        "The details of thousands of squares put together",
+                        "Some mathematical formulae and calculations",
+                        "Some mathematical signs"
+                ],
+                "answer": "Some mathematical signs"
+        },
+        {
+                "question": "The man caught author's attention because",
+                "options": [
+                        "He was sitting next to him",
+                        "He was staring at every person in the bus",
+                        "He would stare at every person and then scribble down some mathematical notation",
+                        "He was a budding artist learning the art of graphics"
+                ],
+                "answer": "He would stare at every person and then scribble down some mathematical notation"
+        },
+        {
+                "question": "The author found that man's reply quite startling because",
+                "options": [
+                        "A statistical expert cannot be a budding scientist",
+                        "A budding artist cannot be a statistical expert",
+                        "Graphics is still a rare art form and he was learning it while travelling in a bus",
+                        "The fact that \"a man's face can be analysed as thousands of squares\" was a strange concept."
+                ],
+                "answer": "The fact that \"a man's face can be analysed as thousands of squares\" was a strange concept."
+        },
+        {
+                "question": "From the passage we gather that",
+                "options": [
+                        "The author is very inquisitive",
+                        "The author tries to poke his nose in other people's business",
+                        "The author is interested in mathematical notations",
+                        "The author wants to talk to fellow passengers in the bus"
+                ],
+                "answer": "The author is very inquisitive"
+        },
+        {
+                "direction": "In this Section you have <i>Six</i> short passages. After each passage, you will find several questions based on the passage. First, read a passage, and then answer the questions based on it. You are required to select your answers based on the contents of the passage and opinion of the author only.<br/><br/><b>PASSAGE III</b><br/>With the inevitable growth of specialization I see the universities facing two great dangers. First, it is very easy to get so involved in the technical details of education that the object of education is lost. And secondly, in an effort to condition a university to the needs of its students and to the needs of the State it may lose its power to make or mould those students into responsible men, capable of thinking for themselves and capable of expressing the results of their thoughts to others.",
+                "question": "The author calls growth of specialisation 'inevitable'. Which one of the following statements is likely to be the most correct reason for this inevitability?",
+                "options": [
+                        "Universities give grants only to do specialised work in different disciplines",
+                        "The professors and researchers in universities are competent only for specialised work",
+                        "Specialization helps economic growth of the nation",
+                        "In an age of science and technology specialization becomes necessary"
+                ],
+                "answer": "In an age of science and technology specialization becomes necessary"
+        },
+        {
+                "question": "Which one of the following statements most correctly suggests the central theme of the passage?",
+                "options": [
+                        "The aim of education is specialization",
+                        "The aim of education is to mould the youth to work for the State",
+                        "The aim of education is to make the youth capable of independent thought and expression",
+                        "The aim of education is to enable the youth to earn a comfortable living"
+                ],
+                "answer": "The aim of education is to make the youth capable of independent thought and expression"
+        },
+        {
+                "question": "Which one of the following statements most correctly suggests the warning implied in the passage?",
+                "options": [
+                        "University education should not be concerned with technical details",
+                        "Universities should not subordinate themselves to the interests of the State",
+                        "Universities should be concerned only with the needs of students",
+                        "Universities should not go in for any specialization"
+                ],
+                "answer": "Universities should not subordinate themselves to the interests of the State"
+        },
+        {
+                "direction": "In this Section you have <i>Six</i> short passages. After each passage, you will find several questions based on the passage. First, read a passage, and then answer the questions based on it. You are required to select your answers based on the contents of the passage and opinion of the author only.<br/><br/><b>PASSAGE IV</b><br/>One December night, a family had gathered around their fireside and piled it high with wood gathered from mountain streams and ruins of great trees that had come falling down the mountain sides. The fire roared and brightened the room with its light. The faces of the father and mother had a quiet gladness; the children laughed; the oldest daughter was the picture of happiness at seventeen; and the aged grandmother who sat sewing in the warmest place was the picture of happiness grown old.",
+                "question": "The firewood had been",
+                "options": [
+                        "brought",
+                        "stolen",
+                        "collected",
+                        "found"
+                ],
+                "answer": "collected"
+        },
+        {
+                "question": "The parents looked",
+                "options": [
+                        "serene",
+                        "cheerful",
+                        "gloomy",
+                        "dull"
+                ],
+                "answer": "serene"
+        },
+        {
+                "question": "The oldest daughter looked",
+                "options": [
+                        "stupid",
+                        "glad",
+                        "intelligent",
+                        "mournful"
+                ],
+                "answer": "glad"
+        },
+        {
+                "direction": "In this Section you have <i>Six</i> short passages. After each passage, you will find several questions based on the passage. First, read a passage, and then answer the questions based on it. You are required to select your answers based on the contents of the passage and opinion of the author only.<br/><br/><b>PASSAGE V</b><br/>The unpleasant feeling passed and she glanced guardedly up at him. He was walking unmarked in moonlight, innocent of her reaction to him. She felt then - this thought had come to her before - that there might be more to him than she had imagined. She felt ashamed she had never thanked him for the help he had given her father.",
+                "question": "She glanced at him when",
+                "options": [
+                        "He walked alone and unnoticed in moonlight",
+                        "She was sure that she was not being noticed",
+                        "Her reactions did not have any effect on him",
+                        "The unpleasant feeling passed"
+                ],
+                "answer": "The unpleasant feeling passed"
+        },
+        {
+                "question": "Her unpleasant feeling passed when",
+                "options": [
+                        "He did not take any notice of her",
+                        "The moonlight was beautiful",
+                        "She realized her sense of shame",
+                        "She looked carefully at him"
+                ],
+                "answer": "He did not take any notice of her"
+        },
+        {
+                "question": "She was ashamed because",
+                "options": [
+                        "She was spying on him",
+                        "There was more to him than she had imagined",
+                        "A recurring thought came back to her",
+                        "She had never thanked him for his help to her father"
+                ],
+                "answer": "She had never thanked him for his help to her father"
+        },
+        {
+                "direction": "In this Section you have <i>Six</i> short passages. After each passage, you will find several questions based on the passage. First, read a passage, and then answer the questions based on it. You are required to select your answers based on the contents of the passage and opinion of the author only.<br/><br/><b>PASSAGE VI</b><br/>As I slung my pack onto my shoulders a big mosquito thudded against my cheek. There had been a few through the day, but it was early in the season - the ice had gone out just two weeks before - and I had scarcely noticed them. But now as I wound down the ridge, the last breeze faded, and they were on me. Rising in clouds from the soggy tundra, they pelted against my face. I reached in my pocket for the repellent, and came up empty.",
+                "question": "The traveller could not feel the breeze because",
+                "options": [
+                        "The mosquito had bitten him",
+                        "He was at the foot of the ridge",
+                        "There was no ice on the mountain",
+                        "There was no breeze on the tundra mountain"
+                ],
+                "answer": "He was at the foot of the ridge"
+        },
+        {
+                "question": "The traveller carried with him",
+                "options": [
+                        "Mosquito repellent",
+                        "A pack of food",
+                        "A sling",
+                        "A back-pack"
+                ],
+                "answer": "A back-pack"
+        },
+        {
+                "question": "When he was in the arctic, the time of the year was",
+                "options": [
+                        "Middle of winter",
+                        "Early autumn",
+                        "Early spring",
+                        "Middle of summer"
+                ],
+                "answer": "Early spring"
+        },
+        {
+                "direction": "In the following items, each passage consists of six sentences. The first sentence (S<sub>1</sub>) and the final sentence (S<sub>6</sub>) are given in the beginning. The middle four sentences in each have been removed and jumbled up. These are labelled P, Q, R and S. You are required to find out the proper sequence of the four sentences and mark accordingly on the Answer Sheet.",
+                "question": "S<sub>1</sub>: Having visited the Taj Mahal many tourists think that Agra has little else to offer.<br/>S<sub>6</sub>: There are few other buildings to match the delicacy of this tomb.<br/>P : One of these is surely the tomb of Itimad-ud-daulah.<br/>Q : The design of the whole tomb was given by his daughter Nur Jahan.<br/>R : After seeing the Taj one could profitably visit half a dozen other Mughal buildings.<br/>S : This tomb has the delicacy of a baroque jewel case.",
+                "options": [
+                        "R S Q P",
+                        "Q S R P",
+                        "S P R Q",
+                        "R P S Q"
+                ],
+                "answer": "R P S Q"
+        },
+        {
+                "question": "S<sub>1</sub>: For years the old chair stood in one of the empty antics.<br/>S<sub>6</sub>: I saw my parents madly in love again.<br/>P : So when I saw it for the last time, it stood there.<br/>Q : When my mother died, I wanted to sell it but could not.<br/>R : It was there for many years after my father died.<br/>S : I peeped in the past.",
+                "options": [
+                        "P Q R S",
+                        "S R Q P",
+                        "R P Q S",
+                        "R Q P S"
+                ],
+                "answer": "R Q P S"
+        },
+        {
+                "question": "S<sub>1</sub>: Illness may start with almost any sign, but some of them are much commoner than others.<br/>S<sub>6</sub>: As soon as this happens he must become alert about the signs.<br/>P : It is important to note these signs.<br/>Q : Often the first sign of something wrong is that the patient just does not feel fit.<br/>R : They may help a doctor to decide what is wrong.<br/>S : He usually relies on these signs for the diagnosis of the illness.",
+                "options": [
+                        "P R S Q",
+                        "R S Q P",
+                        "P Q S R",
+                        "Q R S P"
+                ],
+                "answer": "P R S Q"
+        },
+        {
+                "question": "S<sub>1</sub>: Newton was perhaps the greatest scientist that ever lived.<br/>S<sub>6</sub>: Newton went home and worked quietly by himself for about 18 months.<br/>P : But when he was only 22, a terrible plague epidemic swept over England.<br/>Q : He was the son of a Lincolnshire farmer, and was born in 1642.<br/>R : Therefore the universities were closed.<br/>S : He went to Cambridge to study mathematics when he was 19.",
+                "options": [
+                        "S P R Q",
+                        "Q P S R",
+                        "S Q P R",
+                        "Q S P R"
+                ],
+                "answer": "Q S P R"
+        },
+        {
+                "question": "S<sub>1</sub>: Poverty is a God's curse.<br/>S<sub>6</sub>: Is not poverty a God's boon !<br/>P : These persons get themselves enrolled as poor persons and get all the benefits of poverty.<br/>Q : It is not necessary for a person to be actually poor for getting enrolled because it can be easily managed.<br/>R : It may be true for a few but to many it is just its opposite.<br/>S : Such persons consider it to be a source of enjoying life without earning enjoyment.",
+                "options": [
+                        "R Q P S",
+                        "Q R S P",
+                        "R S P Q",
+                        "S R Q P"
+                ],
+                "answer": "R S P Q"
+        },
+        {
+                "question": "S<sub>1</sub>: Belur is 35 km. from Hassan.<br/>S<sub>6</sub>: They depict young women - musicians and dancers - in various poses.<br/>P : Seen from afar, the star-shaped temple, characteristically Hoysala, is not very impressive.<br/>Q : It stands in a courtyard surrounded by a rectangular wall.<br/>R : But closer it is dazzling and marvellous; and the entire exterior is decorated with sculptures, the loveliest being the panels right and left of the main door.<br/>S : Chennakesava Temple is dedicated to Vishnu.",
+                "options": [
+                        "Q R S P",
+                        "S R P Q",
+                        "S P Q R",
+                        "S Q P R"
+                ],
+                "answer": "S Q P R"
+        },
+        {
+                "question": "S<sub>1</sub>: When his business failed, he began to look for a job in an office.<br/>S<sub>6</sub>: Unable to bear misfortunes any further, he started toying with the idea of ending his life of burdens and strains.<br/>P : To overcome depression he took to drinking and became addicted to it.<br/>Q : He soon realized that nothing was more difficult than to find a job.<br/>R : Without job he failed to meet the daily requirements of his family which made him highly depressed.<br/>S : Quarrel ensued invariably between husband and wife when he returned home in a state of drunkenness.",
+                "options": [
+                        "P Q R S",
+                        "S R Q P",
+                        "Q S R P",
+                        "Q R P S"
+                ],
+                "answer": "Q R P S"
+        },
+        {
+                "question": "S<sub>1</sub>: Unlike many modern thinkers, Tagore had no blueprint for the world's salvation.<br/>S<sub>6</sub>: As a poet he will always delight, as a singer he will always enchant, as a teacher he will always enlighten.<br/>P : His thought will therefore never be out of date.<br/>Q : He merely emphasised certain basic truths which men may ignore only at their peril.<br/>R : He believed in no particular 'ism'.<br/>S : He was what Gandhiji rightly termed the Great Sentinel.",
+                "options": [
+                        "S R P Q",
+                        "P R Q S",
+                        "R S P Q",
+                        "R Q P S"
+                ],
+                "answer": "R Q P S"
+        },
+        {
+                "question": "S<sub>1</sub>: Louis Pasteur had a very busy and interesting life.<br/>S<sub>6</sub>: He was always very proud of being able to help his country in this way.<br/>P : Among the people whom Pasteur was able to help were brewers, breeders of silk worms, and cow keepers, all of whom were trying to carry on important industries.<br/>Q : He worked hard in his laboratory with test tubes and all kinds of experiments.<br/>R : He was working to help people who were suffering in some special way from disease.<br/>S : He not only made some exciting discoveries about germs but he was able to use his discoveries in very practical ways.",
+                "options": [
+                        "S Q R P",
+                        "P Q R S",
+                        "Q R S P",
+                        "R S Q P"
+                ],
+                "answer": "Q R S P"
+        },
+        {
+                "question": "S<sub>1</sub>: Tom Walker and his wife were always at loggerheads.<br/>S<sub>6</sub>: Tom silently thanked God for this relief.<br/>P : She never tired of reproaching him on this score.<br/>Q : Tom was incurably lazy and talkative.<br/>R : One day Mrs. Walker caught a deadly cold, and shortly afterwards, died.<br/>S : This was a constant source of irritation to his wife.",
+                "options": [
+                        "P R Q S",
+                        "Q S P R",
+                        "S Q R P",
+                        "P S Q R"
+                ],
+                "answer": "Q S P R"
+        },
+        {
+                "question": "S<sub>1</sub>: So we went on in the quiet, and the twilight deepened into night.<br/>S<sub>6</sub>: Then as the darkness grew deeper, she put her arms round my neck, and, closing her eyes tightly pressed her face against my shoulder.<br/>P : The ground grew dim and the trees black.<br/>Q : The clear blue of the distance faded, and one star after another came out.<br/>R : Neena's fears and her fatigue grew upon her.<br/>S : I took her in my arms and talked to her and caressed her.",
+                "options": [
+                        "P R Q S",
+                        "Q P R S",
+                        "Q P S R",
+                        "R S P Q"
+                ],
+                "answer": "Q P R S"
+        },
+        {
+                "question": "S<sub>1</sub>: Kennedy kicked moodily at the leg of the chair which he was holding.<br/>S<sub>6</sub>: It was a depressing beginning.<br/>P : Now his chief desire seemed to be to score off the human race in general, his best friend included.<br/>Q : If he had asked Fenn to help him in a tight place, then he knew he could have relied on him.<br/>R : Last term he and Fenn had been as close friends as you could wish to see.<br/>S : The feeling that his whole world had fallen about his ears was increasing with every hour he spend at Kay's.",
+                "options": [
+                        "P R S Q",
+                        "R S P Q",
+                        "S R Q P",
+                        "R Q P S"
+                ],
+                "answer": "S R Q P"
+        },
+        {
+                "question": "S<sub>1</sub>: I sat at the table and ate.<br/>S<sub>6</sub>: I was just the normal Ramaswamy, husband of Madeleine.<br/>P : My breathing became suddenly difficult.<br/>Q : I concentrated on my food and I was convinced I had to eat.<br/>R : I stopped, however, any exhibition of the extraordinary.<br/>S : But lungs have temperament.",
+                "options": [
+                        "P R S Q",
+                        "Q S P R",
+                        "Q S R P",
+                        "S P R Q"
+                ],
+                "answer": "Q S P R"
+        },
+        {
+                "question": "S<sub>1</sub>: Todd borrowed this dollar last year on the 8th of April.<br/>S<sub>6</sub>: And I said, 'certainly'.<br/>P : He needed a dollar to pay his taxi and I lent it to him.<br/>Q : He merely said, 'Let me have a dollar, will you'!<br/>R : It happened quite simply and naturally.<br/>S : I hardly realised it till it was all over.",
+                "options": [
+                        "P R S Q",
+                        "R S P Q",
+                        "Q R P S",
+                        "P Q R S"
+                ],
+                "answer": "R S P Q"
+        },
+        {
+                "question": "S<sub>1</sub>: People have always been fascinated by dreams.<br/>S<sub>6</sub>: But a small number, perhaps less than 5% have them regularly.<br/>P : In fact, only recently have there been serious studies to find out how many of us actually have nightmares.<br/>Q : Now that is changing.<br/>R : But the study of nightmares has been curiously neglected.<br/>S : While results so far are inconclusive, it seems fair to say that at least half the population has occasional nightmares.",
+                "options": [
+                        "S R P Q",
+                        "R Q P S",
+                        "P Q R S",
+                        "S Q R P"
+                ],
+                "answer": "R Q P S"
+        },
+        {
+                "direction": "In this Section a number of sentences are given. The sentences are underlined in three separate parts and each one is labelled (a), (b) and (c). Read each sentence to find out whether there is an error in any underlined part. No sentence has more than one error. When you find an error in any one of the underlined parts (a), (b) or (c), indicate your response on the separate Answer Sheet at the appropriate space. You may feel that there is no error in a sentence. In that case letter (d) will signify a 'No error' response.",
+                "question": "<u>I went to his house but</u> <u>couldn't see him</u> <u>because he went out before I arrived.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(c)"
+        },
+        {
+                "question": "<u>When I shall see him,</u> <u>I will tell him that</u> <u>what he has done is wrong.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(a)"
+        },
+        {
+                "question": "<u>Literature remains the interest of a minority</u> <u>and the majority has chosen to ignore those aspects of language</u> <u>which, at school they were told to value highly.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(b)"
+        },
+        {
+                "question": "<u>I look</u> <u>forward to meet you</u> <u>in future.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(b)"
+        },
+        {
+                "question": "<u>If I was the king,</u> <u>I would change the face</u> <u>of my country.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(a)"
+        },
+        {
+                "question": "<u>He admits that</u> <u>he is not following</u> <u>the instructions.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(d) No error"
+        },
+        {
+                "question": "<u>Life on board ship</u> <u>was not as I expected</u> <u>it to be.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(d) No error"
+        },
+        {
+                "question": "<u>He did not pass the examination</u> <u>inspite of</u> <u>his best efforts.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(b)"
+        },
+        {
+                "question": "<u>I tried to read your letter,</u> <u>but it was so badly written</u> <u>that I had to leave the attempt.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(c)"
+        },
+        {
+                "question": "<u>I prefer</u> <u>my job</u> <u>to yours.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(d) No error"
+        },
+        {
+                "question": "<u>If there a guarantee</u> <u>then we are prepared</u> <u>to place a bulk order for your product.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(a)"
+        },
+        {
+                "question": "<u>I meet him</u> <u>once a blue moon</u> <u>so I do not know much about his activities.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(b)"
+        },
+        {
+                "question": "<u>My daughter-in-laws</u> <u>who are in Kolkata</u> <u>have come to visit us.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(a)"
+        },
+        {
+                "question": "<u>He asked me</u> <u>what my name is</u> <u>and where I came from.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(b)"
+        },
+        {
+                "question": "<u>There has always been</u> <u>some form of education</u> <u>but there has not always been schools.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(c)"
+        },
+        {
+                "question": "<u>At the</u> <u>annual function of the school</u> <u>the principal advised to the students to be ideal citizens.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(c)"
+        },
+        {
+                "direction": "In the following items, some parts of the sentence have been jumbled up. You are required to re-arrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence and mark in your Answer Sheet accordingly.",
+                "question": "He found the house <u>and knocked at</u> (P) <u>without any difficulty</u> (Q) <u>the door</u> (R) <u>twice</u> (S)",
+                "options": [
+                        "P Q R S",
+                        "P R S Q",
+                        "Q P S R",
+                        "Q P R S"
+                ],
+                "answer": "Q P R S"
+        },
+        {
+                "question": "A good garden, <u>should display</u> (P) <u>round about a huge building or palace</u> (Q) <u>laid out on a magnificent scale</u> (R) <u>fresh beauties every month</u> (S)",
+                "options": [
+                        "P Q R S",
+                        "P S Q R",
+                        "R Q P S",
+                        "R P Q S"
+                ],
+                "answer": "R Q P S"
+        },
+        {
+                "question": "When a spider has a meal, <u>its next meal,</u> (P) <u>until it has</u> (Q) <u>to last for many months</u> (R) <u>it eats enough</u> (S)",
+                "options": [
+                        "Q P S R",
+                        "S R Q P",
+                        "S Q P R",
+                        "Q P R S"
+                ],
+                "answer": "S R Q P"
+        },
+        {
+                "question": "Mother tongue is <u>for the development</u> (P) <u>as natural</u> (Q) <u>of man's mind</u> (R) <u>as mother's milk</u> (S)",
+                "options": [
+                        "S R P Q",
+                        "P Q S R",
+                        "S R Q P",
+                        "Q S P R"
+                ],
+                "answer": "Q S P R"
+        },
+        {
+                "question": "<u>The year</u> (P) <u>that has just ended</u> (Q) <u>has proved to be disastrous</u> (R) <u>for my uncle's family</u> (S)",
+                "options": [
+                        "P R S Q",
+                        "P Q R S",
+                        "P S R Q",
+                        "S P R Q"
+                ],
+                "answer": "P Q R S"
+        },
+        {
+                "question": "When I look back on my life <u>I find it hard to believe</u> (P) <u>which has been eventful</u> (Q) <u>despite what cynics say</u> (R) <u>that it is an illusion</u> (S)",
+                "options": [
+                        "P S Q R",
+                        "P Q S R",
+                        "Q R S P",
+                        "Q P S R"
+                ],
+                "answer": "Q P S R"
+        },
+        {
+                "question": "Guards often use <u>to search for cavities</u> (P) <u>metal probing rods</u> (Q) <u>which they push</u> (R) <u>through the ground</u> (S)",
+                "options": [
+                        "S Q R P",
+                        "Q R S P",
+                        "S R Q P",
+                        "Q S P R"
+                ],
+                "answer": "Q R S P"
+        },
+        {
+                "question": "I realized <u>more than ever</u> (P) <u>and how we lived and worked</u> (Q) <u>how cut off we were from our people</u> (R) <u>and agitated in a little world apart from them</u> (S)",
+                "options": [
+                        "Q S P R",
+                        "S Q R P",
+                        "P R Q S",
+                        "R S Q P"
+                ],
+                "answer": "P R Q S"
+        },
+        {
+                "question": "Medical practice <u>in recent years</u> (P) <u>has changed so radically</u> (Q) <u>you only get specialists in a variety of fields</u> (R) <u>that you can no longer find a good general practitioner</u> (S)",
+                "options": [
+                        "P S Q R",
+                        "Q P S R",
+                        "S P R Q",
+                        "P Q R S"
+                ],
+                "answer": "Q P S R"
+        },
+        {
+                "question": "If everything <u>will be a great success</u> (P) <u>the closing function</u> (Q) <u>we are sure</u> (R) <u>goes on well</u> (S)",
+                "options": [
+                        "P Q R S",
+                        "S R Q P",
+                        "P R Q S",
+                        "S Q P R"
+                ],
+                "answer": "S R Q P"
+        },
+        {
+                "question": "<u>With an idea to reach the deprived child</u> (P) <u>by the United Nations</u> (Q) <u>the year 1979 has been declared as</u> (R) <u>the International Year of the Child</u> (S)",
+                "options": [
+                        "R S P Q",
+                        "R S Q P",
+                        "P R S Q",
+                        "P Q R S"
+                ],
+                "answer": "P R S Q"
+        },
+        {
+                "question": "The gardener <u>with a little brown moustache</u> (P) <u>a short fellow</u> (Q) <u>and sharp little brown eyes</u> (R) <u>tiptoed into the room</u> (S)",
+                "options": [
+                        "P Q R S",
+                        "Q P R S",
+                        "Q P S R",
+                        "Q S R P"
+                ],
+                "answer": "Q P R S"
+        },
+        {
+                "question": "If you have something interesting <u>express it clearly</u> (P) <u>to write about</u> (Q) <u>simply and</u> (R) <u>with the human touch</u> (S)",
+                "options": [
+                        "P Q S R",
+                        "S P R Q",
+                        "R S Q P",
+                        "Q P R S"
+                ],
+                "answer": "Q P R S"
+        },
+        {
+                "question": "One cloudless morning <u>towards the valley</u> (P) <u>the pilots flew off together</u> (Q) <u>of the farmer's house</u> (R) <u>in close formation</u> (S)",
+                "options": [
+                        "Q S P R",
+                        "S Q P R",
+                        "P Q S R",
+                        "R Q P S"
+                ],
+                "answer": "Q S P R"
+        },
+        {
+                "direction": "In the following items, some parts of the sentence have been jumbled up. You are required to re-arrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence and mark in your Answer Sheet accordingly.",
+                "question": "When he had ridden <u>to the end of his mad little journey</u> (P) <u>in front of his rocking horse</u> (Q) <u>he climbed down and stood</u> (R) <u>staring fixedly into its lowered face</u> (S)",
+                "options": [
+                        "Q R P S",
+                        "S Q P R",
+                        "P R Q S",
+                        "P S R Q"
+                ],
+                "answer": "P R Q S"
+        },
+        {
+                "question": "The meeting <u>if Mr Rai</u> (P) <u>would have been over on time</u> (Q) <u>with his long financial report</u> (R) <u>did not hold us up</u> (S)",
+                "options": [
+                        "Q R P S",
+                        "S P R Q",
+                        "Q P S R",
+                        "P R S Q"
+                ],
+                "answer": "Q P S R"
+        },
+        {
+                "question": "The long gruelling hours <u>had finally paid off</u> (P) <u>on drawing after drawing,</u> (Q) <u>working tirelessly</u> (R) <u>painting after painting</u> (S)",
+                "options": [
+                        "P R Q S",
+                        "R Q S P",
+                        "Q S R P",
+                        "R P Q S"
+                ],
+                "answer": "R Q S P"
+        },
+        {
+                "question": "For us <u>before this Monday</u> (P) <u>to complete this work</u> (Q) <u>and it should not be delayed</u> (R) <u>is very important</u> (S)",
+                "options": [
+                        "P Q R S",
+                        "Q P S R",
+                        "R S P Q",
+                        "Q S P R"
+                ],
+                "answer": "Q P S R"
+        },
+        {
+                "question": "When the <u>the party realized that</u> (P) <u>elections were over</u> (Q) <u>in the assembly</u> (R) <u>it had lost its majority</u> (S)",
+                "options": [
+                        "P S Q R",
+                        "Q P S R",
+                        "Q R P S",
+                        "P Q R S"
+                ],
+                "answer": "Q P S R"
+        },
+        {
+                "question": "If <u>you must arm yourself so</u> (P) <u>before starting a war</u> (Q) <u>that the enemy may think twice</u> (R) <u>you want peace</u> (S)",
+                "options": [
+                        "S P R Q",
+                        "P R Q S",
+                        "R Q S P",
+                        "P R S Q"
+                ],
+                "answer": "S P R Q"
+        },
+        {
+                "direction": "Each of the following twenty one items consists of a word or a group of words in capital letters followed by four words or groups of words. Select the word or group of words that is farthest in meaning to the word in capital letters.",
+                "question": "REPLENISH",
+                "options": [
+                        "Deplete",
+                        "Increase",
+                        "Enlarge",
+                        "Unprotect"
+                ],
+                "answer": "Deplete"
+        },
+        {
+                "question": "RELENTLESS",
+                "options": [
+                        "Ruthless",
+                        "Restless",
+                        "Merciful",
+                        "Harsh"
+                ],
+                "answer": "Merciful"
+        },
+        {
+                "question": "RESILIENCE",
+                "options": [
+                        "Silence",
+                        "Buoyancy",
+                        "Rigidity",
+                        "Emptiness"
+                ],
+                "answer": "Rigidity"
+        },
+        {
+                "question": "QUERULOUS",
+                "options": [
+                        "Confident",
+                        "Cheerful",
+                        "Firm",
+                        "Quarrelsome"
+                ],
+                "answer": "Cheerful"
+        },
+        {
+                "question": "ACQUITTED",
+                "options": [
+                        "Neglected",
+                        "Discharged",
+                        "Arrested",
+                        "Convicted"
+                ],
+                "answer": "Convicted"
+        },
+        {
+                "question": "AT THE ELEVENTH HOUR",
+                "options": [
+                        "At night",
+                        "At noon",
+                        "Late",
+                        "Early"
+                ],
+                "answer": "Early"
+        },
+        {
+                "question": "GRUDGING",
+                "options": [
+                        "Wholehearted",
+                        "Reluctant",
+                        "Convincing",
+                        "Secretive"
+                ],
+                "answer": "Wholehearted"
+        },
+        {
+                "question": "DIVULGE",
+                "options": [
+                        "Reveal",
+                        "Hide",
+                        "Tell",
+                        "Inform"
+                ],
+                "answer": "Hide"
+        },
+        {
+                "question": "GARRULOUS",
+                "options": [
+                        "Reticent",
+                        "Soft-spoken",
+                        "Peaceful",
+                        "Kind"
+                ],
+                "answer": "Reticent"
+        },
+        {
+                "question": "REJUVENATED",
+                "options": [
+                        "Reaffirmed",
+                        "Reincarnated",
+                        "Exhausted",
+                        "Devastated"
+                ],
+                "answer": "Exhausted"
+        },
+        {
+                "question": "THWARTED",
+                "options": [
+                        "Foiled",
+                        "Opposed",
+                        "Supported",
+                        "Tightened"
+                ],
+                "answer": "Supported"
+        },
+        {
+                "question": "BIG-WIGS",
+                "options": [
+                        "Mangers-on",
+                        "Small fry",
+                        "Riff-raff",
+                        "Novices"
+                ],
+                "answer": "Small fry"
+        },
+        {
+                "question": "PRONE TO",
+                "options": [
+                        "Prior to",
+                        "Preceding",
+                        "Immune to",
+                        "Vulnerable to"
+                ],
+                "answer": "Immune to"
+        },
+        {
+                "question": "OBSEQUIOUS",
+                "options": [
+                        "Offensive",
+                        "Dignified",
+                        "Irritating",
+                        "Subservient"
+                ],
+                "answer": "Dignified"
+        },
+        {
+                "question": "FIGHT SHY OF",
+                "options": [
+                        "Welcome",
+                        "Avoid",
+                        "Quarrel with",
+                        "Feel shy of"
+                ],
+                "answer": "Welcome"
+        },
+        {
+                "question": "BY FITS AND STARTS",
+                "options": [
+                        "Regularly",
+                        "When in a fit",
+                        "From time to time",
+                        "Without steady application"
+                ],
+                "answer": "Regularly"
+        },
+        {
+                "question": "PAUCITY",
+                "options": [
+                        "Plenty",
+                        "Pressure",
+                        "Pause",
+                        "Retention"
+                ],
+                "answer": "Plenty"
+        },
+        {
+                "question": "DIFFIDENCE",
+                "options": [
+                        "Confusion",
+                        "Confidence",
+                        "Contentment",
+                        "Dissatisfaction"
+                ],
+                "answer": "Confidence"
+        },
+        {
+                "question": "DELETERIOUS",
+                "options": [
+                        "Dilatory",
+                        "Harmless",
+                        "Being delicate",
+                        "Salubrious"
+                ],
+                "answer": "Harmless"
+        },
+        {
+                "question": "EXASPERATED",
+                "options": [
+                        "Encouraged",
+                        "Impressed",
+                        "Diverted",
+                        "Delighted"
+                ],
+                "answer": "Delighted"
+        },
+        {
+                "question": "ON THE SLY",
+                "options": [
+                        "Openly",
+                        "Secretly",
+                        "Casually",
+                        "Actively"
+                ],
+                "answer": "Openly"
+        },
+        {
+                "direction": "You are given four alternative meanings to each of the following idioms/phrases. Choose the most appropriate one.",
+                "question": "BLOW BY BLOW",
+                "options": [
+                        "Eruptions in quick succession from a great volcano",
+                        "Continuously raining with thunders",
+                        "Describe an event as it occurred in every detail",
+                        "A rapid decline of business leading to its closure"
+                ],
+                "answer": "Describe an event as it occurred in every detail"
+        },
+        {
+                "question": "BY HOOK OR BY CROOK",
+                "options": [
+                        "In a completely insane manner",
+                        "In whatever way one can",
+                        "Being very evil and destructive",
+                        "To be very tenacious"
+                ],
+                "answer": "In whatever way one can"
+        },
+        {
+                "question": "CHOCK-A-BLOCK",
+                "options": [
+                        "Filled to capacity",
+                        "Not being able to fulfil one's desires",
+                        "Blocking somebody's path to progress",
+                        "Suffocation caused due to living in a congested area"
+                ],
+                "answer": "Filled to capacity"
+        },
+        {
+                "question": "A FEATHER IN ONE'S CAP",
+                "options": [
+                        "Accumulating more money or property",
+                        "Taking more burden on oneself",
+                        "Being felicitated for one's artistic merits",
+                        "Something achieved that constitutes a victory"
+                ],
+                "answer": "Something achieved that constitutes a victory"
+        },
+        {
+                "question": "FOR GOOD",
+                "options": [
+                        "For a good cause",
+                        "Temporarily",
+                        "Permanently",
+                        "Seriously"
+                ],
+                "answer": "Permanently"
+        }
+]
 };
 
 export default englishData;
