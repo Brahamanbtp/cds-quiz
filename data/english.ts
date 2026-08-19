@@ -10229,6 +10229,1239 @@ const englishData: Record<string, Question[]> = {
                         "Seriously"
                 ],
                 "answer": "Permanently"
+        },
+        {
+                "direction": "Each of the following items consists of a word in capital letters, followed by four words or group of words. Select the word or group of words that is most similar in meaning to the word in capital letters.",
+                "question": "MAGNIFICENT",
+                "options": [
+                        "Magnanimous",
+                        "Graceful",
+                        "Magical",
+                        "Splendid"
+                ],
+                "answer": "Splendid"
+        },
+        {
+                "question": "CORROBORATE",
+                "options": [
+                        "Reward",
+                        "Confirm",
+                        "Correct",
+                        "Contradict"
+                ],
+                "answer": "Confirm"
+        },
+        {
+                "question": "ELUCIDATE",
+                "options": [
+                        "Describe",
+                        "Annotate",
+                        "Explain",
+                        "Complicate"
+                ],
+                "answer": "Explain"
+        },
+        {
+                "question": "APPREHENSION",
+                "options": [
+                        "Alertness",
+                        "Anticipation",
+                        "Anxiety",
+                        "Doubt"
+                ],
+                "answer": "Anxiety"
+        },
+        {
+                "question": "DIFFIDENT",
+                "options": [
+                        "Bold",
+                        "Disobedient",
+                        "Hesitant",
+                        "Improper"
+                ],
+                "answer": "Hesitant"
+        },
+        {
+                "question": "DIGRESS",
+                "options": [
+                        "Deviate",
+                        "Come back",
+                        "Remove",
+                        "Slow down"
+                ],
+                "answer": "Deviate"
+        },
+        {
+                "question": "CONTENDING",
+                "options": [
+                        "Competing",
+                        "Antagonizing",
+                        "Fighting",
+                        "Warning"
+                ],
+                "answer": "Competing"
+        },
+        {
+                "question": "ACCOLADE",
+                "options": [
+                        "Wish",
+                        "Congratulate",
+                        "Comment",
+                        "Award"
+                ],
+                "answer": "Award"
+        },
+        {
+                "question": "SALUBRIOUS",
+                "options": [
+                        "Convenient",
+                        "Warm",
+                        "Healthy",
+                        "Chilly"
+                ],
+                "answer": "Healthy"
+        },
+        {
+                "question": "RESTIVE",
+                "options": [
+                        "Impatient",
+                        "Inactive",
+                        "Lonely",
+                        "Peaceful"
+                ],
+                "answer": "Impatient"
+        },
+        {
+                "question": "PREPOSTEROUS",
+                "options": [
+                        "Incredible",
+                        "Outrageous",
+                        "Astonishing",
+                        "Exorbitant"
+                ],
+                "answer": "Outrageous"
+        },
+        {
+                "question": "PERSUASIVE",
+                "options": [
+                        "Passionate",
+                        "Impressive",
+                        "Influential",
+                        "Convincing"
+                ],
+                "answer": "Convincing"
+        },
+        {
+                "question": "ALLEVIATE",
+                "options": [
+                        "Aggravate",
+                        "Amend",
+                        "Maintain",
+                        "Mitigate"
+                ],
+                "answer": "Mitigate"
+        },
+        {
+                "question": "FURTIVELY",
+                "options": [
+                        "Quietly",
+                        "Stealthily",
+                        "Delicately",
+                        "Haphazardly"
+                ],
+                "answer": "Stealthily"
+        },
+        {
+                "question": "DISPARITY",
+                "options": [
+                        "Enmity",
+                        "Inequality",
+                        "Diversity",
+                        "Segregation"
+                ],
+                "answer": "Inequality"
+        },
+        {
+                "question": "RECTIFY",
+                "options": [
+                        "Undo",
+                        "Record",
+                        "Direct",
+                        "Correct"
+                ],
+                "answer": "Correct"
+        },
+        {
+                "question": "ABSURD",
+                "options": [
+                        "Feeble",
+                        "Childish",
+                        "Devious",
+                        "Foolish"
+                ],
+                "answer": "Foolish"
+        },
+        {
+                "question": "LURID",
+                "options": [
+                        "Exaggerated and intentional",
+                        "Extravagant and silly",
+                        "Unreasonable and malicious",
+                        "Shocking and violent"
+                ],
+                "answer": "Shocking and violent"
+        },
+        {
+                "question": "STEADFAST",
+                "options": [
+                        "Fixed",
+                        "Stubborn",
+                        "Tactful",
+                        "Tolerant"
+                ],
+                "answer": "Fixed"
+        },
+        {
+                "question": "KINDLE",
+                "options": [
+                        "Show kindness",
+                        "Incite",
+                        "Helpful",
+                        "Vindicate"
+                ],
+                "answer": "Incite"
+        },
+        {
+                "direction": "In the following items, each passage consists of six sentences. The first sentence (S<sub>1</sub>) and the final sentence (S<sub>6</sub>) are given in the beginning. The middle four sentences in each have been removed and jumbled up. These are labelled P, Q, R and S. You are required to find out the proper sequence of the four sentences and mark accordingly on the Answer Sheet.",
+                "question": "S<sub>1</sub>: Long long ago there lived a king who was crude and very much like a savage.<br/>S<sub>6</sub>: Or at least he tried to.<br/>P : He was a man of great fancies and even greater enthusiasm.<br/>Q : Because he had so much authority as a king, he was able to force some of these fancies into reality.<br/>R : He had none of the grace and polish of his neighbours.<br/>S : He had learned some manners from his Latin neighbours, but mostly he was barbaric, loud and gruff.",
+                "options": [
+                        "R S P Q",
+                        "S Q P R",
+                        "R P Q S",
+                        "P R Q S"
+                ],
+                "answer": "R S P Q"
+        },
+        {
+                "question": "S<sub>1</sub>: Our age is the age of the specialist.<br/>S<sub>6</sub>: We have to reckon with the spirit of science, understand its limitations and an outlook which is consistent with its findings.<br/>P : Modern specialization had led to the fragmentation of knowledge.<br/>Q : Each one knows more and more about less and less.<br/>R : We should not only be specialists but also have a sense of the meaning of life and of social responsibility.<br/>S : We concentrate on some narrow field and forget the larger context in which we can see the meaning of our own specialization.",
+                "options": [
+                        "P Q S R",
+                        "Q P R S",
+                        "S P Q R",
+                        "Q S P R"
+                ],
+                "answer": "P Q S R"
+        },
+        {
+                "question": "S<sub>1</sub>: He went to his friends, but none of them was ready to help him now.<br/>S<sub>6</sub>: Now the Youngman understood that he had made a mistake.<br/>P : He had to look after the farmer's pigs.<br/>Q : And when he was hungry he ate the food which was given to the pigs.<br/>R : He went away from the city and wandered round the countryside looking for food to eat.<br/>S : In the end he went to the house of a farmer and became his servant.",
+                "options": [
+                        "P S R Q",
+                        "R S P Q",
+                        "S Q P R",
+                        "Q P S R"
+                ],
+                "answer": "R S P Q"
+        },
+        {
+                "question": "S<sub>1</sub>: Man, when first came, must have been surrounded by great animals and he must have lived in fear of them.<br/>S<sub>6</sub>: Gradually, however, man raised himself and became more and more powerful till he became stronger than any animal.<br/>P : He makes the animals do what he likes.<br/>Q : But in those days he was not the master but a poor hunted creature himself trying to keep away from the great animals.<br/>R : Today man is the master of the world.<br/>S : Some he tames, some he eats and some he shoots for pleasure.",
+                "options": [
+                        "R Q P S",
+                        "R S P Q",
+                        "R P S Q",
+                        "P Q S R"
+                ],
+                "answer": "R P S Q"
+        },
+        {
+                "question": "S<sub>1</sub>: Convention has a necessary part to play in the life of everyone.<br/>S<sub>6</sub>: Their purpose, however, is always the same.<br/>P : It is necessary and useful for this reason.<br/>Q : Of course, there is nothing absolute about conventions.<br/>R : They vary from country to country, from age to age.<br/>S : In all social affairs it prescribes more or less generally accepted rules of behaviour.",
+                "options": [
+                        "S Q R P",
+                        "P Q S R",
+                        "R P S Q",
+                        "S P Q R"
+                ],
+                "answer": "S P Q R"
+        },
+        {
+                "question": "S<sub>1</sub>: No one can seriously pretend to remain unaffected by advertisement.<br/>S<sub>6</sub>: Though they seem so varied all these advertisements have one thing in common: they make strong appeals to our emotions.<br/>P : Even in the sanctity of our living rooms advertisers pounce upon their helpless victims as they tune in to their favourite radio or television programmes.<br/>Q : It is impossible to turn a blind eye to the solicitous overtures to buy this or that article that fill our streets, newspapers and magazines.<br/>R : Most often they bank upon our sense of fear for not doing or possessing this or that for our youth, beauty, health and security.<br/>S : No matter how hard we resist, clever little tunes and catch-phrases seep into our subconscious mind and stay there.",
+                "options": [
+                        "P Q S R",
+                        "Q P S R",
+                        "R P S Q",
+                        "S Q P R"
+                ],
+                "answer": "Q P S R"
+        },
+        {
+                "question": "S<sub>1</sub>: A great part of Arabia is desert.<br/>S<sub>6</sub>: Such place is called an oasis.<br/>P : The sand is so hot that you cannot walk over it with your bare feet in the day time.<br/>Q : These springs are few and far apart, but wherever there is one, green grass very soon covers the ground all around it.<br/>R : Here there is nothing but sand and rock.<br/>S : Here and there in the desert are springs of water that come from deep down under the ground.",
+                "options": [
+                        "P S R Q",
+                        "R S Q P",
+                        "R P S Q",
+                        "P Q S R"
+                ],
+                "answer": "R P S Q"
+        },
+        {
+                "question": "S<sub>1</sub>: Many things about Konarak seem shrouded in mystery.<br/>S<sub>6</sub>: King Narasimha probably had it built as much as a memorial to himself as he did in honour of the Sun-God.<br/>P : It is, of course, a religious shrine.<br/>Q : But here there also seems to be a great emphasis on purely human grandeur.<br/>R : Why was it built?<br/>S : Long before the temple was built, sometime in the 13th century, Konarak was one of the five holiest places in Orissa.",
+                "options": [
+                        "R P Q S",
+                        "R P S Q",
+                        "S R P Q",
+                        "S P Q R"
+                ],
+                "answer": "S R P Q"
+        },
+        {
+                "question": "S<sub>1</sub>: Most of you probably did not see Gandhiji at close quarters.<br/>S<sub>6</sub>: The result was that that poor man had to try to be good.<br/>P : One of these qualities was that he managed to draw out the good in another person.<br/>Q : But he somehow spotted the good and laid emphasis on that good.<br/>R : He had amazing qualities.<br/>S : The other person may have had plenty of evil in him.",
+                "options": [
+                        "Q P S R",
+                        "R P S Q",
+                        "P R Q S",
+                        "Q S P R"
+                ],
+                "answer": "R P S Q"
+        },
+        {
+                "question": "S<sub>1</sub>: Everybody thinks that this is the Age of Reason.<br/>S<sub>6</sub>: Obviously we must reexamine the view that this is the age of Reason.<br/>P : Reason takes a backseat at such times.<br/>Q : The ordinary events of life seem to support this view.<br/>R : We must therefore avoid the development of such situations.<br/>S : But the behaviour of people in crises makes us doubt this.",
+                "options": [
+                        "R Q P S",
+                        "S R Q P",
+                        "P S R Q",
+                        "Q S P R"
+                ],
+                "answer": "Q S P R"
+        },
+        {
+                "question": "S<sub>1</sub>: Our villages are not now as serene and peaceful as they had been twenty five years ago.<br/>S<sub>6</sub>: This often vitiates the traditional tranquility of the rural way of living.<br/>P : The village people now seldom live under the overall command of any single powerful headman.<br/>Q : Local political leaders mostly control and command them.<br/>R : Party politics had entered into the peaceful villages forcing the villagers to live polarized political lives.<br/>S : One dangerous consequence of this is that they are often dragged into clashes even with their own relations of different political beliefs.",
+                "options": [
+                        "P R S Q",
+                        "R P Q S",
+                        "Q P R S",
+                        "P S R Q"
+                ],
+                "answer": "R P Q S"
+        },
+        {
+                "direction": "In the following items, each passage consists of six sentences. The first sentence (S<sub>1</sub>) and the final sentence (S<sub>6</sub>) are given in the beginning. The middle four sentences in each have been removed and jumbled up. These are labelled P, Q, R and S. You are required to find out the proper sequence of the four sentences and mark accordingly on the Answer Sheet.",
+                "question": "S<sub>1</sub>: People think that poverty is a great curse and wealth is a source of happiness in life.<br/>S<sub>6</sub>: All great men were born poor.<br/>P : A life of poverty gives more genuine satisfaction than a life passed in affluence which encourages dependence on others.<br/>Q : This is untrue.<br/>R : Poor people are free from the evils which surround the rich.<br/>S : They have sympathy for one another and are more self-reliant.",
+                "options": [
+                        "P S Q R",
+                        "Q P R S",
+                        "S R Q P",
+                        "R S P Q"
+                ],
+                "answer": "Q P R S"
+        },
+        {
+                "question": "S<sub>1</sub>: Before man settled down, his life was not governed by the seasons.<br/>S<sub>6</sub>: However, we do not know when man first began to divide the day into twenty-four hours, and the hour into sixty minutes.<br/>P : So man began to measure time, and first he looked for convenient units of measurement, one of which was the day.<br/>Q : This was done by making a mark for each day on a tree trunk.<br/>R : Once he settled down to the agricultural way of life, he had to be able to calculate the change of seasons on which agriculture depended.<br/>S : In order to calculate the passing of time, it was necessary for man to record the number of days in each season.",
+                "options": [
+                        "P Q R S",
+                        "R P S Q",
+                        "Q P S R",
+                        "R S Q P"
+                ],
+                "answer": "R P S Q"
+        },
+        {
+                "question": "S<sub>1</sub>: Imitation is not civilization.<br/>S<sub>6</sub>: When a man has begun to be ashamed of his ancestors, the end has come.<br/>P : As ass in a lion's skin never makes a lion.<br/>Q : It is verily the sign of awful degradation in a man.<br/>R : Cowardly imitation never makes for progress.<br/>S : When a man has begun to hate himself, then the last blow has come.",
+                "options": [
+                        "P Q R S",
+                        "S P R Q",
+                        "P R Q S",
+                        "Q S R P"
+                ],
+                "answer": "P R Q S"
+        },
+        {
+                "question": "S<sub>1</sub>: Democracy, more than any other form of government, needs good citizenship.<br/>S<sub>6</sub>: That is not the instinct of the natural man; yet somehow that habit has to be acquired.<br/>P : But it has to be freedom of service self-chosen and sometimes of sacrifice self-imposed.<br/>Q : Under absolutism or dictatorship, men are forced into line.<br/>R : Freedom is the essence of democracy: the more complete the democracy, the more complete the freedom.<br/>S : But in a democracy things are not so simple.",
+                "options": [
+                        "S Q P R",
+                        "R S Q P",
+                        "P R Q S",
+                        "Q S R P"
+                ],
+                "answer": "Q S R P"
+        },
+        {
+                "question": "S<sub>1</sub>: In 1668 an important discovery was made.<br/>S<sub>6</sub>: That was the beginning of the end of the theory of spontaneous generation of higher plants and animals.<br/>P : He put some rotting meat and fish in open jars and watched them.<br/>Q : When he covered the jars with muslin, he found that flies came and laid their eggs on the muslin, but no maggots developed on the meat.<br/>R : In time, he noticed that flies came and laid their eggs in the meat and the maggots hatched from the eggs.<br/>S : An Italian physician named Redi decided to test the idea that worms were generated spontaneously in rotting meat.",
+                "options": [
+                        "P Q S R",
+                        "S P R Q",
+                        "S R P Q",
+                        "R P Q S"
+                ],
+                "answer": "S P R Q"
+        },
+        {
+                "question": "S<sub>1</sub>: There is no sound more familiar in Calcutta than the clanking of its tramcars.<br/>S<sub>6</sub>: Their progress is regarded with the mixture of dread and embarrassment reserved for the approach of a cantankerous old aunt.<br/>P : For a growing body of opinion in the city, trams are a symbol of urban blight.<br/>Q : It is also an irritant.<br/>R : All day and late into the night the trundling roll of a tram has become a symbol, a portent.<br/>S : Slow, overcrowded and unwieldy, they are thought of as obstructionist and outmoded.",
+                "options": [
+                        "R Q P S",
+                        "R Q S P",
+                        "Q S P R",
+                        "P S R Q"
+                ],
+                "answer": "R Q P S"
+        },
+        {
+                "question": "S<sub>1</sub>: In England, yesterday, villagers were amazed to see a number of youths floating over a field.<br/>S<sub>6</sub>: The others, however, returned safely to earth by puncturing their umbrellas before they had risen very far.<br/>P : One boy let go his umbrella and landed on a cow from a height of about ten feet.<br/>Q : Luckily, there were not as many casualties as there might have been.<br/>R : Another ended up in a pond.<br/>S : The youths, it appeared, had inflated their fathers' umbrellas with hydrogen and as a result were borne skywards.",
+                "options": [
+                        "Q S P R",
+                        "P Q S R",
+                        "S Q P R",
+                        "P Q R S"
+                ],
+                "answer": "S Q P R"
+        },
+        {
+                "question": "S<sub>1</sub>: A recent survey reveals that Indian Engineers play an immensely significant role in the American software industry.<br/>S<sub>6</sub>: It is high time the leaders addressed themselves to this issue seriously.<br/>P : Not only this, the Indian Americans own almost 25% of the small information technology firms in the U.S.<br/>Q : And then, over 28% of these hold a Ph.D. - the highest percentage among all ethnic groups involved in the software industry.<br/>R : Some dollars might be flowing back but the best of brains are surely being lost to the nation.<br/>S : What catches the attention at the very outset is the number - over a million Indians work in the American software industry.",
+                "options": [
+                        "P Q S R",
+                        "S Q P R",
+                        "S Q R P",
+                        "S P Q R"
+                ],
+                "answer": "S P Q R"
+        },
+        {
+                "direction": "In this Section a number of sentences are given. The sentences are underlined in three separate parts and each one is labelled (a), (b) and (c). Read each sentence to find out whether there is an error in any underlined part. No sentence has more than one error. When you find an error in any one of the underlined parts (a), (b) or (c), indicate your response on the separate Answer Sheet at the appropriate space. You may feel that there is no error in a sentence. In that case letter (d) will signify a 'No error' response.",
+                "question": "<u>Neither of them</u> <u>are going to attend</u> <u>the party on 10<sup>th</sup> October.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(b)"
+        },
+        {
+                "question": "<u>I have not seen him since twenty years</u> <u>and so I cannot say with certainty</u> <u>whether he is alive or dead.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(a)"
+        },
+        {
+                "question": "<u>He walked five miles which are really a great distance</u> <u>for a man like him</u> <u>who is not only old but also ill.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(a)"
+        },
+        {
+                "question": "<u>The student requested the teacher</u> <u>to explain him the theory of relativity</u> <u>with some examples which he could understand easily.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(b)"
+        },
+        {
+                "question": "<u>When he did not find his cook in the kitchen</u> <u>he asked his wife</u> <u>where had he gone.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(c)"
+        },
+        {
+                "question": "<u>We are proud to announce</u> <u>that every one on our team has earned</u> <u>a good name.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(b)"
+        },
+        {
+                "question": "<u>Either my colleague</u> <u>or a peon are coming home</u> <u>with the material today.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(b)"
+        },
+        {
+                "question": "<u>Never I asked</u> <u>my Englishman</u> <u>how much he earned.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(a)"
+        },
+        {
+                "question": "<u>The Vice-Chancellor of our university urged to</u> <u>the agitating students to shun violence</u> <u>and maintain peace on the campus.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(a)"
+        },
+        {
+                "question": "<u>When her son got a job</u> <u>she was</u> <u>besides herself with joy.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(c)"
+        },
+        {
+                "question": "<u>Here is</u> <u>the man whom I think</u> <u>committed the crime.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(b)"
+        },
+        {
+                "question": "<u>We have studied the two specimens carefully</u> <u>X differs to Y</u> <u>in only one respect.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(b)"
+        },
+        {
+                "question": "<u>Bread and butter</u> <u>is</u> <u>all we want.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(d) No error"
+        },
+        {
+                "question": "<u>What are</u> <u>their reasons</u> <u>to say it.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(c)"
+        },
+        {
+                "question": "<u>He took</u> <u>his younger sister</u> <u>with himself.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(c)"
+        },
+        {
+                "question": "<u>Can you cite</u> <u>any precedent</u> <u>in support of the case?</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(d) No error"
+        },
+        {
+                "question": "<u>We must work</u> <u>very hard now</u> <u>to making up for the lost time.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(c)"
+        },
+        {
+                "question": "<u>Right from his childhood</u> <u>he used to prefer</u> <u>sports than studies.</u>",
+                "options": [
+                        "(a)",
+                        "(b)",
+                        "(c)",
+                        "(d) No error"
+                ],
+                "answer": "(c)"
+        },
+        {
+                "direction": "In the following items, some parts of the sentence have been jumbled up. You are required to re-arrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence and mark in your Answer Sheet accordingly.",
+                "question": "<u>no conclusive evidence</u> (P) <u>the enquiry committee found</u> (Q) <u>to the airplane</u> (R) <u>of a thermal shock</u> (S)",
+                "options": [
+                        "R Q P S",
+                        "Q P S R",
+                        "R P S Q",
+                        "R P Q S"
+                ],
+                "answer": "Q P S R"
+        },
+        {
+                "direction": "In the following items, some parts of the sentence have been jumbled up. You are required to re-arrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence and mark in your Answer Sheet accordingly.",
+                "question": "<u>For thirty years</u> <u>with slave-like docility</u> (P) <u>of her tribe</u> (Q) <u>his wife had submitted to his persecution</u> (R) <u>that is the badge</u> (S)",
+                "options": [
+                        "R Q P S",
+                        "P R Q S",
+                        "R P S Q",
+                        "R P Q S"
+                ],
+                "answer": "R P S Q"
+        },
+        {
+                "question": "<u>I came finally</u> (P) <u>and saw an article</u> (Q) <u>to the editorial page</u> (R) <u>dealing with Pandit Nehru</u> (S)",
+                "options": [
+                        "Q R P S",
+                        "P R Q S",
+                        "S Q R P",
+                        "P R S Q"
+                ],
+                "answer": "P R Q S"
+        },
+        {
+                "question": "<u>Although many institutions</u> <u>these can have</u> (P) <u>have tried to organise</u> (Q) <u>remedial programmes for the weaker students,</u> (R) <u>only a peripheral impact</u> (S)",
+                "options": [
+                        "P Q R S",
+                        "Q R P S",
+                        "S R P Q",
+                        "P R Q S"
+                ],
+                "answer": "Q R P S"
+        },
+        {
+                "question": "<u>Our society to-day</u> <u>that people have lost their frankness</u> (P) <u>is so fragmented</u> (Q) <u>and the art of conversation</u> (R) <u>seems to be disappearing fast</u> (S)",
+                "options": [
+                        "Q P R S",
+                        "P Q S R",
+                        "Q S P R",
+                        "R S P Q"
+                ],
+                "answer": "Q P R S"
+        },
+        {
+                "question": "<u>Even today</u> <u>many superstitions exist</u> (P) <u>by a great many people</u> (Q) <u>and are believed in</u> (R) <u>among the most civilized nations</u> (S)",
+                "options": [
+                        "S P R Q",
+                        "P S Q R",
+                        "S Q P R",
+                        "Q P R S"
+                ],
+                "answer": "S P R Q"
+        },
+        {
+                "question": "<u>The eyes of seeing persons</u> <u>to the routine of their surroundings</u> (P) <u>and they actually see</u> (Q) <u>soon become accustomed</u> (R) <u>only the startling and spectacular</u> (S)",
+                "options": [
+                        "P Q S R",
+                        "P R S Q",
+                        "R P Q S",
+                        "Q P S R"
+                ],
+                "answer": "R P Q S"
+        },
+        {
+                "question": "<u>Though he was a man</u> <u>when there was no choice</u> (P) <u>who held all life sacred,</u> (Q) <u>he did not hesitate to kill</u> (R) <u>and loved all forms of life</u> (S)",
+                "options": [
+                        "R P Q S",
+                        "P S Q R",
+                        "Q S R P",
+                        "S Q P R"
+                ],
+                "answer": "Q S R P"
+        },
+        {
+                "question": "<u>For a moment</u> <u>that I am terribly old</u> (P) <u>since I was a child</u> (Q) <u>and that it is a very long time ago</u> (R) <u>I forget,</u> (S)",
+                "options": [
+                        "Q P R S",
+                        "P S R Q",
+                        "R P Q S",
+                        "S P R Q"
+                ],
+                "answer": "S P R Q"
+        },
+        {
+                "question": "<u>from behind a curtain</u> (P) <u>he held it in such a manner</u> (Q) <u>bringing the light</u> (R) <u>that it fell slantwise on her face.</u> (S)",
+                "options": [
+                        "S Q R P",
+                        "R P Q S",
+                        "S P Q R",
+                        "S R P Q"
+                ],
+                "answer": "R P Q S"
+        },
+        {
+                "question": "<u>The man</u> <u>had been a sportsman</u> (P) <u>and received many prizes</u> (Q) <u>throughout his educational career</u> (R) <u>and medals in competitions.</u> (S)",
+                "options": [
+                        "P Q R S",
+                        "Q P R S",
+                        "S P Q R",
+                        "P R Q S"
+                ],
+                "answer": "P R Q S"
+        },
+        {
+                "question": "<u>He was passing</u> <u>when he heard</u> (P) <u>by a hut</u> (Q) <u>the cries of a child</u> (R) <u>and went in.</u> (S)",
+                "options": [
+                        "P Q R S",
+                        "Q P R S",
+                        "P R Q S",
+                        "S P Q R"
+                ],
+                "answer": "Q P R S"
+        },
+        {
+                "question": "<u>Only if we worked hard</u> (P) <u>the teacher warned us</u> (Q) <u>that we would pass the test</u> (R) <u>for at least eight hours a day</u> (S)",
+                "options": [
+                        "Q R P S",
+                        "Q P R S",
+                        "P S R Q",
+                        "S Q P R"
+                ],
+                "answer": "Q R P S"
+        },
+        {
+                "question": "<u>There is</u> <u>among the great powers</u> (P) <u>no agreement</u> (Q) <u>to ban nuclear weapons</u> (R) <u>on a treaty</u> (S)",
+                "options": [
+                        "R S Q P",
+                        "S R P Q",
+                        "Q P S R",
+                        "R P Q S"
+                ],
+                "answer": "Q P S R"
+        },
+        {
+                "question": "<u>According to one theory</u> <u>have descended from</u> (P) <u>all land animals</u> (Q) <u>organisms of the sea</u> (R) <u>including man</u> (S)",
+                "options": [
+                        "S P Q R",
+                        "Q S P R",
+                        "S Q P R",
+                        "R P Q S"
+                ],
+                "answer": "Q S P R"
+        },
+        {
+                "question": "<u>The judge</u> <u>when he was presented in court</u> (P) <u>sentenced the prisoner to life imprisonment</u> (Q) <u>by the police</u> (R) <u>on a charge of murder</u> (S)",
+                "options": [
+                        "P R S Q",
+                        "S R P Q",
+                        "Q P R S",
+                        "Q R S P"
+                ],
+                "answer": "Q P R S"
+        },
+        {
+                "question": "<u>the problems of working wives are different</u> (P) <u>they have to look after,</u> (Q) <u>from those of housewives because</u> (R) <u>their family as well as their jobs</u> (S)",
+                "options": [
+                        "P S R Q",
+                        "P R Q S",
+                        "Q P R S",
+                        "P R S Q"
+                ],
+                "answer": "P R Q S"
+        },
+        {
+                "question": "<u>as the marketing and distribution of drugs</u> (P) <u>to eradicate the menace of drug addiction</u> (Q) <u>it has become increasingly problematic</u> (R) <u>generates huge illegal profits.</u> (S)",
+                "options": [
+                        "R Q P S",
+                        "P S Q R",
+                        "P R Q S",
+                        "P S R Q"
+                ],
+                "answer": "R Q P S"
+        },
+        {
+                "direction": "In this Section you have Eight short passages. After each passage, you will find several questions based on the passage. First, read a passage, and then answer the questions based on it. You are required to select your answers based on the contents of the passage and opinion of the author only.",
+                "passage": "Popular illusions about birds extend further than the use of the word 'egg-shape' that would suggest that all eggs are alike. For instance, there is the popular idea that owls hoot. Actually, only very few owls hoot and these include the common brown or tawny wood owl. The white barn owl screeches; the little owl has a wailing cry; the long-eared owl barks; and the short-eared owl snorts ! Another mistaken idea is that all ducks 'quack', because the common farmyard duck is a domesticated form of the common wild duck or mallard that quacks. Actually most wild ducks call with whistles.",
+                "question": "The main purpose of this passage is",
+                "options": [
+                        "to describe the life of popular birds.",
+                        "to show our incorrect ideas of bird life.",
+                        "to show our perfect knowledge about birds.",
+                        "to describe the calls of owls and ducks."
+                ],
+                "answer": "to show our incorrect ideas of bird life."
+        },
+        {
+                "passage": "Popular illusions about birds extend further than the use of the word 'egg-shape' that would suggest that all eggs are alike. For instance, there is the popular idea that owls hoot. Actually, only very few owls hoot and these include the common brown or tawny wood owl. The white barn owl screeches; the little owl has a wailing cry; the long-eared owl barks; and the short-eared owl snorts ! Another mistaken idea is that all ducks 'quack', because the common farmyard duck is a domesticated form of the common wild duck or mallard that quacks. Actually most wild ducks call with whistles.",
+                "question": "The impression created by repeating the terms, 'popular' and 'common' are",
+                "options": [
+                        "human beings are closely attached to birds.",
+                        "our ideas about birds are derived from the most common types.",
+                        "owls and ducks are our favourite birds.",
+                        "domesticated birds are our source of information about the bird world."
+                ],
+                "answer": "our ideas about birds are derived from the most common types."
+        },
+        {
+                "passage": "Popular illusions about birds extend further than the use of the word 'egg-shape' that would suggest that all eggs are alike. For instance, there is the popular idea that owls hoot. Actually, only very few owls hoot and these include the common brown or tawny wood owl. The white barn owl screeches; the little owl has a wailing cry; the long-eared owl barks; and the short-eared owl snorts ! Another mistaken idea is that all ducks 'quack', because the common farmyard duck is a domesticated form of the common wild duck or mallard that quacks. Actually most wild ducks call with whistles.",
+                "question": "The common duck is not a separate species but a tamed version of wild variety because it",
+                "options": [
+                        "whistles like most wild ducks.",
+                        "grunts like the tufted duck.",
+                        "has the same call as other ducks.",
+                        "quacks like the mallard."
+                ],
+                "answer": "quacks like the mallard."
+        },
+        {
+                "passage": "\"What is sixteen and three multiplied ?\" asked the teacher. The boy blinked. The teacher persisted, and the boy promptly answered : \"twenty-four\", with, as it seemed to the teacher, a wicked smile on his lips. The boy evidently was trying to fool him and was going contrary on purpose. He had corrected this error repeatedly, and now the boy persisted in saying \"twenty-four\". How could this fellow be made to obtain fifty in the class test and go up by double-promotion to the first form, as his parents fondly hoped ? At the mention of \"twenty-four\" the teacher felt all his blood rushing to his head. He controlled himself, and asked again : \"How Much ?\" as a last chance. When the boy said the same thing obstinately, he felt as if his finger was releasing the trigger : he reached across the table, and delivered a wholesome slap on the youngster's cheek.",
+                "question": "The boy answered the question",
+                "options": [
+                        "with fear and anxiety.",
+                        "with the intention to fail in the class test.",
+                        "to make some fun in the class.",
+                        "when the teacher persisted in asking."
+                ],
+                "answer": "when the teacher persisted in asking."
+        },
+        {
+                "passage": "\"What is sixteen and three multiplied ?\" asked the teacher. The boy blinked. The teacher persisted, and the boy promptly answered : \"twenty-four\", with, as it seemed to the teacher, a wicked smile on his lips. The boy evidently was trying to fool him and was going contrary on purpose. He had corrected this error repeatedly, and now the boy persisted in saying \"twenty-four\". How could this fellow be made to obtain fifty in the class test and go up by double-promotion to the first form, as his parents fondly hoped ? At the mention of \"twenty-four\" the teacher felt all his blood rushing to his head. He controlled himself, and asked again : \"How Much ?\" as a last chance. When the boy said the same thing obstinately, he felt as if his finger was releasing the trigger : he reached across the table, and delivered a wholesome slap on the youngster's cheek.",
+                "question": "The teacher felt blood rushing to his head because",
+                "options": [
+                        "there was an arrogant smile on the boy's lips.",
+                        "he thought the boy was hopelessly dull.",
+                        "he thought the boy made the mistake deliberately.",
+                        "the boy gave a wrong answer to such a simple question."
+                ],
+                "answer": "he thought the boy made the mistake deliberately."
+        },
+        {
+                "passage": "\"What is sixteen and three multiplied ?\" asked the teacher. The boy blinked. The teacher persisted, and the boy promptly answered : \"twenty-four\", with, as it seemed to the teacher, a wicked smile on his lips. The boy evidently was trying to fool him and was going contrary on purpose. He had corrected this error repeatedly, and now the boy persisted in saying \"twenty-four\". How could this fellow be made to obtain fifty in the class test and go up by double-promotion to the first form, as his parents fondly hoped ? At the mention of \"twenty-four\" the teacher felt all his blood rushing to his head. He controlled himself, and asked again : \"How Much ?\" as a last chance. When the boy said the same thing obstinately, he felt as if his finger was releasing the trigger : he reached across the table, and delivered a wholesome slap on the youngster's cheek.",
+                "question": "The teacher controlled his anger because",
+                "options": [
+                        "he remembered the fond hopes of boy's parents.",
+                        "he wanted to give another opportunity to the boy.",
+                        "the boy was too young to pick up mathematics fast.",
+                        "he believed that the boy must be taught the lesson again."
+                ],
+                "answer": "he wanted to give another opportunity to the boy."
+        },
+        {
+                "passage": "I was at the shop early. He was standing behind the counter and as soon as I saw him, I knew that there would be some unpleasantness. Mr. Higson is never at his best unshaven, in slippers and braces and smoking on the empty stomach. The atmosphere of the little shop was heavy with the bitter odour of fresh newspaper print and ink : stacks of crisp newspapers and magazines lay neatly on the counter, and Higson and the boy were making up the daily mend.",
+                "question": "At the shop Mr. Higson appeared in",
+                "options": [
+                        "his joy of smoking.",
+                        "his most slip-shod condition.",
+                        "the most unusual condition.",
+                        "in a strange mood."
+                ],
+                "answer": "his most slip-shod condition."
+        },
+        {
+                "passage": "I was at the shop early. He was standing behind the counter and as soon as I saw him, I knew that there would be some unpleasantness. Mr. Higson is never at his best unshaven, in slippers and braces and smoking on the empty stomach. The atmosphere of the little shop was heavy with the bitter odour of fresh newspaper print and ink : stacks of crisp newspapers and magazines lay neatly on the counter, and Higson and the boy were making up the daily mend.",
+                "question": "The overall atmosphere in the shop was",
+                "options": [
+                        "pleasant, wholesome and welcome.",
+                        "heavy with a lot of goods placed there.",
+                        "with the inactivity of the early morning.",
+                        "congenial and businesslike."
+                ],
+                "answer": "heavy with a lot of goods placed there."
+        },
+        {
+                "passage": "A village must have some trade; and this village has always been full of virility and power. Obscure and happy, its splendid energies had found employment in wresting a livelihood out of the earth, whence had come a certain dignity, and kindliness, and love for other men. Civilization did not relax these energies, but it had diverted them; and all the special qualities, which might have helped to heal the world, had been destroyed. The family affection, the affection for the commune, the sane pastoral virtues - all had perished. No villain had done this thing : it was the work of ladies and gentlemen who were rich and often clever.",
+                "question": "Village life is praised by the author because it",
+                "options": [
+                        "helps villagers to achieve material prosperity.",
+                        "makes men complacent.",
+                        "breeds humane virtues.",
+                        "is free from the din and hurry of city life."
+                ],
+                "answer": "breeds humane virtues."
+        },
+        {
+                "passage": "A village must have some trade; and this village has always been full of virility and power. Obscure and happy, its splendid energies had found employment in wresting a livelihood out of the earth, whence had come a certain dignity, and kindliness, and love for other men. Civilization did not relax these energies, but it had diverted them; and all the special qualities, which might have helped to heal the world, had been destroyed. The family affection, the affection for the commune, the sane pastoral virtues - all had perished. No villain had done this thing : it was the work of ladies and gentlemen who were rich and often clever.",
+                "question": "Civilization mainly destroys",
+                "options": [
+                        "the ability to create employment.",
+                        "family affection and pastoral virtues.",
+                        "medical facilities for the rural people.",
+                        "agricultural trade."
+                ],
+                "answer": "family affection and pastoral virtues."
+        },
+        {
+                "passage": "A village must have some trade; and this village has always been full of virility and power. Obscure and happy, its splendid energies had found employment in wresting a livelihood out of the earth, whence had come a certain dignity, and kindliness, and love for other men. Civilization did not relax these energies, but it had diverted them; and all the special qualities, which might have helped to heal the world, had been destroyed. The family affection, the affection for the commune, the sane pastoral virtues - all had perished. No villain had done this thing : it was the work of ladies and gentlemen who were rich and often clever.",
+                "question": "The tone used by the author in the last sentence of the passage is :",
+                "options": [
+                        "Lamenting",
+                        "Sarcastic",
+                        "Complimentary",
+                        "Ironic"
+                ],
+                "answer": "Ironic"
+        },
+        {
+                "passage": "The art of growing old is one which the passage of time has forced upon my attention. Psychologically there are two dangers to be guarded against in old age. One of these is undue absorption in the past. It does not do to live in memories, in regrets for the good old days. One's thoughts must be directed to the future. This is not always easy; one's past is a gradually increasing weight. The other thing to be avoided is clinging to youth on the hope of sucking vigour from its vitality.",
+                "question": "\"By the art of growing old\", the author means",
+                "options": [
+                        "some special skill by applying which one can grow old.",
+                        "that growing old is like creating a work of art.",
+                        "the acceptance of old age as a fact of life.",
+                        "the refusal on one's part to grow old."
+                ],
+                "answer": "the acceptance of old age as a fact of life."
+        },
+        {
+                "passage": "The art of growing old is one which the passage of time has forced upon my attention. Psychologically there are two dangers to be guarded against in old age. One of these is undue absorption in the past. It does not do to live in memories, in regrets for the good old days. One's thoughts must be directed to the future. This is not always easy; one's past is a gradually increasing weight. The other thing to be avoided is clinging to youth on the hope of sucking vigour from its vitality.",
+                "question": "The passage deals with the process of growing old. What does it describe ?",
+                "options": [
+                        "The decay of the senses in old age",
+                        "The psychological problems of old men",
+                        "The desire in man to grow old",
+                        "An old man's ability to recollect his past"
+                ],
+                "answer": "The psychological problems of old men"
+        },
+        {
+                "passage": "The art of growing old is one which the passage of time has forced upon my attention. Psychologically there are two dangers to be guarded against in old age. One of these is undue absorption in the past. It does not do to live in memories, in regrets for the good old days. One's thoughts must be directed to the future. This is not always easy; one's past is a gradually increasing weight. The other thing to be avoided is clinging to youth on the hope of sucking vigour from its vitality.",
+                "question": "\"It does not do to live in memories\". This statement means that",
+                "options": [
+                        "the past is not contained in memories.",
+                        "the old men are very forgetful.",
+                        "old men often think of the past.",
+                        "thinking of the past does no good to old men."
+                ],
+                "answer": "thinking of the past does no good to old men."
+        },
+        {
+                "passage": "The art of growing old is one which the passage of time has forced upon my attention. Psychologically there are two dangers to be guarded against in old age. One of these is undue absorption in the past. It does not do to live in memories, in regrets for the good old days. One's thoughts must be directed to the future. This is not always easy; one's past is a gradually increasing weight. The other thing to be avoided is clinging to youth on the hope of sucking vigour from its vitality.",
+                "question": "It is difficult for old men to think of the future because",
+                "options": [
+                        "they are unable to think.",
+                        "they do not know what the future is like.",
+                        "the past occupies their minds.",
+                        "their feeling that the past was far more happier than the present grows stronger day by day."
+                ],
+                "answer": "the past occupies their minds."
+        },
+        {
+                "passage": "It was Galileo and Newton - notwithstanding that Newton himself was a deeply religious man - who destroyed the old comfortable picture of a friendly universe governed by spiritual values. And this was effected, not by Newton's discovery of the law of gravitation nor by any of Galileo's brilliant investigations, but by the general picture of the world which these men and others of their time made the basis of the science, not only of their own day, but of all succeeding generations down to the present. That is why the century immediately following Newton, the eighteenth century, was notoriously an age of religious skepticism. Skepticism did not have to wait for the discoveries of Darwin and the geologists in the nineteenth century. It flooded the world immediately after the age of the rise of science.",
+                "question": "'The old comfortable picture of a friendly universe' was :",
+                "options": [
+                        "a universe governed by religious beliefs",
+                        "a universe with men like Newton who were deeply religious",
+                        "a universe investigated by Galileo and Newton",
+                        "the century immediately following Newton"
+                ],
+                "answer": "a universe governed by religious beliefs"
+        },
+        {
+                "passage": "It was Galileo and Newton - notwithstanding that Newton himself was a deeply religious man - who destroyed the old comfortable picture of a friendly universe governed by spiritual values. And this was effected, not by Newton's discovery of the law of gravitation nor by any of Galileo's brilliant investigations, but by the general picture of the world which these men and others of their time made the basis of the science, not only of their own day, but of all succeeding generations down to the present. That is why the century immediately following Newton, the eighteenth century, was notoriously an age of religious skepticism. Skepticism did not have to wait for the discoveries of Darwin and the geologists in the nineteenth century. It flooded the world immediately after the age of the rise of science.",
+                "question": "Religious skepticism arose because :",
+                "options": [
+                        "Galileo and Newton were not religious, being scientists",
+                        "Newton discovered the law of gravitation",
+                        "of the discoveries of Darwin and the geologists of the nineteenth century",
+                        "of the picture of the world that became the basis of science after the seventeenth century"
+                ],
+                "answer": "of the picture of the world that became the basis of science after the seventeenth century"
+        },
+        {
+                "passage": "Although Louis Braille died when he was only forty-three years old, he succeeded in devising a system of reading and writing for the blind which is now taught all over the world. Braille lost his sight accidentally as a child. Nevertheless, he was able to complete his education at a school for the blind in Paris and became a teacher. In his day, the few books that were available for blind people were printed in big, raised type; the letters used were those of the ordinary alphabet. The reading of such books required immense effort. Not only that, writing was almost impossible, for a blind person was still restricted to an alphabet which was extraordinarily difficult to reproduce on paper. Braille's idea was to use raised dots, instead of raised letters. He evolved a system, which made use of only six dots in all. By various combinations of these dots, it not only proved possible to represent each letter in the alphabet, but punctuation marks, numbers and musical notation as well. Reading and writing for the blind have thus become enormously simplified. The sensitive fingers of a blind person can travel rapidly over the dots; and there is a small machine, something like a typewriter, which enables the blind to write quickly and clearly.",
+                "question": "Louis Braille :",
+                "options": [
+                        "was born blind",
+                        "lost his sight when he was a child",
+                        "lost his sight accidentally when he was forty-three years old",
+                        "was not blind, but studied at a school for the blind"
+                ],
+                "answer": "lost his sight when he was a child"
+        },
+        {
+                "passage": "Although Louis Braille died when he was only forty-three years old, he succeeded in devising a system of reading and writing for the blind which is now taught all over the world. Braille lost his sight accidentally as a child. Nevertheless, he was able to complete his education at a school for the blind in Paris and became a teacher. In his day, the few books that were available for blind people were printed in big, raised type; the letters used were those of the ordinary alphabet. The reading of such books required immense effort. Not only that, writing was almost impossible, for a blind person was still restricted to an alphabet which was extraordinarily difficult to reproduce on paper. Braille's idea was to use raised dots, instead of raised letters. He evolved a system, which made use of only six dots in all. By various combinations of these dots, it not only proved possible to represent each letter in the alphabet, but punctuation marks, numbers and musical notation as well. Reading and writing for the blind have thus become enormously simplified. The sensitive fingers of a blind person can travel rapidly over the dots; and there is a small machine, something like a typewriter, which enables the blind to write quickly and clearly.",
+                "question": "Before Braille's invention, the blind had difficulty in reading because :",
+                "options": [
+                        "there were only printed books",
+                        "there were no schools for the blind",
+                        "the few books available used the raised letters of the ordinary alphabet",
+                        "the books meant for the blind were heavy"
+                ],
+                "answer": "the few books available used the raised letters of the ordinary alphabet"
+        },
+        {
+                "passage": "Although Louis Braille died when he was only forty-three years old, he succeeded in devising a system of reading and writing for the blind which is now taught all over the world. Braille lost his sight accidentally as a child. Nevertheless, he was able to complete his education at a school for the blind in Paris and became a teacher. In his day, the few books that were available for blind people were printed in big, raised type; the letters used were those of the ordinary alphabet. The reading of such books required immense effort. Not only that, writing was almost impossible, for a blind person was still restricted to an alphabet which was extraordinarily difficult to reproduce on paper. Braille's idea was to use raised dots, instead of raised letters. He evolved a system, which made use of only six dots in all. By various combinations of these dots, it not only proved possible to represent each letter in the alphabet, but punctuation marks, numbers and musical notation as well. Reading and writing for the blind have thus become enormously simplified. The sensitive fingers of a blind person can travel rapidly over the dots; and there is a small machine, something like a typewriter, which enables the blind to write quickly and clearly.",
+                "question": "Braille's system uses :",
+                "options": [
+                        "only six dots",
+                        "numbers and musical notation",
+                        "ordinary alphabets in big raised type",
+                        "a combination of alphabet and punctuation"
+                ],
+                "answer": "only six dots"
+        },
+        {
+                "passage": "Although Louis Braille died when he was only forty-three years old, he succeeded in devising a system of reading and writing for the blind which is now taught all over the world. Braille lost his sight accidentally as a child. Nevertheless, he was able to complete his education at a school for the blind in Paris and became a teacher. In his day, the few books that were available for blind people were printed in big, raised type; the letters used were those of the ordinary alphabet. The reading of such books required immense effort. Not only that, writing was almost impossible, for a blind person was still restricted to an alphabet which was extraordinarily difficult to reproduce on paper. Braille's idea was to use raised dots, instead of raised letters. He evolved a system, which made use of only six dots in all. By various combinations of these dots, it not only proved possible to represent each letter in the alphabet, but punctuation marks, numbers and musical notation as well. Reading and writing for the blind have thus become enormously simplified. The sensitive fingers of a blind person can travel rapidly over the dots; and there is a small machine, something like a typewriter, which enables the blind to write quickly and clearly.",
+                "question": "Braille's system allows the blind",
+                "options": [
+                        "to write with ease",
+                        "to read easily",
+                        "to read as well as write with ease",
+                        "to read easily but to write with great effort"
+                ],
+                "answer": "to read as well as write with ease"
+        },
+        {
+                "passage": "The Indian culture of our times is in the making. Many of us are striving to produce a blend of all cultures that seem today to be in clash with one another. No culture can live, if it attempts to be exclusive. There is no such thing as pure Aryan culture in existence in India today. Whether the Aryans were indigenous to India or were unwelcome intruders, does not interest me much. What does interest me is the fact that my remote ancestors blended with one another with the utmost freedom and we of the present generation are a result of that blend.\nI do not want my house to be walled in, on all sides and my windows to be stuffed. I want the cultures of all lands to be blown about my house as freely as possible. But I refuse to be blown off my feet by any. I would have any young men and women with literary tastes to learn as much of English and other world-languages as they like, and then expect them to give the benefits of their learning to India and the world alike like a Bose, a Ray or Tagore. But I would not have a single Indian forget, neglect or be ashamed of his mother tongue, or feel that he or she cannot think or express the best thoughts in his or her own vernacular. Mine is not a religion of the prison house.",
+                "question": "The author views Indian Culture as :",
+                "options": [
+                        "pure Aryan culture",
+                        "a clash of cultures",
+                        "a continual blend of cultures",
+                        "the culture of remote ancestors."
+                ],
+                "answer": "a continual blend of cultures"
+        },
+        {
+                "passage": "The Indian culture of our times is in the making. Many of us are striving to produce a blend of all cultures that seem today to be in clash with one another. No culture can live, if it attempts to be exclusive. There is no such thing as pure Aryan culture in existence in India today. Whether the Aryans were indigenous to India or were unwelcome intruders, does not interest me much. What does interest me is the fact that my remote ancestors blended with one another with the utmost freedom and we of the present generation are a result of that blend.\nI do not want my house to be walled in, on all sides and my windows to be stuffed. I want the cultures of all lands to be blown about my house as freely as possible. But I refuse to be blown off my feet by any. I would have any young men and women with literary tastes to learn as much of English and other world-languages as they like, and then expect them to give the benefits of their learning to India and the world alike like a Bose, a Ray or Tagore. But I would not have a single Indian forget, neglect or be ashamed of his mother tongue, or feel that he or she cannot think or express the best thoughts in his or her own vernacular. Mine is not a religion of the prison house.",
+                "question": "The author thinks that :",
+                "options": [
+                        "the Aryans were indigenous to India",
+                        "the Aryans were unwelcome intruders",
+                        "the question whether the Aryans were indigenous or not is not of interest",
+                        "the culture that we have inherited is the Aryan culture."
+                ],
+                "answer": "the question whether the Aryans were indigenous or not is not of interest"
+        },
+        {
+                "passage": "The Indian culture of our times is in the making. Many of us are striving to produce a blend of all cultures that seem today to be in clash with one another. No culture can live, if it attempts to be exclusive. There is no such thing as pure Aryan culture in existence in India today. Whether the Aryans were indigenous to India or were unwelcome intruders, does not interest me much. What does interest me is the fact that my remote ancestors blended with one another with the utmost freedom and we of the present generation are a result of that blend.\nI do not want my house to be walled in, on all sides and my windows to be stuffed. I want the cultures of all lands to be blown about my house as freely as possible. But I refuse to be blown off my feet by any. I would have any young men and women with literary tastes to learn as much of English and other world-languages as they like, and then expect them to give the benefits of their learning to India and the world alike like a Bose, a Ray or Tagore. But I would not have a single Indian forget, neglect or be ashamed of his mother tongue, or feel that he or she cannot think or express the best thoughts in his or her own vernacular. Mine is not a religion of the prison house.",
+                "question": "The author wants :",
+                "options": [
+                        "the cultures of others to be kept out",
+                        "the cultures of others to replace our old culture",
+                        "the freedom to blend other cultures with our own",
+                        "the preservation of the culture of our ancestors."
+                ],
+                "answer": "the freedom to blend other cultures with our own"
+        },
+        {
+                "passage": "The Indian culture of our times is in the making. Many of us are striving to produce a blend of all cultures that seem today to be in clash with one another. No culture can live, if it attempts to be exclusive. There is no such thing as pure Aryan culture in existence in India today. Whether the Aryans were indigenous to India or were unwelcome intruders, does not interest me much. What does interest me is the fact that my remote ancestors blended with one another with the utmost freedom and we of the present generation are a result of that blend.\nI do not want my house to be walled in, on all sides and my windows to be stuffed. I want the cultures of all lands to be blown about my house as freely as possible. But I refuse to be blown off my feet by any. I would have any young men and women with literary tastes to learn as much of English and other world-languages as they like, and then expect them to give the benefits of their learning to India and the world alike like a Bose, a Ray or Tagore. But I would not have a single Indian forget, neglect or be ashamed of his mother tongue, or feel that he or she cannot think or express the best thoughts in his or her own vernacular. Mine is not a religion of the prison house.",
+                "question": "The author wants Indians to :",
+                "options": [
+                        "learn only English, as much as they like",
+                        "learn English and other world languages",
+                        "learn only the mother tongue or the vernacular",
+                        "learn English and other world languages in addition to the mother tongue."
+                ],
+                "answer": "learn English and other world languages in addition to the mother tongue."
+        },
+        {
+                "direction": "Each of the following 20 items consists of a word in capital letters, followed by four words. Select the word that is farthest in meaning to the word in capital letters.",
+                "question": "ESTEEM",
+                "options": [
+                        "Power",
+                        "Guess",
+                        "Contempt",
+                        "Estimate"
+                ],
+                "answer": "Contempt"
+        },
+        {
+                "question": "SPURIOUS",
+                "options": [
+                        "Sumptuous",
+                        "Relevant",
+                        "Sporadic",
+                        "Genuine"
+                ],
+                "answer": "Genuine"
+        },
+        {
+                "question": "CONVICTED",
+                "options": [
+                        "Charged",
+                        "Relieved",
+                        "Dismissed",
+                        "Acquitted"
+                ],
+                "answer": "Acquitted"
+        },
+        {
+                "question": "INTIMIDATING",
+                "options": [
+                        "Authoritative",
+                        "Casual",
+                        "Non-serious",
+                        "Friendly"
+                ],
+                "answer": "Friendly"
+        },
+        {
+                "question": "FRUGAL",
+                "options": [
+                        "Stingy",
+                        "Extravagant",
+                        "Timid",
+                        "Frightening"
+                ],
+                "answer": "Extravagant"
+        },
+        {
+                "question": "ZENITH",
+                "options": [
+                        "Under",
+                        "Nadir",
+                        "Root",
+                        "Base"
+                ],
+                "answer": "Nadir"
+        },
+        {
+                "question": "LUCRATIVE",
+                "options": [
+                        "Advantageous",
+                        "Economical",
+                        "Unprofitable",
+                        "Gainful"
+                ],
+                "answer": "Unprofitable"
+        },
+        {
+                "question": "UNPRECEDENTED",
+                "options": [
+                        "Exceptional",
+                        "Consistent",
+                        "Abnormal",
+                        "Usual"
+                ],
+                "answer": "Usual"
+        },
+        {
+                "question": "PENURY",
+                "options": [
+                        "Wealth",
+                        "Abundance",
+                        "Prosperity",
+                        "Surplus"
+                ],
+                "answer": "Wealth"
+        },
+        {
+                "question": "PRUDENCE",
+                "options": [
+                        "Absurdity",
+                        "Desperation",
+                        "Detriment",
+                        "Recklessness"
+                ],
+                "answer": "Recklessness"
+        },
+        {
+                "question": "OBSCURE",
+                "options": [
+                        "Clear",
+                        "Dogged",
+                        "Decent",
+                        "Sensible"
+                ],
+                "answer": "Clear"
+        },
+        {
+                "question": "REPELLENT",
+                "options": [
+                        "Troublesome",
+                        "Attractive",
+                        "Tiring",
+                        "Hostile"
+                ],
+                "answer": "Attractive"
+        },
+        {
+                "question": "DEFUSE",
+                "options": [
+                        "Control",
+                        "Understand",
+                        "Aggravate",
+                        "Decelerate"
+                ],
+                "answer": "Aggravate"
+        },
+        {
+                "question": "BAFFLING",
+                "options": [
+                        "Simple",
+                        "Puzzling",
+                        "Difficult",
+                        "Worrying"
+                ],
+                "answer": "Simple"
+        },
+        {
+                "question": "AMIABLE",
+                "options": [
+                        "Unkind",
+                        "Inhospitable",
+                        "Unapproachable",
+                        "Unfriendly"
+                ],
+                "answer": "Unfriendly"
+        },
+        {
+                "question": "INGENIOUS",
+                "options": [
+                        "Uneducated",
+                        "Uninventive",
+                        "Unintelligent",
+                        "Untrained"
+                ],
+                "answer": "Uninventive"
+        },
+        {
+                "question": "PLAUSIBLE",
+                "options": [
+                        "Unacceptable",
+                        "Incredible",
+                        "Unlikely",
+                        "Untrue"
+                ],
+                "answer": "Unlikely"
+        },
+        {
+                "question": "GENEROUS",
+                "options": [
+                        "Cruel",
+                        "Stupid",
+                        "Ignorant",
+                        "Mean"
+                ],
+                "answer": "Mean"
+        },
+        {
+                "question": "SLUGGISH",
+                "options": [
+                        "Aggressive",
+                        "Optimistic",
+                        "Vigorous",
+                        "Budding"
+                ],
+                "answer": "Vigorous"
+        },
+        {
+                "question": "RUTHLESS",
+                "options": [
+                        "Kind",
+                        "Soft",
+                        "Forgetful",
+                        "Tender"
+                ],
+                "answer": "Kind"
         }
 ]
 };
